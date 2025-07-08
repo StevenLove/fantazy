@@ -1,0 +1,1 @@
+- always remove test files after they are no longer useful.

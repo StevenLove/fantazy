@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fantasy Football Player Stats</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .player-selector {
+            margin: 20px 0;
+            text-align: center;
+        }
+        select {
+            font-size: 16px;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            width: 300px;
+        }
+        .player-info {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+            display: none;
+        }
+        .player-info h2 {
+            margin: 0 0 10px 0;
+            color: #444;
+        }
+        .player-details {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .detail-item {
+            padding: 10px;
+            background-color: white;
+            border-radius: 5px;
+            border: 1px solid #eee;
+        }
+        .detail-item label {
+            font-weight: bold;
+            color: #666;
+            display: block;
+            font-size: 12px;
+            margin-bottom: 5px;
+        }
+        .detail-item span {
+            font-size: 16px;
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+            position: sticky;
+            top: 0;
+        }
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+        .stats-table {
+            max-height: 500px;
+            overflow-y: auto;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .win {
+            color: #28a745;
+            font-weight: bold;
+        }
+        .loss {
+            color: #dc3545;
+            font-weight: bold;
+        }
+        .chart-container {
+            margin: 30px 0;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            height: 480px;
+            position: relative;
+        }
+        .chart-container h3 {
+            margin: 0 0 20px 0;
+            color: #444;
+        }
+        .chart-wrapper {
+            position: relative;
+            height: 400px;
+            width: 100%;
+        }
+        #yardsChart {
+            position: absolute !important;
+            height: 400px !important;
+            width: 100% !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Fantasy Football Player Stats</h1>
+        
+        <div class="player-selector">
+            <select id="playerSelect">
+                <option value="">Select a player...</option>
+            </select>
+        </div>
+        
+        <div id="playerInfo" class="player-info">
+            <h2 id="playerName"></h2>
+            <div class="player-details">
+                <div class="detail-item">
+                    <label>Position</label>
+                    <span id="playerPosition"></span>
+                </div>
+                <div class="detail-item">
+                    <label>Team</label>
+                    <span id="playerTeam"></span>
+                </div>
+            </div>
+            
+            <div class="chart-container">
+                <h3>Passing Yards vs Prop Line</h3>
+                <div class="chart-wrapper">
+                    <canvas id="yardsChart"></canvas>
+                </div>
+            </div>
+            
+            <div class="stats-table">
+                <table id="statsTable">
+                    <thead>
+                        <tr id="tableHeaders">
+                            <!-- Headers will be populated dynamically -->
+                        </tr>
+                    </thead>
+                    <tbody id="statsBody">
+                        <!-- Stats will be populated here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let leagueData = null;
+        let yardsChart = null;
+        
+        // Load the JSON data
+        fetch('my_league_data.json')
+            .then(response => response.json())
+            .then(data => {
+                leagueData = data;
+                populatePlayerDropdown();
+            })
+            .catch(error => console.error('Error loading data:', error));
+        
+        function populatePlayerDropdown() {
+            const select = document.getElementById('playerSelect');
+            leagueData.players.forEach((player, index) => {
+                const option = document.createElement('option');
+                option.value = index;
+                option.textContent = `${player.name} (${player.position})`;
+                select.appendChild(option);
+            });
+        }
+        
+        document.getElementById('playerSelect').addEventListener('change', function() {
+            const selectedIndex = this.value;
+            if (selectedIndex === '') {
+                document.getElementById('playerInfo').style.display = 'none';
+                return;
+            }
+            
+            const player = leagueData.players[selectedIndex];
+            displayPlayerStats(player);
+        });
+        
+        function displayPlayerStats(player) {
+            document.getElementById('playerInfo').style.display = 'block';
+            document.getElementById('playerName').textContent = player.name;
+            document.getElementById('playerPosition').textContent = player.position;
+            document.getElementById('playerTeam').textContent = player.team || 'N/A';
+            
+            // Create the chart
+            createYardsChart(player);
+            
+            // Clear existing table
+            const headersRow = document.getElementById('tableHeaders');
+            const statsBody = document.getElementById('statsBody');
+            headersRow.innerHTML = '';
+            statsBody.innerHTML = '';
+            
+            if (player.game_log && player.game_log.length > 0) {
+                // Get all unique keys from game logs
+                const allKeys = new Set();
+                player.game_log.forEach(game => {
+                    Object.keys(game).forEach(key => allKeys.add(key));
+                });
+                
+                // Create headers
+                allKeys.forEach(key => {
+                    if (key !== '') { // Skip empty key
+                        const th = document.createElement('th');
+                        th.textContent = key;
+                        headersRow.appendChild(th);
+                    }
+                });
+                
+                // Populate rows
+                player.game_log.forEach(game => {
+                    const row = document.createElement('tr');
+                    
+                    allKeys.forEach(key => {
+                        if (key !== '') { // Skip empty key
+                            const td = document.createElement('td');
+                            const value = game[key] !== undefined ? game[key] : '-';
+                            
+                            // Apply styling for win/loss
+                            if (key === 'Score' && typeof value === 'string') {
+                                if (value.startsWith('W')) {
+                                    td.innerHTML = `<span class="win">${value}</span>`;
+                                } else if (value.startsWith('L')) {
+                                    td.innerHTML = `<span class="loss">${value}</span>`;
+                                } else {
+                                    td.textContent = value;
+                                }
+                            } else {
+                                td.textContent = value;
+                            }
+                            
+                            row.appendChild(td);
+                        }
+                    });
+                    
+                    statsBody.appendChild(row);
+                });
+            } else {
+                const row = document.createElement('tr');
+                const td = document.createElement('td');
+                td.textContent = 'No game data available';
+                td.colSpan = 1;
+                row.appendChild(td);
+                statsBody.appendChild(row);
+            }
+        }
+        
+        function createYardsChart(player) {
+            const ctx = document.getElementById('yardsChart').getContext('2d');
+            
+            // Destroy existing chart if it exists
+            if (yardsChart) {
+                yardsChart.destroy();
+            }
+            
+            // Get all weeks from game log
+            const gameData = player.game_log.filter(game => game['PASS YDS'] !== undefined);
+            
+            // Find min and max week
+            const weekNumbers = gameData.map(game => game.Week);
+            const minWeek = Math.min(...weekNumbers);
+            const maxWeek = Math.max(...weekNumbers);
+            
+            // Create complete week range
+            const allWeeks = [];
+            const yards = [];
+            const propLines = [];
+            const barColors = [];
+            
+            for (let week = minWeek; week <= maxWeek; week++) {
+                allWeeks.push(`Week ${week}`);
+                
+                // Find game for this week
+                const gameForWeek = gameData.find(game => game.Week === week);
+                
+                if (gameForWeek) {
+                    const yardValue = gameForWeek['PASS YDS'];
+                    const propValue = gameForWeek['Prop Line'];
+                    yards.push(yardValue);
+                    propLines.push(propValue);
+                    barColors.push(yardValue > propValue ? '#28a745' : '#dc3545');
+                } else {
+                    // Bye week - use null
+                    yards.push(null);
+                    propLines.push(null);
+                    barColors.push(null);
+                }
+            }
+            
+            // Arrays are already in chronological order (minWeek to maxWeek)
+            
+            yardsChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: allWeeks,
+                    datasets: [
+                        {
+                            label: 'Passing Yards',
+                            data: yards,
+                            backgroundColor: barColors,
+                            borderColor: barColors,
+                            borderWidth: 1,
+                            order: 2
+                        },
+                        {
+                            label: 'Prop Line',
+                            data: propLines,
+                            type: 'line',
+                            borderColor: '#333',
+                            backgroundColor: 'transparent',
+                            borderWidth: 3,
+                            pointRadius: 6,
+                            pointBackgroundColor: '#333',
+                            pointBorderColor: '#fff',
+                            pointBorderWidth: 2,
+                            tension: 0.1,
+                            order: 1,
+                            spanGaps: false
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Week'
+                            }
+                        },
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Yards'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: true,
+                            position: 'top'
+                        },
+                        tooltip: {
+                            callbacks: {
+                                afterLabel: function(context) {
+                                    if (context.datasetIndex === 0 && context.parsed.y !== null) {
+                                        const propLine = propLines[context.dataIndex];
+                                        if (propLine !== null) {
+                                            const diff = context.parsed.y - propLine;
+                                            const sign = diff > 0 ? '+' : '';
+                                            return `Prop: ${propLine} (${sign}${diff})`;
+                                        }
+                                    }
+                                    return '';
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>

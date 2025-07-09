@@ -25,6 +25,11 @@ pip install -r requirements.txt
 
 ## Usage
 
+### Visualize
+
+`python3 -m http.server 8000`
+go to localhost:8000/player_stats.html
+
 ### Quick Demo
 
 Run with demo players (8 popular fantasy players):

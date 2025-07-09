@@ -50,34 +50,26 @@ class EfficientBettingProsScraper:
             print(f"  Loading {url}...")
             self.driver.get(url)
             
-            # Wait for table content to load (5 seconds as mentioned)
-            print("  Waiting for content to load...")
-            time.sleep(5)
-            
-            # Find all tables
-            tables = self.driver.find_elements(By.TAG_NAME, "table")
-            print(f"  Found {len(tables)} tables")
-            
-            # Look for the game log table
-            game_table = None
-            for table in tables:
-                try:
-                    headers = table.find_elements(By.CSS_SELECTOR, "thead th")
-                    if headers:
-                        header_texts = [h.text.strip() for h in headers]
-                        if any(h in header_texts for h in ['Week', 'WK', 'Matchup', 'Score']):
-                            game_table = table
-                            print(f"  Found game log table")
-                            break
-                except:
-                    continue
-            
-            if not game_table and tables:
-                game_table = tables[-1]  # Use last table as fallback
-                print(f"  Using last table on page")
-            
-            if not game_table:
-                print(f"  No table found")
+            # Wait for game log table to appear
+            print("  Waiting for game log table...")
+            try:
+                # Wait up to 20 seconds for the player game log card
+                game_log_card = self.wait.until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, ".player-game-log-card"))
+                )
+                
+                # Wait a bit for the table to populate
+                time.sleep(1)
+                
+                # Find the table within the card
+                game_table = game_log_card.find_element(By.TAG_NAME, "table")
+                print(f"  Found game log table")
+                
+            except TimeoutException:
+                print(f"  Game log card not found after 20 seconds")
+                return None
+            except NoSuchElementException:
+                print(f"  No table found within game log card")
                 return None
             
             # Extract headers

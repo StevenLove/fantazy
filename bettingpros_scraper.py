@@ -25,7 +25,9 @@ class EfficientBettingProsScraper:
         chrome_options.add_experimental_option('useAutomationExtension', False)
         chrome_options.add_argument('--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
         
-        self.driver = webdriver.Chrome(options=chrome_options)
+        from selenium.webdriver.chrome.service import Service
+        service = Service('/usr/bin/chromedriver')
+        self.driver = webdriver.Chrome(service=service, options=chrome_options)
         self.wait = WebDriverWait(self.driver, 20)
     
     def __del__(self):
@@ -49,6 +51,43 @@ class EfficientBettingProsScraper:
         try:
             print(f"  Loading {url}...")
             self.driver.get(url)
+            
+            # Try to extract team information from the page
+            team = ""
+            try:
+                # Wait for page content to load
+                time.sleep(2)
+                
+                # Try to find team info in the page source using broader search
+                page_source = self.driver.page_source
+                
+                # Look for common team abbreviations in the page source
+                import re
+                nfl_teams = ['ARI', 'ATL', 'BAL', 'BUF', 'CAR', 'CHI', 'CIN', 'CLE', 'DAL', 'DEN', 
+                            'DET', 'GB', 'HOU', 'IND', 'JAX', 'KC', 'LAC', 'LAR', 'LV', 'MIA', 
+                            'MIN', 'NE', 'NO', 'NYG', 'NYJ', 'PHI', 'PIT', 'SEA', 'SF', 'TB', 'TEN', 'WSH']
+                
+                # Try to find team in various contexts
+                for nfl_team in nfl_teams:
+                    # Look for team abbreviation in various patterns
+                    patterns = [
+                        rf'{nfl_team}\b',  # Team abbreviation as word boundary
+                        rf'team.*{nfl_team}',  # "team" followed by abbreviation
+                        rf'{nfl_team}.*player',  # abbreviation followed by "player"
+                    ]
+                    
+                    for pattern in patterns:
+                        if re.search(pattern, page_source, re.IGNORECASE):
+                            team = nfl_team
+                            break
+                    
+                    if team:
+                        break
+                
+                print(f"  Found team: {team}")
+                
+            except Exception as e:
+                print(f"  Could not extract team: {e}")
             
             # Wait for game log table to appear
             print("  Waiting for game log table...")
@@ -141,7 +180,8 @@ class EfficientBettingProsScraper:
                 'averages': averages,
                 'total_games': len(games),
                 'headers': headers,
-                'url': url
+                'url': url,
+                'team': team
             }
             
         except Exception as e:
@@ -168,7 +208,7 @@ class EfficientBettingProsScraper:
                     'name': player['name'],
                     'slug': player['slug'],
                     'position': player['position'],
-                    'team': player.get('team', ''),
+                    'team': game_log_data.get('team', player.get('team', '')),
                     'game_log': game_log_data['games'],
                     'season_averages': game_log_data['averages'],
                     'total_games': game_log_data['total_games'],

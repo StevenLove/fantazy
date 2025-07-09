@@ -282,11 +282,59 @@
                 yardsChart.destroy();
             }
             
+            // Determine which stat column to use based on position
+            let yardColumn, chartTitle;
+            switch (player.position) {
+                case 'QB':
+                    yardColumn = 'PASS YDS';
+                    chartTitle = 'Passing Yards vs Prop Line';
+                    break;
+                case 'RB':
+                    yardColumn = 'Rush YDS';
+                    chartTitle = 'Rushing Yards vs Prop Line';
+                    break;
+                case 'WR':
+                case 'TE':
+                    yardColumn = 'REC YDS';
+                    chartTitle = 'Receiving Yards vs Prop Line';
+                    break;
+                default:
+                    yardColumn = 'PASS YDS'; // fallback
+                    chartTitle = 'Yards vs Prop Line';
+            }
+            
+            // Update chart title in the DOM
+            document.querySelector('.chart-container h3').textContent = chartTitle;
+            
             // Get all weeks from game log
-            const gameData = player.game_log.filter(game => game['PASS YDS'] !== undefined);
+            const gameData = player.game_log.filter(game => game[yardColumn] !== undefined);
+            
+            // Convert week values to numbers, handling special cases
+            const gameDataWithNumericWeeks = gameData.map(game => {
+                let weekNum = game.Week;
+                if (typeof weekNum === 'string') {
+                    // Handle playoff weeks
+                    if (weekNum === 'WC') weekNum = 19;      // Wild Card
+                    else if (weekNum === 'DR') weekNum = 20; // Divisional Round
+                    else if (weekNum === 'CC') weekNum = 21; // Conference Championship
+                    else if (weekNum === 'SB') weekNum = 22; // Super Bowl
+                    else weekNum = parseInt(weekNum);
+                }
+                return { ...game, WeekNum: weekNum };
+            });
             
             // Find min and max week
-            const weekNumbers = gameData.map(game => game.Week);
+            const weekNumbers = gameDataWithNumericWeeks.map(game => game.WeekNum).filter(week => !isNaN(week));
+            if (weekNumbers.length === 0) {
+                // No valid weeks, show empty chart
+                yardsChart = new Chart(ctx, {
+                    type: 'bar',
+                    data: { labels: [], datasets: [] },
+                    options: { responsive: true, maintainAspectRatio: false }
+                });
+                return;
+            }
+            
             const minWeek = Math.min(...weekNumbers);
             const maxWeek = Math.max(...weekNumbers);
             
@@ -297,13 +345,20 @@
             const barColors = [];
             
             for (let week = minWeek; week <= maxWeek; week++) {
-                allWeeks.push(`Week ${week}`);
+                // Create label for this week
+                let weekLabel = `Week ${week}`;
+                if (week === 19) weekLabel = 'Wild Card';
+                else if (week === 20) weekLabel = 'Divisional';
+                else if (week === 21) weekLabel = 'Conf. Championship';
+                else if (week === 22) weekLabel = 'Super Bowl';
+                
+                allWeeks.push(weekLabel);
                 
                 // Find game for this week
-                const gameForWeek = gameData.find(game => game.Week === week);
+                const gameForWeek = gameDataWithNumericWeeks.find(game => game.WeekNum === week);
                 
                 if (gameForWeek) {
-                    const yardValue = gameForWeek['PASS YDS'];
+                    const yardValue = gameForWeek[yardColumn];
                     const propValue = gameForWeek['Prop Line'];
                     yards.push(yardValue);
                     propLines.push(propValue);
@@ -324,7 +379,7 @@
                     labels: allWeeks,
                     datasets: [
                         {
-                            label: 'Passing Yards',
+                            label: chartTitle.split(' vs ')[0], // Extract just the yards part
                             data: yards,
                             backgroundColor: barColors,
                             borderColor: barColors,

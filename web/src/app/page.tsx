@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { Player, LeagueData } from '@/types/player'
 import PositionSidebar from '@/components/PositionSidebar'
 import PlayerListSidebar from '@/components/PlayerListSidebar'
@@ -8,15 +8,18 @@ import PlayerCard from '@/components/PlayerCard'
 
 export default function Home() {
   const [leagueData, setLeagueData] = useState<LeagueData | null>(null)
+  const [teamData, setTeamData] = useState<LeagueData | null>(null)
   const [selectedPlayers, setSelectedPlayers] = useState<Player[]>([])
   const [selectedPosition, setSelectedPosition] = useState<string | null>('ALL')
   const [activeTab, setActiveTab] = useState<'chart' | 'table'>('chart')
   const [gameFilter, setGameFilter] = useState<'L3' | 'L5' | 'L10' | 'SEASON'>('SEASON')
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+  const [animatingPlayers, setAnimatingPlayers] = useState<string[]>([])
 
   useEffect(() => {
     loadLeagueData()
+    loadTeamData()
   }, [])
 
   const loadLeagueData = async () => {
@@ -34,24 +37,49 @@ export default function Home() {
     }
   }
 
+  const loadTeamData = async () => {
+    try {
+      const response = await fetch('/my_team.json')
+      if (!response.ok) {
+        throw new Error('Failed to load team data')
+      }
+      const data: LeagueData = await response.json()
+      console.log('Team data loaded:', data.players?.length, 'players')
+      setTeamData(data)
+    } catch (err) {
+      console.error('Failed to load team data:', err)
+    }
+  }
+
   const handlePositionSelect = (position: string) => {
     setSelectedPosition(position)
   }
 
   const handlePlayerSelect = (player: Player) => {
-    // Check if player is already selected
+    // Check if player is already selected - if so, remove them
     if (selectedPlayers.some(p => p.name === player.name)) {
-      return // Player already selected, do nothing
+      setSelectedPlayers(prev => prev.filter(p => p.name !== player.name))
+      return
     }
     
     // Add player if we have less than 4 selected
     if (selectedPlayers.length < 4) {
+      setAnimatingPlayers(prev => [...prev, player.name])
       setSelectedPlayers(prev => [...prev, player])
+      
+      // Remove from animating after animation completes
+      setTimeout(() => {
+        setAnimatingPlayers(prev => prev.filter(name => name !== player.name))
+      }, 300)
     }
   }
 
   const handlePlayerRemove = (playerName: string) => {
     setSelectedPlayers(prev => prev.filter(p => p.name !== playerName))
+  }
+
+  const handleClearAll = () => {
+    setSelectedPlayers([])
   }
 
   if (loading) {
@@ -80,16 +108,17 @@ export default function Home() {
 
       {/* Player List Sidebar */}
       <PlayerListSidebar 
-        players={leagueData?.players || []}
+        players={selectedPosition === 'MY_TEAM' ? (teamData?.players || []) : (leagueData?.players || [])}
         selectedPlayers={selectedPlayers}
         onPlayerSelect={handlePlayerSelect}
+        onClearAll={handleClearAll}
         positionFilter={selectedPosition}
       />
 
       {/* Main Content */}
       <div className="flex-1 p-8 overflow-y-auto">
         {selectedPlayers.length > 0 ? (
-          <div className="max-w-7xl mx-auto">
+          <div className="max-w-none mx-auto">
             <h1 className="text-3xl font-bold text-gray-800 mb-6">
               Fantasy Football Player Stats ({selectedPlayers.length}/4 selected)
             </h1>
@@ -127,7 +156,7 @@ export default function Home() {
                   <button
                     key={filter}
                     onClick={() => setGameFilter(filter)}
-                    className={`px-4 py-2 rounded-lg font-medium text-sm transition-colors ${
+                    className={`px-2 py-1 rounded font-medium text-xs transition-colors ${
                       gameFilter === filter
                         ? 'bg-blue-600 text-white'
                         : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
@@ -138,36 +167,69 @@ export default function Home() {
                 ))}
               </div>
             </div>
-            <div className="space-y-6">
-              {/* First row - players 1 and 2 */}
-              <div className={`grid gap-6 ${
-                selectedPlayers.length === 1 ? 'grid-cols-1' : 'grid-cols-1 xl:grid-cols-2'
-              }`}>
-                {selectedPlayers.slice(0, 2).map((player, index) => (
-                  <PlayerCard 
-                    key={`${player.name}-${index}`}
-                    player={player} 
-                    activeTab={activeTab}
-                    gameFilter={gameFilter}
-                    onRemove={handlePlayerRemove}
-                  />
-                ))}
-              </div>
-              
-              {/* Second row - players 3 and 4 */}
-              {selectedPlayers.length > 2 && (
-                <div className="grid gap-6 grid-cols-1 xl:grid-cols-2">
-                  {selectedPlayers.slice(2, 4).map((player, index) => (
-                    <PlayerCard 
-                      key={`${player.name}-${index + 2}`}
-                      player={player} 
-                      activeTab={activeTab}
-                      gameFilter={gameFilter}
-                      onRemove={handlePlayerRemove}
-                    />
-                  ))}
+            <div className="space-y-8">
+              {/* Single grid that handles all players with animations */}
+              <div className="space-y-8">
+                {/* First row - always players 1 and 2 */}
+                <div className={`grid gap-8 transition-all duration-300 ease-in-out ${
+                  selectedPlayers.length === 1 ? 'grid-cols-1' : 'grid-cols-1 lg:grid-cols-2'
+                }`}>
+                  {selectedPlayers.slice(0, 2).map((player, index) => {
+                    const isAnimating = animatingPlayers.includes(player.name)
+                    return (
+                      <div
+                        key={player.name}
+                        className={`transition-all duration-300 ease-in-out transform ${
+                          isAnimating ? 'animate-bounce-in' : ''
+                        }`}
+                        style={{ 
+                          opacity: isAnimating ? 0 : 1,
+                          transform: isAnimating ? 'translateY(20px) scale(0.95)' : 'translateY(0px) scale(1)',
+                          transition: 'all 0.3s ease-in-out',
+                          animation: isAnimating ? 'slideInUp 0.3s ease-out forwards' : undefined
+                        }}
+                      >
+                        <PlayerCard 
+                          player={player} 
+                          activeTab={activeTab}
+                          gameFilter={gameFilter}
+                          onRemove={handlePlayerRemove}
+                        />
+                      </div>
+                    )
+                  })}
                 </div>
-              )}
+                
+                {/* Second row - players 3 and 4 */}
+                {selectedPlayers.length > 2 && (
+                  <div className="grid gap-8 grid-cols-1 lg:grid-cols-2 transition-all duration-300 ease-in-out">
+                    {selectedPlayers.slice(2, 4).map((player, index) => {
+                      const isAnimating = animatingPlayers.includes(player.name)
+                      return (
+                        <div
+                          key={player.name}
+                          className={`transition-all duration-300 ease-in-out transform ${
+                            isAnimating ? 'animate-bounce-in' : ''
+                          }`}
+                          style={{ 
+                            opacity: isAnimating ? 0 : 1,
+                            transform: isAnimating ? 'translateY(20px) scale(0.95)' : 'translateY(0px) scale(1)',
+                            transition: 'all 0.3s ease-in-out',
+                            animation: isAnimating ? 'slideInUp 0.3s ease-out forwards' : undefined
+                          }}
+                        >
+                          <PlayerCard 
+                            player={player} 
+                            activeTab={activeTab}
+                            gameFilter={gameFilter}
+                            onRemove={handlePlayerRemove}
+                          />
+                        </div>
+                      )
+                    })}
+                  </div>
+                )}
+              </div>
             </div>
           </div>
         ) : (

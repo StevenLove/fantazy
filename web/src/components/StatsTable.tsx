@@ -40,7 +40,7 @@ export default function StatsTable({ player, gameFilter }: StatsTableProps) {
       <div className="overflow-x-auto max-h-96">
         <table className="w-full border-collapse">
           <thead>
-            <tr className="bg-green-500 text-white sticky top-0">
+            <tr className="bg-gray-100 text-gray-800 sticky top-0">
               {headers.map((header, index) => (
                 <th key={index} className="px-3 py-2 text-left border-b border-gray-200">
                   {header}

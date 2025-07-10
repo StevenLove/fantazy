@@ -77,7 +77,7 @@ export default function PlayerChart({ player, gameFilter }: PlayerChartProps) {
     // Apply game filter
     if (gameFilter !== 'SEASON') {
       const gameCount = parseInt(gameFilter.substring(1)) // Extract number from L3, L5, L10
-      gameData = gameData.slice(-gameCount) // Take last N games
+      gameData = gameData.slice(0, gameCount) // Take first N games (which are the most recent)
     }
 
     // Convert week values to numbers for sorting
@@ -130,7 +130,7 @@ export default function PlayerChart({ player, gameFilter }: PlayerChartProps) {
         const propValue = gameForWeek['Prop Line']
         yards.push(yardValue)
         propLines.push(propValue)
-        barColors.push(yardValue > propValue ? '#10b981' : '#ef4444') // green if over, red if under
+        barColors.push(yardValue > propValue ? 'rgba(16, 185, 129, 0.6)' : 'rgba(239, 68, 68, 0.6)') // green if over, red if under
       } else {
         // Bye week - use null
         yards.push(null)

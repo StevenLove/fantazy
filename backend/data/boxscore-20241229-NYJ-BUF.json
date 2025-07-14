@@ -1,0 +1,2987 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "NYJ",
+      "teamID": "25",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "0",
+      "ydsAllowed": "348",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "40",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "BUF",
+      "teamID": "4",
+      "defTD": "0",
+      "defensiveInterceptions": "2",
+      "sacks": "4",
+      "ydsAllowed": "281",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "14",
+      "safeties": "1"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "281",
+      "rushingAttempts": "21",
+      "rushingYards": "112",
+      "fumblesLost": "1",
+      "penalties": "16-120",
+      "totalPlays": "57",
+      "possession": "28:43",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "23-32",
+      "passingFirstDowns": "9",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "4-26",
+      "thirdDownEfficiency": "4-9",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.9",
+      "redZoneScoredAndAttempted": "1-2",
+      "teamID": "25",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "10",
+      "rushingFirstDowns": "9",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "1",
+      "firstDowns": "20",
+      "passTD": "2",
+      "team": "NYJ",
+      "blockedXP": "0",
+      "teamAbv": "NYJ",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "0-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "169",
+      "yardsPerRush": "5.3",
+      "snapCounts": {
+        "totalSpecialTeams": "22",
+        "totalOffensive": "63",
+        "totalDefensive": "70"
+      },
+      "turnovers": "3",
+      "yardsPerPass": "4.7"
+    },
+    "home": {
+      "totalYards": "348",
+      "rushingAttempts": "34",
+      "rushingYards": "97",
+      "fumblesLost": "0",
+      "penalties": "7-60",
+      "totalPlays": "62",
+      "possession": "31:17",
+      "safeties": "1",
+      "passCompletionsAndAttempts": "17-28",
+      "passingFirstDowns": "10",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "0-0",
+      "thirdDownEfficiency": "8-14",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.6",
+      "redZoneScoredAndAttempted": "3-3",
+      "teamID": "4",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "7",
+      "blockedFG": "0",
+      "rushTD": "2",
+      "twoPointConversions": "0",
+      "firstDowns": "23",
+      "passTD": "3",
+      "team": "BUF",
+      "blockedXP": "0",
+      "teamAbv": "BUF",
+      "firstDownsFromPenalties": "6",
+      "fourthDownEfficiency": "0-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "251",
+      "yardsPerRush": "2.9",
+      "snapCounts": {
+        "totalSpecialTeams": "22",
+        "totalOffensive": "70",
+        "totalDefensive": "63"
+      },
+      "turnovers": "0",
+      "yardsPerPass": "9.0"
+    }
+  },
+  "gameDate": "20241229",
+  "scoringPlays": [
+    {
+      "score": "Josh Allen 1 Yd Rush (Tyler Bass Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "7",
+      "awayScore": "0",
+      "teamID": "4",
+      "scoreDetails": "12 plays, 70 yards, 6:49",
+      "scoreType": "TD",
+      "scoreTime": "8:11",
+      "team": "BUF",
+      "playerIDs": [
+        "3918298",
+        "3917232"
+      ]
+    },
+    {
+      "score": "Aaron Rodgers Sacked by AJ Epenesa For 2 Yd Loss for Safety",
+      "scorePeriod": "Q2",
+      "homeScore": "9",
+      "awayScore": "0",
+      "teamID": "4",
+      "scoreDetails": "2 plays, -5 yards, 0:45",
+      "scoreType": "SF",
+      "scoreTime": "2:31",
+      "team": "BUF",
+      "playerIDs": [
+        "8439",
+        "4240585"
+      ]
+    },
+    {
+      "score": "Tyler Bass 39 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "12",
+      "awayScore": "0",
+      "teamID": "4",
+      "scoreDetails": "9 plays, 47 yards, 2:31",
+      "scoreType": "FG",
+      "scoreTime": "0:00",
+      "team": "BUF",
+      "playerIDs": [
+        "3917232"
+      ]
+    },
+    {
+      "score": "Amari Cooper 30 Yd pass from Josh Allen (Tyler Bass Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "19",
+      "awayScore": "0",
+      "teamID": "4",
+      "scoreDetails": "5 plays, 38 yards, 2:07",
+      "scoreType": "TD",
+      "scoreTime": "5:13",
+      "team": "BUF",
+      "playerIDs": [
+        "3918298",
+        "2976499",
+        "3917232"
+      ]
+    },
+    {
+      "score": "James Cook 1 Yd Rush (Tyler Bass Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "26",
+      "awayScore": "0",
+      "teamID": "4",
+      "scoreDetails": "5 plays, 37 yards, 1:50",
+      "scoreType": "TD",
+      "scoreTime": "1:15",
+      "team": "BUF",
+      "playerIDs": [
+        "4379399",
+        "3917232"
+      ]
+    },
+    {
+      "score": "Keon Coleman 14 Yd pass from Josh Allen (Tyler Bass Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "33",
+      "awayScore": "0",
+      "teamID": "4",
+      "scoreDetails": "3 plays, 15 yards, 0:56",
+      "scoreType": "TD",
+      "scoreTime": "0:12",
+      "team": "BUF",
+      "playerIDs": [
+        "3918298",
+        "4635008",
+        "3917232"
+      ]
+    },
+    {
+      "score": "Tyrell Shavers 69 Yd pass from Mitchell Trubisky (Tyler Bass Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "40",
+      "awayScore": "0",
+      "teamID": "4",
+      "scoreDetails": "3 plays, 65 yards, 1:38",
+      "scoreType": "TD",
+      "scoreTime": "12:37",
+      "team": "BUF",
+      "playerIDs": [
+        "3039707",
+        "4241476",
+        "3917232"
+      ]
+    },
+    {
+      "score": "Garrett Wilson 9 Yd pass from Tyrod Taylor (Tyrod Taylor Pass to Tyler Conklin for Two-Point Conversion)",
+      "scorePeriod": "Q4",
+      "homeScore": "40",
+      "awayScore": "8",
+      "teamID": "25",
+      "scoreDetails": "13 plays, 75 yards, 5:38",
+      "scoreType": "TD",
+      "scoreTime": "6:59",
+      "team": "NYJ",
+      "playerIDs": [
+        "14163",
+        "4569618",
+        "3915486"
+      ]
+    },
+    {
+      "score": "Tyler Conklin 20 Yd pass from Tyrod Taylor (Two-Point Pass Conversion Failed)",
+      "scorePeriod": "Q4",
+      "homeScore": "40",
+      "awayScore": "14",
+      "teamID": "25",
+      "scoreDetails": "8 plays, 58 yards, 2:49",
+      "scoreType": "TD",
+      "scoreTime": "1:55",
+      "team": "NYJ",
+      "playerIDs": [
+        "14163",
+        "3915486"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "4",
+  "homeResult": "W",
+  "away": "NYJ",
+  "gameWeek": "Week 17",
+  "attendance": "70,728",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "0",
+      "Q2": "0",
+      "Q3": "0",
+      "Q4": "14",
+      "teamID": "25",
+      "currentlyInPossession": "False",
+      "totalPts": "14",
+      "teamAbv": "NYJ"
+    },
+    "home": {
+      "Q1": "7",
+      "Q2": "5",
+      "Q3": "21",
+      "Q4": "7",
+      "teamID": "4",
+      "currentlyInPossession": "False",
+      "totalPts": "40",
+      "teamAbv": "BUF"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Orchard Park, NY",
+  "home": "BUF",
+  "playerStats": {
+    "8439": {
+      "gameID": "20241229_NYJ@BUF",
+      "Passing": {
+        "qbr": "1.2",
+        "rtg": "44.0",
+        "sacked": "4-26",
+        "passAttempts": "18",
+        "passAvg": "6.2",
+        "passTD": "0",
+        "passYds": "112",
+        "int": "2",
+        "passCompletions": "12"
+      },
+      "scoringPlays": [
+        {
+          "score": "Aaron Rodgers Sacked by AJ Epenesa For 2 Yd Loss for Safety",
+          "scorePeriod": "Q2",
+          "homeScore": "9",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "2 plays, -5 yards, 0:45",
+          "scoreType": "SF",
+          "scoreTime": "2:31",
+          "team": "BUF",
+          "playerIDs": [
+            "8439",
+            "4240585"
+          ]
+        }
+      ],
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "40",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "8439",
+      "longName": "Aaron Rodgers"
+    },
+    "12701": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "143",
+        "punts": "3",
+        "puntAvg": "47.7",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "56"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "12701",
+      "longName": "Thomas Morstead"
+    },
+    "13976": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "14",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "0.22"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "13976",
+      "longName": "Von Miller"
+    },
+    "14163": {
+      "gameID": "20241229_NYJ@BUF",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "6",
+        "carries": "2",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "95.8",
+        "rtg": "131.0",
+        "sacked": "0-0",
+        "passAttempts": "14",
+        "passAvg": "5.9",
+        "passTD": "2",
+        "passYds": "83",
+        "int": "0",
+        "passingTwoPointConversion": "1",
+        "passCompletions": "11"
+      },
+      "scoringPlays": [
+        {
+          "score": "Garrett Wilson 9 Yd pass from Tyrod Taylor (Tyrod Taylor Pass to Tyler Conklin for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "40",
+          "awayScore": "8",
+          "teamID": "25",
+          "scoreDetails": "13 plays, 75 yards, 5:38",
+          "scoreType": "TD",
+          "scoreTime": "6:59",
+          "team": "NYJ",
+          "playerIDs": [
+            "14163",
+            "4569618",
+            "3915486"
+          ]
+        },
+        {
+          "score": "Tyler Conklin 20 Yd pass from Tyrod Taylor (Two-Point Pass Conversion Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "40",
+          "awayScore": "14",
+          "teamID": "25",
+          "scoreDetails": "8 plays, 58 yards, 2:49",
+          "scoreType": "TD",
+          "scoreTime": "1:55",
+          "team": "NYJ",
+          "playerIDs": [
+            "14163",
+            "3915486"
+          ]
+        }
+      ],
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.37",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "23",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "14163",
+      "longName": "Tyrod Taylor"
+    },
+    "15928": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "137",
+        "punts": "3",
+        "puntAvg": "45.7",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "51"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "15928",
+      "longName": "Sam Martin"
+    },
+    "16771": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.44",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "28",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "16771",
+      "longName": "Morgan Moses"
+    },
+    "16800": {
+      "gameID": "20241229_NYJ@BUF",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "22",
+        "targets": "8",
+        "recYds": "47",
+        "recAvg": "9.4"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.76",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "48",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "16800",
+      "longName": "Davante Adams"
+    },
+    "16910": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.35"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "16910",
+      "longName": "DaQuan Jones"
+    },
+    "2577078": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "0.32"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2577078",
+      "longName": "Quinton Jefferson"
+    },
+    "2577466": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.30"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "2",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "2577466",
+      "longName": "Jordan Phillips"
+    },
+    "2577637": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "22",
+        "stSnapPct": "1.00",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2577637",
+      "longName": "Sam Eguavoen"
+    },
+    "2976499": {
+      "gameID": "20241229_NYJ@BUF",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "1",
+        "longRec": "30",
+        "targets": "3",
+        "recYds": "56",
+        "recAvg": "18.7"
+      },
+      "scoringPlays": [
+        {
+          "score": "Amari Cooper 30 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "19",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "5 plays, 38 yards, 2:07",
+          "scoreType": "TD",
+          "scoreTime": "5:13",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "2976499",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.31",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "22",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "2976499",
+      "longName": "Amari Cooper"
+    },
+    "2976549": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2976549",
+      "longName": "Reid Ferguson"
+    },
+    "2980504": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.57"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2980504",
+      "longName": "Haason Reddick"
+    },
+    "2983155": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "2983155",
+      "longName": "Thomas Hennessy"
+    },
+    "2991662": {
+      "gameID": "20241229_NYJ@BUF",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "23",
+        "targets": "2",
+        "recYds": "33",
+        "recAvg": "16.5"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.54",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "38",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "2991662",
+      "longName": "Mack Hollins"
+    },
+    "3039707": {
+      "gameID": "20241229_NYJ@BUF",
+      "Rushing": {
+        "rushAvg": "-0.5",
+        "rushYds": "-1",
+        "carries": "2",
+        "longRush": "0",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "99.5",
+        "rtg": "158.3",
+        "sacked": "0-0",
+        "passAttempts": "1",
+        "passAvg": "69.0",
+        "passTD": "1",
+        "passYds": "69",
+        "int": "0",
+        "passCompletions": "1"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tyrell Shavers 69 Yd pass from Mitchell Trubisky (Tyler Bass Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "40",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "3 plays, 65 yards, 1:38",
+          "scoreType": "TD",
+          "scoreTime": "12:37",
+          "team": "BUF",
+          "playerIDs": [
+            "3039707",
+            "4241476",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3039707",
+      "longName": "Mitchell Trubisky"
+    },
+    "3042476": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.51"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3042476",
+      "longName": "Dawuane Smoot"
+    },
+    "3045463": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3045463",
+      "longName": "Chuck Clark"
+    },
+    "3046287": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.56"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "5",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3046287",
+      "longName": "Matt Milano"
+    },
+    "3051324": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.83",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3051324",
+      "longName": "Dion Dawkins"
+    },
+    "3051369": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.39"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3051369",
+      "longName": "Bruce Hector"
+    },
+    "3110565": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3110565",
+      "longName": "Quincy Williams"
+    },
+    "3117258": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.41"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3117258",
+      "longName": "Solomon Thomas"
+    },
+    "3121003": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "0.60"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3121003",
+      "longName": "Taron Johnson"
+    },
+    "3128390": {
+      "gameID": "20241229_NYJ@BUF",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "3",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.86",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "3128390",
+      "longName": "Allen Lazard"
+    },
+    "3139387": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "69",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3139387",
+      "longName": "D.J. Reed"
+    },
+    "3858271": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "22",
+        "stSnapPct": "1.00",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "3858271",
+      "longName": "Ashtyn Davis"
+    },
+    "3915411": {
+      "gameID": "20241229_NYJ@BUF",
+      "Rushing": {
+        "rushAvg": "4.0",
+        "rushYds": "16",
+        "carries": "4",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "1",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.32",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "3",
+        "kickReturnTD": "0",
+        "kickReturnYds": "77",
+        "kickReturnAvg": "25.7",
+        "kickReturnLong": "45"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3915411",
+      "longName": "Ty Johnson"
+    },
+    "3915437": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "14",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.56"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3915437",
+      "longName": "Isaiah Oliver"
+    },
+    "3915486": {
+      "gameID": "20241229_NYJ@BUF",
+      "Receiving": {
+        "receptions": "8",
+        "recTD": "1",
+        "recAvg": "7.1",
+        "receivingTwoPointConversion": "1",
+        "longRec": "20",
+        "targets": "8",
+        "recYds": "57"
+      },
+      "scoringPlays": [
+        {
+          "score": "Garrett Wilson 9 Yd pass from Tyrod Taylor (Tyrod Taylor Pass to Tyler Conklin for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "40",
+          "awayScore": "8",
+          "teamID": "25",
+          "scoreDetails": "13 plays, 75 yards, 5:38",
+          "scoreType": "TD",
+          "scoreTime": "6:59",
+          "team": "NYJ",
+          "playerIDs": [
+            "14163",
+            "4569618",
+            "3915486"
+          ]
+        },
+        {
+          "score": "Tyler Conklin 20 Yd pass from Tyrod Taylor (Two-Point Pass Conversion Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "40",
+          "awayScore": "14",
+          "teamID": "25",
+          "scoreDetails": "8 plays, 58 yards, 2:49",
+          "scoreType": "TD",
+          "scoreTime": "1:55",
+          "team": "NYJ",
+          "playerIDs": [
+            "14163",
+            "3915486"
+          ]
+        }
+      ],
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.84",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "3915486",
+      "longName": "Tyler Conklin"
+    },
+    "3916577": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "16",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3916577",
+      "longName": "Cam Lewis"
+    },
+    "3917232": {
+      "gameID": "20241229_NYJ@BUF",
+      "scoringPlays": [
+        {
+          "score": "Josh Allen 1 Yd Rush (Tyler Bass Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "12 plays, 70 yards, 6:49",
+          "scoreType": "TD",
+          "scoreTime": "8:11",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "3917232"
+          ]
+        },
+        {
+          "score": "Tyler Bass 39 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "12",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "9 plays, 47 yards, 2:31",
+          "scoreType": "FG",
+          "scoreTime": "0:00",
+          "team": "BUF",
+          "playerIDs": [
+            "3917232"
+          ]
+        },
+        {
+          "score": "Amari Cooper 30 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "19",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "5 plays, 38 yards, 2:07",
+          "scoreType": "TD",
+          "scoreTime": "5:13",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "2976499",
+            "3917232"
+          ]
+        },
+        {
+          "score": "James Cook 1 Yd Rush (Tyler Bass Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "26",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "5 plays, 37 yards, 1:50",
+          "scoreType": "TD",
+          "scoreTime": "1:15",
+          "team": "BUF",
+          "playerIDs": [
+            "4379399",
+            "3917232"
+          ]
+        },
+        {
+          "score": "Keon Coleman 14 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "33",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "3 plays, 15 yards, 0:56",
+          "scoreType": "TD",
+          "scoreTime": "0:12",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "4635008",
+            "3917232"
+          ]
+        },
+        {
+          "score": "Tyrell Shavers 69 Yd pass from Mitchell Trubisky (Tyler Bass Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "40",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "3 plays, 65 yards, 1:38",
+          "scoreType": "TD",
+          "scoreTime": "12:37",
+          "team": "BUF",
+          "playerIDs": [
+            "3039707",
+            "4241476",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.55",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "39",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "5",
+        "fgPct": "100.0",
+        "kickingPts": "8",
+        "xpAttempts": "5",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3917232",
+      "longName": "Tyler Bass"
+    },
+    "3917660": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.89",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "62",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3917660",
+      "longName": "David Edwards"
+    },
+    "3918298": {
+      "gameID": "20241229_NYJ@BUF",
+      "Rushing": {
+        "rushAvg": "3.4",
+        "rushYds": "17",
+        "carries": "5",
+        "longRush": "10",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "71.7",
+        "rtg": "104.2",
+        "sacked": "0-0",
+        "passAttempts": "27",
+        "passAvg": "6.7",
+        "passTD": "2",
+        "passYds": "182",
+        "int": "0",
+        "passCompletions": "16"
+      },
+      "scoringPlays": [
+        {
+          "score": "Josh Allen 1 Yd Rush (Tyler Bass Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "12 plays, 70 yards, 6:49",
+          "scoreType": "TD",
+          "scoreTime": "8:11",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "3917232"
+          ]
+        },
+        {
+          "score": "Amari Cooper 30 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "19",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "5 plays, 38 yards, 2:07",
+          "scoreType": "TD",
+          "scoreTime": "5:13",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "2976499",
+            "3917232"
+          ]
+        },
+        {
+          "score": "Keon Coleman 14 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "33",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "3 plays, 15 yards, 0:56",
+          "scoreType": "TD",
+          "scoreTime": "0:12",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "4635008",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.86",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3918298",
+      "longName": "Josh Allen"
+    },
+    "3930086": {
+      "gameID": "20241229_NYJ@BUF",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "3",
+        "recYds": "4",
+        "recAvg": "4.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.49",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3930086",
+      "longName": "Dawson Knox"
+    },
+    "3943270": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "2",
+        "stSnapPct": "0.09",
+        "offSnap": "0",
+        "defSnapPct": "0.63"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3943270",
+      "longName": "Rasul Douglas"
+    },
+    "4030899": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4030899",
+      "longName": "Spencer Brown"
+    },
+    "4033748": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.86",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4033748",
+      "longName": "Connor McGovern"
+    },
+    "4035479": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4035479",
+      "longName": "John Simpson"
+    },
+    "4037521": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "16",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.17"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037521",
+      "longName": "Chazz Surratt"
+    },
+    "4039007": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "63",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039007",
+      "longName": "Taylor Rapp"
+    },
+    "4039303": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "3",
+        "tfl": "3",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4039303",
+      "longName": "Ed Oliver"
+    },
+    "4039505": {
+      "gameID": "20241229_NYJ@BUF",
+      "Rushing": {
+        "rushAvg": "1.5",
+        "rushYds": "3",
+        "carries": "2",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.21",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.95",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039505",
+      "longName": "Reggie Gilliam"
+    },
+    "4040982": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "0.43"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4040982",
+      "longName": "Quinnen Williams"
+    },
+    "4044144": {
+      "gameID": "20241229_NYJ@BUF",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "2",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.22",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.73",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4044144",
+      "longName": "Kenny Yeboah"
+    },
+    "4045299": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4045299",
+      "longName": "Marcelino McCrary-Ball"
+    },
+    "4239140": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.17",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4239140",
+      "longName": "Ryan Van Demark"
+    },
+    "4240059": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "23",
+        "stSnap": "15",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4240059",
+      "longName": "Ja'Marcus Ingram"
+    },
+    "4240456": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "2",
+        "stSnapPct": "0.09",
+        "offSnap": "0",
+        "defSnapPct": "0.07"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240456",
+      "longName": "Michael Carter II"
+    },
+    "4240532": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "68",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240532",
+      "longName": "Tony Adams"
+    },
+    "4240585": {
+      "gameID": "20241229_NYJ@BUF",
+      "scoringPlays": [
+        {
+          "score": "Aaron Rodgers Sacked by AJ Epenesa For 2 Yd Loss for Safety",
+          "scorePeriod": "Q2",
+          "homeScore": "9",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "2 plays, -5 yards, 0:45",
+          "scoreType": "SF",
+          "scoreTime": "2:31",
+          "team": "BUF",
+          "playerIDs": [
+            "8439",
+            "4240585"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "2",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4240585",
+      "longName": "AJ Epenesa"
+    },
+    "4240723": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.56",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4240723",
+      "longName": "Carter Warren"
+    },
+    "4240896": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240896",
+      "longName": "Micheal Clemons"
+    },
+    "4241476": {
+      "gameID": "20241229_NYJ@BUF",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "1",
+        "longRec": "69",
+        "targets": "1",
+        "recYds": "69",
+        "recAvg": "69.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tyrell Shavers 69 Yd pass from Mitchell Trubisky (Tyler Bass Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "40",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "3 plays, 65 yards, 1:38",
+          "scoreType": "TD",
+          "scoreTime": "12:37",
+          "team": "BUF",
+          "playerIDs": [
+            "3039707",
+            "4241476",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.09",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4241476",
+      "longName": "Tyrell Shavers"
+    },
+    "4244049": {
+      "gameID": "20241229_NYJ@BUF",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.20",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.95",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4244049",
+      "longName": "Quintin Morris"
+    },
+    "4259166": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "0.59"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4259166",
+      "longName": "Terrel Bernard"
+    },
+    "4259491": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.49"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4259491",
+      "longName": "Javon Kinlaw"
+    },
+    "4259646": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4259646",
+      "longName": "Alijah Vera-Tucker"
+    },
+    "4361331": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.96"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4361331",
+      "longName": "Jamien Sherwood"
+    },
+    "4361372": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.33",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4361372",
+      "longName": "Jeremy Ruckert"
+    },
+    "4361767": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "51",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361767",
+      "longName": "Will McDonald IV"
+    },
+    "4362506": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "0.41"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "1"
+      },
+      "playerID": "4362506",
+      "longName": "Greg Rousseau"
+    },
+    "4366349": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "15",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.41"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4366349",
+      "longName": "Joe Andreessen"
+    },
+    "4367203": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.27",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.45",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4367203",
+      "longName": "Alec Anderson"
+    },
+    "4373656": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4373656",
+      "longName": "Max Mitchell"
+    },
+    "4373678": {
+      "gameID": "20241229_NYJ@BUF",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "6",
+        "recYds": "25",
+        "recAvg": "8.3"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.61",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4373678",
+      "longName": "Khalil Shakir"
+    },
+    "4374280": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4374280",
+      "longName": "Edefuan Ulofoshio"
+    },
+    "4379399": {
+      "gameID": "20241229_NYJ@BUF",
+      "Rushing": {
+        "rushAvg": "3.5",
+        "rushYds": "53",
+        "carries": "15",
+        "longRush": "8",
+        "rushTD": "1"
+      },
+      "scoringPlays": [
+        {
+          "score": "James Cook 1 Yd Rush (Tyler Bass Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "26",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "5 plays, 37 yards, 1:50",
+          "scoreType": "TD",
+          "scoreTime": "1:15",
+          "team": "BUF",
+          "playerIDs": [
+            "4379399",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.46",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4379399",
+      "longName": "James Cook"
+    },
+    "4379778": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.63"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "24",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4379778",
+      "longName": "Christian Benford"
+    },
+    "4385690": {
+      "gameID": "20241229_NYJ@BUF",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "2",
+        "recYds": "24",
+        "recAvg": "12.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.44",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "31",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4385690",
+      "longName": "Dalton Kincaid"
+    },
+    "4426883": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4426883",
+      "longName": "DeWayne Carter"
+    },
+    "4427250": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4427250",
+      "longName": "Sauce Gardner"
+    },
+    "4427278": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.41",
+        "offSnap": "9",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "25",
+        "kickReturnAvg": "25.0",
+        "kickReturnLong": "25"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "25",
+        "puntReturnAvg": "12.5",
+        "puntReturnLong": "13",
+        "puntReturnTD": "0"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4427278",
+      "longName": "Xavier Gipson"
+    },
+    "4427366": {
+      "gameID": "20241229_NYJ@BUF",
+      "Rushing": {
+        "rushAvg": "4.5",
+        "rushYds": "45",
+        "carries": "10",
+        "longRush": "17",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "1",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.49",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "31",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4427366",
+      "longName": "Breece Hall"
+    },
+    "4428548": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "23",
+        "stSnap": "15",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428548",
+      "longName": "Javon Solomon"
+    },
+    "4428681": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4428681",
+      "longName": "Joe Tippmann"
+    },
+    "4428696": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4428696",
+      "longName": "O'Cyrus Torrence"
+    },
+    "4429501": {
+      "gameID": "20241229_NYJ@BUF",
+      "Rushing": {
+        "rushAvg": "1.5",
+        "rushYds": "9",
+        "carries": "6",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "1",
+        "recYds": "4",
+        "recAvg": "4.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.23",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "16",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4429501",
+      "longName": "Ray Davis"
+    },
+    "4430182": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430182",
+      "longName": "Jarius Monroe"
+    },
+    "4430815": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4430815",
+      "longName": "Sedrick Van Pran-Granger"
+    },
+    "4431598": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4431598",
+      "longName": "Leonard Taylor III"
+    },
+    "4567979": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "11",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.59"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4567979",
+      "longName": "Brandin Echols"
+    },
+    "4568624": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "15",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4568624",
+      "longName": "Dorian Williams"
+    },
+    "4569016": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "12",
+        "stSnapPct": "0.55",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4569016",
+      "longName": "Eric Watts"
+    },
+    "4569618": {
+      "gameID": "20241229_NYJ@BUF",
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "1",
+        "longRec": "28",
+        "targets": "8",
+        "recYds": "66",
+        "recAvg": "9.4"
+      },
+      "scoringPlays": [
+        {
+          "score": "Garrett Wilson 9 Yd pass from Tyrod Taylor (Tyrod Taylor Pass to Tyler Conklin for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "40",
+          "awayScore": "8",
+          "teamID": "25",
+          "scoreDetails": "13 plays, 75 yards, 5:38",
+          "scoreType": "TD",
+          "scoreTime": "6:59",
+          "team": "NYJ",
+          "playerIDs": [
+            "14163",
+            "4569618",
+            "3915486"
+          ]
+        }
+      ],
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.83",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "52",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4569618",
+      "longName": "Garrett Wilson"
+    },
+    "4576069": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "23",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "32",
+        "puntReturnAvg": "16.0",
+        "puntReturnLong": "25",
+        "puntReturnTD": "0"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4576069",
+      "longName": "Brandon Codrington"
+    },
+    "4613104": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4613104",
+      "longName": "Malachi Corley"
+    },
+    "4635008": {
+      "gameID": "20241229_NYJ@BUF",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "1",
+        "longRec": "14",
+        "targets": "7",
+        "recYds": "27",
+        "recAvg": "9.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Keon Coleman 14 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "33",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "3 plays, 15 yards, 0:56",
+          "scoreType": "TD",
+          "scoreTime": "0:12",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "4635008",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.90",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4635008",
+      "longName": "Keon Coleman"
+    },
+    "4676004": {
+      "gameID": "20241229_NYJ@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "63",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4676004",
+      "longName": "Cole Bishop"
+    },
+    "4685247": {
+      "gameID": "20241229_NYJ@BUF",
+      "Rushing": {
+        "rushAvg": "4.3",
+        "rushYds": "26",
+        "carries": "6",
+        "longRush": "11",
+        "rushTD": "0"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.55",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4685247",
+      "longName": "Braelon Allen"
+    },
+    "4695404": {
+      "gameID": "20241229_NYJ@BUF",
+      "Rushing": {
+        "rushAvg": "11.7",
+        "rushYds": "35",
+        "carries": "3",
+        "longRush": "14",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "1",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.22",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.73",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "29",
+        "kickReturnAvg": "29.0",
+        "kickReturnLong": "29"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4695404",
+      "longName": "Isaiah Davis"
+    }
+  },
+  "arenaCapacity": "71,621",
+  "arena": "Highmark Stadium",
+  "homePts": "40",
+  "awayResult": "L",
+  "teamIDAway": "25",
+  "Referees": "Clete Blakeman, David Coleman, James Coleman, Dana McKenzie, Julian Mapp, Jonah Monroe, Scott Campbell, Karina Tovar",
+  "gameClock": "",
+  "awayPts": "14",
+  "gameID": "20241229_NYJ@BUF",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

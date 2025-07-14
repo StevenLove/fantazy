@@ -1,0 +1,3035 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "LV",
+      "teamID": "17",
+      "defTD": "1",
+      "defensiveInterceptions": "1",
+      "sacks": "1",
+      "ydsAllowed": "373",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "41",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "CIN",
+      "teamID": "7",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "5",
+      "ydsAllowed": "217",
+      "fumblesRecovered": "2",
+      "ptsAllowed": "18",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "217",
+      "rushingAttempts": "21",
+      "rushingYards": "60",
+      "fumblesLost": "2",
+      "penalties": "6-51",
+      "totalPlays": "59",
+      "possession": "24:46",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "21-33",
+      "passingFirstDowns": "10",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "5-41",
+      "thirdDownEfficiency": "5-13",
+      "blockedPunt": "0",
+      "yardsPerPlay": "3.7",
+      "redZoneScoredAndAttempted": "1-1",
+      "teamID": "17",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "1",
+      "totalDrives": "11",
+      "rushingFirstDowns": "4",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "16",
+      "passTD": "1",
+      "team": "LV",
+      "blockedXP": "0",
+      "teamAbv": "LV",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "0-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "157",
+      "yardsPerRush": "2.9",
+      "snapCounts": {
+        "totalSpecialTeams": "32",
+        "totalOffensive": "61",
+        "totalDefensive": "74"
+      },
+      "turnovers": "2",
+      "yardsPerPass": "4.1"
+    },
+    "home": {
+      "totalYards": "373",
+      "rushingAttempts": "31",
+      "rushingYards": "130",
+      "fumblesLost": "0",
+      "penalties": "7-60",
+      "totalPlays": "71",
+      "possession": "35:14",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "27-39",
+      "passingFirstDowns": "18",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "1-8",
+      "thirdDownEfficiency": "8-15",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.3",
+      "redZoneScoredAndAttempted": "4-5",
+      "teamID": "7",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "13",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "26",
+      "passTD": "5",
+      "team": "CIN",
+      "blockedXP": "0",
+      "teamAbv": "CIN",
+      "firstDownsFromPenalties": "3",
+      "fourthDownEfficiency": "1-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "243",
+      "yardsPerRush": "4.2",
+      "snapCounts": {
+        "totalSpecialTeams": "32",
+        "totalOffensive": "74",
+        "totalDefensive": "61"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "6.1"
+    }
+  },
+  "gameDate": "20241103",
+  "scoringPlays": [
+    {
+      "score": "Zamir White 1 Yd Run (Daniel Carlson Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "7",
+      "teamID": "17",
+      "scoreDetails": "11 plays, 70 yards, 5:24",
+      "scoreType": "TD",
+      "scoreTime": "9:36",
+      "team": "LV",
+      "playerIDs": [
+        "4361777",
+        "3051909"
+      ]
+    },
+    {
+      "score": "Chase Brown 1 Yd pass from Joe Burrow (Evan McPherson Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "7",
+      "awayScore": "7",
+      "teamID": "7",
+      "scoreDetails": "13 plays, 70 yards, 7:57",
+      "scoreType": "TD",
+      "scoreTime": "1:39",
+      "team": "CIN",
+      "playerIDs": [
+        "3915511",
+        "4362238",
+        "4360234"
+      ]
+    },
+    {
+      "score": "Evan McPherson 44 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "10",
+      "awayScore": "7",
+      "teamID": "7",
+      "scoreDetails": "14 plays, 64 yards, 6:29",
+      "scoreType": "FG",
+      "scoreTime": "7:00",
+      "team": "CIN",
+      "playerIDs": [
+        "4360234"
+      ]
+    },
+    {
+      "score": "Daniel Carlson 46 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "10",
+      "awayScore": "10",
+      "teamID": "17",
+      "scoreDetails": "7 plays, 42 yards, 4:02",
+      "scoreType": "FG",
+      "scoreTime": "2:58",
+      "team": "LV",
+      "playerIDs": [
+        "3051909"
+      ]
+    },
+    {
+      "score": "Andrei Iosivas 10 Yd pass from Joe Burrow (Evan McPherson Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "17",
+      "awayScore": "10",
+      "teamID": "7",
+      "scoreDetails": "5 plays, 70 yards, 2:26",
+      "scoreType": "TD",
+      "scoreTime": "0:32",
+      "team": "CIN",
+      "playerIDs": [
+        "3915511",
+        "4368003",
+        "4360234"
+      ]
+    },
+    {
+      "score": "Drew Sample 2 Yd pass from Joe Burrow (Evan McPherson Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "24",
+      "awayScore": "10",
+      "teamID": "7",
+      "scoreDetails": "7 plays, 70 yards, 3:33",
+      "scoreType": "TD",
+      "scoreTime": "11:27",
+      "team": "CIN",
+      "playerIDs": [
+        "3915511",
+        "3127310",
+        "4360234"
+      ]
+    },
+    {
+      "score": "Mike Gesicki 11 Yd pass from Joe Burrow (Evan McPherson Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "31",
+      "awayScore": "10",
+      "teamID": "7",
+      "scoreDetails": "5 plays, 21 yards, 2:08",
+      "scoreType": "TD",
+      "scoreTime": "7:34",
+      "team": "CIN",
+      "playerIDs": [
+        "3915511",
+        "3116164",
+        "4360234"
+      ]
+    },
+    {
+      "score": "Jack Jones 29 Yd Interception Return (Daniel Carlson Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "31",
+      "awayScore": "17",
+      "teamID": "17",
+      "scoreDetails": "2 plays, 15 yards, 0:49",
+      "scoreType": "TD",
+      "scoreTime": "13:17",
+      "team": "LV",
+      "playerIDs": [
+        "4035686",
+        "3051909"
+      ]
+    },
+    {
+      "score": "Mike Gesicki 47 Yd pass from Joe Burrow (Evan McPherson Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "38",
+      "awayScore": "17",
+      "teamID": "7",
+      "scoreDetails": "6 plays, 64 yards, 0:59",
+      "scoreType": "TD",
+      "scoreTime": "5:37",
+      "team": "CIN",
+      "playerIDs": [
+        "3915511",
+        "3116164",
+        "4360234"
+      ]
+    },
+    {
+      "score": "Evan McPherson 27 Yd Field Goal  ",
+      "scorePeriod": "Q4",
+      "homeScore": "41",
+      "awayScore": "17",
+      "teamID": "7",
+      "scoreDetails": "7 plays, 4 yards, 3:36",
+      "scoreType": "FG",
+      "scoreTime": "1:53",
+      "team": "CIN",
+      "playerIDs": [
+        "4360234"
+      ]
+    },
+    {
+      "score": "Brock Bowers 22 Yd pass from Desmond Ridder (Daniel Carlson Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "41",
+      "awayScore": "24",
+      "teamID": "17",
+      "scoreDetails": "6 plays, 70 yards, 1:12",
+      "scoreType": "TD",
+      "scoreTime": "0:41",
+      "team": "LV",
+      "playerIDs": [
+        "4239086",
+        "4432665",
+        "3051909"
+      ]
+    }
+  ],
+  "network": "FOX",
+  "teamIDHome": "7",
+  "homeResult": "W",
+  "away": "LV",
+  "gameWeek": "Week 9",
+  "attendance": "65,962",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "7",
+      "Q2": "3",
+      "Q3": "0",
+      "Q4": "14",
+      "teamID": "17",
+      "currentlyInPossession": "False",
+      "totalPts": "24",
+      "teamAbv": "LV"
+    },
+    "home": {
+      "Q1": "7",
+      "Q2": "10",
+      "Q3": "14",
+      "Q4": "10",
+      "teamID": "7",
+      "currentlyInPossession": "False",
+      "totalPts": "41",
+      "teamAbv": "CIN"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Cincinnati, OH",
+  "home": "CIN",
+  "playerStats": {
+    "15846": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.66"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "15846",
+      "longName": "John Jenkins"
+    },
+    "2576188": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "2576188",
+      "longName": "Ted Karras"
+    },
+    "2576336": {
+      "gameID": "20241103_LV@CIN",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "12",
+        "carries": "4",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "3",
+        "recYds": "14",
+        "recAvg": "4.7"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.49",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.50",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "2576336",
+      "longName": "Ameer Abdullah"
+    },
+    "2577346": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.48",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.06",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "2577346",
+      "longName": "Cody Whitehair"
+    },
+    "2970204": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.62"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2970204",
+      "longName": "Sheldon Rankins"
+    },
+    "2972342": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "9",
+        "stSnapPct": "0.28",
+        "offSnap": "0",
+        "defSnapPct": "0.68"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2972342",
+      "longName": "Adam Butler"
+    },
+    "2978278": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.18",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "2978278",
+      "longName": "Andrus Peat"
+    },
+    "2980383": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.59"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2980383",
+      "longName": "Mike Hilton"
+    },
+    "3050481": {
+      "gameID": "20241103_LV@CIN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "3",
+        "recYds": "14",
+        "recAvg": "7.0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.27",
+        "defSnap": "0",
+        "stSnap": "26",
+        "stSnapPct": "0.81",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3050481",
+      "longName": "Tanner Hudson"
+    },
+    "3051388": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.49"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3051388",
+      "longName": "Vonn Bell"
+    },
+    "3051909": {
+      "gameID": "20241103_LV@CIN",
+      "scoringPlays": [
+        {
+          "score": "Zamir White 1 Yd Run (Daniel Carlson Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "17",
+          "scoreDetails": "11 plays, 70 yards, 5:24",
+          "scoreType": "TD",
+          "scoreTime": "9:36",
+          "team": "LV",
+          "playerIDs": [
+            "4361777",
+            "3051909"
+          ]
+        },
+        {
+          "score": "Daniel Carlson 46 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "10",
+          "awayScore": "10",
+          "teamID": "17",
+          "scoreDetails": "7 plays, 42 yards, 4:02",
+          "scoreType": "FG",
+          "scoreTime": "2:58",
+          "team": "LV",
+          "playerIDs": [
+            "3051909"
+          ]
+        },
+        {
+          "score": "Jack Jones 29 Yd Interception Return (Daniel Carlson Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "31",
+          "awayScore": "17",
+          "teamID": "17",
+          "scoreDetails": "2 plays, 15 yards, 0:49",
+          "scoreType": "TD",
+          "scoreTime": "13:17",
+          "team": "LV",
+          "playerIDs": [
+            "4035686",
+            "3051909"
+          ]
+        },
+        {
+          "score": "Brock Bowers 22 Yd pass from Desmond Ridder (Daniel Carlson Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "41",
+          "awayScore": "24",
+          "teamID": "17",
+          "scoreDetails": "6 plays, 70 yards, 1:12",
+          "scoreType": "TD",
+          "scoreTime": "0:41",
+          "team": "LV",
+          "playerIDs": [
+            "4239086",
+            "4432665",
+            "3051909"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.28",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "46",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "3",
+        "fgPct": "100.0",
+        "kickingPts": "6",
+        "xpAttempts": "3",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3051909",
+      "longName": "Daniel Carlson"
+    },
+    "3052743": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "4",
+        "tfl": "4",
+        "qbHits": "7",
+        "defensiveInterceptions": "0",
+        "sacks": "4",
+        "passDeflections": "1"
+      },
+      "playerID": "3052743",
+      "longName": "Trey Hendrickson"
+    },
+    "3059021": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3059021",
+      "longName": "Alex Cappa"
+    },
+    "3116164": {
+      "gameID": "20241103_LV@CIN",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "2",
+        "longRec": "47",
+        "targets": "6",
+        "recYds": "100",
+        "recAvg": "20.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Mike Gesicki 11 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "31",
+          "awayScore": "10",
+          "teamID": "7",
+          "scoreDetails": "5 plays, 21 yards, 2:08",
+          "scoreType": "TD",
+          "scoreTime": "7:34",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "3116164",
+            "4360234"
+          ]
+        },
+        {
+          "score": "Mike Gesicki 47 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "38",
+          "awayScore": "17",
+          "teamID": "7",
+          "scoreDetails": "6 plays, 64 yards, 0:59",
+          "scoreType": "TD",
+          "scoreTime": "5:37",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "3116164",
+            "4360234"
+          ]
+        }
+      ],
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.36",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3116164",
+      "longName": "Mike Gesicki"
+    },
+    "3116724": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.82"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3116724",
+      "longName": "Germaine Pratt"
+    },
+    "3116748": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.20"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3116748",
+      "longName": "B.J. Hill"
+    },
+    "3121416": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "28",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "2",
+        "defSnapPct": "0.46"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3121416",
+      "longName": "Sam Hubbard"
+    },
+    "3127310": {
+      "gameID": "20241103_LV@CIN",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "5",
+        "targets": "4",
+        "recYds": "14",
+        "recAvg": "3.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Drew Sample 2 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "24",
+          "awayScore": "10",
+          "teamID": "7",
+          "scoreDetails": "7 plays, 70 yards, 3:33",
+          "scoreType": "TD",
+          "scoreTime": "11:27",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "3127310",
+            "4360234"
+          ]
+        }
+      ],
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.76",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.47",
+        "offSnap": "56",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3127310",
+      "longName": "Drew Sample"
+    },
+    "3129446": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.76"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3129446",
+      "longName": "Robert Spillane"
+    },
+    "3134312": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.21",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3134312",
+      "longName": "Kolton Miller"
+    },
+    "3686689": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.28",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "280",
+        "punts": "5",
+        "puntAvg": "56.0",
+        "puntsin20": "3",
+        "puntTouchBacks": "0",
+        "puntLong": "70"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3686689",
+      "longName": "AJ Cole"
+    },
+    "3707061": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3707061",
+      "longName": "Cody Ford"
+    },
+    "3886812": {
+      "gameID": "20241103_LV@CIN",
+      "Rushing": {
+        "rushAvg": "-1.0",
+        "rushYds": "-1",
+        "carries": "1",
+        "longRush": "-1",
+        "rushTD": "0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3886812",
+      "longName": "Jake Browning"
+    },
+    "3915511": {
+      "gameID": "20241103_LV@CIN",
+      "Rushing": {
+        "rushAvg": "3.7",
+        "rushYds": "11",
+        "carries": "3",
+        "longRush": "10",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "85.4",
+        "rtg": "115.5",
+        "sacked": "1-8",
+        "passAttempts": "39",
+        "passAvg": "6.4",
+        "passTD": "5",
+        "passYds": "251",
+        "int": "1",
+        "passCompletions": "27"
+      },
+      "scoringPlays": [
+        {
+          "score": "Chase Brown 1 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "7",
+          "teamID": "7",
+          "scoreDetails": "13 plays, 70 yards, 7:57",
+          "scoreType": "TD",
+          "scoreTime": "1:39",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4362238",
+            "4360234"
+          ]
+        },
+        {
+          "score": "Andrei Iosivas 10 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "17",
+          "awayScore": "10",
+          "teamID": "7",
+          "scoreDetails": "5 plays, 70 yards, 2:26",
+          "scoreType": "TD",
+          "scoreTime": "0:32",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4368003",
+            "4360234"
+          ]
+        },
+        {
+          "score": "Drew Sample 2 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "24",
+          "awayScore": "10",
+          "teamID": "7",
+          "scoreDetails": "7 plays, 70 yards, 3:33",
+          "scoreType": "TD",
+          "scoreTime": "11:27",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "3127310",
+            "4360234"
+          ]
+        },
+        {
+          "score": "Mike Gesicki 11 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "31",
+          "awayScore": "10",
+          "teamID": "7",
+          "scoreDetails": "5 plays, 21 yards, 2:08",
+          "scoreType": "TD",
+          "scoreTime": "7:34",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "3116164",
+            "4360234"
+          ]
+        },
+        {
+          "score": "Mike Gesicki 47 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "38",
+          "awayScore": "17",
+          "teamID": "7",
+          "scoreDetails": "6 plays, 64 yards, 0:59",
+          "scoreType": "TD",
+          "scoreTime": "5:37",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "3116164",
+            "4360234"
+          ]
+        }
+      ],
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.99",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3915511",
+      "longName": "Joe Burrow"
+    },
+    "3916433": {
+      "gameID": "20241103_LV@CIN",
+      "Receiving": {
+        "receptions": "8",
+        "recTD": "0",
+        "longRec": "23",
+        "targets": "11",
+        "recYds": "105",
+        "recAvg": "13.1"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.97",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3916433",
+      "longName": "Jakobi Meyers"
+    },
+    "3916655": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "74",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3916655",
+      "longName": "Maxx Crosby"
+    },
+    "3917142": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "17",
+        "stSnap": "24",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3917142",
+      "longName": "Akeem Davis-Gaither"
+    },
+    "3918330": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "5",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.89"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "9",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "2",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3918330",
+      "longName": "Logan Wilson"
+    },
+    "3919510": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3919510",
+      "longName": "Alex Bachman"
+    },
+    "3925443": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.28",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3925443",
+      "longName": "Jacob Bobenmoyer"
+    },
+    "3931391": {
+      "gameID": "20241103_LV@CIN",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.16",
+        "offSnap": "22",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "3",
+        "puntReturnYds": "26",
+        "puntReturnAvg": "8.7",
+        "puntReturnLong": "13",
+        "puntReturnTD": "0"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3931391",
+      "longName": "Trenton Irwin"
+    },
+    "4035222": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.09",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.63",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4035222",
+      "longName": "Trayveon Williams"
+    },
+    "4035270": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4035270",
+      "longName": "Devin Cochran"
+    },
+    "4035686": {
+      "gameID": "20241103_LV@CIN",
+      "scoringPlays": [
+        {
+          "score": "Jack Jones 29 Yd Interception Return (Daniel Carlson Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "31",
+          "awayScore": "17",
+          "teamID": "17",
+          "scoreDetails": "2 plays, 15 yards, 0:49",
+          "scoreType": "TD",
+          "scoreTime": "13:17",
+          "team": "LV",
+          "playerIDs": [
+            "4035686",
+            "3051909"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "29",
+        "interceptionTDs": "1",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4035686",
+      "longName": "Jack Jones"
+    },
+    "4035776": {
+      "gameID": "20241103_LV@CIN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "1",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.24",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.16",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "43",
+        "kickReturnAvg": "21.5",
+        "kickReturnLong": "24"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4035776",
+      "longName": "Kendric Pryor"
+    },
+    "4036211": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.41",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "30",
+        "puntReturnAvg": "15.0",
+        "puntReturnLong": "24",
+        "puntReturnTD": "0"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036211",
+      "longName": "DJ Turner"
+    },
+    "4036507": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "8",
+        "stSnap": "20",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.13"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036507",
+      "longName": "Joe Bachie"
+    },
+    "4037626": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "5",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037626",
+      "longName": "Divine Deablo"
+    },
+    "4038524": {
+      "gameID": "20241103_LV@CIN",
+      "Rushing": {
+        "rushAvg": "0.0",
+        "rushYds": "0",
+        "carries": "1",
+        "longRush": "0",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "28.5",
+        "rtg": "81.5",
+        "sacked": "1-7",
+        "passAttempts": "17",
+        "passAvg": "7.3",
+        "passTD": "0",
+        "passYds": "124",
+        "int": "0",
+        "passCompletions": "10"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.57",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4038524",
+      "longName": "Gardner Minshew"
+    },
+    "4040774": {
+      "gameID": "20241103_LV@CIN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "18",
+        "targets": "2",
+        "recYds": "22",
+        "recAvg": "11.0"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.28",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "17",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4040774",
+      "longName": "Harrison Bryant"
+    },
+    "4040950": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4040950",
+      "longName": "Cordell Volson"
+    },
+    "4048244": {
+      "gameID": "20241103_LV@CIN",
+      "Rushing": {
+        "rushAvg": "4.0",
+        "rushYds": "36",
+        "carries": "9",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.39",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4048244",
+      "longName": "Alexander Mattison"
+    },
+    "4076803": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4076803",
+      "longName": "Jordan Meredith"
+    },
+    "4239086": {
+      "gameID": "20241103_LV@CIN",
+      "Rushing": {
+        "rushAvg": "2.0",
+        "rushYds": "2",
+        "carries": "1",
+        "longRush": "2",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "32.2",
+        "rtg": "99.5",
+        "sacked": "4-34",
+        "passAttempts": "16",
+        "passAvg": "4.6",
+        "passTD": "1",
+        "passYds": "74",
+        "int": "0",
+        "passCompletions": "11"
+      },
+      "scoringPlays": [
+        {
+          "score": "Brock Bowers 22 Yd pass from Desmond Ridder (Daniel Carlson Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "41",
+          "awayScore": "24",
+          "teamID": "17",
+          "scoreDetails": "6 plays, 70 yards, 1:12",
+          "scoreType": "TD",
+          "scoreTime": "0:41",
+          "team": "LV",
+          "playerIDs": [
+            "4239086",
+            "4432665",
+            "3051909"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.43",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4239086",
+      "longName": "Desmond Ridder"
+    },
+    "4240542": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240542",
+      "longName": "Nate Hobbs"
+    },
+    "4240575": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240575",
+      "longName": "Geno Stone"
+    },
+    "4240619": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.07"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4240619",
+      "longName": "Zach Carter"
+    },
+    "4240719": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4240719",
+      "longName": "Cal Adomitis"
+    },
+    "4240849": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.15"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240849",
+      "longName": "Charles Snowden"
+    },
+    "4242001": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.67",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "41",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4242001",
+      "longName": "Thayer Munford Jr."
+    },
+    "4242205": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242205",
+      "longName": "K'Lavon Chaisson"
+    },
+    "4242457": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "17",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.23"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242457",
+      "longName": "Matthew Butler"
+    },
+    "4242973": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "10",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.57"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4242973",
+      "longName": "Darnay Holmes"
+    },
+    "4243375": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.52",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4243375",
+      "longName": "Dylan Parham"
+    },
+    "4257240": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4257240",
+      "longName": "Tycen Anderson"
+    },
+    "4258207": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4258207",
+      "longName": "Andrew Stueber"
+    },
+    "4259632": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "74",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4259632",
+      "longName": "Isaiah Pola-Mao"
+    },
+    "4360234": {
+      "gameID": "20241103_LV@CIN",
+      "scoringPlays": [
+        {
+          "score": "Chase Brown 1 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "7",
+          "teamID": "7",
+          "scoreDetails": "13 plays, 70 yards, 7:57",
+          "scoreType": "TD",
+          "scoreTime": "1:39",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4362238",
+            "4360234"
+          ]
+        },
+        {
+          "score": "Evan McPherson 44 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "10",
+          "awayScore": "7",
+          "teamID": "7",
+          "scoreDetails": "14 plays, 64 yards, 6:29",
+          "scoreType": "FG",
+          "scoreTime": "7:00",
+          "team": "CIN",
+          "playerIDs": [
+            "4360234"
+          ]
+        },
+        {
+          "score": "Andrei Iosivas 10 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "17",
+          "awayScore": "10",
+          "teamID": "7",
+          "scoreDetails": "5 plays, 70 yards, 2:26",
+          "scoreType": "TD",
+          "scoreTime": "0:32",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4368003",
+            "4360234"
+          ]
+        },
+        {
+          "score": "Drew Sample 2 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "24",
+          "awayScore": "10",
+          "teamID": "7",
+          "scoreDetails": "7 plays, 70 yards, 3:33",
+          "scoreType": "TD",
+          "scoreTime": "11:27",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "3127310",
+            "4360234"
+          ]
+        },
+        {
+          "score": "Mike Gesicki 11 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "31",
+          "awayScore": "10",
+          "teamID": "7",
+          "scoreDetails": "5 plays, 21 yards, 2:08",
+          "scoreType": "TD",
+          "scoreTime": "7:34",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "3116164",
+            "4360234"
+          ]
+        },
+        {
+          "score": "Mike Gesicki 47 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "38",
+          "awayScore": "17",
+          "teamID": "7",
+          "scoreDetails": "6 plays, 64 yards, 0:59",
+          "scoreType": "TD",
+          "scoreTime": "5:37",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "3116164",
+            "4360234"
+          ]
+        },
+        {
+          "score": "Evan McPherson 27 Yd Field Goal  ",
+          "scorePeriod": "Q4",
+          "homeScore": "41",
+          "awayScore": "17",
+          "teamID": "7",
+          "scoreDetails": "7 plays, 4 yards, 3:36",
+          "scoreType": "FG",
+          "scoreTime": "1:53",
+          "team": "CIN",
+          "playerIDs": [
+            "4360234"
+          ]
+        }
+      ],
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.47",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "44",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "5",
+        "fgPct": "100.0",
+        "kickingPts": "11",
+        "xpAttempts": "5",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4360234",
+      "longName": "Evan McPherson"
+    },
+    "4360239": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "28",
+        "stSnapPct": "0.88",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360239",
+      "longName": "Amari Burney"
+    },
+    "4360469": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "28",
+        "stSnapPct": "0.88",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360469",
+      "longName": "Amari Gainer"
+    },
+    "4360855": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.02",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.66",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4360855",
+      "longName": "Kana'i Mauga"
+    },
+    "4361196": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4361196",
+      "longName": "Cam Taylor-Britt"
+    },
+    "4361426": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.50",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4361426",
+      "longName": "Justin Shorter"
+    },
+    "4361777": {
+      "gameID": "20241103_LV@CIN",
+      "Rushing": {
+        "rushAvg": "1.7",
+        "rushYds": "10",
+        "carries": "6",
+        "longRush": "4",
+        "rushTD": "1"
+      },
+      "scoringPlays": [
+        {
+          "score": "Zamir White 1 Yd Run (Daniel Carlson Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "17",
+          "scoreDetails": "11 plays, 70 yards, 5:24",
+          "scoreType": "TD",
+          "scoreTime": "9:36",
+          "team": "LV",
+          "playerIDs": [
+            "4361777",
+            "3051909"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.11",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.06",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4361777",
+      "longName": "Zamir White"
+    },
+    "4362094": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "17",
+        "stSnapPct": "0.53",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362094",
+      "longName": "Joseph Ossai"
+    },
+    "4362238": {
+      "gameID": "20241103_LV@CIN",
+      "Rushing": {
+        "rushAvg": "4.4",
+        "rushYds": "120",
+        "carries": "27",
+        "longRush": "21",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "1",
+        "longRec": "13",
+        "targets": "5",
+        "recYds": "37",
+        "recAvg": "7.4"
+      },
+      "scoringPlays": [
+        {
+          "score": "Chase Brown 1 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "7",
+          "teamID": "7",
+          "scoreDetails": "13 plays, 70 yards, 7:57",
+          "scoreType": "TD",
+          "scoreTime": "1:39",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4362238",
+            "4360234"
+          ]
+        }
+      ],
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.80",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4362238",
+      "longName": "Chase Brown"
+    },
+    "4362487": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "74",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "13",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4362487",
+      "longName": "Tre'von Moehrig"
+    },
+    "4362502": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "17",
+        "stSnapPct": "0.53",
+        "offSnap": "0",
+        "defSnapPct": "0.16"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362502",
+      "longName": "DJ Ivey"
+    },
+    "4362628": {
+      "gameID": "20241103_LV@CIN",
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "11",
+        "recYds": "43",
+        "recAvg": "6.1"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.88",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "65",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4362628",
+      "longName": "Ja'Marr Chase"
+    },
+    "4365319": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "13",
+        "stSnap": "21",
+        "stSnapPct": "0.66",
+        "offSnap": "0",
+        "defSnapPct": "0.21"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4365319",
+      "longName": "Josh Newton"
+    },
+    "4368003": {
+      "gameID": "20241103_LV@CIN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "1",
+        "longRec": "10",
+        "targets": "4",
+        "recYds": "10",
+        "recAvg": "10.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Andrei Iosivas 10 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "17",
+          "awayScore": "10",
+          "teamID": "7",
+          "scoreDetails": "5 plays, 70 yards, 2:26",
+          "scoreType": "TD",
+          "scoreTime": "0:32",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4368003",
+            "4360234"
+          ]
+        }
+      ],
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.91",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4368003",
+      "longName": "Andrei Iosivas"
+    },
+    "4372533": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.51"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4372533",
+      "longName": "Tyree Wilson"
+    },
+    "4373956": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4373956",
+      "longName": "Jonah Laulu"
+    },
+    "4379413": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.66",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4379413",
+      "longName": "Chris Smith II"
+    },
+    "4426399": {
+      "gameID": "20241103_LV@CIN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "7",
+        "targets": "2",
+        "recYds": "7",
+        "recAvg": "7.0"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.44",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4426399",
+      "longName": "Ramel Keyton"
+    },
+    "4427834": {
+      "gameID": "20241103_LV@CIN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "18",
+        "targets": "2",
+        "recYds": "24",
+        "recAvg": "12.0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.20",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.06",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4427834",
+      "longName": "Erick All Jr."
+    },
+    "4428125": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "24",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.11"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428125",
+      "longName": "Maema Njongmeta"
+    },
+    "4428718": {
+      "gameID": "20241103_LV@CIN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "6",
+        "recYds": "5",
+        "recAvg": "2.5"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.92",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "56",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4428718",
+      "longName": "Tre Tucker"
+    },
+    "4428985": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.33"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428985",
+      "longName": "Myles Murphy"
+    },
+    "4429012": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4429012",
+      "longName": "Kendall Milton"
+    },
+    "4429560": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "28",
+        "stSnapPct": "0.88",
+        "offSnap": "0",
+        "defSnapPct": "0.24"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429560",
+      "longName": "Tommy Eichenberg"
+    },
+    "4430065": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "13",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.21"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4430065",
+      "longName": "Cedric Johnson"
+    },
+    "4431571": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.99",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4431571",
+      "longName": "Amarius Mims"
+    },
+    "4432301": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "5",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.52"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4432301",
+      "longName": "Kris Jenkins Jr."
+    },
+    "4432665": {
+      "gameID": "20241103_LV@CIN",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "1",
+        "longRec": "22",
+        "targets": "8",
+        "recYds": "45",
+        "recAvg": "9.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Brock Bowers 22 Yd pass from Desmond Ridder (Daniel Carlson Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "41",
+          "awayScore": "24",
+          "teamID": "17",
+          "scoreDetails": "6 plays, 70 yards, 1:12",
+          "scoreType": "TD",
+          "scoreTime": "0:41",
+          "team": "LV",
+          "playerIDs": [
+            "4239086",
+            "4432665",
+            "3051909"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.90",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4432665",
+      "longName": "Brock Bowers"
+    },
+    "4567098": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "31",
+        "stSnap": "22",
+        "stSnapPct": "0.69",
+        "offSnap": "0",
+        "defSnapPct": "0.51"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4567098",
+      "longName": "Jordan Battle"
+    },
+    "4568986": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.08",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "6",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4568986",
+      "longName": "Matt Lee"
+    },
+    "4569323": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "21",
+        "stSnapPct": "0.66",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4569323",
+      "longName": "Thomas Harper"
+    },
+    "4572036": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4572036",
+      "longName": "DJ Turner II"
+    },
+    "4605498": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "19",
+        "stSnapPct": "0.59",
+        "offSnap": "0",
+        "defSnapPct": "0.38"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4605498",
+      "longName": "Decamerion Richardson"
+    },
+    "4606683": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4606683",
+      "longName": "DJ Glaze"
+    },
+    "4608820": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "175",
+        "punts": "3",
+        "puntAvg": "58.3",
+        "puntsin20": "0",
+        "puntTouchBacks": "1",
+        "puntLong": "65"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4608820",
+      "longName": "Ryan Rehkow"
+    },
+    "4686911": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4686911",
+      "longName": "Jakorian Bennett"
+    },
+    "4692680": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "5",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4692680",
+      "longName": "McKinnley Jackson"
+    },
+    "4875295": {
+      "gameID": "20241103_LV@CIN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4875295",
+      "longName": "Jackson Powers-Johnson"
+    }
+  },
+  "arenaCapacity": "65,515",
+  "arena": "Paycor Stadium",
+  "homePts": "41",
+  "awayResult": "L",
+  "teamIDAway": "17",
+  "Referees": "Kent Payne, Greg Yette, Bryan Neale, Kevin Codey, Bradley Rogers, Anthony Jeffries, Joe Blubaugh",
+  "gameClock": "",
+  "awayPts": "24",
+  "gameID": "20241103_LV@CIN",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

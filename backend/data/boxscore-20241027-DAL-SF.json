@@ -1,0 +1,2907 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "DAL",
+      "teamID": "9",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "2",
+      "ydsAllowed": "469",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "30",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "SF",
+      "teamID": "28",
+      "defTD": "0",
+      "defensiveInterceptions": "2",
+      "sacks": "2",
+      "ydsAllowed": "292",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "24",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "292",
+      "rushingAttempts": "19",
+      "rushingYards": "56",
+      "fumblesLost": "0",
+      "penalties": "6-30",
+      "totalPlays": "59",
+      "possession": "26:48",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "25-38",
+      "passingFirstDowns": "13",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "2-7",
+      "thirdDownEfficiency": "4-12",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.9",
+      "redZoneScoredAndAttempted": "2-3",
+      "teamID": "9",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "12",
+      "rushingFirstDowns": "3",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "18",
+      "passTD": "2",
+      "team": "DAL",
+      "blockedXP": "0",
+      "teamAbv": "DAL",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "1-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "236",
+      "yardsPerRush": "2.9",
+      "snapCounts": {
+        "totalSpecialTeams": "30",
+        "totalOffensive": "62",
+        "totalDefensive": "68"
+      },
+      "turnovers": "2",
+      "yardsPerPass": "5.9"
+    },
+    "home": {
+      "totalYards": "469",
+      "rushingAttempts": "36",
+      "rushingYards": "223",
+      "fumblesLost": "0",
+      "penalties": "9-73",
+      "totalPlays": "64",
+      "possession": "33:12",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "18-26",
+      "passingFirstDowns": "9",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "2-14",
+      "thirdDownEfficiency": "8-16",
+      "blockedPunt": "0",
+      "yardsPerPlay": "7.3",
+      "redZoneScoredAndAttempted": "3-4",
+      "teamID": "28",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "12",
+      "rushingFirstDowns": "10",
+      "blockedFG": "0",
+      "rushTD": "2",
+      "twoPointConversions": "0",
+      "firstDowns": "19",
+      "passTD": "1",
+      "team": "SF",
+      "blockedXP": "0",
+      "teamAbv": "SF",
+      "firstDownsFromPenalties": "0",
+      "fourthDownEfficiency": "0-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "246",
+      "yardsPerRush": "6.2",
+      "snapCounts": {
+        "totalSpecialTeams": "30",
+        "totalOffensive": "68",
+        "totalDefensive": "62"
+      },
+      "turnovers": "0",
+      "yardsPerPass": "8.8"
+    }
+  },
+  "gameDate": "20241027",
+  "scoringPlays": [
+    {
+      "score": "Anders Carlson 50 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "0",
+      "teamID": "28",
+      "scoreDetails": "7 plays, 55 yards, 4:30",
+      "scoreType": "FG",
+      "scoreTime": "7:14",
+      "team": "SF",
+      "playerIDs": [
+        "4242519"
+      ]
+    },
+    {
+      "score": "Ezekiel Elliott 1 Yd Run (Brandon Aubrey Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "7",
+      "teamID": "9",
+      "scoreDetails": "11 plays, 65 yards, 6:35",
+      "scoreType": "TD",
+      "scoreTime": "10:58",
+      "team": "DAL",
+      "playerIDs": [
+        "3051392",
+        "3953687"
+      ]
+    },
+    {
+      "score": "Brandon Aubrey 29 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "10",
+      "teamID": "9",
+      "scoreDetails": "8 plays, 46 yards, 3:36",
+      "scoreType": "FG",
+      "scoreTime": "2:56",
+      "team": "DAL",
+      "playerIDs": [
+        "3953687"
+      ]
+    },
+    {
+      "score": "Anders Carlson 44 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "6",
+      "awayScore": "10",
+      "teamID": "28",
+      "scoreDetails": "6 plays, 39 yards, 1:26",
+      "scoreType": "FG",
+      "scoreTime": "1:30",
+      "team": "SF",
+      "playerIDs": [
+        "4242519"
+      ]
+    },
+    {
+      "score": "Isaac Guerendo 4 Yd Run (Anders Carlson Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "13",
+      "awayScore": "10",
+      "teamID": "28",
+      "scoreDetails": "5 plays, 60 yards, 2:03",
+      "scoreType": "TD",
+      "scoreTime": "12:57",
+      "team": "SF",
+      "playerIDs": [
+        "4372561",
+        "4242519"
+      ]
+    },
+    {
+      "score": "George Kittle 2 Yd pass from Brock Purdy (Anders Carlson Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "20",
+      "awayScore": "10",
+      "teamID": "28",
+      "scoreDetails": "7 plays, 32 yards, 4:16",
+      "scoreType": "TD",
+      "scoreTime": "7:14",
+      "team": "SF",
+      "playerIDs": [
+        "4361741",
+        "3040151",
+        "4242519"
+      ]
+    },
+    {
+      "score": "Brock Purdy 2 Yd Run (Anders Carlson Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "27",
+      "awayScore": "10",
+      "teamID": "28",
+      "scoreDetails": "9 plays, 75 yards, 5:33",
+      "scoreType": "TD",
+      "scoreTime": "0:36",
+      "team": "SF",
+      "playerIDs": [
+        "4361741",
+        "4242519"
+      ]
+    },
+    {
+      "score": "CeeDee Lamb 7 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "27",
+      "awayScore": "17",
+      "teamID": "9",
+      "scoreDetails": "10 plays, 70 yards, 3:59",
+      "scoreType": "TD",
+      "scoreTime": "7:58",
+      "team": "DAL",
+      "playerIDs": [
+        "2577417",
+        "4241389",
+        "3953687"
+      ]
+    },
+    {
+      "score": "Anders Carlson 41 Yd Field Goal  ",
+      "scorePeriod": "Q4",
+      "homeScore": "30",
+      "awayScore": "17",
+      "teamID": "28",
+      "scoreDetails": "6 plays, 47 yards, 3:33",
+      "scoreType": "FG",
+      "scoreTime": "4:25",
+      "team": "SF",
+      "playerIDs": [
+        "4242519"
+      ]
+    },
+    {
+      "score": "CeeDee Lamb 20 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "30",
+      "awayScore": "24",
+      "teamID": "9",
+      "scoreDetails": "4 plays, 70 yards, 0:53",
+      "scoreType": "TD",
+      "scoreTime": "3:32",
+      "team": "DAL",
+      "playerIDs": [
+        "2577417",
+        "4241389",
+        "3953687"
+      ]
+    }
+  ],
+  "network": "NBC/Peacock",
+  "teamIDHome": "28",
+  "homeResult": "W",
+  "away": "DAL",
+  "gameWeek": "Week 8",
+  "attendance": "71,521",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "0",
+      "Q2": "10",
+      "Q3": "0",
+      "Q4": "14",
+      "teamID": "9",
+      "currentlyInPossession": "False",
+      "totalPts": "24",
+      "teamAbv": "DAL"
+    },
+    "home": {
+      "Q1": "3",
+      "Q2": "3",
+      "Q3": "21",
+      "Q4": "3",
+      "teamID": "28",
+      "currentlyInPossession": "False",
+      "totalPts": "30",
+      "teamAbv": "SF"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Santa Clara, CA",
+  "home": "SF",
+  "playerStats": {
+    "13241": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "13241",
+      "longName": "Trent Williams"
+    },
+    "13281": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.22"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "13281",
+      "longName": "Linval Joseph"
+    },
+    "14950": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "194",
+        "punts": "4",
+        "puntAvg": "48.5",
+        "puntsin20": "3",
+        "puntTouchBacks": "0",
+        "puntLong": "59"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "14950",
+      "longName": "Bryan Anger"
+    },
+    "16002": {
+      "gameID": "20241027_DAL@SF",
+      "Rushing": {
+        "rushAvg": "1.0",
+        "rushYds": "1",
+        "carries": "1",
+        "longRush": "1",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "1",
+        "recYds": "6",
+        "recAvg": "6.0"
+      },
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.57",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "39",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "16002",
+      "longName": "Kyle Juszczyk"
+    },
+    "16709": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "62",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "16709",
+      "longName": "Zack Martin"
+    },
+    "17474": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "26",
+        "stSnapPct": "0.87",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "17474",
+      "longName": "C.J. Goodwin"
+    },
+    "2510863": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "68",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2510863",
+      "longName": "Eric Kendricks"
+    },
+    "2577185": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "2577185",
+      "longName": "Jake Brendel"
+    },
+    "2577417": {
+      "gameID": "20241027_DAL@SF",
+      "Rushing": {
+        "rushAvg": "-1.0",
+        "rushYds": "-1",
+        "carries": "1",
+        "longRush": "-1",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "39.3",
+        "rtg": "79.2",
+        "sacked": "2-7",
+        "passAttempts": "38",
+        "passAvg": "6.4",
+        "passTD": "2",
+        "passYds": "243",
+        "int": "2",
+        "passCompletions": "25"
+      },
+      "scoringPlays": [
+        {
+          "score": "CeeDee Lamb 7 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "17",
+          "teamID": "9",
+          "scoreDetails": "10 plays, 70 yards, 3:59",
+          "scoreType": "TD",
+          "scoreTime": "7:58",
+          "team": "DAL",
+          "playerIDs": [
+            "2577417",
+            "4241389",
+            "3953687"
+          ]
+        },
+        {
+          "score": "CeeDee Lamb 20 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "30",
+          "awayScore": "24",
+          "teamID": "9",
+          "scoreDetails": "4 plays, 70 yards, 0:53",
+          "scoreType": "TD",
+          "scoreTime": "3:32",
+          "team": "DAL",
+          "playerIDs": [
+            "2577417",
+            "4241389",
+            "3953687"
+          ]
+        }
+      ],
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "62",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "2577417",
+      "longName": "Dak Prescott"
+    },
+    "2578533": {
+      "gameID": "20241027_DAL@SF",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.76",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "52",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "2578533",
+      "longName": "Chris Conley"
+    },
+    "2582132": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "2582132",
+      "longName": "Adrian Amos"
+    },
+    "2971816": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "2971816",
+      "longName": "Nick Vigil"
+    },
+    "2975863": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.21",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.80",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "2975863",
+      "longName": "Eric Saubert"
+    },
+    "2977681": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.35"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2977681",
+      "longName": "Carlos Watkins"
+    },
+    "2979553": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "2979553",
+      "longName": "Taybor Pepper"
+    },
+    "3040151": {
+      "gameID": "20241027_DAL@SF",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "1",
+        "longRec": "43",
+        "targets": "7",
+        "recYds": "128",
+        "recAvg": "21.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "George Kittle 2 Yd pass from Brock Purdy (Anders Carlson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "20",
+          "awayScore": "10",
+          "teamID": "28",
+          "scoreDetails": "7 plays, 32 yards, 4:16",
+          "scoreType": "TD",
+          "scoreTime": "7:14",
+          "team": "SF",
+          "playerIDs": [
+            "4361741",
+            "3040151",
+            "4242519"
+          ]
+        }
+      ],
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.94",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "3040151",
+      "longName": "George Kittle"
+    },
+    "3040180": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "62",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3040180",
+      "longName": "De'Vondre Campbell"
+    },
+    "3040471": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "47",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.76"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3040471",
+      "longName": "Maliek Collins"
+    },
+    "3043136": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3043136",
+      "longName": "Leonard Floyd"
+    },
+    "3045207": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.96"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3045207",
+      "longName": "Jourdan Lewis"
+    },
+    "3050199": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "3050199",
+      "longName": "George Odum"
+    },
+    "3051392": {
+      "gameID": "20241027_DAL@SF",
+      "Rushing": {
+        "rushAvg": "3.4",
+        "rushYds": "34",
+        "carries": "10",
+        "longRush": "11",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "1",
+        "recYds": "4",
+        "recAvg": "4.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ezekiel Elliott 1 Yd Run (Brandon Aubrey Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "9",
+          "scoreDetails": "11 plays, 65 yards, 6:35",
+          "scoreType": "TD",
+          "scoreTime": "10:58",
+          "team": "DAL",
+          "playerIDs": [
+            "3051392",
+            "3953687"
+          ]
+        }
+      ],
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.45",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "28",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "3051392",
+      "longName": "Ezekiel Elliott"
+    },
+    "3051911": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3051911",
+      "longName": "Carl Lawson"
+    },
+    "3052357": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3052357",
+      "longName": "Trent Sieg"
+    },
+    "3116175": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.38"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3116175",
+      "longName": "Amani Oruwariye"
+    },
+    "3116593": {
+      "gameID": "20241027_DAL@SF",
+      "Rushing": {
+        "rushAvg": "2.0",
+        "rushYds": "12",
+        "carries": "6",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "1",
+        "recYds": "10",
+        "recAvg": "10.0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.27",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "17",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "3116593",
+      "longName": "Dalvin Cook"
+    },
+    "3121415": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3121415",
+      "longName": "Malik Hooker"
+    },
+    "3122135": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.96"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3122135",
+      "longName": "Donovan Wilson"
+    },
+    "3122797": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "9",
+        "stSnap": "18",
+        "stSnapPct": "0.60",
+        "offSnap": "0",
+        "defSnapPct": "0.15"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3122797",
+      "longName": "Isaac Yiadom"
+    },
+    "3126486": {
+      "gameID": "20241027_DAL@SF",
+      "Rushing": {
+        "rushAvg": "3.8",
+        "rushYds": "15",
+        "carries": "4",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "47",
+        "targets": "7",
+        "recYds": "71",
+        "recAvg": "17.8"
+      },
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.62",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "3126486",
+      "longName": "Deebo Samuel Sr."
+    },
+    "3138826": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "62",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3138826",
+      "longName": "Fred Warner"
+    },
+    "3676833": {
+      "gameID": "20241027_DAL@SF",
+      "Rushing": {
+        "rushAvg": "11.0",
+        "rushYds": "11",
+        "carries": "1",
+        "longRush": "11",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "16",
+        "targets": "4",
+        "recYds": "16",
+        "recAvg": "16.0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.23",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.37",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "5",
+        "kickReturnTD": "0",
+        "kickReturnYds": "115",
+        "kickReturnAvg": "23.0",
+        "kickReturnLong": "26"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "13",
+        "puntReturnAvg": "13.0",
+        "puntReturnLong": "13",
+        "puntReturnTD": "0"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3676833",
+      "longName": "KaVontae Turpin"
+    },
+    "3915834": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "62",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "3915834",
+      "longName": "Terence Steele"
+    },
+    "3916075": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "3916075",
+      "longName": "Colton McKivitz"
+    },
+    "3931424": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.60",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3931424",
+      "longName": "Demetrius Flannigan-Fowles"
+    },
+    "3953687": {
+      "gameID": "20241027_DAL@SF",
+      "scoringPlays": [
+        {
+          "score": "Ezekiel Elliott 1 Yd Run (Brandon Aubrey Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "9",
+          "scoreDetails": "11 plays, 65 yards, 6:35",
+          "scoreType": "TD",
+          "scoreTime": "10:58",
+          "team": "DAL",
+          "playerIDs": [
+            "3051392",
+            "3953687"
+          ]
+        },
+        {
+          "score": "Brandon Aubrey 29 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "10",
+          "teamID": "9",
+          "scoreDetails": "8 plays, 46 yards, 3:36",
+          "scoreType": "FG",
+          "scoreTime": "2:56",
+          "team": "DAL",
+          "playerIDs": [
+            "3953687"
+          ]
+        },
+        {
+          "score": "CeeDee Lamb 7 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "17",
+          "teamID": "9",
+          "scoreDetails": "10 plays, 70 yards, 3:59",
+          "scoreType": "TD",
+          "scoreTime": "7:58",
+          "team": "DAL",
+          "playerIDs": [
+            "2577417",
+            "4241389",
+            "3953687"
+          ]
+        },
+        {
+          "score": "CeeDee Lamb 20 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "30",
+          "awayScore": "24",
+          "teamID": "9",
+          "scoreDetails": "4 plays, 70 yards, 0:53",
+          "scoreType": "TD",
+          "scoreTime": "3:32",
+          "team": "DAL",
+          "playerIDs": [
+            "2577417",
+            "4241389",
+            "3953687"
+          ]
+        }
+      ],
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "29",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "3",
+        "fgPct": "100.0",
+        "kickingPts": "6",
+        "xpAttempts": "3",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "3953687",
+      "longName": "Brandon Aubrey"
+    },
+    "4035685": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "172",
+        "punts": "4",
+        "puntAvg": "43.0",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "45"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "4035685",
+      "longName": "Mitch Wishnowsky"
+    },
+    "4035840": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.79"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035840",
+      "longName": "Osa Odighizuwa"
+    },
+    "4036132": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "10",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.85"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036132",
+      "longName": "Chauncey Golston"
+    },
+    "4037361": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.94"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037361",
+      "longName": "Charvarius Ward"
+    },
+    "4039052": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039052",
+      "longName": "Jordan Elliott"
+    },
+    "4039358": {
+      "gameID": "20241027_DAL@SF",
+      "Rushing": {
+        "rushAvg": "4.5",
+        "rushYds": "9",
+        "carries": "2",
+        "longRush": "5",
+        "rushTD": "0"
+      },
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.57",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "59",
+        "kickReturnAvg": "29.5",
+        "kickReturnLong": "30"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039358",
+      "longName": "Patrick Taylor Jr."
+    },
+    "4040605": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4040605",
+      "longName": "Nick Bosa"
+    },
+    "4040966": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4040966",
+      "longName": "Trevon Diggs"
+    },
+    "4043041": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "4043041",
+      "longName": "Jaylon Moore"
+    },
+    "4240900": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.80",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240900",
+      "longName": "Buddy Johnson"
+    },
+    "4241087": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4241087",
+      "longName": "Brock Hoffman"
+    },
+    "4241389": {
+      "gameID": "20241027_DAL@SF",
+      "Receiving": {
+        "receptions": "13",
+        "recTD": "2",
+        "longRec": "29",
+        "targets": "17",
+        "recYds": "146",
+        "recAvg": "11.2"
+      },
+      "scoringPlays": [
+        {
+          "score": "CeeDee Lamb 7 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "17",
+          "teamID": "9",
+          "scoreDetails": "10 plays, 70 yards, 3:59",
+          "scoreType": "TD",
+          "scoreTime": "7:58",
+          "team": "DAL",
+          "playerIDs": [
+            "2577417",
+            "4241389",
+            "3953687"
+          ]
+        },
+        {
+          "score": "CeeDee Lamb 20 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "30",
+          "awayScore": "24",
+          "teamID": "9",
+          "scoreDetails": "4 plays, 70 yards, 0:53",
+          "scoreType": "TD",
+          "scoreTime": "3:32",
+          "team": "DAL",
+          "playerIDs": [
+            "2577417",
+            "4241389",
+            "3953687"
+          ]
+        }
+      ],
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.89",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241389",
+      "longName": "CeeDee Lamb"
+    },
+    "4241921": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "20",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241921",
+      "longName": "Markquese Bell"
+    },
+    "4242355": {
+      "gameID": "20241027_DAL@SF",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "8",
+        "recYds": "23",
+        "recAvg": "3.8"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.84",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "52",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4242355",
+      "longName": "Jake Ferguson"
+    },
+    "4242390": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4242390",
+      "longName": "Aaron Banks"
+    },
+    "4242488": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4242488",
+      "longName": "Deommodore Lenoir"
+    },
+    "4242519": {
+      "gameID": "20241027_DAL@SF",
+      "scoringPlays": [
+        {
+          "score": "Anders Carlson 50 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "0",
+          "teamID": "28",
+          "scoreDetails": "7 plays, 55 yards, 4:30",
+          "scoreType": "FG",
+          "scoreTime": "7:14",
+          "team": "SF",
+          "playerIDs": [
+            "4242519"
+          ]
+        },
+        {
+          "score": "Anders Carlson 44 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "6",
+          "awayScore": "10",
+          "teamID": "28",
+          "scoreDetails": "6 plays, 39 yards, 1:26",
+          "scoreType": "FG",
+          "scoreTime": "1:30",
+          "team": "SF",
+          "playerIDs": [
+            "4242519"
+          ]
+        },
+        {
+          "score": "Isaac Guerendo 4 Yd Run (Anders Carlson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "13",
+          "awayScore": "10",
+          "teamID": "28",
+          "scoreDetails": "5 plays, 60 yards, 2:03",
+          "scoreType": "TD",
+          "scoreTime": "12:57",
+          "team": "SF",
+          "playerIDs": [
+            "4372561",
+            "4242519"
+          ]
+        },
+        {
+          "score": "George Kittle 2 Yd pass from Brock Purdy (Anders Carlson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "20",
+          "awayScore": "10",
+          "teamID": "28",
+          "scoreDetails": "7 plays, 32 yards, 4:16",
+          "scoreType": "TD",
+          "scoreTime": "7:14",
+          "team": "SF",
+          "playerIDs": [
+            "4361741",
+            "3040151",
+            "4242519"
+          ]
+        },
+        {
+          "score": "Brock Purdy 2 Yd Run (Anders Carlson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "27",
+          "awayScore": "10",
+          "teamID": "28",
+          "scoreDetails": "9 plays, 75 yards, 5:33",
+          "scoreType": "TD",
+          "scoreTime": "0:36",
+          "team": "SF",
+          "playerIDs": [
+            "4361741",
+            "4242519"
+          ]
+        },
+        {
+          "score": "Anders Carlson 41 Yd Field Goal  ",
+          "scorePeriod": "Q4",
+          "homeScore": "30",
+          "awayScore": "17",
+          "teamID": "28",
+          "scoreDetails": "6 plays, 47 yards, 3:33",
+          "scoreType": "FG",
+          "scoreTime": "4:25",
+          "team": "SF",
+          "playerIDs": [
+            "4242519"
+          ]
+        }
+      ],
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "50",
+        "fgMade": "3",
+        "fgAttempts": "3",
+        "xpMade": "3",
+        "fgPct": "100.0",
+        "kickingPts": "12",
+        "xpAttempts": "3",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "4242519",
+      "longName": "Anders Carlson"
+    },
+    "4243541": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "14",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.23"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "4243541",
+      "longName": "Kalia Davis"
+    },
+    "4247590": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "4247590",
+      "longName": "Nick Zakelj"
+    },
+    "4249417": {
+      "gameID": "20241027_DAL@SF",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "28",
+        "targets": "3",
+        "recYds": "44",
+        "recAvg": "14.7"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.89",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4249417",
+      "longName": "Jalen Tolbert"
+    },
+    "4259147": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.50",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "4259147",
+      "longName": "Jake Tonges"
+    },
+    "4259558": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "19",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.08"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4259558",
+      "longName": "Robert Beal Jr."
+    },
+    "4360290": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.27",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "4360290",
+      "longName": "Brayden Willis"
+    },
+    "4360308": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.15"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4360308",
+      "longName": "KJ Henry"
+    },
+    "4360569": {
+      "gameID": "20241027_DAL@SF",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "18",
+        "carries": "6",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.16",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "4360569",
+      "longName": "Jordan Mason"
+    },
+    "4360590": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "26",
+        "stSnapPct": "0.87",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360590",
+      "longName": "Juanyeh Thomas"
+    },
+    "4360967": {
+      "gameID": "20241027_DAL@SF",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "2",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.31",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4360967",
+      "longName": "Brevyn Spann-Ford"
+    },
+    "4361741": {
+      "gameID": "20241027_DAL@SF",
+      "Rushing": {
+        "rushAvg": "7.0",
+        "rushYds": "56",
+        "carries": "8",
+        "longRush": "16",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "75.1",
+        "rtg": "114.3",
+        "sacked": "2-14",
+        "passAttempts": "26",
+        "passAvg": "10.0",
+        "passTD": "1",
+        "passYds": "260",
+        "int": "0",
+        "passCompletions": "18"
+      },
+      "scoringPlays": [
+        {
+          "score": "George Kittle 2 Yd pass from Brock Purdy (Anders Carlson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "20",
+          "awayScore": "10",
+          "teamID": "28",
+          "scoreDetails": "7 plays, 32 yards, 4:16",
+          "scoreType": "TD",
+          "scoreTime": "7:14",
+          "team": "SF",
+          "playerIDs": [
+            "4361741",
+            "3040151",
+            "4242519"
+          ]
+        },
+        {
+          "score": "Brock Purdy 2 Yd Run (Anders Carlson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "27",
+          "awayScore": "10",
+          "teamID": "28",
+          "scoreDetails": "9 plays, 75 yards, 5:33",
+          "scoreType": "TD",
+          "scoreTime": "0:36",
+          "team": "SF",
+          "playerIDs": [
+            "4361741",
+            "4242519"
+          ]
+        }
+      ],
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4361741",
+      "longName": "Brock Purdy"
+    },
+    "4362088": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "68",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4362088",
+      "longName": "DeMarvion Overshown"
+    },
+    "4362636": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4362636",
+      "longName": "Damone Clark"
+    },
+    "4362855": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "22",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.22"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362855",
+      "longName": "Israel Mukuamu"
+    },
+    "4362999": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "4362999",
+      "longName": "Spencer Burford"
+    },
+    "4372063": {
+      "gameID": "20241027_DAL@SF",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.22",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "4372063",
+      "longName": "Ronnie Bell"
+    },
+    "4372096": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.50",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4372096",
+      "longName": "Luke Schoonmaker"
+    },
+    "4372561": {
+      "gameID": "20241027_DAL@SF",
+      "Rushing": {
+        "rushAvg": "6.1",
+        "rushYds": "85",
+        "carries": "14",
+        "longRush": "19",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "4",
+        "recYds": "17",
+        "recAvg": "5.7"
+      },
+      "scoringPlays": [
+        {
+          "score": "Isaac Guerendo 4 Yd Run (Anders Carlson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "13",
+          "awayScore": "10",
+          "teamID": "28",
+          "scoreDetails": "5 plays, 60 yards, 2:03",
+          "scoreType": "TD",
+          "scoreTime": "12:57",
+          "team": "SF",
+          "playerIDs": [
+            "4372561",
+            "4242519"
+          ]
+        }
+      ],
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.43",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "4372561",
+      "longName": "Isaac Guerendo"
+    },
+    "4383396": {
+      "gameID": "20241027_DAL@SF",
+      "Rushing": {
+        "rushAvg": "0.0",
+        "rushYds": "0",
+        "carries": "1",
+        "longRush": "0",
+        "rushTD": "0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.40",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "25",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4383396",
+      "longName": "Hunter Luepke"
+    },
+    "4426347": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.56"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426347",
+      "longName": "Mazi Smith"
+    },
+    "4426663": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "62",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4426663",
+      "longName": "Cooper Beebe"
+    },
+    "4426698": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "2",
+        "stSnap": "18",
+        "stSnapPct": "0.60",
+        "offSnap": "0",
+        "defSnapPct": "0.03"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "4426698",
+      "longName": "Tatum Bethune"
+    },
+    "4427325": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4427325",
+      "longName": "Renardo Green"
+    },
+    "4427816": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "8",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.50"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4427816",
+      "longName": "Marist Liufau"
+    },
+    "4428209": {
+      "gameID": "20241027_DAL@SF",
+      "Rushing": {
+        "rushAvg": "39.0",
+        "rushYds": "39",
+        "carries": "1",
+        "longRush": "39",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "4",
+        "recYds": "38",
+        "recAvg": "9.5"
+      },
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.59",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "40",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "4428209",
+      "longName": "Ricky Pearsall"
+    },
+    "4428914": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.18"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428914",
+      "longName": "Dee Winters"
+    },
+    "4430379": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4430379",
+      "longName": "Asim Richards"
+    },
+    "4568652": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "62",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4568652",
+      "longName": "Tyler Smith"
+    },
+    "4569497": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4569497",
+      "longName": "Sam Okuayinonu"
+    },
+    "4575665": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.18",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "22",
+        "puntReturnAvg": "11.0",
+        "puntReturnLong": "16",
+        "puntReturnTD": "0"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "4575665",
+      "longName": "Jacob Cowing"
+    },
+    "4609048": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "62",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4609048",
+      "longName": "Tyler Guyton"
+    },
+    "4612182": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "14",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.23"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4612182",
+      "longName": "Evan Anderson"
+    },
+    "4685120": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4685120",
+      "longName": "T.J. Bass"
+    },
+    "4685978": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.57",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4685978",
+      "longName": "Darrell Luter Jr."
+    },
+    "4689333": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4689333",
+      "longName": "Tyrus Wheat"
+    },
+    "4692835": {
+      "gameID": "20241027_DAL@SF",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.66",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.40",
+        "offSnap": "41",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4692835",
+      "longName": "Jalen Brooks"
+    },
+    "4693644": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "62",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4693644",
+      "longName": "Ji'Ayir Brown"
+    },
+    "4696211": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "62",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4696211",
+      "longName": "Malik Mustapha"
+    },
+    "5083754": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.67",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "5083754",
+      "longName": "Ryan Flournoy"
+    },
+    "5092959": {
+      "gameID": "20241027_DAL@SF",
+      "teamID": "28",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "SF",
+      "teamAbv": "SF",
+      "playerID": "5092959",
+      "longName": "Dominick Puni"
+    }
+  },
+  "arenaCapacity": "68,500",
+  "arena": "Levi's Stadium",
+  "homePts": "30",
+  "awayResult": "L",
+  "teamIDAway": "9",
+  "Referees": "Bill Vinovich, Jimmy Buchanan, Todd Prukop, Aaron Santi, Tripp Sutter, Dale Keller, Scott Walker",
+  "gameClock": "",
+  "awayPts": "24",
+  "gameID": "20241027_DAL@SF",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

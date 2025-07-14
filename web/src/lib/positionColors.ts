@@ -28,6 +28,13 @@ export const getPositionColors = (position: string) => {
         border: 'border-orange-200',
         hover: 'hover:bg-orange-200'
       }
+    case 'PK':
+      return {
+        bg: 'bg-yellow-100',
+        text: 'text-yellow-800',
+        border: 'border-yellow-200',
+        hover: 'hover:bg-yellow-200'
+      }
     default:
       return {
         bg: 'bg-gray-100',

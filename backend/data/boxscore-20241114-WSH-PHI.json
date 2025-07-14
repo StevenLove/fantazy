@@ -1,0 +1,2653 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "WSH",
+      "teamID": "32",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "2",
+      "ydsAllowed": "434",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "26",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "PHI",
+      "teamID": "27",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "3",
+      "ydsAllowed": "264",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "18",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "264",
+      "rushingAttempts": "28",
+      "rushingYards": "93",
+      "fumblesLost": "0",
+      "penalties": "4-25",
+      "totalPlays": "63",
+      "possession": "26:56",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "22-32",
+      "passingFirstDowns": "10",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "3-20",
+      "thirdDownEfficiency": "3-12",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.2",
+      "redZoneScoredAndAttempted": "2-2",
+      "teamID": "32",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "6",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "1",
+      "firstDowns": "18",
+      "passTD": "1",
+      "team": "WSH",
+      "blockedXP": "0",
+      "teamAbv": "WSH",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "1-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "171",
+      "yardsPerRush": "3.3",
+      "snapCounts": {
+        "totalSpecialTeams": "27",
+        "totalOffensive": "66",
+        "totalDefensive": "71"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "4.9"
+    },
+    "home": {
+      "totalYards": "434",
+      "rushingAttempts": "40",
+      "rushingYards": "228",
+      "fumblesLost": "0",
+      "penalties": "4-49",
+      "totalPlays": "70",
+      "possession": "33:04",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "18-28",
+      "passingFirstDowns": "9",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "2-15",
+      "thirdDownEfficiency": "9-16",
+      "blockedPunt": "0",
+      "yardsPerPlay": "6.2",
+      "redZoneScoredAndAttempted": "1-3",
+      "teamID": "27",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "13",
+      "blockedFG": "0",
+      "rushTD": "3",
+      "twoPointConversions": "0",
+      "firstDowns": "23",
+      "passTD": "0",
+      "team": "PHI",
+      "blockedXP": "0",
+      "teamAbv": "PHI",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "206",
+      "yardsPerRush": "5.7",
+      "snapCounts": {
+        "totalSpecialTeams": "27",
+        "totalOffensive": "71",
+        "totalDefensive": "66"
+      },
+      "turnovers": "0",
+      "yardsPerPass": "6.9"
+    }
+  },
+  "gameDate": "20241114",
+  "scoringPlays": [
+    {
+      "score": "Brian Robinson Jr. 1 Yd Rush (Zane Gonzalez Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "7",
+      "teamID": "32",
+      "scoreDetails": "4 plays, 58 yards, 1:59",
+      "scoreType": "TD",
+      "scoreTime": "3:26",
+      "team": "WSH",
+      "playerIDs": [
+        "4241474",
+        "3043234"
+      ]
+    },
+    {
+      "score": "Jake Elliott 21 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "7",
+      "teamID": "27",
+      "scoreDetails": "15 plays, 87 yards, 3:52",
+      "scoreType": "FG",
+      "scoreTime": "0:19",
+      "team": "PHI",
+      "playerIDs": [
+        "3050478"
+      ]
+    },
+    {
+      "score": "Zane Gonzalez 45 Yd Field Goal",
+      "scorePeriod": "Q3",
+      "homeScore": "3",
+      "awayScore": "10",
+      "teamID": "32",
+      "scoreDetails": "8 plays, 42 yards, 3:57",
+      "scoreType": "FG",
+      "scoreTime": "11:03",
+      "team": "WSH",
+      "playerIDs": [
+        "3043234"
+      ]
+    },
+    {
+      "score": "Jake Elliott 31 Yd Field Goal",
+      "scorePeriod": "Q3",
+      "homeScore": "6",
+      "awayScore": "10",
+      "teamID": "27",
+      "scoreDetails": "10 plays, 74 yards, 5:31",
+      "scoreType": "FG",
+      "scoreTime": "5:32",
+      "team": "PHI",
+      "playerIDs": [
+        "3050478"
+      ]
+    },
+    {
+      "score": "Jalen Hurts 1 Yd Rush (Jake Elliott PAT Failed)",
+      "scorePeriod": "Q4",
+      "homeScore": "12",
+      "awayScore": "10",
+      "teamID": "27",
+      "scoreDetails": "11 plays, 76 yards, 5:27",
+      "scoreType": "TD",
+      "scoreTime": "12:00",
+      "team": "PHI",
+      "playerIDs": [
+        "4040715",
+        "3050478"
+      ]
+    },
+    {
+      "score": "Saquon Barkley 23 Yd Rush (Jake Elliott Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "19",
+      "awayScore": "10",
+      "teamID": "27",
+      "scoreDetails": "5 plays, 74 yards, 2:57",
+      "scoreType": "TD",
+      "scoreTime": "4:58",
+      "team": "PHI",
+      "playerIDs": [
+        "3929630",
+        "3050478"
+      ]
+    },
+    {
+      "score": "Saquon Barkley 39 Yd Rush (Jake Elliott Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "26",
+      "awayScore": "10",
+      "teamID": "27",
+      "scoreDetails": "2 plays, 46 yards, 0:12",
+      "scoreType": "TD",
+      "scoreTime": "4:38",
+      "team": "PHI",
+      "playerIDs": [
+        "3929630",
+        "3050478"
+      ]
+    },
+    {
+      "score": "Zach Ertz 5 Yd pass from Jayden Daniels (Jayden Daniels Pass to Zach Ertz for Two-Point Conversion)",
+      "scorePeriod": "Q4",
+      "homeScore": "26",
+      "awayScore": "18",
+      "teamID": "32",
+      "scoreDetails": "15 plays, 70 yards, 4:10",
+      "scoreType": "TD",
+      "scoreTime": "0:28",
+      "team": "WSH",
+      "playerIDs": [
+        "4426348",
+        "15835"
+      ]
+    }
+  ],
+  "network": "Prime Video",
+  "teamIDHome": "27",
+  "homeResult": "W",
+  "away": "WSH",
+  "gameWeek": "Week 11",
+  "attendance": "69,879",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "7",
+      "Q2": "0",
+      "Q3": "3",
+      "Q4": "8",
+      "teamID": "32",
+      "currentlyInPossession": "False",
+      "totalPts": "18",
+      "teamAbv": "WSH"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "3",
+      "Q3": "3",
+      "Q4": "20",
+      "teamID": "27",
+      "currentlyInPossession": "False",
+      "totalPts": "26",
+      "teamAbv": "PHI"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Philadelphia, PA",
+  "home": "PHI",
+  "playerStats": {
+    "13239": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.48"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "2",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "13239",
+      "longName": "Brandon Graham"
+    },
+    "14979": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "14979",
+      "longName": "Bobby Wagner"
+    },
+    "15797": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "15797",
+      "longName": "Lane Johnson"
+    },
+    "15835": {
+      "gameID": "20241114_WSH@PHI",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "1",
+        "recAvg": "7.8",
+        "receivingTwoPointConversion": "1",
+        "longRec": "16",
+        "targets": "7",
+        "recYds": "47"
+      },
+      "scoringPlays": [
+        {
+          "score": "Zach Ertz 5 Yd pass from Jayden Daniels (Jayden Daniels Pass to Zach Ertz for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "26",
+          "awayScore": "18",
+          "teamID": "32",
+          "scoreDetails": "15 plays, 70 yards, 4:10",
+          "scoreType": "TD",
+          "scoreTime": "0:28",
+          "team": "WSH",
+          "playerIDs": [
+            "4426348",
+            "15835"
+          ]
+        }
+      ],
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.80",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "15835",
+      "longName": "Zach Ertz"
+    },
+    "15863": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "15863",
+      "longName": "Darius Slay Jr."
+    },
+    "16166": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "221",
+        "punts": "5",
+        "puntAvg": "44.2",
+        "puntsin20": "2",
+        "puntTouchBacks": "0",
+        "puntLong": "51"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "16166",
+      "longName": "Tress Way"
+    },
+    "17202": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "17202",
+      "longName": "Cornelius Lucas"
+    },
+    "17378": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "17378",
+      "longName": "Tyler Ott"
+    },
+    "2565971": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.37",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "2565971",
+      "longName": "Rick Lovato"
+    },
+    "2574576": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "2574576",
+      "longName": "C.J. Uzomah"
+    },
+    "2976194": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.34"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2976194",
+      "longName": "Sheldon Day"
+    },
+    "2980100": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "2980100",
+      "longName": "Dante Fowler Jr."
+    },
+    "3042702": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3042702",
+      "longName": "Andrew Wylie"
+    },
+    "3043234": {
+      "gameID": "20241114_WSH@PHI",
+      "scoringPlays": [
+        {
+          "score": "Brian Robinson Jr. 1 Yd Rush (Zane Gonzalez Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "32",
+          "scoreDetails": "4 plays, 58 yards, 1:59",
+          "scoreType": "TD",
+          "scoreTime": "3:26",
+          "team": "WSH",
+          "playerIDs": [
+            "4241474",
+            "3043234"
+          ]
+        },
+        {
+          "score": "Zane Gonzalez 45 Yd Field Goal",
+          "scorePeriod": "Q3",
+          "homeScore": "3",
+          "awayScore": "10",
+          "teamID": "32",
+          "scoreDetails": "8 plays, 42 yards, 3:57",
+          "scoreType": "FG",
+          "scoreTime": "11:03",
+          "team": "WSH",
+          "playerIDs": [
+            "3043234"
+          ]
+        }
+      ],
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "45",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "1",
+        "fgPct": "100.0",
+        "kickingPts": "4",
+        "xpAttempts": "1",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3043234",
+      "longName": "Zane Gonzalez"
+    },
+    "3050478": {
+      "gameID": "20241114_WSH@PHI",
+      "scoringPlays": [
+        {
+          "score": "Jake Elliott 21 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "27",
+          "scoreDetails": "15 plays, 87 yards, 3:52",
+          "scoreType": "FG",
+          "scoreTime": "0:19",
+          "team": "PHI",
+          "playerIDs": [
+            "3050478"
+          ]
+        },
+        {
+          "score": "Jake Elliott 31 Yd Field Goal",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "10",
+          "teamID": "27",
+          "scoreDetails": "10 plays, 74 yards, 5:31",
+          "scoreType": "FG",
+          "scoreTime": "5:32",
+          "team": "PHI",
+          "playerIDs": [
+            "3050478"
+          ]
+        },
+        {
+          "score": "Jalen Hurts 1 Yd Rush (Jake Elliott PAT Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "12",
+          "awayScore": "10",
+          "teamID": "27",
+          "scoreDetails": "11 plays, 76 yards, 5:27",
+          "scoreType": "TD",
+          "scoreTime": "12:00",
+          "team": "PHI",
+          "playerIDs": [
+            "4040715",
+            "3050478"
+          ]
+        },
+        {
+          "score": "Saquon Barkley 23 Yd Rush (Jake Elliott Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "19",
+          "awayScore": "10",
+          "teamID": "27",
+          "scoreDetails": "5 plays, 74 yards, 2:57",
+          "scoreType": "TD",
+          "scoreTime": "4:58",
+          "team": "PHI",
+          "playerIDs": [
+            "3929630",
+            "3050478"
+          ]
+        },
+        {
+          "score": "Saquon Barkley 39 Yd Rush (Jake Elliott Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "26",
+          "awayScore": "10",
+          "teamID": "27",
+          "scoreDetails": "2 plays, 46 yards, 0:12",
+          "scoreType": "TD",
+          "scoreTime": "4:38",
+          "team": "PHI",
+          "playerIDs": [
+            "3929630",
+            "3050478"
+          ]
+        }
+      ],
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "31",
+        "fgMade": "2",
+        "fgAttempts": "4",
+        "xpMade": "2",
+        "fgPct": "50.0",
+        "kickingPts": "8",
+        "xpAttempts": "3",
+        "fgMissed": "2",
+        "xpMissed": "1"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3050478",
+      "longName": "Jake Elliott"
+    },
+    "3051746": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.70",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3051746",
+      "longName": "Oren Burks"
+    },
+    "3053795": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "14",
+        "stSnapPct": "0.52",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3053795",
+      "longName": "Michael Davis"
+    },
+    "3068267": {
+      "gameID": "20241114_WSH@PHI",
+      "Rushing": {
+        "rushAvg": "3.5",
+        "rushYds": "7",
+        "carries": "2",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "8",
+        "recTD": "0",
+        "longRec": "34",
+        "targets": "9",
+        "recYds": "89",
+        "recAvg": "11.1"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.52",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.22",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "59",
+        "kickReturnAvg": "29.5",
+        "kickReturnLong": "31"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3068267",
+      "longName": "Austin Ekeler"
+    },
+    "3115922": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3115922",
+      "longName": "Nick Allegretti"
+    },
+    "3121023": {
+      "gameID": "20241114_WSH@PHI",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "32",
+        "targets": "5",
+        "recYds": "61",
+        "recAvg": "12.2"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.89",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3121023",
+      "longName": "Dallas Goedert"
+    },
+    "3121409": {
+      "gameID": "20241114_WSH@PHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "4",
+        "recYds": "4",
+        "recAvg": "4.0"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.77",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3121409",
+      "longName": "Noah Brown"
+    },
+    "3121414": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3121414",
+      "longName": "Jalyn Holmes"
+    },
+    "3121422": {
+      "gameID": "20241114_WSH@PHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "2",
+        "recYds": "10",
+        "recAvg": "10.0"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.71",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "47",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3121422",
+      "longName": "Terry McLaurin"
+    },
+    "3121541": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3121541",
+      "longName": "Michael Deiter"
+    },
+    "3123303": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3123303",
+      "longName": "Trent Scott"
+    },
+    "3123938": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "15",
+        "stSnapPct": "0.56",
+        "offSnap": "0",
+        "defSnapPct": "0.06"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3123938",
+      "longName": "Avonte Maddox"
+    },
+    "3125248": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3125248",
+      "longName": "Jeremy Reaves"
+    },
+    "3127273": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "2",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "3127273",
+      "longName": "Frankie Luvu"
+    },
+    "3127586": {
+      "gameID": "20241114_WSH@PHI",
+      "Rushing": {
+        "rushAvg": "1.7",
+        "rushYds": "5",
+        "carries": "3",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "1",
+        "targets": "1",
+        "recYds": "1",
+        "recAvg": "1.0"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.17",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.67",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3127586",
+      "longName": "Jeremy McNichols"
+    },
+    "3693166": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.68"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3693166",
+      "longName": "Josh Sweat"
+    },
+    "3728258": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "31",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3728258",
+      "longName": "Clelin Ferrell"
+    },
+    "3734467": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.23"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3734467",
+      "longName": "Efe Obada"
+    },
+    "3915106": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3915106",
+      "longName": "Fred Johnson"
+    },
+    "3917657": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "15",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "9",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3917657",
+      "longName": "Zack Baun"
+    },
+    "3917914": {
+      "gameID": "20241114_WSH@PHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "2",
+        "recYds": "10",
+        "recAvg": "10.0"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.42",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "28",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "7",
+        "puntReturnAvg": "3.5",
+        "puntReturnLong": "4",
+        "puntReturnTD": "0"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3917914",
+      "longName": "Olamide Zaccheaus"
+    },
+    "3925354": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.68"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3925354",
+      "longName": "Daron Payne"
+    },
+    "3928979": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.70"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3928979",
+      "longName": "Dorance Armstrong"
+    },
+    "3929630": {
+      "gameID": "20241114_WSH@PHI",
+      "Rushing": {
+        "rushAvg": "5.6",
+        "rushYds": "146",
+        "carries": "26",
+        "longRush": "39",
+        "rushTD": "2"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "43",
+        "targets": "3",
+        "recYds": "52",
+        "recAvg": "26.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Saquon Barkley 23 Yd Rush (Jake Elliott Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "19",
+          "awayScore": "10",
+          "teamID": "27",
+          "scoreDetails": "5 plays, 74 yards, 2:57",
+          "scoreType": "TD",
+          "scoreTime": "4:58",
+          "team": "PHI",
+          "playerIDs": [
+            "3929630",
+            "3050478"
+          ]
+        },
+        {
+          "score": "Saquon Barkley 39 Yd Rush (Jake Elliott Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "26",
+          "awayScore": "10",
+          "teamID": "27",
+          "scoreDetails": "2 plays, 46 yards, 0:12",
+          "scoreType": "TD",
+          "scoreTime": "4:38",
+          "team": "PHI",
+          "playerIDs": [
+            "3929630",
+            "3050478"
+          ]
+        }
+      ],
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.82",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3929630",
+      "longName": "Saquon Barkley"
+    },
+    "3932668": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3932668",
+      "longName": "Jack Driscoll"
+    },
+    "4034953": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4034953",
+      "longName": "C.J. Gardner-Johnson"
+    },
+    "4035239": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.59",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "133",
+        "punts": "3",
+        "puntAvg": "44.3",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "51"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4035239",
+      "longName": "Braden Mann"
+    },
+    "4035624": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.89",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.22",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4035624",
+      "longName": "Landon Dickerson"
+    },
+    "4035788": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4035788",
+      "longName": "Tyler Biadasz"
+    },
+    "4039375": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "14",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.21"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039375",
+      "longName": "Bryce Huff"
+    },
+    "4040715": {
+      "gameID": "20241114_WSH@PHI",
+      "Rushing": {
+        "rushAvg": "3.9",
+        "rushYds": "39",
+        "carries": "10",
+        "longRush": "9",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "45.3",
+        "rtg": "88.5",
+        "sacked": "2-15",
+        "passAttempts": "28",
+        "passAvg": "7.9",
+        "passTD": "0",
+        "passYds": "221",
+        "int": "0",
+        "passCompletions": "18"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jalen Hurts 1 Yd Rush (Jake Elliott PAT Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "12",
+          "awayScore": "10",
+          "teamID": "27",
+          "scoreDetails": "11 plays, 76 yards, 5:27",
+          "scoreType": "TD",
+          "scoreTime": "12:00",
+          "team": "PHI",
+          "playerIDs": [
+            "4040715",
+            "3050478"
+          ]
+        }
+      ],
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4040715",
+      "longName": "Jalen Hurts"
+    },
+    "4043169": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "11",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "13",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "10",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4043169",
+      "longName": "Jeremy Chinn"
+    },
+    "4044540": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.44",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4044540",
+      "longName": "Isaiah Rodgers"
+    },
+    "4047646": {
+      "gameID": "20241114_WSH@PHI",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "25",
+        "targets": "8",
+        "recYds": "65",
+        "recAvg": "13.0"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.97",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "69",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4047646",
+      "longName": "A.J. Brown"
+    },
+    "4048228": {
+      "gameID": "20241114_WSH@PHI",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "3",
+        "recYds": "17",
+        "recAvg": "8.5"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.48",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4048228",
+      "longName": "John Bates"
+    },
+    "4239088": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4239088",
+      "longName": "Darrick Forrest"
+    },
+    "4239699": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.33"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4239699",
+      "longName": "Milton Williams"
+    },
+    "4240090": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4240090",
+      "longName": "Mekhi Becton"
+    },
+    "4241374": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.52",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.41",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4241374",
+      "longName": "Grant Calcaterra"
+    },
+    "4241468": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "6",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241468",
+      "longName": "Phidarian Mathis"
+    },
+    "4241474": {
+      "gameID": "20241114_WSH@PHI",
+      "Rushing": {
+        "rushAvg": "3.9",
+        "rushYds": "63",
+        "carries": "16",
+        "longRush": "18",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "1",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Brian Robinson Jr. 1 Yd Rush (Zane Gonzalez Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "32",
+          "scoreDetails": "4 plays, 58 yards, 1:59",
+          "scoreType": "TD",
+          "scoreTime": "3:26",
+          "team": "WSH",
+          "playerIDs": [
+            "4241474",
+            "3043234"
+          ]
+        }
+      ],
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.53",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4241474",
+      "longName": "Brian Robinson Jr."
+    },
+    "4241478": {
+      "gameID": "20241114_WSH@PHI",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "21",
+        "targets": "6",
+        "recYds": "29",
+        "recAvg": "7.3"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.89",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4241478",
+      "longName": "DeVonta Smith"
+    },
+    "4242516": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.80"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242516",
+      "longName": "Noah Igbinoghene"
+    },
+    "4243009": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.93",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4243009",
+      "longName": "Mykal Walker"
+    },
+    "4243956": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "66",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "1",
+        "defSnapPct": "1.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4243956",
+      "longName": "Reed Blankenship"
+    },
+    "4258206": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "51",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4258206",
+      "longName": "Benjamin St-Juste"
+    },
+    "4262199": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4262199",
+      "longName": "Sam Cosmi"
+    },
+    "4334215": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4334215",
+      "longName": "Jordan Mailata"
+    },
+    "4360378": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "10",
+        "stSnapPct": "0.37",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360378",
+      "longName": "Quan Martin"
+    },
+    "4360386": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "19",
+        "stSnapPct": "0.70",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360386",
+      "longName": "Sydney Brown"
+    },
+    "4360749": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.09"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4360749",
+      "longName": "Thomas Booker IV"
+    },
+    "4361178": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4361178",
+      "longName": "Cam Jurgens"
+    },
+    "4361409": {
+      "gameID": "20241114_WSH@PHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "2",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.41",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4361409",
+      "longName": "Jahan Dotson"
+    },
+    "4361577": {
+      "gameID": "20241114_WSH@PHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "2",
+        "recYds": "4",
+        "recAvg": "4.0"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.38",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.22",
+        "offSnap": "25",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4361577",
+      "longName": "Dyami Brown"
+    },
+    "4362116": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.30"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362116",
+      "longName": "Moro Ojomo"
+    },
+    "4362805": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.11",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4362805",
+      "longName": "Tyler Steen"
+    },
+    "4363097": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "18",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4363097",
+      "longName": "Percy Butler"
+    },
+    "4371733": {
+      "gameID": "20241114_WSH@PHI",
+      "Rushing": {
+        "rushAvg": "10.8",
+        "rushYds": "43",
+        "carries": "4",
+        "longRush": "14",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "1",
+        "recYds": "6",
+        "recAvg": "6.0"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.18",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.37",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "18",
+        "kickReturnAvg": "18.0",
+        "kickReturnLong": "18"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4371733",
+      "longName": "Kenneth Gainwell"
+    },
+    "4372070": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.70",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4372070",
+      "longName": "Ben VanSumeren"
+    },
+    "4381558": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "8",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.39"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4381558",
+      "longName": "Jordan Davis"
+    },
+    "4426331": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.50"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4426331",
+      "longName": "Nolan Smith Jr."
+    },
+    "4426340": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "63",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4426340",
+      "longName": "Nakobe Dean"
+    },
+    "4426348": {
+      "gameID": "20241114_WSH@PHI",
+      "Rushing": {
+        "rushAvg": "2.6",
+        "rushYds": "18",
+        "carries": "7",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "22.7",
+        "rtg": "81.6",
+        "sacked": "3-20",
+        "passAttempts": "32",
+        "passAvg": "6.0",
+        "passTD": "1",
+        "passYds": "191",
+        "int": "1",
+        "passingTwoPointConversion": "1",
+        "passCompletions": "22"
+      },
+      "scoringPlays": [
+        {
+          "score": "Zach Ertz 5 Yd pass from Jayden Daniels (Jayden Daniels Pass to Zach Ertz for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "26",
+          "awayScore": "18",
+          "teamID": "32",
+          "scoreDetails": "15 plays, 70 yards, 4:10",
+          "scoreType": "TD",
+          "scoreTime": "0:28",
+          "team": "WSH",
+          "playerIDs": [
+            "4426348",
+            "15835"
+          ]
+        }
+      ],
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4426348",
+      "longName": "Jayden Daniels"
+    },
+    "4426948": {
+      "gameID": "20241114_WSH@PHI",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4426948",
+      "longName": "Luke McCaffrey"
+    },
+    "4428414": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4428414",
+      "longName": "Mike Sainristil"
+    },
+    "4428532": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.08",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "6",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4428532",
+      "longName": "Ainias Smith"
+    },
+    "4428992": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.70",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4428992",
+      "longName": "Kelee Ringo"
+    },
+    "4430560": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.63"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430560",
+      "longName": "Jer'Zhan Newton"
+    },
+    "4431545": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "33",
+        "kickReturnAvg": "33.0",
+        "kickReturnLong": "33"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4431545",
+      "longName": "Will Shipley"
+    },
+    "4432777": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.59",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4432777",
+      "longName": "Jeremiah Trotter Jr."
+    },
+    "4568617": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4568617",
+      "longName": "Jordan Magee"
+    },
+    "4571162": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.59",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4571162",
+      "longName": "Jalyx Hunt"
+    },
+    "4572460": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.89",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4572460",
+      "longName": "Tyler Owens"
+    },
+    "4682618": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "20",
+        "puntReturnAvg": "10.0",
+        "puntReturnLong": "12",
+        "puntReturnTD": "0"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4682618",
+      "longName": "Cooper DeJean"
+    },
+    "4685030": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4685030",
+      "longName": "Brandon Coleman"
+    },
+    "4685759": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4685759",
+      "longName": "Jalen Carter"
+    },
+    "4686104": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.18",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4686104",
+      "longName": "Johnny Wilson"
+    },
+    "4686273": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4686273",
+      "longName": "Quinyon Mitchell"
+    },
+    "4690923": {
+      "gameID": "20241114_WSH@PHI",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.09",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.48",
+        "offSnap": "6",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4690923",
+      "longName": "Ben Sinnott"
+    }
+  },
+  "arenaCapacity": "69,879",
+  "arena": "Lincoln Financial Field",
+  "homePts": "26",
+  "awayResult": "L",
+  "teamIDAway": "32",
+  "Referees": "Trawick Boger, Adrian Hill, Greg Steed, Roy Ellison, Greg Bradley, Clay Reynard, David Oliver",
+  "gameClock": "",
+  "awayPts": "18",
+  "gameID": "20241114_WSH@PHI",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

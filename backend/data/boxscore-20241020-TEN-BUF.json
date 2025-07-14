@@ -1,0 +1,2795 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "TEN",
+      "teamID": "31",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "1",
+      "ydsAllowed": "389",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "34",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "BUF",
+      "teamID": "4",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "3",
+      "ydsAllowed": "289",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "10",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "289",
+      "rushingAttempts": "24",
+      "rushingYards": "89",
+      "fumblesLost": "1",
+      "penalties": "8-52",
+      "totalPlays": "67",
+      "possession": "32:46",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "25-40",
+      "passingFirstDowns": "13",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "3-15",
+      "thirdDownEfficiency": "6-16",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.3",
+      "redZoneScoredAndAttempted": "1-3",
+      "teamID": "31",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "12",
+      "rushingFirstDowns": "2",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "18",
+      "passTD": "1",
+      "team": "TEN",
+      "blockedXP": "0",
+      "teamAbv": "TEN",
+      "firstDownsFromPenalties": "3",
+      "fourthDownEfficiency": "1-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "200",
+      "yardsPerRush": "3.7",
+      "snapCounts": {
+        "totalSpecialTeams": "28",
+        "totalOffensive": "73",
+        "totalDefensive": "55"
+      },
+      "turnovers": "2",
+      "yardsPerPass": "4.7"
+    },
+    "home": {
+      "totalYards": "389",
+      "rushingAttempts": "20",
+      "rushingYards": "74",
+      "fumblesLost": "0",
+      "penalties": "5-40",
+      "totalPlays": "54",
+      "possession": "27:14",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "21-33",
+      "passingFirstDowns": "14",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "1-8",
+      "thirdDownEfficiency": "3-10",
+      "blockedPunt": "0",
+      "yardsPerPlay": "7.2",
+      "redZoneScoredAndAttempted": "4-6",
+      "teamID": "4",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "3",
+      "blockedFG": "0",
+      "rushTD": "2",
+      "twoPointConversions": "0",
+      "firstDowns": "18",
+      "passTD": "2",
+      "team": "BUF",
+      "blockedXP": "0",
+      "teamAbv": "BUF",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "315",
+      "yardsPerRush": "3.7",
+      "snapCounts": {
+        "totalSpecialTeams": "28",
+        "totalOffensive": "55",
+        "totalDefensive": "73"
+      },
+      "turnovers": "0",
+      "yardsPerPass": "9.3"
+    }
+  },
+  "gameDate": "20241020",
+  "scoringPlays": [
+    {
+      "score": "Nick Folk 25 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "3",
+      "teamID": "31",
+      "scoreDetails": "13 plays, 61 yards, 7:03",
+      "scoreType": "FG",
+      "scoreTime": "2:57",
+      "team": "TEN",
+      "playerIDs": [
+        "10621"
+      ]
+    },
+    {
+      "score": "Nick Westbrook-Ikhine 4 Yd pass from Mason Rudolph (Nick Folk Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "0",
+      "awayScore": "10",
+      "teamID": "31",
+      "scoreDetails": "8 plays, 75 yards, 4:45",
+      "scoreType": "TD",
+      "scoreTime": "11:31",
+      "team": "TEN",
+      "playerIDs": [
+        "3116407",
+        "3929785",
+        "10621"
+      ]
+    },
+    {
+      "score": "James Cook 11 Yd Run (Tyler Bass Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "7",
+      "awayScore": "10",
+      "teamID": "4",
+      "scoreDetails": "3 plays, 61 yards, 1:27",
+      "scoreType": "TD",
+      "scoreTime": "10:04",
+      "team": "BUF",
+      "playerIDs": [
+        "4379399",
+        "3917232"
+      ]
+    },
+    {
+      "score": "Amari Cooper 12 Yd pass from Josh Allen (Tyler Bass Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "14",
+      "awayScore": "10",
+      "teamID": "4",
+      "scoreDetails": "6 plays, 41 yards, 2:32",
+      "scoreType": "TD",
+      "scoreTime": "10:23",
+      "team": "BUF",
+      "playerIDs": [
+        "3918298",
+        "2976499",
+        "3917232"
+      ]
+    },
+    {
+      "score": "Tyler Bass 28 Yd Field Goal  ",
+      "scorePeriod": "Q3",
+      "homeScore": "17",
+      "awayScore": "10",
+      "teamID": "4",
+      "scoreDetails": "9 plays, 64 yards, 3:53",
+      "scoreType": "FG",
+      "scoreTime": "4:12",
+      "team": "BUF",
+      "playerIDs": [
+        "3917232"
+      ]
+    },
+    {
+      "score": "Ty Johnson 4 Yd pass from Josh Allen (Tyler Bass Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "24",
+      "awayScore": "10",
+      "teamID": "4",
+      "scoreDetails": "6 plays, 56 yards, 2:55",
+      "scoreType": "TD",
+      "scoreTime": "14:54",
+      "team": "BUF",
+      "playerIDs": [
+        "3918298",
+        "3915411",
+        "3917232"
+      ]
+    },
+    {
+      "score": "Tyler Bass 30 Yd Field Goal  ",
+      "scorePeriod": "Q4",
+      "homeScore": "27",
+      "awayScore": "10",
+      "teamID": "4",
+      "scoreDetails": "10 plays, 59 yards, 4:59",
+      "scoreType": "FG",
+      "scoreTime": "9:26",
+      "team": "BUF",
+      "playerIDs": [
+        "3917232"
+      ]
+    },
+    {
+      "score": "Ray Davis 16 Yd Run (Tyler Bass Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "34",
+      "awayScore": "10",
+      "teamID": "4",
+      "scoreDetails": "5 plays, 84 yards, 2:44",
+      "scoreType": "TD",
+      "scoreTime": "1:53",
+      "team": "BUF",
+      "playerIDs": [
+        "4429501",
+        "3917232"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "4",
+  "homeResult": "W",
+  "away": "TEN",
+  "gameWeek": "Week 7",
+  "attendance": "70,842",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "3",
+      "Q2": "7",
+      "Q3": "0",
+      "Q4": "0",
+      "teamID": "31",
+      "currentlyInPossession": "False",
+      "totalPts": "10",
+      "teamAbv": "TEN"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "7",
+      "Q3": "10",
+      "Q4": "17",
+      "teamID": "4",
+      "currentlyInPossession": "False",
+      "totalPts": "34",
+      "teamAbv": "BUF"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Orchard Park, NY",
+  "home": "BUF",
+  "playerStats": {
+    "10621": {
+      "gameID": "20241020_TEN@BUF",
+      "scoringPlays": [
+        {
+          "score": "Nick Folk 25 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "3",
+          "teamID": "31",
+          "scoreDetails": "13 plays, 61 yards, 7:03",
+          "scoreType": "FG",
+          "scoreTime": "2:57",
+          "team": "TEN",
+          "playerIDs": [
+            "10621"
+          ]
+        },
+        {
+          "score": "Nick Westbrook-Ikhine 4 Yd pass from Mason Rudolph (Nick Folk Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "0",
+          "awayScore": "10",
+          "teamID": "31",
+          "scoreDetails": "8 plays, 75 yards, 4:45",
+          "scoreType": "TD",
+          "scoreTime": "11:31",
+          "team": "TEN",
+          "playerIDs": [
+            "3116407",
+            "3929785",
+            "10621"
+          ]
+        }
+      ],
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "25",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "1",
+        "fgPct": "100.0",
+        "kickingPts": "4",
+        "xpAttempts": "1",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "10621",
+      "longName": "Nick Folk"
+    },
+    "13848": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "13848",
+      "longName": "Morgan Cox"
+    },
+    "15795": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "1",
+        "recYds": "-2",
+        "recAvg": "-2.0"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.60",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "15795",
+      "longName": "DeAndre Hopkins"
+    },
+    "15928": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "197",
+        "punts": "5",
+        "puntAvg": "39.4",
+        "puntsin20": "1",
+        "puntTouchBacks": "1",
+        "puntLong": "46"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "15928",
+      "longName": "Sam Martin"
+    },
+    "16910": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.48"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "16910",
+      "longName": "DaQuan Jones"
+    },
+    "2576399": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "4",
+        "recYds": "25",
+        "recAvg": "6.3"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.44",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.43",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "2576399",
+      "longName": "Nick Vannett"
+    },
+    "2577553": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2577553",
+      "longName": "Quandre Diggs"
+    },
+    "2976117": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "2976117",
+      "longName": "Daniel Brunskill"
+    },
+    "2976499": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "27",
+        "targets": "5",
+        "recYds": "66",
+        "recAvg": "16.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Amari Cooper 12 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "14",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "6 plays, 41 yards, 2:32",
+          "scoreType": "TD",
+          "scoreTime": "10:23",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "2976499",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.35",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "2976499",
+      "longName": "Amari Cooper"
+    },
+    "2976549": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2976549",
+      "longName": "Reid Ferguson"
+    },
+    "2979591": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "2979591",
+      "longName": "Austin Johnson"
+    },
+    "2991662": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.75",
+        "defSnap": "1",
+        "stSnap": "16",
+        "stSnapPct": "0.57",
+        "offSnap": "41",
+        "defSnapPct": "0.01"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "2991662",
+      "longName": "Mack Hollins"
+    },
+    "3042476": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "3042476",
+      "longName": "Dawuane Smoot"
+    },
+    "3045144": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "5",
+        "recYds": "43",
+        "recAvg": "8.6"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.56",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "41",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "3045144",
+      "longName": "Tyler Boyd"
+    },
+    "3047495": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3047495",
+      "longName": "Sebastian Joseph-Day"
+    },
+    "3051324": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3051324",
+      "longName": "Dion Dawkins"
+    },
+    "3116097": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "26",
+        "stSnapPct": "0.93",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3116097",
+      "longName": "Luke Gifford"
+    },
+    "3116407": {
+      "gameID": "20241020_TEN@BUF",
+      "Rushing": {
+        "rushAvg": "2.6",
+        "rushYds": "13",
+        "carries": "5",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "48.0",
+        "rtg": "74.5",
+        "sacked": "3-15",
+        "passAttempts": "40",
+        "passAvg": "5.4",
+        "passTD": "1",
+        "passYds": "215",
+        "int": "1",
+        "passCompletions": "25"
+      },
+      "scoringPlays": [
+        {
+          "score": "Nick Westbrook-Ikhine 4 Yd pass from Mason Rudolph (Nick Folk Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "0",
+          "awayScore": "10",
+          "teamID": "31",
+          "scoreDetails": "8 plays, 75 yards, 4:45",
+          "scoreType": "TD",
+          "scoreTime": "11:31",
+          "team": "TEN",
+          "playerIDs": [
+            "3116407",
+            "3929785",
+            "10621"
+          ]
+        }
+      ],
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "3",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "3116407",
+      "longName": "Mason Rudolph"
+    },
+    "3119119": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.09"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "3119119",
+      "longName": "Abdullah Anderson"
+    },
+    "3121003": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "69",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3121003",
+      "longName": "Taron Johnson"
+    },
+    "3121427": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3121427",
+      "longName": "Curtis Samuel"
+    },
+    "3122793": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "43",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.78"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3122793",
+      "longName": "Harold Landry III"
+    },
+    "3843843": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.60"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3843843",
+      "longName": "Arden Key"
+    },
+    "3915411": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "1",
+        "longRec": "4",
+        "targets": "1",
+        "recYds": "4",
+        "recAvg": "4.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ty Johnson 4 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "24",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "6 plays, 56 yards, 2:55",
+          "scoreType": "TD",
+          "scoreTime": "14:54",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "3915411",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.22",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3915411",
+      "longName": "Ty Johnson"
+    },
+    "3916148": {
+      "gameID": "20241020_TEN@BUF",
+      "Rushing": {
+        "rushAvg": "3.8",
+        "rushYds": "61",
+        "carries": "16",
+        "longRush": "14",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "2",
+        "targets": "6",
+        "recYds": "4",
+        "recAvg": "2.0"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.89",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "65",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "3916148",
+      "longName": "Tony Pollard"
+    },
+    "3916577": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "22",
+        "stSnapPct": "0.79",
+        "offSnap": "0",
+        "defSnapPct": "0.30"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3916577",
+      "longName": "Cam Lewis"
+    },
+    "3917232": {
+      "gameID": "20241020_TEN@BUF",
+      "scoringPlays": [
+        {
+          "score": "James Cook 11 Yd Run (Tyler Bass Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "3 plays, 61 yards, 1:27",
+          "scoreType": "TD",
+          "scoreTime": "10:04",
+          "team": "BUF",
+          "playerIDs": [
+            "4379399",
+            "3917232"
+          ]
+        },
+        {
+          "score": "Amari Cooper 12 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "14",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "6 plays, 41 yards, 2:32",
+          "scoreType": "TD",
+          "scoreTime": "10:23",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "2976499",
+            "3917232"
+          ]
+        },
+        {
+          "score": "Tyler Bass 28 Yd Field Goal  ",
+          "scorePeriod": "Q3",
+          "homeScore": "17",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "9 plays, 64 yards, 3:53",
+          "scoreType": "FG",
+          "scoreTime": "4:12",
+          "team": "BUF",
+          "playerIDs": [
+            "3917232"
+          ]
+        },
+        {
+          "score": "Ty Johnson 4 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "24",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "6 plays, 56 yards, 2:55",
+          "scoreType": "TD",
+          "scoreTime": "14:54",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "3915411",
+            "3917232"
+          ]
+        },
+        {
+          "score": "Tyler Bass 30 Yd Field Goal  ",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "10 plays, 59 yards, 4:59",
+          "scoreType": "FG",
+          "scoreTime": "9:26",
+          "team": "BUF",
+          "playerIDs": [
+            "3917232"
+          ]
+        },
+        {
+          "score": "Ray Davis 16 Yd Run (Tyler Bass Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "34",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "5 plays, 84 yards, 2:44",
+          "scoreType": "TD",
+          "scoreTime": "1:53",
+          "team": "BUF",
+          "playerIDs": [
+            "4429501",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.46",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "30",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "4",
+        "fgPct": "100.0",
+        "kickingPts": "10",
+        "xpAttempts": "4",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3917232",
+      "longName": "Tyler Bass"
+    },
+    "3917660": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3917660",
+      "longName": "David Edwards"
+    },
+    "3918298": {
+      "gameID": "20241020_TEN@BUF",
+      "Rushing": {
+        "rushAvg": "0.3",
+        "rushYds": "1",
+        "carries": "3",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "68.1",
+        "rtg": "116.1",
+        "sacked": "1-8",
+        "passAttempts": "33",
+        "passAvg": "9.8",
+        "passTD": "2",
+        "passYds": "323",
+        "int": "0",
+        "passCompletions": "21"
+      },
+      "scoringPlays": [
+        {
+          "score": "Amari Cooper 12 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "14",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "6 plays, 41 yards, 2:32",
+          "scoreType": "TD",
+          "scoreTime": "10:23",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "2976499",
+            "3917232"
+          ]
+        },
+        {
+          "score": "Ty Johnson 4 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "24",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "6 plays, 56 yards, 2:55",
+          "scoreType": "TD",
+          "scoreTime": "14:54",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "3915411",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3918298",
+      "longName": "Josh Allen"
+    },
+    "3925357": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "33",
+        "targets": "9",
+        "recYds": "42",
+        "recAvg": "14.0"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.79",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "3925357",
+      "longName": "Calvin Ridley"
+    },
+    "3929785": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "6",
+        "targets": "4",
+        "recYds": "10",
+        "recAvg": "5.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Nick Westbrook-Ikhine 4 Yd pass from Mason Rudolph (Nick Folk Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "0",
+          "awayScore": "10",
+          "teamID": "31",
+          "scoreDetails": "8 plays, 75 yards, 4:45",
+          "scoreType": "TD",
+          "scoreTime": "11:31",
+          "team": "TEN",
+          "playerIDs": [
+            "3116407",
+            "3929785",
+            "10621"
+          ]
+        }
+      ],
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.47",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.68",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3929785",
+      "longName": "Nick Westbrook-Ikhine"
+    },
+    "3930086": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "3",
+        "recYds": "5",
+        "recAvg": "5.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.56",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "31",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3930086",
+      "longName": "Dawson Knox"
+    },
+    "3931408": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.16"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3931408",
+      "longName": "Casey Toohill"
+    },
+    "3943270": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.96"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3943270",
+      "longName": "Rasul Douglas"
+    },
+    "4030899": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4030899",
+      "longName": "Spencer Brown"
+    },
+    "4033748": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4033748",
+      "longName": "Connor McGovern"
+    },
+    "4035369": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4035369",
+      "longName": "Jeffery Simmons"
+    },
+    "4035448": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4035448",
+      "longName": "Lloyd Cushenberry III"
+    },
+    "4036060": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "69",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4036060",
+      "longName": "Damar Hamlin"
+    },
+    "4036134": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "9",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036134",
+      "longName": "Amani Hooker"
+    },
+    "4036660": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4036660",
+      "longName": "Darrell Baker Jr."
+    },
+    "4039007": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.96"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039007",
+      "longName": "Taylor Rapp"
+    },
+    "4039303": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.56"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039303",
+      "longName": "Ed Oliver"
+    },
+    "4039505": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "26",
+        "stSnapPct": "0.93",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4039505",
+      "longName": "Reggie Gilliam"
+    },
+    "4040945": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4040945",
+      "longName": "Dillon Radunz"
+    },
+    "4232830": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "20",
+        "stSnapPct": "0.71",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4232830",
+      "longName": "Nicholas Morrow"
+    },
+    "4239140": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4239140",
+      "longName": "Ryan Van Demark"
+    },
+    "4239997": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "21",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4239997",
+      "longName": "Baylon Spector"
+    },
+    "4240059": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "15",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4240059",
+      "longName": "Ja'Marcus Ingram"
+    },
+    "4240585": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "1"
+      },
+      "playerID": "4240585",
+      "longName": "AJ Epenesa"
+    },
+    "4241394": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "43",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.78"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241394",
+      "longName": "Kenneth Murray Jr."
+    },
+    "4243321": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "9",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.16"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243321",
+      "longName": "Ali Gaye"
+    },
+    "4244049": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "26",
+        "stSnapPct": "0.93",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4244049",
+      "longName": "Quintin Morris"
+    },
+    "4244310": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "26",
+        "stSnapPct": "0.93",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4244310",
+      "longName": "Mike Brown"
+    },
+    "4249739": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "21",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.22"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4249739",
+      "longName": "Jack Gibbens"
+    },
+    "4256051": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "266",
+        "punts": "5",
+        "puntAvg": "53.2",
+        "puntsin20": "0",
+        "puntTouchBacks": "0",
+        "puntLong": "62"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4256051",
+      "longName": "Ryan Stonehouse"
+    },
+    "4259166": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "8",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "6",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4259166",
+      "longName": "Terrel Bernard"
+    },
+    "4259181": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "7",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.29"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4259181",
+      "longName": "James Lynch"
+    },
+    "4259300": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.36",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4259300",
+      "longName": "Tre Avery"
+    },
+    "4360086": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "4",
+        "recYds": "34",
+        "recAvg": "11.3"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.36",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4360086",
+      "longName": "Josh Whyle"
+    },
+    "4360635": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "26",
+        "targets": "4",
+        "recYds": "50",
+        "recAvg": "12.5"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.58",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.43",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360635",
+      "longName": "Chig Okonkwo"
+    },
+    "4361368": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.95",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "69",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4361368",
+      "longName": "Nicholas Petit-Frere"
+    },
+    "4362506": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.77"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "6",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4362506",
+      "longName": "Greg Rousseau"
+    },
+    "4362851": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4362851",
+      "longName": "Ernest Jones IV"
+    },
+    "4363554": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4363554",
+      "longName": "Thomas Odukoya"
+    },
+    "4367203": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.11",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.32",
+        "offSnap": "6",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4367203",
+      "longName": "Alec Anderson"
+    },
+    "4367567": {
+      "gameID": "20241020_TEN@BUF",
+      "Rushing": {
+        "rushAvg": "5.0",
+        "rushYds": "15",
+        "carries": "3",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "1",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.11",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.25",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4367567",
+      "longName": "Julius Chestnut"
+    },
+    "4371973": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.82"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4371973",
+      "longName": "Roger McCreary"
+    },
+    "4372058": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4372058",
+      "longName": "Jaelyn Duncan"
+    },
+    "4373678": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "0",
+        "longRec": "20",
+        "targets": "7",
+        "recYds": "65",
+        "recAvg": "9.3"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.69",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "38",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4373678",
+      "longName": "Khalil Shakir"
+    },
+    "4379399": {
+      "gameID": "20241020_TEN@BUF",
+      "Rushing": {
+        "rushAvg": "2.7",
+        "rushYds": "32",
+        "carries": "12",
+        "longRush": "11",
+        "rushTD": "1"
+      },
+      "scoringPlays": [
+        {
+          "score": "James Cook 11 Yd Run (Tyler Bass Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "3 plays, 61 yards, 1:27",
+          "scoreType": "TD",
+          "scoreTime": "10:04",
+          "team": "BUF",
+          "playerIDs": [
+            "4379399",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.53",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4379399",
+      "longName": "James Cook"
+    },
+    "4379411": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4379411",
+      "longName": "Otis Reese IV"
+    },
+    "4379778": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.96"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4379778",
+      "longName": "Christian Benford"
+    },
+    "4385690": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "25",
+        "targets": "6",
+        "recYds": "52",
+        "recAvg": "17.3"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.73",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "40",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4385690",
+      "longName": "Dalton Kincaid"
+    },
+    "4426817": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4426817",
+      "longName": "Jarvis Brownlee Jr."
+    },
+    "4426883": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426883",
+      "longName": "DeWayne Carter"
+    },
+    "4427575": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.43",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "55",
+        "kickReturnAvg": "27.5",
+        "kickReturnLong": "34"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "8",
+        "puntReturnAvg": "4.0",
+        "puntReturnLong": "8",
+        "puntReturnTD": "0"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4427575",
+      "longName": "Jha'Quan Jackson"
+    },
+    "4428548": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "20",
+        "stSnapPct": "0.71",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4428548",
+      "longName": "Javon Solomon"
+    },
+    "4428617": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.71"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428617",
+      "longName": "T'Vondre Sweat"
+    },
+    "4428696": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4428696",
+      "longName": "O'Cyrus Torrence"
+    },
+    "4429058": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.38"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429058",
+      "longName": "Jaylen Harrell"
+    },
+    "4429100": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4429100",
+      "longName": "Peter Skoronski"
+    },
+    "4429501": {
+      "gameID": "20241020_TEN@BUF",
+      "Rushing": {
+        "rushAvg": "8.2",
+        "rushYds": "41",
+        "carries": "5",
+        "longRush": "22",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "1",
+        "recYds": "6",
+        "recAvg": "6.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ray Davis 16 Yd Run (Tyler Bass Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "34",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "5 plays, 84 yards, 2:44",
+          "scoreType": "TD",
+          "scoreTime": "1:53",
+          "team": "BUF",
+          "playerIDs": [
+            "4429501",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.24",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4429501",
+      "longName": "Ray Davis"
+    },
+    "4430815": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4430815",
+      "longName": "Sedrick Van Pran-Granger"
+    },
+    "4431437": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4431437",
+      "longName": "JC Latham"
+    },
+    "4431613": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4431613",
+      "longName": "James Williams"
+    },
+    "4567399": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4567399",
+      "longName": "Kaiir Elam"
+    },
+    "4567529": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4567529",
+      "longName": "Gabe Jeudy-Lally"
+    },
+    "4568624": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "51",
+        "stSnap": "9",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.70"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4568624",
+      "longName": "Dorian Williams"
+    },
+    "4576069": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "27",
+        "kickReturnAvg": "27.0",
+        "kickReturnLong": "27"
+      },
+      "Punting": {
+        "puntReturns": "5",
+        "puntReturnYds": "56",
+        "puntReturnAvg": "11.2",
+        "puntReturnLong": "14",
+        "puntReturnTD": "0"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4576069",
+      "longName": "Brandon Codrington"
+    },
+    "4635008": {
+      "gameID": "20241020_TEN@BUF",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "57",
+        "targets": "7",
+        "recYds": "125",
+        "recAvg": "31.3"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.75",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "41",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4635008",
+      "longName": "Keon Coleman"
+    },
+    "4676004": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "15",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4676004",
+      "longName": "Cole Bishop"
+    },
+    "4872841": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4872841",
+      "longName": "Julius Wood"
+    },
+    "4916597": {
+      "gameID": "20241020_TEN@BUF",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4916597",
+      "longName": "Andrew Rupcich"
+    }
+  },
+  "arenaCapacity": "71,621",
+  "arena": "Highmark Stadium",
+  "homePts": "34",
+  "awayResult": "L",
+  "teamIDAway": "31",
+  "Referees": "Allen Baynes, John Hussey, Carl Johnson, Tony Michalek, Max Causey, Matt Edwards, Anthony Flemming",
+  "gameClock": "",
+  "awayPts": "10",
+  "gameID": "20241020_TEN@BUF",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

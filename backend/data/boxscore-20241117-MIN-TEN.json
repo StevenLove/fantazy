@@ -1,0 +1,2701 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "MIN",
+      "teamID": "21",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "5",
+      "ydsAllowed": "294",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "13",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "TEN",
+      "teamID": "31",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "2",
+      "ydsAllowed": "318",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "23",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "318",
+      "rushingAttempts": "33",
+      "rushingYards": "82",
+      "fumblesLost": "1",
+      "penalties": "3-35",
+      "totalPlays": "67",
+      "possession": "32:31",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "20-32",
+      "passingFirstDowns": "12",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "2-10",
+      "thirdDownEfficiency": "5-14",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.7",
+      "redZoneScoredAndAttempted": "2-2",
+      "teamID": "21",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "12",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "24",
+      "passTD": "2",
+      "team": "MIN",
+      "blockedXP": "0",
+      "teamAbv": "MIN",
+      "firstDownsFromPenalties": "7",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "236",
+      "yardsPerRush": "2.5",
+      "snapCounts": {
+        "totalSpecialTeams": "26",
+        "totalOffensive": "73",
+        "totalDefensive": "59"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "6.9"
+    },
+    "home": {
+      "totalYards": "294",
+      "rushingAttempts": "19",
+      "rushingYards": "33",
+      "fumblesLost": "0",
+      "penalties": "13-91",
+      "totalPlays": "55",
+      "possession": "27:29",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "17-31",
+      "passingFirstDowns": "8",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "5-34",
+      "thirdDownEfficiency": "6-15",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.3",
+      "redZoneScoredAndAttempted": "0-1",
+      "teamID": "31",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "3",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "11",
+      "passTD": "1",
+      "team": "TEN",
+      "blockedXP": "0",
+      "teamAbv": "TEN",
+      "firstDownsFromPenalties": "0",
+      "fourthDownEfficiency": "0-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "261",
+      "yardsPerRush": "1.7",
+      "snapCounts": {
+        "totalSpecialTeams": "26",
+        "totalOffensive": "59",
+        "totalDefensive": "73"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "7.3"
+    }
+  },
+  "gameDate": "20241117",
+  "scoringPlays": [
+    {
+      "score": "Nick Folk 30 Yd Field Goal",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "0",
+      "teamID": "31",
+      "scoreDetails": "11 plays, 44 yards, 5:43",
+      "scoreType": "FG",
+      "scoreTime": "4:39",
+      "team": "TEN",
+      "playerIDs": [
+        "10621"
+      ]
+    },
+    {
+      "score": "Jordan Addison 47 Yd pass from Sam Darnold (John Parker Romo Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "7",
+      "teamID": "21",
+      "scoreDetails": "3 plays, 70 yards, 1:23",
+      "scoreType": "TD",
+      "scoreTime": "3:16",
+      "team": "MIN",
+      "playerIDs": [
+        "3912547",
+        "4429205",
+        "4051167"
+      ]
+    },
+    {
+      "score": "Sam Darnold 1 Yd Rush (John Parker Romo PAT Failed)",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "13",
+      "teamID": "21",
+      "scoreDetails": "16 plays, 89 yards, 8:07",
+      "scoreType": "TD",
+      "scoreTime": "7:40",
+      "team": "MIN",
+      "playerIDs": [
+        "3912547",
+        "4051167"
+      ]
+    },
+    {
+      "score": "John Parker Romo 40 Yd Field Goal ",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "16",
+      "teamID": "21",
+      "scoreDetails": "11 plays, 40 yards, 4:27",
+      "scoreType": "FG",
+      "scoreTime": "1:41",
+      "team": "MIN",
+      "playerIDs": [
+        "4051167"
+      ]
+    },
+    {
+      "score": "Nick Westbrook-Ikhine 98 Yd pass from Will Levis (Nick Folk Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "10",
+      "awayScore": "16",
+      "teamID": "31",
+      "scoreDetails": "3 plays, 98 yards, 1:30",
+      "scoreType": "TD",
+      "scoreTime": "7:00",
+      "team": "TEN",
+      "playerIDs": [
+        "4361418",
+        "3929785",
+        "10621"
+      ]
+    },
+    {
+      "score": "Cam Akers 3 Yd pass from Sam Darnold (John Parker Romo Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "10",
+      "awayScore": "23",
+      "teamID": "21",
+      "scoreDetails": "7 plays, 65 yards, 3:45",
+      "scoreType": "TD",
+      "scoreTime": "3:15",
+      "team": "MIN",
+      "playerIDs": [
+        "3912547",
+        "4240021",
+        "4051167"
+      ]
+    },
+    {
+      "score": "Nick Folk 43 Yd Field Goal",
+      "scorePeriod": "Q4",
+      "homeScore": "13",
+      "awayScore": "23",
+      "teamID": "31",
+      "scoreDetails": "8 plays, 45 yards, 4:07",
+      "scoreType": "FG",
+      "scoreTime": "14:08",
+      "team": "TEN",
+      "playerIDs": [
+        "10621"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "31",
+  "homeResult": "L",
+  "away": "MIN",
+  "gameWeek": "Week 11",
+  "attendance": "67,686",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "7",
+      "Q2": "9",
+      "Q3": "7",
+      "Q4": "0",
+      "teamID": "21",
+      "currentlyInPossession": "False",
+      "totalPts": "23",
+      "teamAbv": "MIN"
+    },
+    "home": {
+      "Q1": "3",
+      "Q2": "0",
+      "Q3": "7",
+      "Q4": "3",
+      "teamID": "31",
+      "currentlyInPossession": "False",
+      "totalPts": "13",
+      "teamAbv": "TEN"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Nashville, TN",
+  "home": "TEN",
+  "playerStats": {
+    "10621": {
+      "gameID": "20241117_MIN@TEN",
+      "scoringPlays": [
+        {
+          "score": "Nick Folk 30 Yd Field Goal",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "0",
+          "teamID": "31",
+          "scoreDetails": "11 plays, 44 yards, 5:43",
+          "scoreType": "FG",
+          "scoreTime": "4:39",
+          "team": "TEN",
+          "playerIDs": [
+            "10621"
+          ]
+        },
+        {
+          "score": "Nick Westbrook-Ikhine 98 Yd pass from Will Levis (Nick Folk Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "16",
+          "teamID": "31",
+          "scoreDetails": "3 plays, 98 yards, 1:30",
+          "scoreType": "TD",
+          "scoreTime": "7:00",
+          "team": "TEN",
+          "playerIDs": [
+            "4361418",
+            "3929785",
+            "10621"
+          ]
+        },
+        {
+          "score": "Nick Folk 43 Yd Field Goal",
+          "scorePeriod": "Q4",
+          "homeScore": "13",
+          "awayScore": "23",
+          "teamID": "31",
+          "scoreDetails": "8 plays, 45 yards, 4:07",
+          "scoreType": "FG",
+          "scoreTime": "14:08",
+          "team": "TEN",
+          "playerIDs": [
+            "10621"
+          ]
+        }
+      ],
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "43",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "1",
+        "fgPct": "100.0",
+        "kickingPts": "7",
+        "xpAttempts": "1",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "10621",
+      "longName": "Nick Folk"
+    },
+    "13848": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "13848",
+      "longName": "Morgan Cox"
+    },
+    "14676": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "14676",
+      "longName": "Jake McQuaide"
+    },
+    "14942": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.92"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "14942",
+      "longName": "Stephon Gilmore"
+    },
+    "14945": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "59",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "14945",
+      "longName": "Harrison Smith"
+    },
+    "15946": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "15946",
+      "longName": "David Quessenberry"
+    },
+    "2576399": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "1",
+        "recYds": "6",
+        "recAvg": "6.0"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.61",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.31",
+        "offSnap": "36",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "2576399",
+      "longName": "Nick Vannett"
+    },
+    "2973637": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "2973637",
+      "longName": "Corey Levin"
+    },
+    "2976117": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "2976117",
+      "longName": "Daniel Brunskill"
+    },
+    "2980097": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.42"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2980097",
+      "longName": "Jonathan Bullard"
+    },
+    "3042436": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "23",
+        "stSnap": "14",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.32"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3042436",
+      "longName": "Daryl Worley"
+    },
+    "3042519": {
+      "gameID": "20241117_MIN@TEN",
+      "Rushing": {
+        "rushAvg": "2.6",
+        "rushYds": "39",
+        "carries": "15",
+        "longRush": "5",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "1",
+        "recYds": "4",
+        "recAvg": "4.0"
+      },
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.53",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "39",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3042519",
+      "longName": "Aaron Jones"
+    },
+    "3045144": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "30",
+        "targets": "3",
+        "recYds": "34",
+        "recAvg": "17.0"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.59",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "3045144",
+      "longName": "Tyler Boyd"
+    },
+    "3047495": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.45"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3047495",
+      "longName": "Sebastian Joseph-Day"
+    },
+    "3050851": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.85",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3050851",
+      "longName": "Kamu Grugier-Hill"
+    },
+    "3052096": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "1",
+        "recYds": "13",
+        "recAvg": "13.0"
+      },
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.26",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.31",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3052096",
+      "longName": "Johnny Mundt"
+    },
+    "3054026": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "23",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.39"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3054026",
+      "longName": "Shaquill Griffin"
+    },
+    "3115255": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "1",
+        "recYds": "13",
+        "recAvg": "13.0"
+      },
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.23",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "17",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "17",
+        "puntReturnAvg": "8.5",
+        "puntReturnLong": "10",
+        "puntReturnTD": "0"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3115255",
+      "longName": "Brandon Powell"
+    },
+    "3115313": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3115313",
+      "longName": "Cam Robinson"
+    },
+    "3115914": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3115914",
+      "longName": "Jihad Ward"
+    },
+    "3116097": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.88",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "3116097",
+      "longName": "Luke Gifford"
+    },
+    "3116729": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3116729",
+      "longName": "Garrett Bradbury"
+    },
+    "3117255": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3117255",
+      "longName": "Harrison Phillips"
+    },
+    "3122168": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "16",
+        "targets": "1",
+        "recYds": "16",
+        "recAvg": "16.0"
+      },
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.22",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.69",
+        "offSnap": "16",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3122168",
+      "longName": "Trent Sherfield Sr."
+    },
+    "3122793": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "59",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.81"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3122793",
+      "longName": "Harold Landry III"
+    },
+    "3123954": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3123954",
+      "longName": "Brian O'Neill"
+    },
+    "3125082": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3125082",
+      "longName": "Dalton Risner"
+    },
+    "3133487": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.90"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "3",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "3133487",
+      "longName": "Andrew Van Ginkel"
+    },
+    "3728281": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "59",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3728281",
+      "longName": "Blake Cashman"
+    },
+    "3843843": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.79"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "5",
+        "tfl": "2",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3843843",
+      "longName": "Arden Key"
+    },
+    "3863182": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3863182",
+      "longName": "Jerry Tillery"
+    },
+    "3912547": {
+      "gameID": "20241117_MIN@TEN",
+      "Rushing": {
+        "rushAvg": "2.3",
+        "rushYds": "18",
+        "carries": "8",
+        "longRush": "6",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "68.0",
+        "rtg": "107.0",
+        "sacked": "2-10",
+        "passAttempts": "32",
+        "passAvg": "7.7",
+        "passTD": "2",
+        "passYds": "246",
+        "int": "0",
+        "passCompletions": "20"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jordan Addison 47 Yd pass from Sam Darnold (John Parker Romo Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "21",
+          "scoreDetails": "3 plays, 70 yards, 1:23",
+          "scoreType": "TD",
+          "scoreTime": "3:16",
+          "team": "MIN",
+          "playerIDs": [
+            "3912547",
+            "4429205",
+            "4051167"
+          ]
+        },
+        {
+          "score": "Sam Darnold 1 Yd Rush (John Parker Romo PAT Failed)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "13",
+          "teamID": "21",
+          "scoreDetails": "16 plays, 89 yards, 8:07",
+          "scoreType": "TD",
+          "scoreTime": "7:40",
+          "team": "MIN",
+          "playerIDs": [
+            "3912547",
+            "4051167"
+          ]
+        },
+        {
+          "score": "Cam Akers 3 Yd pass from Sam Darnold (John Parker Romo Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "23",
+          "teamID": "21",
+          "scoreDetails": "7 plays, 65 yards, 3:45",
+          "scoreType": "TD",
+          "scoreTime": "3:15",
+          "team": "MIN",
+          "playerIDs": [
+            "3912547",
+            "4240021",
+            "4051167"
+          ]
+        }
+      ],
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3912547",
+      "longName": "Sam Darnold"
+    },
+    "3915507": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.84"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915507",
+      "longName": "Jerome Baker"
+    },
+    "3915532": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.49",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "3915532",
+      "longName": "Isaiah Prince"
+    },
+    "3916148": {
+      "gameID": "20241117_MIN@TEN",
+      "Rushing": {
+        "rushAvg": "1.7",
+        "rushYds": "15",
+        "carries": "9",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "4",
+        "recYds": "14",
+        "recAvg": "7.0"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "3916148",
+      "longName": "Tony Pollard"
+    },
+    "3916409": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.81"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3916409",
+      "longName": "Jonathan Greenard"
+    },
+    "3921690": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "21",
+        "targets": "3",
+        "recYds": "34",
+        "recAvg": "11.3"
+      },
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.56",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.31",
+        "offSnap": "41",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3921690",
+      "longName": "Josh Oliver"
+    },
+    "3925357": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "21",
+        "targets": "6",
+        "recYds": "58",
+        "recAvg": "14.5"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.88",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "52",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3925357",
+      "longName": "Calvin Ridley"
+    },
+    "3929785": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "98",
+        "targets": "6",
+        "recYds": "117",
+        "recAvg": "58.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Nick Westbrook-Ikhine 98 Yd pass from Will Levis (Nick Folk Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "16",
+          "teamID": "31",
+          "scoreDetails": "3 plays, 98 yards, 1:30",
+          "scoreType": "TD",
+          "scoreTime": "7:00",
+          "team": "TEN",
+          "playerIDs": [
+            "4361418",
+            "3929785",
+            "10621"
+          ]
+        }
+      ],
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.85",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "50",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "3929785",
+      "longName": "Nick Westbrook-Ikhine"
+    },
+    "3930270": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3930270",
+      "longName": "Blake Brandel"
+    },
+    "4012556": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.73",
+        "offSnap": "22",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4012556",
+      "longName": "C.J. Ham"
+    },
+    "4035369": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "62",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.85"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "4",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035369",
+      "longName": "Jeffery Simmons"
+    },
+    "4035861": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.81"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035861",
+      "longName": "Camryn Bynum"
+    },
+    "4036063": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.75"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "3",
+        "qbHits": "5",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "4036063",
+      "longName": "Pat Jones II"
+    },
+    "4036133": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "3",
+        "recYds": "13",
+        "recAvg": "6.5"
+      },
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.48",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4036133",
+      "longName": "T.J. Hockenson"
+    },
+    "4036134": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "73",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036134",
+      "longName": "Amani Hooker"
+    },
+    "4036660": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "72",
+        "stSnap": "6",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4036660",
+      "longName": "Darrell Baker Jr."
+    },
+    "4038999": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4038999",
+      "longName": "Byron Murphy Jr."
+    },
+    "4040945": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4040945",
+      "longName": "Dillon Radunz"
+    },
+    "4046537": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "10",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.75"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4046537",
+      "longName": "Josh Metellus"
+    },
+    "4051167": {
+      "gameID": "20241117_MIN@TEN",
+      "scoringPlays": [
+        {
+          "score": "Jordan Addison 47 Yd pass from Sam Darnold (John Parker Romo Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "21",
+          "scoreDetails": "3 plays, 70 yards, 1:23",
+          "scoreType": "TD",
+          "scoreTime": "3:16",
+          "team": "MIN",
+          "playerIDs": [
+            "3912547",
+            "4429205",
+            "4051167"
+          ]
+        },
+        {
+          "score": "Sam Darnold 1 Yd Rush (John Parker Romo PAT Failed)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "13",
+          "teamID": "21",
+          "scoreDetails": "16 plays, 89 yards, 8:07",
+          "scoreType": "TD",
+          "scoreTime": "7:40",
+          "team": "MIN",
+          "playerIDs": [
+            "3912547",
+            "4051167"
+          ]
+        },
+        {
+          "score": "John Parker Romo 40 Yd Field Goal ",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "16",
+          "teamID": "21",
+          "scoreDetails": "11 plays, 40 yards, 4:27",
+          "scoreType": "FG",
+          "scoreTime": "1:41",
+          "team": "MIN",
+          "playerIDs": [
+            "4051167"
+          ]
+        },
+        {
+          "score": "Cam Akers 3 Yd pass from Sam Darnold (John Parker Romo Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "23",
+          "teamID": "21",
+          "scoreDetails": "7 plays, 65 yards, 3:45",
+          "scoreType": "TD",
+          "scoreTime": "3:15",
+          "team": "MIN",
+          "playerIDs": [
+            "3912547",
+            "4240021",
+            "4051167"
+          ]
+        }
+      ],
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "40",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "2",
+        "fgPct": "100.0",
+        "kickingPts": "5",
+        "xpAttempts": "3",
+        "fgMissed": "0",
+        "xpMissed": "1"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4051167",
+      "longName": "John Parker Romo"
+    },
+    "4240021": {
+      "gameID": "20241117_MIN@TEN",
+      "Rushing": {
+        "rushAvg": "2.5",
+        "rushYds": "25",
+        "carries": "10",
+        "longRush": "12",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "8",
+        "targets": "2",
+        "recYds": "11",
+        "recAvg": "5.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Cam Akers 3 Yd pass from Sam Darnold (John Parker Romo Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "23",
+          "teamID": "21",
+          "scoreDetails": "7 plays, 65 yards, 3:45",
+          "scoreType": "TD",
+          "scoreTime": "3:15",
+          "team": "MIN",
+          "playerIDs": [
+            "3912547",
+            "4240021",
+            "4051167"
+          ]
+        }
+      ],
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.37",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4240021",
+      "longName": "Cam Akers"
+    },
+    "4241394": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "73",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4241394",
+      "longName": "Kenneth Murray Jr."
+    },
+    "4242227": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4242227",
+      "longName": "Ed Ingram"
+    },
+    "4242347": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4242347",
+      "longName": "Logan Bruss"
+    },
+    "4242431": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.50",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "35",
+        "kickReturnAvg": "35.0",
+        "kickReturnLong": "35"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242431",
+      "longName": "Ty Chandler"
+    },
+    "4242436": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "22",
+        "stSnapPct": "0.85",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242436",
+      "longName": "Theo Jackson"
+    },
+    "4243321": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.07"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243321",
+      "longName": "Ali Gaye"
+    },
+    "4244310": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "14",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.67"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4244310",
+      "longName": "Mike Brown"
+    },
+    "4244607": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4244607",
+      "longName": "Akayleb Evans"
+    },
+    "4249739": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "11",
+        "stSnapPct": "0.42",
+        "offSnap": "0",
+        "defSnapPct": "0.16"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4249739",
+      "longName": "Jack Gibbens"
+    },
+    "4256051": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "241",
+        "punts": "5",
+        "puntAvg": "48.2",
+        "puntsin20": "1",
+        "puntTouchBacks": "1",
+        "puntLong": "62"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4256051",
+      "longName": "Ryan Stonehouse"
+    },
+    "4259181": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "17",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.23"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4259181",
+      "longName": "James Lynch"
+    },
+    "4259300": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4259300",
+      "longName": "Tre Avery"
+    },
+    "4262921": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "31",
+        "targets": "8",
+        "recYds": "81",
+        "recAvg": "13.5"
+      },
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.99",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "72",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4262921",
+      "longName": "Justin Jefferson"
+    },
+    "4360086": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "1",
+        "recYds": "6",
+        "recAvg": "6.0"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.24",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4360086",
+      "longName": "Josh Whyle"
+    },
+    "4360255": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.85",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4360255",
+      "longName": "Brian Asamoah II"
+    },
+    "4360277": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.17"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360277",
+      "longName": "Jalen Redmond"
+    },
+    "4360635": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "4",
+        "recYds": "19",
+        "recAvg": "9.5"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.71",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.38",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4360635",
+      "longName": "Chig Okonkwo"
+    },
+    "4361368": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.51",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4361368",
+      "longName": "Nicholas Petit-Frere"
+    },
+    "4361418": {
+      "gameID": "20241117_MIN@TEN",
+      "Rushing": {
+        "rushAvg": "2.6",
+        "rushYds": "18",
+        "carries": "7",
+        "longRush": "10",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "41.7",
+        "rtg": "84.7",
+        "sacked": "5-34",
+        "passAttempts": "31",
+        "passAvg": "9.5",
+        "passTD": "1",
+        "passYds": "295",
+        "int": "1",
+        "passCompletions": "17"
+      },
+      "scoringPlays": [
+        {
+          "score": "Nick Westbrook-Ikhine 98 Yd pass from Will Levis (Nick Folk Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "16",
+          "teamID": "31",
+          "scoreDetails": "3 plays, 98 yards, 1:30",
+          "scoreType": "TD",
+          "scoreTime": "7:00",
+          "team": "TEN",
+          "playerIDs": [
+            "4361418",
+            "3929785",
+            "10621"
+          ]
+        }
+      ],
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4361418",
+      "longName": "Will Levis"
+    },
+    "4361823": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "222",
+        "punts": "5",
+        "puntAvg": "44.4",
+        "puntsin20": "3",
+        "puntTouchBacks": "1",
+        "puntLong": "66"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4361823",
+      "longName": "Ryan Wright"
+    },
+    "4362117": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "9",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.12"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362117",
+      "longName": "Keondre Coburn"
+    },
+    "4362617": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "33",
+        "targets": "1",
+        "recYds": "33",
+        "recAvg": "33.0"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.38",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362617",
+      "longName": "Bryce Oliver"
+    },
+    "4367567": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.46",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "23",
+        "kickReturnAvg": "23.0",
+        "kickReturnLong": "23"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4367567",
+      "longName": "Julius Chestnut"
+    },
+    "4371973": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "11",
+        "stSnapPct": "0.42",
+        "offSnap": "0",
+        "defSnapPct": "0.63"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4371973",
+      "longName": "Roger McCreary"
+    },
+    "4379411": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.58",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4379411",
+      "longName": "Otis Reese IV"
+    },
+    "4382466": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "2",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.44",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4382466",
+      "longName": "Jalen Nailor"
+    },
+    "4426817": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "72",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426817",
+      "longName": "Jarvis Brownlee Jr."
+    },
+    "4427575": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.02",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.38",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "26",
+        "puntReturnAvg": "13.0",
+        "puntReturnLong": "20",
+        "puntReturnTD": "0"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4427575",
+      "longName": "Jha'Quan Jackson"
+    },
+    "4428557": {
+      "gameID": "20241117_MIN@TEN",
+      "Rushing": {
+        "rushAvg": "0.0",
+        "rushYds": "0",
+        "carries": "3",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "3",
+        "recYds": "8",
+        "recAvg": "4.0"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.44",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4428557",
+      "longName": "Tyjae Spears"
+    },
+    "4428617": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428617",
+      "longName": "T'Vondre Sweat"
+    },
+    "4429058": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "12",
+        "stSnapPct": "0.46",
+        "offSnap": "0",
+        "defSnapPct": "0.34"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429058",
+      "longName": "Jaylen Harrell"
+    },
+    "4429100": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4429100",
+      "longName": "Peter Skoronski"
+    },
+    "4429205": {
+      "gameID": "20241117_MIN@TEN",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "1",
+        "longRec": "47",
+        "targets": "8",
+        "recYds": "61",
+        "recAvg": "20.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jordan Addison 47 Yd pass from Sam Darnold (John Parker Romo Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "21",
+          "scoreDetails": "3 plays, 70 yards, 1:23",
+          "scoreType": "TD",
+          "scoreTime": "3:16",
+          "team": "MIN",
+          "playerIDs": [
+            "3912547",
+            "4429205",
+            "4051167"
+          ]
+        }
+      ],
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.60",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4429205",
+      "longName": "Jordan Addison"
+    },
+    "4430280": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "9",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.64"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430280",
+      "longName": "Ivan Pace Jr."
+    },
+    "4431437": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4431437",
+      "longName": "JC Latham"
+    },
+    "4431613": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.88",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4431613",
+      "longName": "James Williams"
+    },
+    "4565190": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "13",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.20"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4565190",
+      "longName": "Dallas Turner"
+    },
+    "4568007": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.69",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4568007",
+      "longName": "Jay Ward"
+    },
+    "4872841": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4872841",
+      "longName": "Julius Wood"
+    },
+    "4875564": {
+      "gameID": "20241117_MIN@TEN",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.85",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4875564",
+      "longName": "Bo Richter"
+    }
+  },
+  "arenaCapacity": "69,143",
+  "arena": "Nissan Stadium",
+  "homePts": "13",
+  "awayResult": "W",
+  "teamIDAway": "21",
+  "Referees": "Clete Blakeman, James Coleman, Dana McKenzie, Julian Mapp, Jonah Monroe, Scott Campbell, Karina Tovar",
+  "gameClock": "",
+  "awayPts": "23",
+  "gameID": "20241117_MIN@TEN",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

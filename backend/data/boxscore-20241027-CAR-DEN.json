@@ -1,0 +1,2791 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "CAR",
+      "teamID": "5",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "2",
+      "ydsAllowed": "400",
+      "fumblesRecovered": "2",
+      "ptsAllowed": "28",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "DEN",
+      "teamID": "10",
+      "defTD": "0",
+      "defensiveInterceptions": "2",
+      "sacks": "2",
+      "ydsAllowed": "284",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "14",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "284",
+      "rushingAttempts": "20",
+      "rushingYards": "69",
+      "fumblesLost": "0",
+      "penalties": "8-49",
+      "totalPlays": "60",
+      "possession": "26:50",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "24-38",
+      "passingFirstDowns": "11",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "2-9",
+      "thirdDownEfficiency": "5-14",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.7",
+      "redZoneScoredAndAttempted": "2-3",
+      "teamID": "5",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "3",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "16",
+      "passTD": "2",
+      "team": "CAR",
+      "blockedXP": "0",
+      "teamAbv": "CAR",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "1-4",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "215",
+      "yardsPerRush": "3.5",
+      "snapCounts": {
+        "totalSpecialTeams": "24",
+        "totalOffensive": "61",
+        "totalDefensive": "73"
+      },
+      "turnovers": "2",
+      "yardsPerPass": "5.4"
+    },
+    "home": {
+      "totalYards": "400",
+      "rushingAttempts": "32",
+      "rushingYards": "102",
+      "fumblesLost": "2",
+      "penalties": "4-43",
+      "totalPlays": "73",
+      "possession": "33:10",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "30-39",
+      "passingFirstDowns": "16",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "2-17",
+      "thirdDownEfficiency": "11-17",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.5",
+      "redZoneScoredAndAttempted": "4-5",
+      "teamID": "10",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "12",
+      "rushingFirstDowns": "6",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "23",
+      "passTD": "3",
+      "team": "DEN",
+      "blockedXP": "0",
+      "teamAbv": "DEN",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "1-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "298",
+      "yardsPerRush": "3.2",
+      "snapCounts": {
+        "totalSpecialTeams": "24",
+        "totalOffensive": "73",
+        "totalDefensive": "61"
+      },
+      "turnovers": "2",
+      "yardsPerPass": "7.3"
+    }
+  },
+  "gameDate": "20241027",
+  "scoringPlays": [
+    {
+      "score": "Xavier Legette 6 Yd pass from Bryce Young (Eddy Pineiro Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "7",
+      "teamID": "5",
+      "scoreDetails": "10 plays, 49 yards, 6:27",
+      "scoreType": "TD",
+      "scoreTime": "7:12",
+      "team": "CAR",
+      "playerIDs": [
+        "4685720",
+        "4430034",
+        "4034949"
+      ]
+    },
+    {
+      "score": "Nate Adkins 3 Yd pass from Bo Nix (Wil Lutz Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "7",
+      "awayScore": "7",
+      "teamID": "10",
+      "scoreDetails": "7 plays, 55 yards, 2:55",
+      "scoreType": "TD",
+      "scoreTime": "12:29",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "4383440",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Adam Trautman 19 Yd pass from Bo Nix (Wil Lutz Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "14",
+      "awayScore": "7",
+      "teamID": "10",
+      "scoreDetails": "7 plays, 92 yards, 3:06",
+      "scoreType": "TD",
+      "scoreTime": "6:51",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "3911853",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Bo Nix 1 Yd Run (Wil Lutz Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "21",
+      "awayScore": "7",
+      "teamID": "10",
+      "scoreDetails": "10 plays, 48 yards, 3:29",
+      "scoreType": "TD",
+      "scoreTime": "1:12",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Jaleel McLaughlin 9 Yd pass from Bo Nix (Wil Lutz Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "28",
+      "awayScore": "7",
+      "teamID": "10",
+      "scoreDetails": "4 plays, 23 yards, 1:35",
+      "scoreType": "TD",
+      "scoreTime": "6:49",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "4722893",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Jalen Coker 15 Yd pass from Bryce Young (Eddy Pineiro Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "28",
+      "awayScore": "14",
+      "teamID": "5",
+      "scoreDetails": "10 plays, 98 yards, 1:55",
+      "scoreType": "TD",
+      "scoreTime": "0:18",
+      "team": "CAR",
+      "playerIDs": [
+        "4685720",
+        "4695883",
+        "4034949"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "10",
+  "homeResult": "W",
+  "away": "CAR",
+  "gameWeek": "Week 8",
+  "attendance": "76,135",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "7",
+      "Q2": "0",
+      "Q3": "0",
+      "Q4": "7",
+      "teamID": "5",
+      "currentlyInPossession": "False",
+      "totalPts": "14",
+      "teamAbv": "CAR"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "21",
+      "Q3": "7",
+      "Q4": "0",
+      "teamID": "10",
+      "currentlyInPossession": "False",
+      "totalPts": "28",
+      "teamAbv": "DEN"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Denver, CO",
+  "home": "DEN",
+  "playerStats": {
+    "11759": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "11759",
+      "longName": "JJ Jansen"
+    },
+    "15153": {
+      "gameID": "20241027_CAR@DEN",
+      "Passing": {
+        "qbr": "--",
+        "rtg": "39.6",
+        "sacked": "0-0",
+        "passAttempts": "1",
+        "passAvg": "0.0",
+        "passTD": "0",
+        "passYds": "0",
+        "int": "0",
+        "passCompletions": "0"
+      },
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "247",
+        "punts": "5",
+        "puntAvg": "49.4",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "53"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "15153",
+      "longName": "Johnny Hekker"
+    },
+    "16734": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.89"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "16734",
+      "longName": "Jadeveon Clowney"
+    },
+    "2515270": {
+      "gameID": "20241027_CAR@DEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "28",
+        "targets": "1",
+        "recYds": "28",
+        "recAvg": "28.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.15",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.67",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2515270",
+      "longName": "Michael Burton"
+    },
+    "2576508": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2576508",
+      "longName": "DeShawn Williams"
+    },
+    "2577619": {
+      "gameID": "20241027_CAR@DEN",
+      "Passing": {
+        "qbr": "--",
+        "rtg": "79.2",
+        "sacked": "0-0",
+        "passAttempts": "1",
+        "passAvg": "3.0",
+        "passTD": "0",
+        "passYds": "3",
+        "int": "0",
+        "passCompletions": "1"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "153",
+        "punts": "3",
+        "puntAvg": "51.0",
+        "puntsin20": "2",
+        "puntTouchBacks": "1",
+        "puntLong": "60"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2577619",
+      "longName": "Riley Dixon"
+    },
+    "2973051": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "2973051",
+      "longName": "Taylor Moton"
+    },
+    "2976541": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "13",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.21"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2976541",
+      "longName": "Kwon Alexander"
+    },
+    "2985659": {
+      "gameID": "20241027_CAR@DEN",
+      "scoringPlays": [
+        {
+          "score": "Nate Adkins 3 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "7",
+          "teamID": "10",
+          "scoreDetails": "7 plays, 55 yards, 2:55",
+          "scoreType": "TD",
+          "scoreTime": "12:29",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4383440",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Adam Trautman 19 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "14",
+          "awayScore": "7",
+          "teamID": "10",
+          "scoreDetails": "7 plays, 92 yards, 3:06",
+          "scoreType": "TD",
+          "scoreTime": "6:51",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3911853",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Bo Nix 1 Yd Run (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "21",
+          "awayScore": "7",
+          "teamID": "10",
+          "scoreDetails": "10 plays, 48 yards, 3:29",
+          "scoreType": "TD",
+          "scoreTime": "1:12",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Jaleel McLaughlin 9 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "28",
+          "awayScore": "7",
+          "teamID": "10",
+          "scoreDetails": "4 plays, 23 yards, 1:35",
+          "scoreType": "TD",
+          "scoreTime": "6:49",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4722893",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.42",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "0",
+        "fgMade": "0",
+        "fgAttempts": "0",
+        "xpMade": "4",
+        "fgPct": "0.0",
+        "kickingPts": "4",
+        "xpAttempts": "4",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2985659",
+      "longName": "Wil Lutz"
+    },
+    "3040031": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "23",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.32"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3040031",
+      "longName": "Nick Thurman"
+    },
+    "3040150": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "73",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3040150",
+      "longName": "Josey Jewell"
+    },
+    "3040572": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "73",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3040572",
+      "longName": "Xavier Woods"
+    },
+    "3051852": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.62"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "3051852",
+      "longName": "Charles Harris"
+    },
+    "3052885": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.99",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "72",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3052885",
+      "longName": "Mike McGlinchey"
+    },
+    "3054857": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "2",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "3054857",
+      "longName": "A'Shawn Robinson"
+    },
+    "3120464": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3120464",
+      "longName": "John Franklin-Myers"
+    },
+    "3128429": {
+      "gameID": "20241027_CAR@DEN",
+      "Passing": {
+        "qbr": "100.0",
+        "rtg": "118.8",
+        "sacked": "0-0",
+        "passAttempts": "1",
+        "passAvg": "28.0",
+        "passTD": "0",
+        "passYds": "28",
+        "int": "0",
+        "passCompletions": "1"
+      },
+      "Receiving": {
+        "receptions": "8",
+        "recTD": "0",
+        "longRec": "37",
+        "targets": "11",
+        "recYds": "100",
+        "recAvg": "12.5"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.84",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3128429",
+      "longName": "Courtland Sutton"
+    },
+    "3133440": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.10"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3133440",
+      "longName": "Levi Wallace"
+    },
+    "3134448": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.79",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3134448",
+      "longName": "Tremon Smith"
+    },
+    "3139166": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3139166",
+      "longName": "Mitchell Fraboni"
+    },
+    "3886601": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.62"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "7",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "fumbles": "0",
+        "fumblesRecovered": "2",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3886601",
+      "longName": "Shy Tuttle"
+    },
+    "3894915": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "23",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.38"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3894915",
+      "longName": "D.J. Jones"
+    },
+    "3911853": {
+      "gameID": "20241027_CAR@DEN",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "37",
+        "targets": "4",
+        "recYds": "85",
+        "recAvg": "21.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Adam Trautman 19 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "14",
+          "awayScore": "7",
+          "teamID": "10",
+          "scoreDetails": "7 plays, 92 yards, 3:06",
+          "scoreType": "TD",
+          "scoreTime": "6:51",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3911853",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.56",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "41",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3911853",
+      "longName": "Adam Trautman"
+    },
+    "3915147": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3915147",
+      "longName": "Calvin Throckmorton"
+    },
+    "3915282": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "59",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915282",
+      "longName": "Zach Allen"
+    },
+    "3917592": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "3917592",
+      "longName": "Robert Hunt"
+    },
+    "3917853": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "73",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "9",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3917853",
+      "longName": "Michael Jackson"
+    },
+    "3919548": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "13",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.61"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3919548",
+      "longName": "Justin Strnad"
+    },
+    "3921936": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3921936",
+      "longName": "Matt Peart"
+    },
+    "3926229": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3926229",
+      "longName": "Cody Barton"
+    },
+    "4034496": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.29"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4034496",
+      "longName": "Cam Gill"
+    },
+    "4034948": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4034948",
+      "longName": "Feleipe Franks"
+    },
+    "4034949": {
+      "gameID": "20241027_CAR@DEN",
+      "scoringPlays": [
+        {
+          "score": "Xavier Legette 6 Yd pass from Bryce Young (Eddy Pineiro Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "5",
+          "scoreDetails": "10 plays, 49 yards, 6:27",
+          "scoreType": "TD",
+          "scoreTime": "7:12",
+          "team": "CAR",
+          "playerIDs": [
+            "4685720",
+            "4430034",
+            "4034949"
+          ]
+        },
+        {
+          "score": "Jalen Coker 15 Yd pass from Bryce Young (Eddy Pineiro Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "28",
+          "awayScore": "14",
+          "teamID": "5",
+          "scoreDetails": "10 plays, 98 yards, 1:55",
+          "scoreType": "TD",
+          "scoreTime": "0:18",
+          "team": "CAR",
+          "playerIDs": [
+            "4685720",
+            "4695883",
+            "4034949"
+          ]
+        }
+      ],
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "0",
+        "fgMade": "0",
+        "fgAttempts": "0",
+        "xpMade": "2",
+        "fgPct": "0.0",
+        "kickingPts": "2",
+        "xpAttempts": "2",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4034949",
+      "longName": "Eddy Pineiro"
+    },
+    "4035662": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.99",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "72",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4035662",
+      "longName": "Garett Bolles"
+    },
+    "4037559": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.92"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037559",
+      "longName": "Devon Key"
+    },
+    "4037650": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4037650",
+      "longName": "Ben Powers"
+    },
+    "4039057": {
+      "gameID": "20241027_CAR@DEN",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "6",
+        "recYds": "22",
+        "recAvg": "5.5"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.60",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4039057",
+      "longName": "Lil'Jordan Humphrey"
+    },
+    "4039059": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "12",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039059",
+      "longName": "Brandon Jones"
+    },
+    "4039064": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.43"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039064",
+      "longName": "Malcolm Roach"
+    },
+    "4040608": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "2",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4040608",
+      "longName": "Jonathon Cooper"
+    },
+    "4044133": {
+      "gameID": "20241027_CAR@DEN",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "21",
+        "stSnapPct": "0.88",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4044133",
+      "longName": "Sam Franklin Jr."
+    },
+    "4045163": {
+      "gameID": "20241027_CAR@DEN",
+      "Rushing": {
+        "rushAvg": "7.0",
+        "rushYds": "7",
+        "carries": "1",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "7",
+        "recYds": "38",
+        "recAvg": "5.4"
+      },
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4045163",
+      "longName": "Miles Sanders"
+    },
+    "4045305": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.28",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "17",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4045305",
+      "longName": "Ian Thomas"
+    },
+    "4212909": {
+      "gameID": "20241027_CAR@DEN",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "5",
+        "recYds": "39",
+        "recAvg": "9.8"
+      },
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.82",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "50",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4212909",
+      "longName": "David Moore"
+    },
+    "4240071": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4240071",
+      "longName": "Russ Yeast"
+    },
+    "4240623": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.07"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4240623",
+      "longName": "DJ Johnson"
+    },
+    "4240707": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "13",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.16"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4240707",
+      "longName": "Damarri Mathis"
+    },
+    "4240780": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "20",
+        "stSnapPct": "0.84",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4240780",
+      "longName": "Lonnie Johnson Jr."
+    },
+    "4240859": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.08"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240859",
+      "longName": "Caleb Farley"
+    },
+    "4241416": {
+      "gameID": "20241027_CAR@DEN",
+      "Rushing": {
+        "rushAvg": "3.7",
+        "rushYds": "56",
+        "carries": "15",
+        "longRush": "15",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "2",
+        "recYds": "15",
+        "recAvg": "7.5"
+      },
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.74",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "45",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4241416",
+      "longName": "Chuba Hubbard"
+    },
+    "4241473": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241473",
+      "longName": "LaBryan Ray"
+    },
+    "4241987": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241987",
+      "longName": "Baron Browning"
+    },
+    "4242503": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4242503",
+      "longName": "Alex Forsyth"
+    },
+    "4256062": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4256062",
+      "longName": "Brady Christensen"
+    },
+    "4256224": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.71",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4256224",
+      "longName": "Claudin Cherelus"
+    },
+    "4258485": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.92",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4258485",
+      "longName": "Jon Rhattigan"
+    },
+    "4259308": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.46",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4259308",
+      "longName": "Raheem Blackshear"
+    },
+    "4261090": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.11"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4261090",
+      "longName": "Jordan Jackson"
+    },
+    "4360231": {
+      "gameID": "20241027_CAR@DEN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "15",
+        "targets": "2",
+        "recYds": "18",
+        "recAvg": "9.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.37",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4360231",
+      "longName": "Lucas Krull"
+    },
+    "4360259": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.48"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4360259",
+      "longName": "Nik Bonitto"
+    },
+    "4361579": {
+      "gameID": "20241027_CAR@DEN",
+      "Rushing": {
+        "rushAvg": "2.6",
+        "rushYds": "44",
+        "carries": "17",
+        "longRush": "9",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "5",
+        "recYds": "8",
+        "recAvg": "2.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.58",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4361579",
+      "longName": "Javonte Williams"
+    },
+    "4361691": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4361691",
+      "longName": "Frank Crum"
+    },
+    "4361788": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.16",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4361788",
+      "longName": "Cade Mays"
+    },
+    "4362647": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4362647",
+      "longName": "Damien Lewis"
+    },
+    "4362847": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "73",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4362847",
+      "longName": "Jaycee Horn"
+    },
+    "4372012": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "51",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.84"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "28",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4372012",
+      "longName": "Pat Surtain II"
+    },
+    "4372418": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4372418",
+      "longName": "Keidron Smith"
+    },
+    "4372780": {
+      "gameID": "20241027_CAR@DEN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "3",
+        "recYds": "13",
+        "recAvg": "6.5"
+      },
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.61",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4372780",
+      "longName": "Tommy Tremble"
+    },
+    "4373474": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.02",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4373474",
+      "longName": "Jarrett Kingston"
+    },
+    "4382401": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4382401",
+      "longName": "Riley Moss"
+    },
+    "4383440": {
+      "gameID": "20241027_CAR@DEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "1",
+        "longRec": "3",
+        "targets": "1",
+        "recYds": "3",
+        "recAvg": "3.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Nate Adkins 3 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "7",
+          "teamID": "10",
+          "scoreDetails": "7 plays, 55 yards, 2:55",
+          "scoreType": "TD",
+          "scoreTime": "12:29",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4383440",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.48",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4383440",
+      "longName": "Nate Adkins"
+    },
+    "4426338": {
+      "gameID": "20241027_CAR@DEN",
+      "Rushing": {
+        "rushAvg": "0.8",
+        "rushYds": "4",
+        "carries": "5",
+        "longRush": "3",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "78.0",
+        "rtg": "124.2",
+        "sacked": "2-17",
+        "passAttempts": "37",
+        "passAvg": "7.7",
+        "passTD": "3",
+        "passYds": "284",
+        "int": "0",
+        "passCompletions": "28"
+      },
+      "scoringPlays": [
+        {
+          "score": "Nate Adkins 3 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "7",
+          "teamID": "10",
+          "scoreDetails": "7 plays, 55 yards, 2:55",
+          "scoreType": "TD",
+          "scoreTime": "12:29",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4383440",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Adam Trautman 19 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "14",
+          "awayScore": "7",
+          "teamID": "10",
+          "scoreDetails": "7 plays, 92 yards, 3:06",
+          "scoreType": "TD",
+          "scoreTime": "6:51",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3911853",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Bo Nix 1 Yd Run (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "21",
+          "awayScore": "7",
+          "teamID": "10",
+          "scoreDetails": "10 plays, 48 yards, 3:29",
+          "scoreType": "TD",
+          "scoreTime": "1:12",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Jaleel McLaughlin 9 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "28",
+          "awayScore": "7",
+          "teamID": "10",
+          "scoreDetails": "4 plays, 23 yards, 1:35",
+          "scoreType": "TD",
+          "scoreTime": "6:49",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4722893",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4426338",
+      "longName": "Bo Nix"
+    },
+    "4426485": {
+      "gameID": "20241027_CAR@DEN",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "3",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.54",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "33",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4426485",
+      "longName": "Jonathan Mingo"
+    },
+    "4426926": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "73",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "11",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426926",
+      "longName": "Demani Richardson"
+    },
+    "4427132": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.82",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "50",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4427132",
+      "longName": "Ikem Ekwonu"
+    },
+    "4428241": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4428241",
+      "longName": "Levelle Bailey"
+    },
+    "4428503": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4428503",
+      "longName": "JL Skinner"
+    },
+    "4428909": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.59",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4428909",
+      "longName": "Jacoby Windmon"
+    },
+    "4430034": {
+      "gameID": "20241027_CAR@DEN",
+      "Rushing": {
+        "rushAvg": "0.0",
+        "rushYds": "0",
+        "carries": "1",
+        "longRush": "0",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "23",
+        "targets": "7",
+        "recYds": "34",
+        "recAvg": "8.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Xavier Legette 6 Yd pass from Bryce Young (Eddy Pineiro Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "5",
+          "scoreDetails": "10 plays, 49 yards, 6:27",
+          "scoreType": "TD",
+          "scoreTime": "7:12",
+          "team": "CAR",
+          "playerIDs": [
+            "4685720",
+            "4430034",
+            "4034949"
+          ]
+        }
+      ],
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.62",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "38",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430034",
+      "longName": "Xavier Legette"
+    },
+    "4431280": {
+      "gameID": "20241027_CAR@DEN",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "3",
+        "carries": "1",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "2",
+        "recYds": "6",
+        "recAvg": "6.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.37",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4431280",
+      "longName": "Troy Franklin"
+    },
+    "4431588": {
+      "gameID": "20241027_CAR@DEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "7",
+        "targets": "1",
+        "recYds": "7",
+        "recAvg": "7.0"
+      },
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.36",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "22",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4431588",
+      "longName": "Ja'Tavion Sanders"
+    },
+    "4567462": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.79"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4567462",
+      "longName": "Ja'Quan McMillian"
+    },
+    "4569559": {
+      "gameID": "20241027_CAR@DEN",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "16",
+        "targets": "3",
+        "recYds": "28",
+        "recAvg": "9.3"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "25",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4569559",
+      "longName": "Devaughn Vele"
+    },
+    "4569682": {
+      "gameID": "20241027_CAR@DEN",
+      "Rushing": {
+        "rushAvg": "4.0",
+        "rushYds": "4",
+        "carries": "1",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4569682",
+      "longName": "Audric Estime"
+    },
+    "4608138": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.99",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "72",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4608138",
+      "longName": "Quinn Meinerz"
+    },
+    "4683815": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.89"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4683815",
+      "longName": "Trevin Wallace"
+    },
+    "4685720": {
+      "gameID": "20241027_CAR@DEN",
+      "Rushing": {
+        "rushAvg": "2.0",
+        "rushYds": "6",
+        "carries": "3",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "35.9",
+        "rtg": "76.9",
+        "sacked": "2-9",
+        "passAttempts": "37",
+        "passAvg": "6.1",
+        "passTD": "2",
+        "passYds": "224",
+        "int": "2",
+        "passCompletions": "24"
+      },
+      "scoringPlays": [
+        {
+          "score": "Xavier Legette 6 Yd pass from Bryce Young (Eddy Pineiro Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "5",
+          "scoreDetails": "10 plays, 49 yards, 6:27",
+          "scoreType": "TD",
+          "scoreTime": "7:12",
+          "team": "CAR",
+          "playerIDs": [
+            "4685720",
+            "4430034",
+            "4034949"
+          ]
+        },
+        {
+          "score": "Jalen Coker 15 Yd pass from Bryce Young (Eddy Pineiro Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "28",
+          "awayScore": "14",
+          "teamID": "5",
+          "scoreDetails": "10 plays, 98 yards, 1:55",
+          "scoreType": "TD",
+          "scoreTime": "0:18",
+          "team": "CAR",
+          "playerIDs": [
+            "4685720",
+            "4695883",
+            "4034949"
+          ]
+        }
+      ],
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4685720",
+      "longName": "Bryce Young"
+    },
+    "4686472": {
+      "gameID": "20241027_CAR@DEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "2",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.29",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.42",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "0",
+        "puntReturnAvg": "0.0",
+        "puntReturnLong": "0",
+        "puntReturnTD": "0"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4686472",
+      "longName": "Marvin Mims Jr."
+    },
+    "4687592": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "16",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.48"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4687592",
+      "longName": "Jonah Elliss"
+    },
+    "4695883": {
+      "gameID": "20241027_CAR@DEN",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "29",
+        "targets": "6",
+        "recYds": "78",
+        "recAvg": "19.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jalen Coker 15 Yd pass from Bryce Young (Eddy Pineiro Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "28",
+          "awayScore": "14",
+          "teamID": "5",
+          "scoreDetails": "10 plays, 98 yards, 1:55",
+          "scoreType": "TD",
+          "scoreTime": "0:18",
+          "team": "CAR",
+          "playerIDs": [
+            "4685720",
+            "4695883",
+            "4034949"
+          ]
+        }
+      ],
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.69",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4695883",
+      "longName": "Jalen Coker"
+    },
+    "4697636": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4697636",
+      "longName": "Chau Smith-Wade"
+    },
+    "4710661": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4710661",
+      "longName": "Chandler Zavala"
+    },
+    "4714157": {
+      "gameID": "20241027_CAR@DEN",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.92",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4714157",
+      "longName": "Thomas Incoom"
+    },
+    "4722893": {
+      "gameID": "20241027_CAR@DEN",
+      "Rushing": {
+        "rushAvg": "5.9",
+        "rushYds": "47",
+        "carries": "8",
+        "longRush": "10",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "1",
+        "longRec": "9",
+        "targets": "1",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jaleel McLaughlin 9 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "28",
+          "awayScore": "7",
+          "teamID": "10",
+          "scoreDetails": "4 plays, 23 yards, 1:35",
+          "scoreType": "TD",
+          "scoreTime": "6:49",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4722893",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.32",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "23",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4722893",
+      "longName": "Jaleel McLaughlin"
+    }
+  },
+  "arenaCapacity": "76,125",
+  "arena": "Empower Field at Mile High",
+  "homePts": "28",
+  "awayResult": "L",
+  "teamIDAway": "5",
+  "Referees": "Rusty Baynes, Sean Petty, Scott Helverson, Alex Kemp, Mike Morton, Lo van Pham, Robert Richeson",
+  "gameClock": "",
+  "awayPts": "14",
+  "gameID": "20241027_CAR@DEN",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

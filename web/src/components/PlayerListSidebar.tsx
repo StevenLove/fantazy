@@ -1,6 +1,7 @@
 import { useState, useMemo } from 'react'
-import { Player } from '@/types/player'
+import { Player } from '@/types/nfl-data'
 import { getPositionColors } from '@/lib/positionColors'
+import LazyImage from './LazyImage'
 
 interface PlayerListSidebarProps {
   players: Player[]
@@ -8,6 +9,7 @@ interface PlayerListSidebarProps {
   onPlayerSelect: (player: Player) => void
   onClearAll: () => void
   positionFilter: string | null
+  selectedCount: number
 }
 
 export default function PlayerListSidebar({ 
@@ -15,7 +17,8 @@ export default function PlayerListSidebar({
   selectedPlayers, 
   onPlayerSelect, 
   onClearAll,
-  positionFilter 
+  positionFilter,
+  selectedCount 
 }: PlayerListSidebarProps) {
   const [searchTerm, setSearchTerm] = useState('')
 
@@ -24,7 +27,7 @@ export default function PlayerListSidebar({
     let filtered = players
 
     // Apply position filter
-    if (positionFilter && positionFilter !== 'ALL' && positionFilter !== 'MY_TEAM') {
+    if (positionFilter && positionFilter !== 'ALL') {
       if (positionFilter === 'FLEX') {
         filtered = filtered.filter(player => 
           ['RB', 'WR', 'TE'].includes(player.position)
@@ -52,10 +55,9 @@ export default function PlayerListSidebar({
         <div className="flex justify-between items-center mb-3">
           <h2 className="text-lg font-bold text-gray-800">
             {positionFilter && positionFilter !== 'ALL' ? (
-              positionFilter === 'FLEX' ? 'FLEX Players' : 
-              positionFilter === 'MY_TEAM' ? 'My Team' :
-              `${positionFilter} Players`
-            ) : 'All Players'}
+              positionFilter === 'FLEX' ? `FLEX Players (${selectedCount}/4)` : 
+              `${positionFilter} Players (${selectedCount}/4)`
+            ) : `All Players (${selectedCount}/4)`}
           </h2>
           {selectedPlayers.length > 0 && (
             <button
@@ -88,14 +90,12 @@ export default function PlayerListSidebar({
       <div className="overflow-y-auto max-h-[calc(100vh-140px)]">
         {filteredPlayers.length === 0 ? (
           <div className="p-4 text-center text-gray-500">
-            {searchTerm ? 'No players found' : 
-             positionFilter === 'MY_TEAM' ? 'Loading team data...' :
-             'Select a position to view players'}
+            {searchTerm ? 'No players found' : 'Select a position to view players'}
           </div>
         ) : (
           <div className="space-y-1 p-2">
             {filteredPlayers.map((player, index) => {
-              const isSelected = selectedPlayers.some(p => p.name === player.name)
+              const isSelected = selectedPlayers.some(p => p.id === player.id)
               const isDisabled = selectedPlayers.length >= 4 && !isSelected
               
               const getPlayerButtonClass = () => {
@@ -106,11 +106,13 @@ export default function PlayerListSidebar({
                     case 'QB':
                       return baseClass + 'bg-red-100 text-red-800 border-red-200'
                     case 'RB':
-                      return baseClass + 'bg-teal-100 text-teal-800 border-teal-200'
+                      return baseClass + 'bg-green-100 text-green-800 border-green-200'
                     case 'WR':
                       return baseClass + 'bg-purple-200 text-purple-900 border-purple-300'
                     case 'TE':
                       return baseClass + 'bg-orange-100 text-orange-800 border-orange-200'
+                    case 'K':
+                      return baseClass + 'bg-yellow-100 text-yellow-800 border-yellow-200'
                     default:
                       return baseClass + 'bg-gray-100 text-gray-800 border-gray-200'
                   }
@@ -126,6 +128,8 @@ export default function PlayerListSidebar({
                       return baseClass + 'bg-white hover:bg-purple-50 border-gray-200'
                     case 'TE':
                       return baseClass + 'bg-white hover:bg-orange-50 border-gray-200'
+                    case 'K':
+                      return baseClass + 'bg-white hover:bg-yellow-50 border-gray-200'
                     default:
                       return baseClass + 'bg-white hover:bg-gray-50 border-gray-200'
                   }
@@ -140,14 +144,23 @@ export default function PlayerListSidebar({
                   className={getPlayerButtonClass()}
                 >
                 <div className="flex justify-between items-start">
-                  <div>
-                    <div className="font-medium text-sm">{player.name}</div>
-                    <div className="text-xs text-gray-500 mt-1">
-                      {player.position} • {player.team}
+                  <div className="flex items-center gap-2">
+                    {player.headshot_url && (
+                      <LazyImage
+                        src={player.headshot_url} 
+                        alt={`${player.name} headshot`}
+                        className="w-8 h-8 rounded-full object-cover border border-gray-300 flex-shrink-0"
+                      />
+                    )}
+                    <div>
+                      <div className="font-medium text-sm">{player.name}</div>
+                      <div className="text-xs text-gray-500 mt-1">
+                        {player.position} • {player.team}
+                      </div>
                     </div>
                   </div>
                   <div className="text-xs text-gray-400">
-                    {player.total_games}g
+                    #{player.jersey_number || '--'}
                   </div>
                 </div>
               </button>

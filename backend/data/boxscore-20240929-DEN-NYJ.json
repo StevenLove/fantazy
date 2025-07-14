@@ -1,0 +1,2581 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "DEN",
+      "teamID": "10",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "5",
+      "ydsAllowed": "248",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "9",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "NYJ",
+      "teamID": "25",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "0",
+      "ydsAllowed": "186",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "10",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "186",
+      "rushingAttempts": "31",
+      "rushingYards": "126",
+      "fumblesLost": "1",
+      "penalties": "5-74",
+      "totalPlays": "56",
+      "possession": "28:16",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "12-25",
+      "passingFirstDowns": "3",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "0-0",
+      "thirdDownEfficiency": "3-14",
+      "blockedPunt": "0",
+      "yardsPerPlay": "3.3",
+      "redZoneScoredAndAttempted": "1-1",
+      "teamID": "10",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "13",
+      "rushingFirstDowns": "8",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "12",
+      "passTD": "1",
+      "team": "DEN",
+      "blockedXP": "0",
+      "teamAbv": "DEN",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "60",
+      "yardsPerRush": "4.1",
+      "snapCounts": {
+        "totalSpecialTeams": "28",
+        "totalOffensive": "61",
+        "totalDefensive": "74"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "2.4"
+    },
+    "home": {
+      "totalYards": "248",
+      "rushingAttempts": "23",
+      "rushingYards": "64",
+      "fumblesLost": "1",
+      "penalties": "13-90",
+      "totalPlays": "70",
+      "possession": "31:44",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "24-42",
+      "passingFirstDowns": "10",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "5-41",
+      "thirdDownEfficiency": "4-17",
+      "blockedPunt": "0",
+      "yardsPerPlay": "3.5",
+      "redZoneScoredAndAttempted": "0-2",
+      "teamID": "25",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "13",
+      "rushingFirstDowns": "4",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "16",
+      "passTD": "0",
+      "team": "NYJ",
+      "blockedXP": "0",
+      "teamAbv": "NYJ",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "0-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "184",
+      "yardsPerRush": "2.8",
+      "snapCounts": {
+        "totalSpecialTeams": "28",
+        "totalOffensive": "74",
+        "totalDefensive": "61"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "3.9"
+    }
+  },
+  "gameDate": "20240929",
+  "scoringPlays": [
+    {
+      "score": "Greg Zuerlein 23 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "0",
+      "teamID": "25",
+      "scoreDetails": "6 plays, 29 yards, 2:16",
+      "scoreType": "FG",
+      "scoreTime": "14:51",
+      "team": "NYJ",
+      "playerIDs": [
+        "14993"
+      ]
+    },
+    {
+      "score": "Greg Zuerlein 35 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "6",
+      "awayScore": "0",
+      "teamID": "25",
+      "scoreDetails": "9 plays, 56 yards, 1:47",
+      "scoreType": "FG",
+      "scoreTime": "0:00",
+      "team": "NYJ",
+      "playerIDs": [
+        "14993"
+      ]
+    },
+    {
+      "score": "Courtland Sutton 8 Yd pass from Bo Nix (Wil Lutz Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "6",
+      "awayScore": "7",
+      "teamID": "10",
+      "scoreDetails": "11 plays, 87 yards, 5:27",
+      "scoreType": "TD",
+      "scoreTime": "3:08",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "3128429",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Greg Zuerlein 40 Yd Field Goal  ",
+      "scorePeriod": "Q4",
+      "homeScore": "9",
+      "awayScore": "7",
+      "teamID": "25",
+      "scoreDetails": "11 plays, 53 yards, 4:34",
+      "scoreType": "FG",
+      "scoreTime": "13:34",
+      "team": "NYJ",
+      "playerIDs": [
+        "14993"
+      ]
+    },
+    {
+      "score": "Wil Lutz 47 Yd Field Goal  ",
+      "scorePeriod": "Q4",
+      "homeScore": "9",
+      "awayScore": "10",
+      "teamID": "10",
+      "scoreDetails": "8 plays, 41 yards, 4:39",
+      "scoreType": "FG",
+      "scoreTime": "8:55",
+      "team": "DEN",
+      "playerIDs": [
+        "2985659"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "25",
+  "homeResult": "L",
+  "away": "DEN",
+  "gameWeek": "Week 4",
+  "attendance": "82,243",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "0",
+      "Q2": "0",
+      "Q3": "7",
+      "Q4": "3",
+      "teamID": "10",
+      "currentlyInPossession": "False",
+      "totalPts": "10",
+      "teamAbv": "DEN"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "6",
+      "Q3": "0",
+      "Q4": "3",
+      "teamID": "25",
+      "currentlyInPossession": "False",
+      "totalPts": "9",
+      "teamAbv": "NYJ"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "East Rutherford, NJ",
+  "home": "NYJ",
+  "playerStats": {
+    "8439": {
+      "gameID": "20240929_DEN@NYJ",
+      "Rushing": {
+        "rushAvg": "5.2",
+        "rushYds": "26",
+        "carries": "5",
+        "longRush": "14",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "33.8",
+        "rtg": "72.0",
+        "sacked": "5-41",
+        "passAttempts": "42",
+        "passAvg": "5.4",
+        "passTD": "0",
+        "passYds": "225",
+        "int": "0",
+        "passCompletions": "24"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "8439",
+      "longName": "Aaron Rodgers"
+    },
+    "12701": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "316",
+        "punts": "7",
+        "puntAvg": "45.1",
+        "puntsin20": "3",
+        "puntTouchBacks": "0",
+        "puntLong": "56"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "12701",
+      "longName": "Thomas Morstead"
+    },
+    "13978": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "13978",
+      "longName": "Tyron Smith"
+    },
+    "14993": {
+      "gameID": "20240929_DEN@NYJ",
+      "scoringPlays": [
+        {
+          "score": "Greg Zuerlein 23 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "0",
+          "teamID": "25",
+          "scoreDetails": "6 plays, 29 yards, 2:16",
+          "scoreType": "FG",
+          "scoreTime": "14:51",
+          "team": "NYJ",
+          "playerIDs": [
+            "14993"
+          ]
+        },
+        {
+          "score": "Greg Zuerlein 35 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "6",
+          "awayScore": "0",
+          "teamID": "25",
+          "scoreDetails": "9 plays, 56 yards, 1:47",
+          "scoreType": "FG",
+          "scoreTime": "0:00",
+          "team": "NYJ",
+          "playerIDs": [
+            "14993"
+          ]
+        },
+        {
+          "score": "Greg Zuerlein 40 Yd Field Goal  ",
+          "scorePeriod": "Q4",
+          "homeScore": "9",
+          "awayScore": "7",
+          "teamID": "25",
+          "scoreDetails": "11 plays, 53 yards, 4:34",
+          "scoreType": "FG",
+          "scoreTime": "13:34",
+          "team": "NYJ",
+          "playerIDs": [
+            "14993"
+          ]
+        }
+      ],
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "40",
+        "fgMade": "3",
+        "fgAttempts": "4",
+        "xpMade": "0",
+        "fgPct": "75.0",
+        "kickingPts": "9",
+        "xpAttempts": "0",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "14993",
+      "longName": "Greg Zuerlein"
+    },
+    "2515270": {
+      "gameID": "20240929_DEN@NYJ",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "3",
+        "targets": "1",
+        "recYds": "3",
+        "recAvg": "3.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.21",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.64",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2515270",
+      "longName": "Michael Burton"
+    },
+    "2577619": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "339",
+        "punts": "8",
+        "puntAvg": "42.4",
+        "puntsin20": "3",
+        "puntTouchBacks": "0",
+        "puntLong": "54"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2577619",
+      "longName": "Riley Dixon"
+    },
+    "2577637": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "2577637",
+      "longName": "Sam Eguavoen"
+    },
+    "2983155": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "2983155",
+      "longName": "Thomas Hennessy"
+    },
+    "2985659": {
+      "gameID": "20240929_DEN@NYJ",
+      "scoringPlays": [
+        {
+          "score": "Courtland Sutton 8 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "7",
+          "teamID": "10",
+          "scoreDetails": "11 plays, 87 yards, 5:27",
+          "scoreType": "TD",
+          "scoreTime": "3:08",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3128429",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Wil Lutz 47 Yd Field Goal  ",
+          "scorePeriod": "Q4",
+          "homeScore": "9",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "8 plays, 41 yards, 4:39",
+          "scoreType": "FG",
+          "scoreTime": "8:55",
+          "team": "DEN",
+          "playerIDs": [
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "47",
+        "fgMade": "1",
+        "fgAttempts": "2",
+        "xpMade": "1",
+        "fgPct": "50.0",
+        "kickingPts": "4",
+        "xpAttempts": "1",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2985659",
+      "longName": "Wil Lutz"
+    },
+    "3045138": {
+      "gameID": "20240929_DEN@NYJ",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "22",
+        "targets": "5",
+        "recYds": "67",
+        "recAvg": "16.8"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.58",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "3045138",
+      "longName": "Mike Williams"
+    },
+    "3045463": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3045463",
+      "longName": "Chuck Clark"
+    },
+    "3051369": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.18"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3051369",
+      "longName": "Bruce Hector"
+    },
+    "3110565": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "5",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3110565",
+      "longName": "Quincy Williams"
+    },
+    "3115306": {
+      "gameID": "20240929_DEN@NYJ",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "2",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.43",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3115306",
+      "longName": "Josh Reynolds"
+    },
+    "3117258": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "25",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "3",
+        "defSnapPct": "0.41"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3117258",
+      "longName": "Solomon Thomas"
+    },
+    "3120464": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3120464",
+      "longName": "John Franklin-Myers"
+    },
+    "3121414": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "3121414",
+      "longName": "Jalyn Holmes"
+    },
+    "3128390": {
+      "gameID": "20240929_DEN@NYJ",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "25",
+        "targets": "8",
+        "recYds": "58",
+        "recAvg": "11.6"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.88",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "65",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "3128390",
+      "longName": "Allen Lazard"
+    },
+    "3128429": {
+      "gameID": "20240929_DEN@NYJ",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "1",
+        "longRec": "29",
+        "targets": "9",
+        "recYds": "60",
+        "recAvg": "20.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Courtland Sutton 8 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "7",
+          "teamID": "10",
+          "scoreDetails": "11 plays, 87 yards, 5:27",
+          "scoreType": "TD",
+          "scoreTime": "3:08",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3128429",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.79",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "48",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3128429",
+      "longName": "Courtland Sutton"
+    },
+    "3133440": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.08"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3133440",
+      "longName": "Levi Wallace"
+    },
+    "3134448": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.89",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3134448",
+      "longName": "Tremon Smith"
+    },
+    "3139166": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3139166",
+      "longName": "Mitchell Fraboni"
+    },
+    "3139387": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "3139387",
+      "longName": "D.J. Reed"
+    },
+    "3152371": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "14",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.23"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3152371",
+      "longName": "Takk McKinley"
+    },
+    "3858271": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "9",
+        "stSnap": "21",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.15"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3858271",
+      "longName": "Ashtyn Davis"
+    },
+    "3894915": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.41"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3894915",
+      "longName": "D.J. Jones"
+    },
+    "3911853": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.46",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "28",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3911853",
+      "longName": "Adam Trautman"
+    },
+    "3915139": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "3915139",
+      "longName": "Jake Hanson"
+    },
+    "3915282": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "74",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915282",
+      "longName": "Zach Allen"
+    },
+    "3915437": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "3915437",
+      "longName": "Isaiah Oliver"
+    },
+    "3915486": {
+      "gameID": "20240929_DEN@NYJ",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "8",
+        "recYds": "17",
+        "recAvg": "4.3"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.92",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "3915486",
+      "longName": "Tyler Conklin"
+    },
+    "3919548": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "18",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.77"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "2",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3919548",
+      "longName": "Justin Strnad"
+    },
+    "3921936": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3921936",
+      "longName": "Matt Peart"
+    },
+    "3926229": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "74",
+        "stSnap": "9",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3926229",
+      "longName": "Cody Barton"
+    },
+    "3929636": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "3929636",
+      "longName": "Irvin Charles"
+    },
+    "3929850": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "74",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3929850",
+      "longName": "P.J. Locke"
+    },
+    "4035479": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4035479",
+      "longName": "John Simpson"
+    },
+    "4035662": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4035662",
+      "longName": "Garett Bolles"
+    },
+    "4036153": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "18",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036153",
+      "longName": "Kristian Welch"
+    },
+    "4037521": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "18",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.26"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037521",
+      "longName": "Chazz Surratt"
+    },
+    "4037559": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037559",
+      "longName": "Devon Key"
+    },
+    "4037650": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4037650",
+      "longName": "Ben Powers"
+    },
+    "4039018": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039018",
+      "longName": "Luke Wattenberg"
+    },
+    "4039057": {
+      "gameID": "20240929_DEN@NYJ",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.69",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4039057",
+      "longName": "Lil'Jordan Humphrey"
+    },
+    "4039059": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "74",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4039059",
+      "longName": "Brandon Jones"
+    },
+    "4039064": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.32"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4039064",
+      "longName": "Malcolm Roach"
+    },
+    "4040608": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "59",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.80"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4040608",
+      "longName": "Jonathon Cooper"
+    },
+    "4040982": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.82"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4040982",
+      "longName": "Quinnen Williams"
+    },
+    "4045299": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4045299",
+      "longName": "Marcelino McCrary-Ball"
+    },
+    "4240456": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.62"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "2",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240456",
+      "longName": "Michael Carter II"
+    },
+    "4240532": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "59",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "11",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240532",
+      "longName": "Tony Adams"
+    },
+    "4240551": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4240551",
+      "longName": "Alex Palczewski"
+    },
+    "4240896": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240896",
+      "longName": "Micheal Clemons"
+    },
+    "4242503": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4242503",
+      "longName": "Alex Forsyth"
+    },
+    "4259186": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4259186",
+      "longName": "Xavier Newman"
+    },
+    "4259491": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.49"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4259491",
+      "longName": "Javon Kinlaw"
+    },
+    "4259646": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4259646",
+      "longName": "Alijah Vera-Tucker"
+    },
+    "4261090": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "13",
+        "stSnap": "14",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.18"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4261090",
+      "longName": "Jordan Jackson"
+    },
+    "4360259": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4360259",
+      "longName": "Nik Bonitto"
+    },
+    "4361331": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361331",
+      "longName": "Jamien Sherwood"
+    },
+    "4361372": {
+      "gameID": "20240929_DEN@NYJ",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "2",
+        "recYds": "10",
+        "recAvg": "5.0"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.32",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.50",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4361372",
+      "longName": "Jeremy Ruckert"
+    },
+    "4361579": {
+      "gameID": "20240929_DEN@NYJ",
+      "Rushing": {
+        "rushAvg": "4.8",
+        "rushYds": "77",
+        "carries": "16",
+        "longRush": "16",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "3",
+        "recYds": "3",
+        "recAvg": "1.5"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.57",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4361579",
+      "longName": "Javonte Williams"
+    },
+    "4361691": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4361691",
+      "longName": "Frank Crum"
+    },
+    "4361767": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361767",
+      "longName": "Will McDonald IV"
+    },
+    "4361824": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.61",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4361824",
+      "longName": "Tanner McCalister"
+    },
+    "4362603": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4362603",
+      "longName": "Brenden Bates"
+    },
+    "4362748": {
+      "gameID": "20240929_DEN@NYJ",
+      "Rushing": {
+        "rushAvg": "0.0",
+        "rushYds": "0",
+        "carries": "1",
+        "longRush": "0",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "-1",
+        "targets": "2",
+        "recYds": "-4",
+        "recAvg": "-2.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.08",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4362748",
+      "longName": "Tyler Badie"
+    },
+    "4367209": {
+      "gameID": "20240929_DEN@NYJ",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.39",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4367209",
+      "longName": "Greg Dulcich"
+    },
+    "4372012": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "74",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "2",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4372012",
+      "longName": "Pat Surtain II"
+    },
+    "4372418": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4372418",
+      "longName": "Keidron Smith"
+    },
+    "4373656": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4373656",
+      "longName": "Max Mitchell"
+    },
+    "4382401": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.96"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "8",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4382401",
+      "longName": "Riley Moss"
+    },
+    "4383440": {
+      "gameID": "20240929_DEN@NYJ",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.46",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.54",
+        "offSnap": "28",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4383440",
+      "longName": "Nate Adkins"
+    },
+    "4426338": {
+      "gameID": "20240929_DEN@NYJ",
+      "Rushing": {
+        "rushAvg": "0.6",
+        "rushYds": "3",
+        "carries": "5",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "34.7",
+        "rtg": "67.9",
+        "sacked": "0-0",
+        "passAttempts": "25",
+        "passAvg": "2.4",
+        "passTD": "1",
+        "passYds": "60",
+        "int": "0",
+        "passCompletions": "12"
+      },
+      "scoringPlays": [
+        {
+          "score": "Courtland Sutton 8 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "7",
+          "teamID": "10",
+          "scoreDetails": "11 plays, 87 yards, 5:27",
+          "scoreType": "TD",
+          "scoreTime": "3:08",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3128429",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4426338",
+      "longName": "Bo Nix"
+    },
+    "4427250": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4427250",
+      "longName": "Sauce Gardner"
+    },
+    "4427278": {
+      "gameID": "20240929_DEN@NYJ",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "4",
+        "recYds": "6",
+        "recAvg": "6.0"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "50",
+        "kickReturnAvg": "25.0",
+        "kickReturnLong": "27"
+      },
+      "Punting": {
+        "puntReturns": "5",
+        "puntReturnYds": "31",
+        "puntReturnAvg": "6.2",
+        "puntReturnLong": "11",
+        "puntReturnTD": "0"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4427278",
+      "longName": "Xavier Gipson"
+    },
+    "4427366": {
+      "gameID": "20240929_DEN@NYJ",
+      "Rushing": {
+        "rushAvg": "0.4",
+        "rushYds": "4",
+        "carries": "10",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "5",
+        "recYds": "14",
+        "recAvg": "7.0"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.69",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4427366",
+      "longName": "Breece Hall"
+    },
+    "4428241": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.36",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4428241",
+      "longName": "Levelle Bailey"
+    },
+    "4428681": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4428681",
+      "longName": "Joe Tippmann"
+    },
+    "4431280": {
+      "gameID": "20240929_DEN@NYJ",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "2",
+        "targets": "4",
+        "recYds": "-2",
+        "recAvg": "-1.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.31",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4431280",
+      "longName": "Troy Franklin"
+    },
+    "4431809": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4431809",
+      "longName": "Olu Fashanu"
+    },
+    "4567462": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4567462",
+      "longName": "Ja'Quan McMillian"
+    },
+    "4567979": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4567979",
+      "longName": "Brandin Echols"
+    },
+    "4569016": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.18"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4569016",
+      "longName": "Eric Watts"
+    },
+    "4569618": {
+      "gameID": "20240929_DEN@NYJ",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "23",
+        "targets": "8",
+        "recYds": "41",
+        "recAvg": "8.2"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.96",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4569618",
+      "longName": "Garrett Wilson"
+    },
+    "4608138": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4608138",
+      "longName": "Quinn Meinerz"
+    },
+    "4685247": {
+      "gameID": "20240929_DEN@NYJ",
+      "Rushing": {
+        "rushAvg": "4.3",
+        "rushYds": "34",
+        "carries": "8",
+        "longRush": "9",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "1",
+        "recYds": "12",
+        "recAvg": "12.0"
+      },
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.36",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.64",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4685247",
+      "longName": "Braelon Allen"
+    },
+    "4686472": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.16",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.46",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "5",
+        "puntReturnAvg": "5.0",
+        "puntReturnLong": "5",
+        "puntReturnTD": "0"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4686472",
+      "longName": "Marvin Mims Jr."
+    },
+    "4687592": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4687592",
+      "longName": "Jonah Elliss"
+    },
+    "4695404": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "4695404",
+      "longName": "Isaiah Davis"
+    },
+    "4722893": {
+      "gameID": "20240929_DEN@NYJ",
+      "Rushing": {
+        "rushAvg": "5.1",
+        "rushYds": "46",
+        "carries": "9",
+        "longRush": "10",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4722893",
+      "longName": "Jaleel McLaughlin"
+    },
+    "5208977": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "25",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYJ",
+      "teamAbv": "NYJ",
+      "playerID": "5208977",
+      "longName": "Qwan'tez Stiggers"
+    },
+    "5216101": {
+      "gameID": "20240929_DEN@NYJ",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "13",
+        "stSnapPct": "0.46",
+        "offSnap": "0",
+        "defSnapPct": "0.22"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "5216101",
+      "longName": "Dondrea Tillman"
+    }
+  },
+  "arenaCapacity": "82,500",
+  "arena": "MetLife Stadium",
+  "homePts": "9",
+  "awayResult": "W",
+  "teamIDAway": "10",
+  "Referees": "Barry Anderson, Ronald Torbert, Keith Washington, Ryan Dickson, Tony Josselyn, Brian Bolinger, Frank LeBlanc",
+  "gameClock": "",
+  "awayPts": "10",
+  "gameID": "20240929_DEN@NYJ",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

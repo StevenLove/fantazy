@@ -1,0 +1,2774 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "IND",
+      "teamID": "14",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "2",
+      "ydsAllowed": "363",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "23",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "HOU",
+      "teamID": "13",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "5",
+      "ydsAllowed": "303",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "20",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "303",
+      "rushingAttempts": "26",
+      "rushingYards": "163",
+      "fumblesLost": "1",
+      "penalties": "9-57",
+      "totalPlays": "63",
+      "possession": "24:40",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "10-32",
+      "passingFirstDowns": "7",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "5-35",
+      "thirdDownEfficiency": "2-13",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.8",
+      "redZoneScoredAndAttempted": "1-2",
+      "teamID": "14",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "13",
+      "rushingFirstDowns": "10",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "17",
+      "passTD": "1",
+      "team": "IND",
+      "blockedXP": "0",
+      "teamAbv": "IND",
+      "firstDownsFromPenalties": "0",
+      "fourthDownEfficiency": "2-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "140",
+      "yardsPerRush": "6.3",
+      "snapCounts": {
+        "totalSpecialTeams": "33",
+        "totalOffensive": "64",
+        "totalDefensive": "71"
+      },
+      "turnovers": "2",
+      "yardsPerPass": "3.8"
+    },
+    "home": {
+      "totalYards": "363",
+      "rushingAttempts": "29",
+      "rushingYards": "96",
+      "fumblesLost": "1",
+      "penalties": "5-30",
+      "totalPlays": "68",
+      "possession": "35:20",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "25-37",
+      "passingFirstDowns": "15",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "2-18",
+      "thirdDownEfficiency": "4-13",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.3",
+      "redZoneScoredAndAttempted": "2-6",
+      "teamID": "13",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "12",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "21",
+      "passTD": "1",
+      "team": "HOU",
+      "blockedXP": "0",
+      "teamAbv": "HOU",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "267",
+      "yardsPerRush": "3.3",
+      "snapCounts": {
+        "totalSpecialTeams": "33",
+        "totalOffensive": "71",
+        "totalDefensive": "64"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "6.8"
+    }
+  },
+  "gameDate": "20241027",
+  "scoringPlays": [
+    {
+      "score": "Ka'imi Fairbairn 35 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "0",
+      "teamID": "13",
+      "scoreDetails": "9 plays, 41 yards, 3:45",
+      "scoreType": "FG",
+      "scoreTime": "11:15",
+      "team": "HOU",
+      "playerIDs": [
+        "2971573"
+      ]
+    },
+    {
+      "score": "Matt Gay 46 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "3",
+      "teamID": "14",
+      "scoreDetails": "6 plays, 12 yards, 1:15",
+      "scoreType": "FG",
+      "scoreTime": "10:00",
+      "team": "IND",
+      "playerIDs": [
+        "4249087"
+      ]
+    },
+    {
+      "score": "Josh Downs 69 Yd pass from Anthony Richardson (Matt Gay Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "10",
+      "teamID": "14",
+      "scoreDetails": "4 plays, 81 yards, 2:12",
+      "scoreType": "TD",
+      "scoreTime": "0:50",
+      "team": "IND",
+      "playerIDs": [
+        "4429084",
+        "4688813",
+        "4249087"
+      ]
+    },
+    {
+      "score": "Joe Mixon 14 Yd Run (Ka'imi Fairbairn Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "10",
+      "awayScore": "10",
+      "teamID": "13",
+      "scoreDetails": "10 plays, 70 yards, 5:46",
+      "scoreType": "TD",
+      "scoreTime": "10:04",
+      "team": "HOU",
+      "playerIDs": [
+        "3116385",
+        "2971573"
+      ]
+    },
+    {
+      "score": "Tank Dell 7 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "17",
+      "awayScore": "10",
+      "teamID": "13",
+      "scoreDetails": "1 play, 7 yards, 0:06",
+      "scoreType": "TD",
+      "scoreTime": "0:17",
+      "team": "HOU",
+      "playerIDs": [
+        "4432577",
+        "4366031",
+        "2971573"
+      ]
+    },
+    {
+      "score": "Ka'imi Fairbairn 35 Yd Field Goal  ",
+      "scorePeriod": "Q3",
+      "homeScore": "20",
+      "awayScore": "10",
+      "teamID": "13",
+      "scoreDetails": "8 plays, 76 yards, 3:27",
+      "scoreType": "FG",
+      "scoreTime": "7:52",
+      "team": "HOU",
+      "playerIDs": [
+        "2971573"
+      ]
+    },
+    {
+      "score": "Matt Gay 37 Yd Field Goal  ",
+      "scorePeriod": "Q3",
+      "homeScore": "20",
+      "awayScore": "13",
+      "teamID": "14",
+      "scoreDetails": "10 plays, 52 yards, 5:51",
+      "scoreType": "FG",
+      "scoreTime": "2:01",
+      "team": "IND",
+      "playerIDs": [
+        "4249087"
+      ]
+    },
+    {
+      "score": "Ka'imi Fairbairn 34 Yd Field Goal  ",
+      "scorePeriod": "Q4",
+      "homeScore": "23",
+      "awayScore": "13",
+      "teamID": "13",
+      "scoreDetails": "9 plays, 54 yards, 4:40",
+      "scoreType": "FG",
+      "scoreTime": "12:21",
+      "team": "HOU",
+      "playerIDs": [
+        "2971573"
+      ]
+    },
+    {
+      "score": "Jonathan Taylor 1 Yd Run (Matt Gay Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "23",
+      "awayScore": "20",
+      "teamID": "14",
+      "scoreDetails": "11 plays, 70 yards, 3:49",
+      "scoreType": "TD",
+      "scoreTime": "8:32",
+      "team": "IND",
+      "playerIDs": [
+        "4242335",
+        "4249087"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "13",
+  "homeResult": "W",
+  "away": "IND",
+  "gameWeek": "Week 8",
+  "attendance": "71,380",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "10",
+      "Q2": "0",
+      "Q3": "3",
+      "Q4": "7",
+      "teamID": "14",
+      "currentlyInPossession": "False",
+      "totalPts": "20",
+      "teamAbv": "IND"
+    },
+    "home": {
+      "Q1": "3",
+      "Q2": "14",
+      "Q3": "3",
+      "Q4": "3",
+      "teamID": "13",
+      "currentlyInPossession": "False",
+      "totalPts": "23",
+      "teamAbv": "HOU"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Houston, TX",
+  "home": "HOU",
+  "playerStats": {
+    "11252": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.02",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "11252",
+      "longName": "Joe Flacco"
+    },
+    "13729": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "13729",
+      "longName": "Jon Weeks"
+    },
+    "15880": {
+      "gameID": "20241027_IND@HOU",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "2",
+        "recYds": "18",
+        "recAvg": "9.0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.21",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "23",
+        "puntReturnAvg": "11.5",
+        "puntReturnLong": "13",
+        "puntReturnTD": "0"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "15880",
+      "longName": "Robert Woods"
+    },
+    "17447": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.45"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "17447",
+      "longName": "Denico Autry"
+    },
+    "2566045": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "2566045",
+      "longName": "Luke Rhodes"
+    },
+    "2576917": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "2576917",
+      "longName": "Shaq Mason"
+    },
+    "2578475": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "2578475",
+      "longName": "Ryan Kelly"
+    },
+    "2970716": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "6",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "3"
+      },
+      "playerID": "2970716",
+      "longName": "Eric Murray"
+    },
+    "2971282": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "43",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.61"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "2971282",
+      "longName": "DeForest Buckner"
+    },
+    "2971498": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "17",
+        "stSnapPct": "0.52",
+        "offSnap": "0",
+        "defSnapPct": "0.21"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2971498",
+      "longName": "Adam Gotsis"
+    },
+    "2971573": {
+      "gameID": "20241027_IND@HOU",
+      "scoringPlays": [
+        {
+          "score": "Ka'imi Fairbairn 35 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "0",
+          "teamID": "13",
+          "scoreDetails": "9 plays, 41 yards, 3:45",
+          "scoreType": "FG",
+          "scoreTime": "11:15",
+          "team": "HOU",
+          "playerIDs": [
+            "2971573"
+          ]
+        },
+        {
+          "score": "Joe Mixon 14 Yd Run (Ka'imi Fairbairn Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "10",
+          "awayScore": "10",
+          "teamID": "13",
+          "scoreDetails": "10 plays, 70 yards, 5:46",
+          "scoreType": "TD",
+          "scoreTime": "10:04",
+          "team": "HOU",
+          "playerIDs": [
+            "3116385",
+            "2971573"
+          ]
+        },
+        {
+          "score": "Tank Dell 7 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "17",
+          "awayScore": "10",
+          "teamID": "13",
+          "scoreDetails": "1 play, 7 yards, 0:06",
+          "scoreType": "TD",
+          "scoreTime": "0:17",
+          "team": "HOU",
+          "playerIDs": [
+            "4432577",
+            "4366031",
+            "2971573"
+          ]
+        },
+        {
+          "score": "Ka'imi Fairbairn 35 Yd Field Goal  ",
+          "scorePeriod": "Q3",
+          "homeScore": "20",
+          "awayScore": "10",
+          "teamID": "13",
+          "scoreDetails": "8 plays, 76 yards, 3:27",
+          "scoreType": "FG",
+          "scoreTime": "7:52",
+          "team": "HOU",
+          "playerIDs": [
+            "2971573"
+          ]
+        },
+        {
+          "score": "Ka'imi Fairbairn 34 Yd Field Goal  ",
+          "scorePeriod": "Q4",
+          "homeScore": "23",
+          "awayScore": "13",
+          "teamID": "13",
+          "scoreDetails": "9 plays, 54 yards, 4:40",
+          "scoreType": "FG",
+          "scoreTime": "12:21",
+          "team": "HOU",
+          "playerIDs": [
+            "2971573"
+          ]
+        }
+      ],
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "35",
+        "fgMade": "3",
+        "fgAttempts": "3",
+        "xpMade": "2",
+        "fgPct": "100.0",
+        "kickingPts": "11",
+        "xpAttempts": "2",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "2971573",
+      "longName": "Ka'imi Fairbairn"
+    },
+    "2976212": {
+      "gameID": "20241027_IND@HOU",
+      "Rushing": {
+        "rushAvg": "-4.0",
+        "rushYds": "-4",
+        "carries": "1",
+        "longRush": "-4",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "49",
+        "targets": "9",
+        "recYds": "81",
+        "recAvg": "16.2"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.54",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "38",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "2976212",
+      "longName": "Stefon Diggs"
+    },
+    "2976560": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.83"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "2976560",
+      "longName": "Danielle Hunter"
+    },
+    "2983509": {
+      "gameID": "20241027_IND@HOU",
+      "Rushing": {
+        "rushAvg": "4.0",
+        "rushYds": "4",
+        "carries": "1",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.18",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.70",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2983509",
+      "longName": "Dare Ogunbowale"
+    },
+    "2998565": {
+      "gameID": "20241027_IND@HOU",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.42",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.18",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "2998565",
+      "longName": "Mo Alie-Cox"
+    },
+    "3045172": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.61"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3045172",
+      "longName": "Folorunso Fatukasi"
+    },
+    "3051890": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3051890",
+      "longName": "Laremy Tunsil"
+    },
+    "3059880": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3059880",
+      "longName": "Neville Hewitt"
+    },
+    "3071353": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "6",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3071353",
+      "longName": "E.J. Speed"
+    },
+    "3115249": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "10",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.34"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "3115249",
+      "longName": "Taven Bryan"
+    },
+    "3115336": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.23"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3115336",
+      "longName": "Derek Barnett"
+    },
+    "3116385": {
+      "gameID": "20241027_IND@HOU",
+      "Rushing": {
+        "rushAvg": "4.1",
+        "rushYds": "102",
+        "carries": "25",
+        "longRush": "21",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "6",
+        "recYds": "32",
+        "recAvg": "8.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Joe Mixon 14 Yd Run (Ka'imi Fairbairn Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "10",
+          "awayScore": "10",
+          "teamID": "13",
+          "scoreDetails": "10 plays, 70 yards, 5:46",
+          "scoreType": "TD",
+          "scoreTime": "10:04",
+          "team": "HOU",
+          "playerIDs": [
+            "3116385",
+            "2971573"
+          ]
+        }
+      ],
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.76",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3116385",
+      "longName": "Joe Mixon"
+    },
+    "3116679": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "25",
+        "stSnapPct": "0.76",
+        "offSnap": "0",
+        "defSnapPct": "0.06"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3116679",
+      "longName": "M.J. Stewart"
+    },
+    "3117256": {
+      "gameID": "20241027_IND@HOU",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "17",
+        "targets": "6",
+        "recYds": "52",
+        "recAvg": "13.0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.66",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "47",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3117256",
+      "longName": "Dalton Schultz"
+    },
+    "3121595": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "3121595",
+      "longName": "Braden Smith"
+    },
+    "3124005": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "6",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "11",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3124005",
+      "longName": "Zaire Franklin"
+    },
+    "3128630": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.45",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "3128630",
+      "longName": "Chris Lammons"
+    },
+    "3129308": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "3129308",
+      "longName": "Quenton Nelson"
+    },
+    "3131498": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3131498",
+      "longName": "Tytus Howard"
+    },
+    "3139389": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.45",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3139389",
+      "longName": "D'Angelo Ross"
+    },
+    "3699530": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "2",
+        "stSnapPct": "0.06",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3699530",
+      "longName": "Khalil Davis"
+    },
+    "3914922": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "283",
+        "punts": "6",
+        "puntAvg": "47.2",
+        "puntsin20": "2",
+        "puntTouchBacks": "0",
+        "puntLong": "57"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "3914922",
+      "longName": "Rigoberto Sanchez"
+    },
+    "3915398": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "257",
+        "punts": "6",
+        "puntAvg": "42.8",
+        "puntsin20": "5",
+        "puntTouchBacks": "0",
+        "puntLong": "53"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3915398",
+      "longName": "Tommy Townsend"
+    },
+    "3916676": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.58",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3916676",
+      "longName": "Ka'dar Hollman"
+    },
+    "3929845": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3929845",
+      "longName": "Kris Boyd"
+    },
+    "3929956": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.52"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3929956",
+      "longName": "Tim Settle Jr."
+    },
+    "4033812": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "10",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.50"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4033812",
+      "longName": "Jake Hansen"
+    },
+    "4035434": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.50"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035434",
+      "longName": "Devin White"
+    },
+    "4035661": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035661",
+      "longName": "Julian Blackmon"
+    },
+    "4035687": {
+      "gameID": "20241027_IND@HOU",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "16",
+        "targets": "6",
+        "recYds": "16",
+        "recAvg": "16.0"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.95",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4035687",
+      "longName": "Michael Pittman Jr."
+    },
+    "4039160": {
+      "gameID": "20241027_IND@HOU",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "2",
+        "recYds": "4",
+        "recAvg": "4.0"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.31",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.55",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4039160",
+      "longName": "Kylen Granson"
+    },
+    "4040965": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4040965",
+      "longName": "Raekwon Davis"
+    },
+    "4058825": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "10",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.63"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "2",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4058825",
+      "longName": "Grover Stewart"
+    },
+    "4061956": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.16",
+        "defSnap": "0",
+        "stSnap": "28",
+        "stSnapPct": "0.85",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "55",
+        "kickReturnAvg": "55.0",
+        "kickReturnLong": "55"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4061956",
+      "longName": "Ashton Dulin"
+    },
+    "4218312": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4218312",
+      "longName": "Kenny Moore II"
+    },
+    "4240255": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "31",
+        "stSnap": "28",
+        "stSnapPct": "0.85",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240255",
+      "longName": "Grant Stuard"
+    },
+    "4240528": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.70",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4240528",
+      "longName": "Del'Shawn Phillips"
+    },
+    "4240548": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4240548",
+      "longName": "Kendrick Green"
+    },
+    "4241223": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "10",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4241223",
+      "longName": "Jalen Pitre"
+    },
+    "4241401": {
+      "gameID": "20241027_IND@HOU",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "14",
+        "targets": "1",
+        "recYds": "14",
+        "recAvg": "14.0"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.16",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4241401",
+      "longName": "Trey Sermon"
+    },
+    "4242335": {
+      "gameID": "20241027_IND@HOU",
+      "Rushing": {
+        "rushAvg": "5.3",
+        "rushYds": "105",
+        "carries": "20",
+        "longRush": "28",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "1",
+        "recYds": "12",
+        "recAvg": "12.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jonathan Taylor 1 Yd Run (Matt Gay Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "23",
+          "awayScore": "20",
+          "teamID": "14",
+          "scoreDetails": "11 plays, 70 yards, 3:49",
+          "scoreType": "TD",
+          "scoreTime": "8:32",
+          "team": "IND",
+          "playerIDs": [
+            "4242335",
+            "4249087"
+          ]
+        }
+      ],
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.81",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "52",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4242335",
+      "longName": "Jonathan Taylor"
+    },
+    "4242659": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "6",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.68"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "4",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "3",
+        "tfl": "3",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4242659",
+      "longName": "Dayo Odeyingbo"
+    },
+    "4248455": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4248455",
+      "longName": "Rodney Thomas II"
+    },
+    "4249087": {
+      "gameID": "20241027_IND@HOU",
+      "scoringPlays": [
+        {
+          "score": "Matt Gay 46 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "3",
+          "teamID": "14",
+          "scoreDetails": "6 plays, 12 yards, 1:15",
+          "scoreType": "FG",
+          "scoreTime": "10:00",
+          "team": "IND",
+          "playerIDs": [
+            "4249087"
+          ]
+        },
+        {
+          "score": "Josh Downs 69 Yd pass from Anthony Richardson (Matt Gay Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "10",
+          "teamID": "14",
+          "scoreDetails": "4 plays, 81 yards, 2:12",
+          "scoreType": "TD",
+          "scoreTime": "0:50",
+          "team": "IND",
+          "playerIDs": [
+            "4429084",
+            "4688813",
+            "4249087"
+          ]
+        },
+        {
+          "score": "Matt Gay 37 Yd Field Goal  ",
+          "scorePeriod": "Q3",
+          "homeScore": "20",
+          "awayScore": "13",
+          "teamID": "14",
+          "scoreDetails": "10 plays, 52 yards, 5:51",
+          "scoreType": "FG",
+          "scoreTime": "2:01",
+          "team": "IND",
+          "playerIDs": [
+            "4249087"
+          ]
+        },
+        {
+          "score": "Jonathan Taylor 1 Yd Run (Matt Gay Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "23",
+          "awayScore": "20",
+          "teamID": "14",
+          "scoreDetails": "11 plays, 70 yards, 3:49",
+          "scoreType": "TD",
+          "scoreTime": "8:32",
+          "team": "IND",
+          "playerIDs": [
+            "4242335",
+            "4249087"
+          ]
+        }
+      ],
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "46",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "2",
+        "fgPct": "100.0",
+        "kickingPts": "8",
+        "xpAttempts": "2",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4249087",
+      "longName": "Matt Gay"
+    },
+    "4258194": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.63"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4258194",
+      "longName": "Kwity Paye"
+    },
+    "4258594": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.25"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4258594",
+      "longName": "Kurt Hinish"
+    },
+    "4260703": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "28",
+        "stSnapPct": "0.85",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4260703",
+      "longName": "Segun Olubi"
+    },
+    "4274040": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4274040",
+      "longName": "Troy Hairston"
+    },
+    "4280416": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.56"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4280416",
+      "longName": "Samuel Womack III"
+    },
+    "4360078": {
+      "gameID": "20241027_IND@HOU",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "4",
+        "recYds": "11",
+        "recAvg": "11.0"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.78",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "50",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4360078",
+      "longName": "Alec Pierce"
+    },
+    "4360238": {
+      "gameID": "20241027_IND@HOU",
+      "Rushing": {
+        "rushAvg": "4.0",
+        "rushYds": "4",
+        "carries": "1",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.06",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "78",
+        "kickReturnAvg": "39.0",
+        "kickReturnLong": "45"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4360238",
+      "longName": "Dameon Pierce"
+    },
+    "4360538": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4360538",
+      "longName": "Trevor Denbow"
+    },
+    "4361425": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4361425",
+      "longName": "Juice Scruggs"
+    },
+    "4362523": {
+      "gameID": "20241027_IND@HOU",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "2",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4362523",
+      "longName": "Will Mallory"
+    },
+    "4362580": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362580",
+      "longName": "Bernhard Raimann"
+    },
+    "4362629": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.70",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4362629",
+      "longName": "Kelvin Joseph"
+    },
+    "4366031": {
+      "gameID": "20241027_IND@HOU",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "12",
+        "targets": "4",
+        "recYds": "35",
+        "recAvg": "8.8"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tank Dell 7 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "17",
+          "awayScore": "10",
+          "teamID": "13",
+          "scoreDetails": "1 play, 7 yards, 0:06",
+          "scoreType": "TD",
+          "scoreTime": "0:17",
+          "team": "HOU",
+          "playerIDs": [
+            "4432577",
+            "4366031",
+            "2971573"
+          ]
+        }
+      ],
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.75",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4366031",
+      "longName": "Tank Dell"
+    },
+    "4370363": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4370363",
+      "longName": "Dalton Tucker"
+    },
+    "4372085": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4372085",
+      "longName": "Cameron McGrone"
+    },
+    "4372774": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4372774",
+      "longName": "Jarrett Patterson"
+    },
+    "4374045": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4374045",
+      "longName": "Teagan Quitoriano"
+    },
+    "4374066": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "2",
+        "stSnap": "18",
+        "stSnapPct": "0.55",
+        "offSnap": "0",
+        "defSnapPct": "0.03"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4374066",
+      "longName": "Dylan Horton"
+    },
+    "4426327": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.86",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4426327",
+      "longName": "Kenyon Green"
+    },
+    "4426403": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "8",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426403",
+      "longName": "Nick Cross"
+    },
+    "4426434": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4426434",
+      "longName": "Derek Stingley Jr."
+    },
+    "4426473": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426473",
+      "longName": "Laiatu Latu"
+    },
+    "4426496": {
+      "gameID": "20241027_IND@HOU",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "14",
+        "targets": "3",
+        "recYds": "19",
+        "recAvg": "9.5"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.48",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.67",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426496",
+      "longName": "Cade Stover"
+    },
+    "4427298": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4427298",
+      "longName": "Matt Goncalves"
+    },
+    "4427479": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.52",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4427479",
+      "longName": "Jamal Hill"
+    },
+    "4427635": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "16",
+        "stSnapPct": "0.48",
+        "offSnap": "0",
+        "defSnapPct": "0.06"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4427635",
+      "longName": "Adetomiwa Adebawore"
+    },
+    "4429084": {
+      "gameID": "20241027_IND@HOU",
+      "Rushing": {
+        "rushAvg": "7.5",
+        "rushYds": "45",
+        "carries": "6",
+        "longRush": "26",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "28.2",
+        "rtg": "48.3",
+        "sacked": "5-35",
+        "passAttempts": "32",
+        "passAvg": "5.5",
+        "passTD": "1",
+        "passYds": "175",
+        "int": "1",
+        "passCompletions": "10"
+      },
+      "scoringPlays": [
+        {
+          "score": "Josh Downs 69 Yd pass from Anthony Richardson (Matt Gay Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "10",
+          "teamID": "14",
+          "scoreDetails": "4 plays, 81 yards, 2:12",
+          "scoreType": "TD",
+          "scoreTime": "0:50",
+          "team": "IND",
+          "playerIDs": [
+            "4429084",
+            "4688813",
+            "4249087"
+          ]
+        }
+      ],
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.98",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "2",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4429084",
+      "longName": "Anthony Richardson"
+    },
+    "4429676": {
+      "gameID": "20241027_IND@HOU",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.48",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "36",
+        "kickReturnAvg": "36.0",
+        "kickReturnLong": "36"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4429676",
+      "longName": "Tyler Goodson"
+    },
+    "4430957": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4430957",
+      "longName": "Tanor Bortolini"
+    },
+    "4431517": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "8",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4431517",
+      "longName": "Calen Bullock"
+    },
+    "4432577": {
+      "gameID": "20241027_IND@HOU",
+      "Rushing": {
+        "rushAvg": "-10.0",
+        "rushYds": "-10",
+        "carries": "1",
+        "longRush": "-10",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "60.3",
+        "rtg": "99.5",
+        "sacked": "2-18",
+        "passAttempts": "37",
+        "passAvg": "7.7",
+        "passTD": "1",
+        "passYds": "285",
+        "int": "0",
+        "passCompletions": "25"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tank Dell 7 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "17",
+          "awayScore": "10",
+          "teamID": "13",
+          "scoreDetails": "1 play, 7 yards, 0:06",
+          "scoreType": "TD",
+          "scoreTime": "0:17",
+          "team": "HOU",
+          "playerIDs": [
+            "4432577",
+            "4366031",
+            "2971573"
+          ]
+        }
+      ],
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4432577",
+      "longName": "C.J. Stroud"
+    },
+    "4432699": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4432699",
+      "longName": "Blake Fisher"
+    },
+    "4567096": {
+      "gameID": "20241027_IND@HOU",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "28",
+        "targets": "4",
+        "recYds": "29",
+        "recAvg": "9.7"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.28",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4567096",
+      "longName": "John Metchie III"
+    },
+    "4597500": {
+      "gameID": "20241027_IND@HOU",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "4",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.20",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4597500",
+      "longName": "Adonai Mitchell"
+    },
+    "4602699": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "3"
+      },
+      "playerID": "4602699",
+      "longName": "Kamari Lassiter"
+    },
+    "4685145": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4685145",
+      "longName": "Jaylon Jones"
+    },
+    "4685724": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "2",
+        "stSnapPct": "0.06",
+        "offSnap": "0",
+        "defSnapPct": "0.78"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "7",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4685724",
+      "longName": "Will Anderson Jr."
+    },
+    "4686422": {
+      "gameID": "20241027_IND@HOU",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "19",
+        "targets": "1",
+        "recYds": "19",
+        "recAvg": "19.0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.62",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.33",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4686422",
+      "longName": "Xavier Hutchinson"
+    },
+    "4688813": {
+      "gameID": "20241027_IND@HOU",
+      "Rushing": {
+        "rushAvg": "0.0",
+        "rushYds": "13",
+        "carries": "0",
+        "longRush": "13",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "69",
+        "targets": "9",
+        "recYds": "109",
+        "recAvg": "27.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Josh Downs 69 Yd pass from Anthony Richardson (Matt Gay Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "10",
+          "teamID": "14",
+          "scoreDetails": "4 plays, 81 yards, 2:12",
+          "scoreType": "TD",
+          "scoreTime": "0:50",
+          "team": "IND",
+          "playerIDs": [
+            "4429084",
+            "4688813",
+            "4249087"
+          ]
+        }
+      ],
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.70",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.18",
+        "offSnap": "45",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "12",
+        "puntReturnAvg": "6.0",
+        "puntReturnLong": "12",
+        "puntReturnTD": "0"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4688813",
+      "longName": "Josh Downs"
+    },
+    "4722908": {
+      "gameID": "20241027_IND@HOU",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.28",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.52",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4722908",
+      "longName": "Drew Ogletree"
+    }
+  },
+  "arenaCapacity": "71,995",
+  "arena": "NRG Stadium",
+  "homePts": "23",
+  "awayResult": "L",
+  "teamIDAway": "14",
+  "Referees": "Rick Patterson, Sarah Thomas, Brad Allen, Chad Hill, Duane Heydt, Walter Flowers, Tyree Walton",
+  "gameClock": "",
+  "awayPts": "20",
+  "gameID": "20241027_IND@HOU",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

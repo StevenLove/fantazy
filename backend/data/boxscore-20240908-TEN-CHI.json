@@ -1,0 +1,2833 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "TEN",
+      "teamID": "31",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "2",
+      "ydsAllowed": "148",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "12",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "CHI",
+      "teamID": "6",
+      "defTD": "2",
+      "defensiveInterceptions": "2",
+      "sacks": "3",
+      "ydsAllowed": "244",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "17",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "244",
+      "rushingAttempts": "26",
+      "rushingYards": "140",
+      "fumblesLost": "1",
+      "penalties": "8-50",
+      "totalPlays": "61",
+      "possession": "34:54",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "19-32",
+      "passingFirstDowns": "6",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "3-23",
+      "thirdDownEfficiency": "3-14",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.0",
+      "redZoneScoredAndAttempted": "1-2",
+      "teamID": "31",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "13",
+      "rushingFirstDowns": "9",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "16",
+      "passTD": "1",
+      "team": "TEN",
+      "blockedXP": "0",
+      "teamAbv": "TEN",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "1-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "104",
+      "yardsPerRush": "5.4",
+      "snapCounts": {
+        "totalSpecialTeams": "29",
+        "totalOffensive": "64",
+        "totalDefensive": "56"
+      },
+      "turnovers": "3",
+      "yardsPerPass": "3.0"
+    },
+    "home": {
+      "totalYards": "148",
+      "rushingAttempts": "22",
+      "rushingYards": "84",
+      "fumblesLost": "1",
+      "penalties": "7-55",
+      "totalPlays": "53",
+      "possession": "25:06",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "14-29",
+      "passingFirstDowns": "5",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "2-29",
+      "thirdDownEfficiency": "2-13",
+      "blockedPunt": "1",
+      "yardsPerPlay": "2.8",
+      "redZoneScoredAndAttempted": "0-1",
+      "teamID": "6",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "2",
+      "totalDrives": "10",
+      "rushingFirstDowns": "6",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "1",
+      "firstDowns": "11",
+      "passTD": "0",
+      "team": "CHI",
+      "blockedXP": "0",
+      "teamAbv": "CHI",
+      "firstDownsFromPenalties": "0",
+      "fourthDownEfficiency": "2-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "64",
+      "yardsPerRush": "3.8",
+      "snapCounts": {
+        "totalSpecialTeams": "29",
+        "totalOffensive": "56",
+        "totalDefensive": "64"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "2.1"
+    }
+  },
+  "gameDate": "20240908",
+  "scoringPlays": [
+    {
+      "score": "Tony Pollard 26 Yd Run (Nick Folk Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "7",
+      "teamID": "31",
+      "scoreDetails": "8 plays, 79 yards, 4:45",
+      "scoreType": "TD",
+      "scoreTime": "0:41",
+      "team": "TEN",
+      "playerIDs": [
+        "3916148",
+        "10621"
+      ]
+    },
+    {
+      "score": "Nick Folk 40 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "0",
+      "awayScore": "10",
+      "teamID": "31",
+      "scoreDetails": "4 plays, 1 yard, 1:35",
+      "scoreType": "FG",
+      "scoreTime": "14:06",
+      "team": "TEN",
+      "playerIDs": [
+        "10621"
+      ]
+    },
+    {
+      "score": "Chig Okonkwo 17 Yd pass from Will Levis (Nick Folk Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "0",
+      "awayScore": "17",
+      "teamID": "31",
+      "scoreDetails": "14 plays, 73 yards, 8:23",
+      "scoreType": "TD",
+      "scoreTime": "3:44",
+      "team": "TEN",
+      "playerIDs": [
+        "4361418",
+        "4360635",
+        "10621"
+      ]
+    },
+    {
+      "score": "Cairo Santos 24 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "17",
+      "teamID": "6",
+      "scoreDetails": "9 plays, 28 yards, 3:17",
+      "scoreType": "FG",
+      "scoreTime": "0:27",
+      "team": "CHI",
+      "playerIDs": [
+        "17427"
+      ]
+    },
+    {
+      "score": "Jonathan Owens 21 Yd Return of Blocked Punt (Cairo Santos Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "10",
+      "awayScore": "17",
+      "teamID": "6",
+      "scoreDetails": "6 plays, 8 yards, 3:19",
+      "scoreType": "TD",
+      "scoreTime": "9:07",
+      "team": "CHI",
+      "playerIDs": [
+        "4331768",
+        "17427"
+      ]
+    },
+    {
+      "score": "Cairo Santos 50 Yd Field Goal  ",
+      "scorePeriod": "Q4",
+      "homeScore": "13",
+      "awayScore": "17",
+      "teamID": "6",
+      "scoreDetails": "11 plays, 44 yards, 3:59",
+      "scoreType": "FG",
+      "scoreTime": "14:47",
+      "team": "CHI",
+      "playerIDs": [
+        "17427"
+      ]
+    },
+    {
+      "score": "Cairo Santos 48 Yd Field Goal  ",
+      "scorePeriod": "Q4",
+      "homeScore": "16",
+      "awayScore": "17",
+      "teamID": "6",
+      "scoreDetails": "4 plays, 1 yard, 1:52",
+      "scoreType": "FG",
+      "scoreTime": "9:52",
+      "team": "CHI",
+      "playerIDs": [
+        "17427"
+      ]
+    },
+    {
+      "score": "Tyrique Stevenson 43 Yd Interception Return (Caleb Williams Pass to D'Andre Swift for Two-Point Conversion)",
+      "scorePeriod": "Q4",
+      "homeScore": "24",
+      "awayScore": "17",
+      "teamID": "6",
+      "scoreDetails": "4 plays, 15 yards, 2:17",
+      "scoreType": "TD",
+      "scoreTime": "7:35",
+      "team": "CHI",
+      "playerIDs": [
+        "4431611",
+        "4259545",
+        "4426374"
+      ]
+    }
+  ],
+  "network": "FOX",
+  "teamIDHome": "6",
+  "homeResult": "W",
+  "away": "TEN",
+  "gameWeek": "Week 1",
+  "attendance": "59,403",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "7",
+      "Q2": "10",
+      "Q3": "0",
+      "Q4": "0",
+      "teamID": "31",
+      "currentlyInPossession": "False",
+      "totalPts": "17",
+      "teamAbv": "TEN"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "3",
+      "Q3": "7",
+      "Q4": "14",
+      "teamID": "6",
+      "currentlyInPossession": "False",
+      "totalPts": "24",
+      "teamAbv": "CHI"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Chicago, IL",
+  "home": "CHI",
+  "playerStats": {
+    "9614": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.16",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "9",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "9614",
+      "longName": "Marcedes Lewis"
+    },
+    "10621": {
+      "gameID": "20240908_TEN@CHI",
+      "scoringPlays": [
+        {
+          "score": "Tony Pollard 26 Yd Run (Nick Folk Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "31",
+          "scoreDetails": "8 plays, 79 yards, 4:45",
+          "scoreType": "TD",
+          "scoreTime": "0:41",
+          "team": "TEN",
+          "playerIDs": [
+            "3916148",
+            "10621"
+          ]
+        },
+        {
+          "score": "Nick Folk 40 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "0",
+          "awayScore": "10",
+          "teamID": "31",
+          "scoreDetails": "4 plays, 1 yard, 1:35",
+          "scoreType": "FG",
+          "scoreTime": "14:06",
+          "team": "TEN",
+          "playerIDs": [
+            "10621"
+          ]
+        },
+        {
+          "score": "Chig Okonkwo 17 Yd pass from Will Levis (Nick Folk Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "0",
+          "awayScore": "17",
+          "teamID": "31",
+          "scoreDetails": "14 plays, 73 yards, 8:23",
+          "scoreType": "TD",
+          "scoreTime": "3:44",
+          "team": "TEN",
+          "playerIDs": [
+            "4361418",
+            "4360635",
+            "10621"
+          ]
+        }
+      ],
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "40",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "2",
+        "fgPct": "100.0",
+        "kickingPts": "5",
+        "xpAttempts": "2",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "10621",
+      "longName": "Nick Folk"
+    },
+    "13848": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "13848",
+      "longName": "Morgan Cox"
+    },
+    "15795": {
+      "gameID": "20240908_TEN@CHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "1",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.27",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "17",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "15795",
+      "longName": "DeAndre Hopkins"
+    },
+    "15818": {
+      "gameID": "20240908_TEN@CHI",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "11",
+        "recYds": "29",
+        "recAvg": "7.3"
+      },
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.68",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "38",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "15818",
+      "longName": "Keenan Allen"
+    },
+    "17427": {
+      "gameID": "20240908_TEN@CHI",
+      "scoringPlays": [
+        {
+          "score": "Cairo Santos 24 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "17",
+          "teamID": "6",
+          "scoreDetails": "9 plays, 28 yards, 3:17",
+          "scoreType": "FG",
+          "scoreTime": "0:27",
+          "team": "CHI",
+          "playerIDs": [
+            "17427"
+          ]
+        },
+        {
+          "score": "Jonathan Owens 21 Yd Return of Blocked Punt (Cairo Santos Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "17",
+          "teamID": "6",
+          "scoreDetails": "6 plays, 8 yards, 3:19",
+          "scoreType": "TD",
+          "scoreTime": "9:07",
+          "team": "CHI",
+          "playerIDs": [
+            "4331768",
+            "17427"
+          ]
+        },
+        {
+          "score": "Cairo Santos 50 Yd Field Goal  ",
+          "scorePeriod": "Q4",
+          "homeScore": "13",
+          "awayScore": "17",
+          "teamID": "6",
+          "scoreDetails": "11 plays, 44 yards, 3:59",
+          "scoreType": "FG",
+          "scoreTime": "14:47",
+          "team": "CHI",
+          "playerIDs": [
+            "17427"
+          ]
+        },
+        {
+          "score": "Cairo Santos 48 Yd Field Goal  ",
+          "scorePeriod": "Q4",
+          "homeScore": "16",
+          "awayScore": "17",
+          "teamID": "6",
+          "scoreDetails": "4 plays, 1 yard, 1:52",
+          "scoreType": "FG",
+          "scoreTime": "9:52",
+          "team": "CHI",
+          "playerIDs": [
+            "17427"
+          ]
+        }
+      ],
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.34",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "50",
+        "fgMade": "3",
+        "fgAttempts": "3",
+        "xpMade": "1",
+        "fgPct": "100.0",
+        "kickingPts": "10",
+        "xpAttempts": "1",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "17427",
+      "longName": "Cairo Santos"
+    },
+    "2574056": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2574056",
+      "longName": "Kevin Byard III"
+    },
+    "2576399": {
+      "gameID": "20240908_TEN@CHI",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "2",
+        "recYds": "11",
+        "recAvg": "5.5"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.25",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.31",
+        "offSnap": "16",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "2576399",
+      "longName": "Nick Vannett"
+    },
+    "2577553": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2577553",
+      "longName": "Quandre Diggs"
+    },
+    "2580216": {
+      "gameID": "20240908_TEN@CHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "2",
+        "recYds": "6",
+        "recAvg": "6.0"
+      },
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.23",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.31",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "67",
+        "kickReturnAvg": "67.0",
+        "kickReturnLong": "67"
+      },
+      "Punting": {
+        "puntReturns": "5",
+        "puntReturnYds": "64",
+        "puntReturnAvg": "12.8",
+        "puntReturnLong": "20",
+        "puntReturnTD": "0"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "2580216",
+      "longName": "DeAndre Carter"
+    },
+    "2976117": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "2976117",
+      "longName": "Daniel Brunskill"
+    },
+    "2980138": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.34",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2980138",
+      "longName": "Scott Daly"
+    },
+    "3045144": {
+      "gameID": "20240908_TEN@CHI",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "5",
+        "recYds": "18",
+        "recAvg": "6.0"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.83",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "3045144",
+      "longName": "Tyler Boyd"
+    },
+    "3045377": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.83"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "4",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3045377",
+      "longName": "DeMarcus Walker"
+    },
+    "3047495": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.34"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "1"
+      },
+      "playerID": "3047495",
+      "longName": "Sebastian Joseph-Day"
+    },
+    "3051775": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.70"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3051775",
+      "longName": "Andrew Billings"
+    },
+    "3052101": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3052101",
+      "longName": "Chidobe Awuzie"
+    },
+    "3052180": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "56",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "3052180",
+      "longName": "Coleman Shelton"
+    },
+    "3055886": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "3055886",
+      "longName": "Matt Pryor"
+    },
+    "3116097": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.86",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "3116097",
+      "longName": "Luke Gifford"
+    },
+    "3120070": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.32",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "3120070",
+      "longName": "Nate Davis"
+    },
+    "3121544": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "15",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "10",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3121544",
+      "longName": "T.J. Edwards"
+    },
+    "3122154": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.13",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.48",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "3122154",
+      "longName": "Khari Blasingame"
+    },
+    "3122793": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.93"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3122793",
+      "longName": "Harold Landry III"
+    },
+    "3134690": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.69"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3134690",
+      "longName": "Montez Sweat"
+    },
+    "3843843": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.75"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3843843",
+      "longName": "Arden Key"
+    },
+    "3915396": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.59"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "7",
+        "tfl": "2",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "3915396",
+      "longName": "Darrell Taylor"
+    },
+    "3915416": {
+      "gameID": "20240908_TEN@CHI",
+      "Rushing": {
+        "rushAvg": "14.0",
+        "rushYds": "14",
+        "carries": "1",
+        "longRush": "14",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "8",
+        "recYds": "36",
+        "recAvg": "7.2"
+      },
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.88",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "49",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "3915416",
+      "longName": "DJ Moore"
+    },
+    "3916148": {
+      "gameID": "20240908_TEN@CHI",
+      "Rushing": {
+        "rushAvg": "5.1",
+        "rushYds": "82",
+        "carries": "16",
+        "longRush": "26",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "4",
+        "recYds": "12",
+        "recAvg": "4.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tony Pollard 26 Yd Run (Nick Folk Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "31",
+          "scoreDetails": "8 plays, 79 yards, 4:45",
+          "scoreType": "TD",
+          "scoreTime": "0:41",
+          "team": "TEN",
+          "playerIDs": [
+            "3916148",
+            "10621"
+          ]
+        }
+      ],
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.61",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "39",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "3916148",
+      "longName": "Tony Pollard"
+    },
+    "3916922": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.19"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3916922",
+      "longName": "Byron Cowart"
+    },
+    "3918639": {
+      "gameID": "20240908_TEN@CHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "-1",
+        "targets": "1",
+        "recYds": "-1",
+        "recAvg": "-1.0"
+      },
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.61",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "3918639",
+      "longName": "Gerald Everett"
+    },
+    "3925357": {
+      "gameID": "20240908_TEN@CHI",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "22",
+        "targets": "7",
+        "recYds": "50",
+        "recAvg": "16.7"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.84",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "3925357",
+      "longName": "Calvin Ridley"
+    },
+    "3929631": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.68",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "38",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "3929631",
+      "longName": "Ryan Bates"
+    },
+    "3929785": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.69",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3929785",
+      "longName": "Nick Westbrook-Ikhine"
+    },
+    "3929950": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3929950",
+      "longName": "Tremaine Edmunds"
+    },
+    "4034530": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.23"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4034530",
+      "longName": "Chris Williams"
+    },
+    "4035369": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.82"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035369",
+      "longName": "Jeffery Simmons"
+    },
+    "4035448": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4035448",
+      "longName": "Lloyd Cushenberry III"
+    },
+    "4035693": {
+      "gameID": "20240908_TEN@CHI",
+      "Rushing": {
+        "rushAvg": "5.5",
+        "rushYds": "11",
+        "carries": "2",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "1",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.41",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "0",
+        "kickReturnAvg": "0.0",
+        "kickReturnLong": "0"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4035693",
+      "longName": "Velus Jones Jr."
+    },
+    "4035886": {
+      "gameID": "20240908_TEN@CHI",
+      "Rushing": {
+        "rushAvg": "2.0",
+        "rushYds": "4",
+        "carries": "2",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.11",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.34",
+        "offSnap": "6",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035886",
+      "longName": "Khalil Herbert"
+    },
+    "4036134": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4036134",
+      "longName": "Amani Hooker"
+    },
+    "4036660": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.45",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036660",
+      "longName": "Darrell Baker Jr."
+    },
+    "4037457": {
+      "gameID": "20240908_TEN@CHI",
+      "Rushing": {
+        "rushAvg": "5.0",
+        "rushYds": "10",
+        "carries": "2",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.20",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.72",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037457",
+      "longName": "Travis Homer"
+    },
+    "4038432": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4038432",
+      "longName": "Amen Ogbongbemiga"
+    },
+    "4038457": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "56",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4038457",
+      "longName": "Teven Jenkins"
+    },
+    "4040432": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4040432",
+      "longName": "L'Jarius Sneed"
+    },
+    "4040945": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.77",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "49",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4040945",
+      "longName": "Dillon Radunz"
+    },
+    "4047178": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "4047178",
+      "longName": "Doug Kramer Jr."
+    },
+    "4047655": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.72",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4047655",
+      "longName": "Jaylon Jones"
+    },
+    "4240459": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.69",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240459",
+      "longName": "Josh Blackwell"
+    },
+    "4241394": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241394",
+      "longName": "Kenneth Murray Jr."
+    },
+    "4242402": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242402",
+      "longName": "Elijah Hicks"
+    },
+    "4243253": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "9",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4243253",
+      "longName": "Jaylon Johnson"
+    },
+    "4244310": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.86",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4244310",
+      "longName": "Mike Brown"
+    },
+    "4249739": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "11",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4249739",
+      "longName": "Jack Gibbens"
+    },
+    "4251007": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "56",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "4251007",
+      "longName": "Braxton Jones"
+    },
+    "4256051": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "268",
+        "punts": "5",
+        "puntAvg": "53.6",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "59"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4256051",
+      "longName": "Ryan Stonehouse"
+    },
+    "4258595": {
+      "gameID": "20240908_TEN@CHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "1",
+        "recYds": "4",
+        "recAvg": "4.0"
+      },
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.48",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "4258595",
+      "longName": "Cole Kmet"
+    },
+    "4259181": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.13"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4259181",
+      "longName": "James Lynch"
+    },
+    "4259545": {
+      "gameID": "20240908_TEN@CHI",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "30",
+        "carries": "10",
+        "longRush": "20",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "recAvg": "0.0",
+        "receivingTwoPointConversion": "1",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tyrique Stevenson 43 Yd Interception Return (Caleb Williams Pass to D'Andre Swift for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "24",
+          "awayScore": "17",
+          "teamID": "6",
+          "scoreDetails": "4 plays, 15 yards, 2:17",
+          "scoreType": "TD",
+          "scoreTime": "7:35",
+          "team": "CHI",
+          "playerIDs": [
+            "4431611",
+            "4259545",
+            "4426374"
+          ]
+        }
+      ],
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.70",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "39",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "4259545",
+      "longName": "D'Andre Swift"
+    },
+    "4331768": {
+      "gameID": "20240908_TEN@CHI",
+      "scoringPlays": [
+        {
+          "score": "Jonathan Owens 21 Yd Return of Blocked Punt (Cairo Santos Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "17",
+          "teamID": "6",
+          "scoreDetails": "6 plays, 8 yards, 3:19",
+          "scoreType": "TD",
+          "scoreTime": "9:07",
+          "team": "CHI",
+          "playerIDs": [
+            "4331768",
+            "17427"
+          ]
+        }
+      ],
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4331768",
+      "longName": "Jonathan Owens"
+    },
+    "4360086": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.28",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4360086",
+      "longName": "Josh Whyle"
+    },
+    "4360635": {
+      "gameID": "20240908_TEN@CHI",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "17",
+        "targets": "2",
+        "recYds": "15",
+        "recAvg": "7.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Chig Okonkwo 17 Yd pass from Will Levis (Nick Folk Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "0",
+          "awayScore": "17",
+          "teamID": "31",
+          "scoreDetails": "14 plays, 73 yards, 8:23",
+          "scoreType": "TD",
+          "scoreTime": "3:44",
+          "team": "TEN",
+          "playerIDs": [
+            "4361418",
+            "4360635",
+            "10621"
+          ]
+        }
+      ],
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.59",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.42",
+        "offSnap": "38",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360635",
+      "longName": "Chig Okonkwo"
+    },
+    "4360935": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "10",
+        "stSnapPct": "0.34",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "4360935",
+      "longName": "Terell Smith"
+    },
+    "4361093": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361093",
+      "longName": "Kyler Gordon"
+    },
+    "4361368": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4361368",
+      "longName": "Nicholas Petit-Frere"
+    },
+    "4361418": {
+      "gameID": "20240908_TEN@CHI",
+      "Rushing": {
+        "rushAvg": "9.0",
+        "rushYds": "36",
+        "carries": "4",
+        "longRush": "15",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "34.0",
+        "rtg": "52.5",
+        "sacked": "3-23",
+        "passAttempts": "32",
+        "passAvg": "4.0",
+        "passTD": "1",
+        "passYds": "127",
+        "int": "2",
+        "passCompletions": "19"
+      },
+      "scoringPlays": [
+        {
+          "score": "Chig Okonkwo 17 Yd pass from Will Levis (Nick Folk Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "0",
+          "awayScore": "17",
+          "teamID": "31",
+          "scoreDetails": "14 plays, 73 yards, 8:23",
+          "scoreType": "TD",
+          "scoreTime": "3:44",
+          "team": "TEN",
+          "playerIDs": [
+            "4361418",
+            "4360635",
+            "10621"
+          ]
+        }
+      ],
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4361418",
+      "longName": "Will Levis"
+    },
+    "4362117": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "9",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.16"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362117",
+      "longName": "Keondre Coburn"
+    },
+    "4362851": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4362851",
+      "longName": "Ernest Jones IV"
+    },
+    "4365629": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "24",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4365629",
+      "longName": "Daniel Hardy"
+    },
+    "4367567": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4367567",
+      "longName": "Julius Chestnut"
+    },
+    "4371973": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.71"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "3",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4371973",
+      "longName": "Roger McCreary"
+    },
+    "4372058": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4372058",
+      "longName": "Jaelyn Duncan"
+    },
+    "4372576": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "24",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "4372576",
+      "longName": "Jack Sanborn"
+    },
+    "4426358": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "56",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "4426358",
+      "longName": "Darnell Wright"
+    },
+    "4426374": {
+      "gameID": "20240908_TEN@CHI",
+      "scoringPlays": [
+        {
+          "score": "Tyrique Stevenson 43 Yd Interception Return (Caleb Williams Pass to D'Andre Swift for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "24",
+          "awayScore": "17",
+          "teamID": "6",
+          "scoreDetails": "4 plays, 15 yards, 2:17",
+          "scoreType": "TD",
+          "scoreTime": "7:35",
+          "team": "CHI",
+          "playerIDs": [
+            "4431611",
+            "4259545",
+            "4426374"
+          ]
+        }
+      ],
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "63",
+        "stSnap": "7",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "43",
+        "interceptionTDs": "1",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4426374",
+      "longName": "Tyrique Stevenson"
+    },
+    "4426817": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "15",
+        "stSnapPct": "0.52",
+        "offSnap": "0",
+        "defSnapPct": "0.32"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426817",
+      "longName": "Jarvis Brownlee Jr."
+    },
+    "4427575": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.42",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "5",
+        "kickReturnTD": "0",
+        "kickReturnYds": "127",
+        "kickReturnAvg": "25.4",
+        "kickReturnLong": "30"
+      },
+      "Punting": {
+        "puntReturns": "4",
+        "puntReturnYds": "30",
+        "puntReturnAvg": "7.5",
+        "puntReturnLong": "12",
+        "puntReturnTD": "0"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4427575",
+      "longName": "Jha'Quan Jackson"
+    },
+    "4428557": {
+      "gameID": "20240908_TEN@CHI",
+      "Rushing": {
+        "rushAvg": "5.3",
+        "rushYds": "21",
+        "carries": "4",
+        "longRush": "11",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "4",
+        "recYds": "11",
+        "recAvg": "2.8"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.45",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4428557",
+      "longName": "Tyjae Spears"
+    },
+    "4428617": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.68"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4428617",
+      "longName": "T'Vondre Sweat"
+    },
+    "4429014": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.66"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4429014",
+      "longName": "Gervon Dexter Sr."
+    },
+    "4429058": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "17",
+        "stSnap": "24",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.30"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429058",
+      "longName": "Jaylen Harrell"
+    },
+    "4429100": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4429100",
+      "longName": "Peter Skoronski"
+    },
+    "4431299": {
+      "gameID": "20240908_TEN@CHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "4",
+        "recYds": "11",
+        "recAvg": "11.0"
+      },
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.77",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4431299",
+      "longName": "Rome Odunze"
+    },
+    "4431437": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4431437",
+      "longName": "JC Latham"
+    },
+    "4431611": {
+      "gameID": "20240908_TEN@CHI",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "15",
+        "carries": "5",
+        "longRush": "11",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "24.9",
+        "rtg": "55.7",
+        "sacked": "2-29",
+        "passAttempts": "29",
+        "passAvg": "3.2",
+        "passTD": "0",
+        "passYds": "93",
+        "int": "0",
+        "passingTwoPointConversion": "1",
+        "passCompletions": "14"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tyrique Stevenson 43 Yd Interception Return (Caleb Williams Pass to D'Andre Swift for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "24",
+          "awayScore": "17",
+          "teamID": "6",
+          "scoreDetails": "4 plays, 15 yards, 2:17",
+          "scoreType": "TD",
+          "scoreTime": "7:35",
+          "team": "CHI",
+          "playerIDs": [
+            "4431611",
+            "4259545",
+            "4426374"
+          ]
+        }
+      ],
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "56",
+        "defSnapPct": "0.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4431611",
+      "longName": "Caleb Williams"
+    },
+    "4431613": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4431613",
+      "longName": "James Williams"
+    },
+    "4567156": {
+      "gameID": "20240908_TEN@CHI",
+      "Rushing": {
+        "rushAvg": "0.5",
+        "rushYds": "1",
+        "carries": "2",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "2",
+        "targets": "2",
+        "recYds": "2",
+        "recAvg": "2.0"
+      },
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.69",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4567156",
+      "longName": "Treylon Burks"
+    },
+    "4570044": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4570044",
+      "longName": "Jaquan Brisker"
+    },
+    "4683553": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.09"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "4683553",
+      "longName": "Austin Booker"
+    },
+    "4686889": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "6",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.34",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "270",
+        "punts": "6",
+        "puntAvg": "45.0",
+        "puntsin20": "3",
+        "puntTouchBacks": "1",
+        "puntLong": "60"
+      },
+      "team": "CHI",
+      "teamAbv": "CHI",
+      "playerID": "4686889",
+      "longName": "Tory Taylor"
+    },
+    "4872841": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4872841",
+      "longName": "Julius Wood"
+    },
+    "4911489": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "10",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.18"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4911489",
+      "longName": "Caleb Murphy"
+    },
+    "4916597": {
+      "gameID": "20240908_TEN@CHI",
+      "teamID": "31",
+      "snapCounts": {
+        "offSnapPct": "0.23",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "team": "TEN",
+      "teamAbv": "TEN",
+      "playerID": "4916597",
+      "longName": "Andrew Rupcich"
+    }
+  },
+  "arenaCapacity": "61,500",
+  "arena": "Soldier Field",
+  "homePts": "24",
+  "awayResult": "L",
+  "teamIDAway": "31",
+  "Referees": "Dyrol Prioleau, Jeff Seeman, Carl Paganelli, Boris Cheek, Shawn Smith, Alex Moore, Jay Bilbo",
+  "gameClock": "",
+  "awayPts": "17",
+  "gameID": "20240908_TEN@CHI",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

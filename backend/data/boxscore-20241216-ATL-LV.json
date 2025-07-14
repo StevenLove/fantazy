@@ -1,0 +1,2626 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "ATL",
+      "teamID": "2",
+      "defTD": "0",
+      "defensiveInterceptions": "2",
+      "sacks": "4",
+      "ydsAllowed": "249",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "9",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "LV",
+      "teamID": "17",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "3",
+      "ydsAllowed": "261",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "15",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "261",
+      "rushingAttempts": "37",
+      "rushingYards": "168",
+      "fumblesLost": "0",
+      "penalties": "6-30",
+      "totalPlays": "57",
+      "possession": "33:52",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "11-17",
+      "passingFirstDowns": "6",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "3-19",
+      "thirdDownEfficiency": "4-13",
+      "blockedPunt": "1",
+      "yardsPerPlay": "4.6",
+      "redZoneScoredAndAttempted": "0-0",
+      "teamID": "2",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "7",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "14",
+      "passTD": "1",
+      "team": "ATL",
+      "blockedXP": "1",
+      "teamAbv": "ATL",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "93",
+      "yardsPerRush": "4.5",
+      "snapCounts": {
+        "totalSpecialTeams": "25",
+        "totalOffensive": "58",
+        "totalDefensive": "67"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "4.7"
+    },
+    "home": {
+      "totalYards": "249",
+      "rushingAttempts": "22",
+      "rushingYards": "65",
+      "fumblesLost": "1",
+      "penalties": "7-55",
+      "totalPlays": "65",
+      "possession": "26:08",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "23-39",
+      "passingFirstDowns": "11",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "4-24",
+      "thirdDownEfficiency": "4-14",
+      "blockedPunt": "0",
+      "yardsPerPlay": "3.8",
+      "redZoneScoredAndAttempted": "1-1",
+      "teamID": "17",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "12",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "16",
+      "passTD": "1",
+      "team": "LV",
+      "blockedXP": "0",
+      "teamAbv": "LV",
+      "firstDownsFromPenalties": "0",
+      "fourthDownEfficiency": "2-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "184",
+      "yardsPerRush": "3.0",
+      "snapCounts": {
+        "totalSpecialTeams": "25",
+        "totalOffensive": "67",
+        "totalDefensive": "58"
+      },
+      "turnovers": "3",
+      "yardsPerPass": "4.3"
+    }
+  },
+  "gameDate": "20241216",
+  "scoringPlays": [
+    {
+      "score": "Drake London 30 Yd pass from Kirk Cousins (Younghoe Koo Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "7",
+      "teamID": "2",
+      "scoreDetails": "6 plays, 51 yards, 3:30",
+      "scoreType": "TD",
+      "scoreTime": "0:14",
+      "team": "ATL",
+      "playerIDs": [
+        "14880",
+        "4426502",
+        "3049899"
+      ]
+    },
+    {
+      "score": "Daniel Carlson 52 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "7",
+      "teamID": "17",
+      "scoreDetails": "9 plays, 37 yards, 3:30",
+      "scoreType": "FG",
+      "scoreTime": "11:44",
+      "team": "LV",
+      "playerIDs": [
+        "3051909"
+      ]
+    },
+    {
+      "score": "Team Safety",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "9",
+      "teamID": "2",
+      "scoreDetails": "2 plays, -3 yards, 0:42",
+      "scoreType": "FG",
+      "scoreTime": "5:35",
+      "team": "ATL",
+      "playerIDs": []
+    },
+    {
+      "score": "Younghoe Koo 40 Yd Field Goal",
+      "scorePeriod": "Q3",
+      "homeScore": "3",
+      "awayScore": "12",
+      "teamID": "2",
+      "scoreDetails": "6 plays, 15 yards, 2:48",
+      "scoreType": "FG",
+      "scoreTime": "9:25",
+      "team": "ATL",
+      "playerIDs": [
+        "3049899"
+      ]
+    },
+    {
+      "score": "Younghoe Koo 48 Yd Field Goal",
+      "scorePeriod": "Q4",
+      "homeScore": "3",
+      "awayScore": "15",
+      "teamID": "2",
+      "scoreDetails": "7 plays, 18 yards, 3:34",
+      "scoreType": "FG",
+      "scoreTime": "13:26",
+      "team": "ATL",
+      "playerIDs": [
+        "3049899"
+      ]
+    },
+    {
+      "score": "Ameer Abdullah 5 Yd pass from Desmond Ridder (Daniel Carlson PAT blocked)",
+      "scorePeriod": "Q4",
+      "homeScore": "9",
+      "awayScore": "15",
+      "teamID": "17",
+      "scoreDetails": "9 plays, 68 yards, 2:33",
+      "scoreType": "TD",
+      "scoreTime": "2:54",
+      "team": "LV",
+      "playerIDs": [
+        "4239086",
+        "2576336",
+        "3051909"
+      ]
+    }
+  ],
+  "network": "ESPN",
+  "teamIDHome": "17",
+  "homeResult": "L",
+  "away": "ATL",
+  "gameWeek": "Week 15",
+  "attendance": "62,364",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "7",
+      "Q2": "2",
+      "Q3": "3",
+      "Q4": "3",
+      "teamID": "2",
+      "currentlyInPossession": "False",
+      "totalPts": "15",
+      "teamAbv": "ATL"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "3",
+      "Q3": "0",
+      "Q4": "6",
+      "teamID": "17",
+      "currentlyInPossession": "False",
+      "totalPts": "9",
+      "teamAbv": "LV"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Las Vegas, NV",
+  "home": "LV",
+  "playerStats": {
+    "14880": {
+      "gameID": "20241216_ATL@LV",
+      "Rushing": {
+        "rushAvg": "0.0",
+        "rushYds": "0",
+        "carries": "3",
+        "longRush": "2",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "9.2",
+        "rtg": "78.6",
+        "sacked": "3-19",
+        "passAttempts": "17",
+        "passAvg": "6.6",
+        "passTD": "1",
+        "passYds": "112",
+        "int": "1",
+        "passCompletions": "11"
+      },
+      "scoringPlays": [
+        {
+          "score": "Drake London 30 Yd pass from Kirk Cousins (Younghoe Koo Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "2",
+          "scoreDetails": "6 plays, 51 yards, 3:30",
+          "scoreType": "TD",
+          "scoreTime": "0:14",
+          "team": "ATL",
+          "playerIDs": [
+            "14880",
+            "4426502",
+            "3049899"
+          ]
+        }
+      ],
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "14880",
+      "longName": "Kirk Cousins"
+    },
+    "15846": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.69"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "15846",
+      "longName": "John Jenkins"
+    },
+    "16713": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "16713",
+      "longName": "Jake Matthews"
+    },
+    "2576336": {
+      "gameID": "20241216_ATL@LV",
+      "Rushing": {
+        "rushAvg": "2.7",
+        "rushYds": "8",
+        "carries": "3",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "1",
+        "longRec": "24",
+        "targets": "7",
+        "recYds": "58",
+        "recAvg": "8.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ameer Abdullah 5 Yd pass from Desmond Ridder (Daniel Carlson PAT blocked)",
+          "scorePeriod": "Q4",
+          "homeScore": "9",
+          "awayScore": "15",
+          "teamID": "17",
+          "scoreDetails": "9 plays, 68 yards, 2:33",
+          "scoreType": "TD",
+          "scoreTime": "2:54",
+          "team": "LV",
+          "playerIDs": [
+            "4239086",
+            "2576336",
+            "3051909"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.46",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.52",
+        "offSnap": "31",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "2576336",
+      "longName": "Ameer Abdullah"
+    },
+    "2576492": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2576492",
+      "longName": "Grady Jarrett"
+    },
+    "2577346": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.06",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "2577346",
+      "longName": "Cody Whitehair"
+    },
+    "2969860": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "2969860",
+      "longName": "Justin Simmons"
+    },
+    "2969924": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.24"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "2969924",
+      "longName": "Eddie Goldman"
+    },
+    "2972342": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.69"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "1"
+      },
+      "playerID": "2972342",
+      "longName": "Adam Butler"
+    },
+    "2973014": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "2973014",
+      "longName": "Storm Norton"
+    },
+    "2977680": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.56",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "265",
+        "punts": "6",
+        "puntAvg": "44.2",
+        "puntsin20": "4",
+        "puntTouchBacks": "2",
+        "puntLong": "63"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "2977680",
+      "longName": "Bradley Pinion"
+    },
+    "3047876": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.09",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.32",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3047876",
+      "longName": "KhaDarel Hodge"
+    },
+    "3049899": {
+      "gameID": "20241216_ATL@LV",
+      "scoringPlays": [
+        {
+          "score": "Drake London 30 Yd pass from Kirk Cousins (Younghoe Koo Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "2",
+          "scoreDetails": "6 plays, 51 yards, 3:30",
+          "scoreType": "TD",
+          "scoreTime": "0:14",
+          "team": "ATL",
+          "playerIDs": [
+            "14880",
+            "4426502",
+            "3049899"
+          ]
+        },
+        {
+          "score": "Younghoe Koo 40 Yd Field Goal",
+          "scorePeriod": "Q3",
+          "homeScore": "3",
+          "awayScore": "12",
+          "teamID": "2",
+          "scoreDetails": "6 plays, 15 yards, 2:48",
+          "scoreType": "FG",
+          "scoreTime": "9:25",
+          "team": "ATL",
+          "playerIDs": [
+            "3049899"
+          ]
+        },
+        {
+          "score": "Younghoe Koo 48 Yd Field Goal",
+          "scorePeriod": "Q4",
+          "homeScore": "3",
+          "awayScore": "15",
+          "teamID": "2",
+          "scoreDetails": "7 plays, 18 yards, 3:34",
+          "scoreType": "FG",
+          "scoreTime": "13:26",
+          "team": "ATL",
+          "playerIDs": [
+            "3049899"
+          ]
+        }
+      ],
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "48",
+        "fgMade": "2",
+        "fgAttempts": "3",
+        "xpMade": "1",
+        "fgPct": "66.7",
+        "kickingPts": "7",
+        "xpAttempts": "1",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3049899",
+      "longName": "Younghoe Koo"
+    },
+    "3051909": {
+      "gameID": "20241216_ATL@LV",
+      "scoringPlays": [
+        {
+          "score": "Daniel Carlson 52 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "17",
+          "scoreDetails": "9 plays, 37 yards, 3:30",
+          "scoreType": "FG",
+          "scoreTime": "11:44",
+          "team": "LV",
+          "playerIDs": [
+            "3051909"
+          ]
+        },
+        {
+          "score": "Ameer Abdullah 5 Yd pass from Desmond Ridder (Daniel Carlson PAT blocked)",
+          "scorePeriod": "Q4",
+          "homeScore": "9",
+          "awayScore": "15",
+          "teamID": "17",
+          "scoreDetails": "9 plays, 68 yards, 2:33",
+          "scoreType": "TD",
+          "scoreTime": "2:54",
+          "team": "LV",
+          "playerIDs": [
+            "4239086",
+            "2576336",
+            "3051909"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "52",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "0",
+        "fgPct": "100.0",
+        "kickingPts": "3",
+        "xpAttempts": "1",
+        "fgMissed": "0",
+        "xpMissed": "1"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3051909",
+      "longName": "Daniel Carlson"
+    },
+    "3052170": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "17",
+        "stSnap": "10",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.25"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "0",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "3052170",
+      "longName": "Kevin King"
+    },
+    "3052926": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3052926",
+      "longName": "Demone Harris"
+    },
+    "3056354": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.84",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3056354",
+      "longName": "Antonio Hamilton Sr."
+    },
+    "3116726": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.33"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "3",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3116726",
+      "longName": "Kentavius Street"
+    },
+    "3120303": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.50",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3120303",
+      "longName": "Ross Dwelley"
+    },
+    "3124890": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "11",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3124890",
+      "longName": "Kaden Elliss"
+    },
+    "3127304": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3127304",
+      "longName": "Kaleb McGary"
+    },
+    "3128303": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.60",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3128303",
+      "longName": "Josh Woods"
+    },
+    "3128715": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.43"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3128715",
+      "longName": "Lorenzo Carter"
+    },
+    "3129446": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3129446",
+      "longName": "Robert Spillane"
+    },
+    "3134312": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3134312",
+      "longName": "Kolton Miller"
+    },
+    "3672833": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3672833",
+      "longName": "Chris Lindstrom"
+    },
+    "3686689": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.28",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "159",
+        "punts": "4",
+        "puntAvg": "39.8",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "47"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3686689",
+      "longName": "AJ Cole"
+    },
+    "3728262": {
+      "gameID": "20241216_ATL@LV",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "14",
+        "targets": "3",
+        "recYds": "14",
+        "recAvg": "14.0"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.41",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3728262",
+      "longName": "Ray-Ray McCloud III"
+    },
+    "3895841": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3895841",
+      "longName": "Mike Hughes"
+    },
+    "3915528": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3915528",
+      "longName": "Liam McCullough"
+    },
+    "3916433": {
+      "gameID": "20241216_ATL@LV",
+      "Passing": {
+        "qbr": "0.0",
+        "rtg": "0.0",
+        "sacked": "1-10",
+        "passAttempts": "0",
+        "passAvg": "0.0",
+        "passTD": "0",
+        "passYds": "0",
+        "int": "0",
+        "passCompletions": "0"
+      },
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "22",
+        "targets": "9",
+        "recYds": "59",
+        "recAvg": "11.8"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.90",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3916433",
+      "longName": "Jakobi Meyers"
+    },
+    "3919512": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3919512",
+      "longName": "Jessie Bates III"
+    },
+    "3925443": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.28",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3925443",
+      "longName": "Jacob Bobenmoyer"
+    },
+    "3932244": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3932244",
+      "longName": "Andre James"
+    },
+    "3961466": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.57"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3961466",
+      "longName": "Matthew Judon"
+    },
+    "4002046": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.43"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4002046",
+      "longName": "David Onyemata"
+    },
+    "4035020": {
+      "gameID": "20241216_ATL@LV",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "3",
+        "recYds": "7",
+        "recAvg": "3.5"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.69",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.56",
+        "offSnap": "40",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035020",
+      "longName": "Charlie Woerner"
+    },
+    "4035604": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.10"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035604",
+      "longName": "Janarius Robinson"
+    },
+    "4035686": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035686",
+      "longName": "Jack Jones"
+    },
+    "4036444": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4036444",
+      "longName": "Ryan Neuzil"
+    },
+    "4037626": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.66"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4037626",
+      "longName": "Divine Deablo"
+    },
+    "4040655": {
+      "gameID": "20241216_ATL@LV",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.91",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4040655",
+      "longName": "Darnell Mooney"
+    },
+    "4040774": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.10",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.36",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4040774",
+      "longName": "Harrison Bryant"
+    },
+    "4042119": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "21",
+        "stSnapPct": "0.84",
+        "offSnap": "0",
+        "defSnapPct": "0.06"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4042119",
+      "longName": "Richie Grant"
+    },
+    "4048244": {
+      "gameID": "20241216_ATL@LV",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "21",
+        "carries": "7",
+        "longRush": "12",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "4",
+        "recYds": "3",
+        "recAvg": "1.5"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.33",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "22",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4048244",
+      "longName": "Alexander Mattison"
+    },
+    "4048259": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.84",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "66",
+        "kickReturnAvg": "33.0",
+        "kickReturnLong": "38"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "12",
+        "puntReturnAvg": "12.0",
+        "puntReturnLong": "12",
+        "puntReturnTD": "0"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4048259",
+      "longName": "Avery Williams"
+    },
+    "4076803": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.94",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4076803",
+      "longName": "Jordan Meredith"
+    },
+    "4239086": {
+      "gameID": "20241216_ATL@LV",
+      "Rushing": {
+        "rushAvg": "5.6",
+        "rushYds": "28",
+        "carries": "5",
+        "longRush": "11",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "29.1",
+        "rtg": "60.6",
+        "sacked": "3-14",
+        "passAttempts": "39",
+        "passAvg": "5.3",
+        "passTD": "1",
+        "passYds": "208",
+        "int": "2",
+        "passCompletions": "23"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ameer Abdullah 5 Yd pass from Desmond Ridder (Daniel Carlson PAT blocked)",
+          "scorePeriod": "Q4",
+          "homeScore": "9",
+          "awayScore": "15",
+          "teamID": "17",
+          "scoreDetails": "9 plays, 68 yards, 2:33",
+          "scoreType": "TD",
+          "scoreTime": "2:54",
+          "team": "LV",
+          "playerIDs": [
+            "4239086",
+            "2576336",
+            "3051909"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4239086",
+      "longName": "Desmond Ridder"
+    },
+    "4239995": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4239995",
+      "longName": "A.J. Terrell"
+    },
+    "4240542": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.55"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240542",
+      "longName": "Nate Hobbs"
+    },
+    "4240619": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240619",
+      "longName": "Zach Carter"
+    },
+    "4242001": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4242001",
+      "longName": "Thayer Munford Jr."
+    },
+    "4242205": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242205",
+      "longName": "K'Lavon Chaisson"
+    },
+    "4242457": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4242457",
+      "longName": "Matthew Butler"
+    },
+    "4242553": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4242553",
+      "longName": "Drew Dalman"
+    },
+    "4242973": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4242973",
+      "longName": "Darnay Holmes"
+    },
+    "4243181": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.30"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243181",
+      "longName": "Nate Landman"
+    },
+    "4243375": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4243375",
+      "longName": "Dylan Parham"
+    },
+    "4243457": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "14",
+        "stSnap": "21",
+        "stSnapPct": "0.84",
+        "offSnap": "0",
+        "defSnapPct": "0.21"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "4243457",
+      "longName": "DeAngelo Malone"
+    },
+    "4257591": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4257591",
+      "longName": "Arnold Ebiketie"
+    },
+    "4259632": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4259632",
+      "longName": "Isaiah Pola-Mao"
+    },
+    "4360239": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "13",
+        "stSnap": "23",
+        "stSnapPct": "0.92",
+        "offSnap": "0",
+        "defSnapPct": "0.22"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360239",
+      "longName": "Amari Burney"
+    },
+    "4360248": {
+      "gameID": "20241216_ATL@LV",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "4",
+        "recYds": "28",
+        "recAvg": "7.0"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.40",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "23",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4360248",
+      "longName": "Kyle Pitts"
+    },
+    "4360469": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.92",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4360469",
+      "longName": "Amari Gainer"
+    },
+    "4360855": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.92",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4360855",
+      "longName": "Kana'i Mauga"
+    },
+    "4361426": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4361426",
+      "longName": "Justin Shorter"
+    },
+    "4362487": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362487",
+      "longName": "Tre'von Moehrig"
+    },
+    "4362630": {
+      "gameID": "20241216_ATL@LV",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "7",
+        "targets": "1",
+        "recYds": "7",
+        "recAvg": "7.0"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.39",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4362630",
+      "longName": "Terrace Marshall Jr."
+    },
+    "4366963": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.48",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "24",
+        "kickReturnAvg": "24.0",
+        "kickReturnLong": "24"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4366963",
+      "longName": "Dylan Laube"
+    },
+    "4372533": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "2",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4372533",
+      "longName": "Tyree Wilson"
+    },
+    "4373626": {
+      "gameID": "20241216_ATL@LV",
+      "Rushing": {
+        "rushAvg": "3.6",
+        "rushYds": "43",
+        "carries": "12",
+        "longRush": "19",
+        "rushTD": "0"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.26",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.76",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4373626",
+      "longName": "Tyler Allgeier"
+    },
+    "4373956": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.91"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "1"
+      },
+      "playerID": "4373956",
+      "longName": "Jonah Laulu"
+    },
+    "4379413": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4379413",
+      "longName": "Chris Smith II"
+    },
+    "4401823": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4401823",
+      "longName": "Dee Alford"
+    },
+    "4426399": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4426399",
+      "longName": "Ramel Keyton"
+    },
+    "4426412": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "7",
+        "stSnapPct": "0.28",
+        "offSnap": "0",
+        "defSnapPct": "0.24"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4426412",
+      "longName": "Zach Harrison"
+    },
+    "4426502": {
+      "gameID": "20241216_ATL@LV",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "1",
+        "longRec": "30",
+        "targets": "3",
+        "recYds": "53",
+        "recAvg": "17.7"
+      },
+      "scoringPlays": [
+        {
+          "score": "Drake London 30 Yd pass from Kirk Cousins (Younghoe Koo Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "2",
+          "scoreDetails": "6 plays, 51 yards, 3:30",
+          "scoreType": "TD",
+          "scoreTime": "0:14",
+          "team": "ATL",
+          "playerIDs": [
+            "14880",
+            "4426502",
+            "3049899"
+          ]
+        }
+      ],
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.98",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4426502",
+      "longName": "Drake London"
+    },
+    "4428718": {
+      "gameID": "20241216_ATL@LV",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "3",
+        "recYds": "18",
+        "recAvg": "9.0"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.96",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4428718",
+      "longName": "Tre Tucker"
+    },
+    "4428872": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "19",
+        "stSnapPct": "0.76",
+        "offSnap": "0",
+        "defSnapPct": "0.43"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428872",
+      "longName": "JD Bertrand"
+    },
+    "4429086": {
+      "gameID": "20241216_ATL@LV",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "2",
+        "recYds": "11",
+        "recAvg": "11.0"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.70",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "47",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4429086",
+      "longName": "Michael Mayer"
+    },
+    "4429560": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.92",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429560",
+      "longName": "Tommy Eichenberg"
+    },
+    "4430104": {
+      "gameID": "20241216_ATL@LV",
+      "Rushing": {
+        "rushAvg": "1.1",
+        "rushYds": "8",
+        "carries": "7",
+        "longRush": "5",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "15",
+        "targets": "2",
+        "recYds": "17",
+        "recAvg": "8.5"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.21",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4430104",
+      "longName": "Sincere McCormick"
+    },
+    "4430271": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.22"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430271",
+      "longName": "Ruke Orhorhoro"
+    },
+    "4430807": {
+      "gameID": "20241216_ATL@LV",
+      "Rushing": {
+        "rushAvg": "5.7",
+        "rushYds": "125",
+        "carries": "22",
+        "longRush": "29",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "2",
+        "recYds": "10",
+        "recAvg": "10.0"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.76",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4430807",
+      "longName": "Bijan Robinson"
+    },
+    "4432665": {
+      "gameID": "20241216_ATL@LV",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "22",
+        "targets": "6",
+        "recYds": "35",
+        "recAvg": "11.7"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.94",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4432665",
+      "longName": "Brock Bowers"
+    },
+    "4568510": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4568510",
+      "longName": "Matthew Bergeron"
+    },
+    "4569323": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "17",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.12"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4569323",
+      "longName": "Thomas Harper"
+    },
+    "4605498": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4605498",
+      "longName": "Decamerion Richardson"
+    },
+    "4606683": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4606683",
+      "longName": "DJ Glaze"
+    },
+    "4682831": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4682831",
+      "longName": "Kyle Hinton"
+    },
+    "4689989": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.72",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4689989",
+      "longName": "Natrone Brooks"
+    },
+    "4693816": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4693816",
+      "longName": "Trey Taylor"
+    },
+    "4875295": {
+      "gameID": "20241216_ATL@LV",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4875295",
+      "longName": "Jackson Powers-Johnson"
+    }
+  },
+  "arenaCapacity": "65,000",
+  "arena": "Allegiant Stadium",
+  "homePts": "9",
+  "awayResult": "W",
+  "teamIDAway": "2",
+  "Referees": "Dino Paganelli, Dyrol Prioleau, Jeff Seeman, Carl Paganelli, Boris Cheek, Shawn Smith, Alex Moore, Jay Bilbo",
+  "gameClock": "",
+  "awayPts": "15",
+  "gameID": "20241216_ATL@LV",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

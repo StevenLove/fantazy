@@ -1,0 +1,2828 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "NO",
+      "teamID": "23",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "1",
+      "ydsAllowed": "246",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "23",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "CAR",
+      "teamID": "5",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "1",
+      "ydsAllowed": "427",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "22",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "427",
+      "rushingAttempts": "41",
+      "rushingYards": "197",
+      "fumblesLost": "0",
+      "penalties": "10-109",
+      "totalPlays": "74",
+      "possession": "34:19",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "18-32",
+      "passingFirstDowns": "12",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "1-6",
+      "thirdDownEfficiency": "5-15",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.8",
+      "redZoneScoredAndAttempted": "2-4",
+      "teamID": "23",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "11",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "25",
+      "passTD": "1",
+      "team": "NO",
+      "blockedXP": "0",
+      "teamAbv": "NO",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "2-3",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "230",
+      "yardsPerRush": "4.8",
+      "snapCounts": {
+        "totalSpecialTeams": "29",
+        "totalOffensive": "79",
+        "totalDefensive": "53"
+      },
+      "turnovers": "0",
+      "yardsPerPass": "7.0"
+    },
+    "home": {
+      "totalYards": "246",
+      "rushingAttempts": "23",
+      "rushingYards": "80",
+      "fumblesLost": "0",
+      "penalties": "6-55",
+      "totalPlays": "50",
+      "possession": "25:41",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "16-26",
+      "passingFirstDowns": "8",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "1-5",
+      "thirdDownEfficiency": "4-10",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.9",
+      "redZoneScoredAndAttempted": "3-3",
+      "teamID": "5",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "2",
+      "twoPointConversions": "0",
+      "firstDowns": "15",
+      "passTD": "1",
+      "team": "CAR",
+      "blockedXP": "0",
+      "teamAbv": "CAR",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "166",
+      "yardsPerRush": "3.5",
+      "snapCounts": {
+        "totalSpecialTeams": "29",
+        "totalOffensive": "53",
+        "totalDefensive": "79"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "6.1"
+    }
+  },
+  "gameDate": "20241103",
+  "scoringPlays": [
+    {
+      "score": "Blake Grupe 29 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "3",
+      "teamID": "23",
+      "scoreDetails": "10 plays, 67 yards, 4:09",
+      "scoreType": "FG",
+      "scoreTime": "10:51",
+      "team": "NO",
+      "playerIDs": [
+        "4259619"
+      ]
+    },
+    {
+      "score": "Blake Grupe 33 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "6",
+      "teamID": "23",
+      "scoreDetails": "11 plays, 72 yards, 5:07",
+      "scoreType": "FG",
+      "scoreTime": "3:08",
+      "team": "NO",
+      "playerIDs": [
+        "4259619"
+      ]
+    },
+    {
+      "score": "Xavier Legette 3 Yd pass from Bryce Young (Eddy Pineiro Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "7",
+      "awayScore": "6",
+      "teamID": "5",
+      "scoreDetails": "8 plays, 40 yards, 4:50",
+      "scoreType": "TD",
+      "scoreTime": "9:59",
+      "team": "CAR",
+      "playerIDs": [
+        "4685720",
+        "4430034",
+        "4034949"
+      ]
+    },
+    {
+      "score": "Taysom Hill 7 Yd Run (Blake Grupe Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "7",
+      "awayScore": "13",
+      "teamID": "23",
+      "scoreDetails": "9 plays, 78 yards, 5:46",
+      "scoreType": "TD",
+      "scoreTime": "4:13",
+      "team": "NO",
+      "playerIDs": [
+        "2468609",
+        "4259619"
+      ]
+    },
+    {
+      "score": "Eddy Pineiro 48 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "10",
+      "awayScore": "13",
+      "teamID": "5",
+      "scoreDetails": "4 plays, -2 yards, 0:39",
+      "scoreType": "FG",
+      "scoreTime": "0:38",
+      "team": "CAR",
+      "playerIDs": [
+        "4034949"
+      ]
+    },
+    {
+      "score": "Chuba Hubbard 1 Yd Run (Eddy Pineiro Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "17",
+      "awayScore": "13",
+      "teamID": "5",
+      "scoreDetails": "9 plays, 86 yards, 5:05",
+      "scoreType": "TD",
+      "scoreTime": "9:55",
+      "team": "CAR",
+      "playerIDs": [
+        "4241416",
+        "4034949"
+      ]
+    },
+    {
+      "score": "Blake Grupe 51 Yd Field Goal  ",
+      "scorePeriod": "Q3",
+      "homeScore": "17",
+      "awayScore": "16",
+      "teamID": "23",
+      "scoreDetails": "12 plays, 37 yards, 5:40",
+      "scoreType": "FG",
+      "scoreTime": "4:15",
+      "team": "NO",
+      "playerIDs": [
+        "4259619"
+      ]
+    },
+    {
+      "score": "Foster Moreau 17 Yd pass from Derek Carr (Two-Point Pass Conversion Failed)",
+      "scorePeriod": "Q4",
+      "homeScore": "17",
+      "awayScore": "22",
+      "teamID": "23",
+      "scoreDetails": "11 plays, 70 yards, 5:40",
+      "scoreType": "TD",
+      "scoreTime": "11:55",
+      "team": "NO",
+      "playerIDs": [
+        "16757",
+        "3843945"
+      ]
+    },
+    {
+      "score": "Chuba Hubbard 16 Yd Run (Two-Point Pass Conversion Failed)",
+      "scorePeriod": "Q4",
+      "homeScore": "23",
+      "awayScore": "22",
+      "teamID": "5",
+      "scoreDetails": "4 plays, 64 yards, 1:08",
+      "scoreType": "TD",
+      "scoreTime": "2:18",
+      "team": "CAR",
+      "playerIDs": [
+        "4241416"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "5",
+  "homeResult": "W",
+  "away": "NO",
+  "gameWeek": "Week 9",
+  "attendance": "70,292",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "6",
+      "Q2": "7",
+      "Q3": "3",
+      "Q4": "6",
+      "teamID": "23",
+      "currentlyInPossession": "False",
+      "totalPts": "22",
+      "teamAbv": "NO"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "10",
+      "Q3": "7",
+      "Q4": "6",
+      "teamID": "5",
+      "currentlyInPossession": "False",
+      "totalPts": "23",
+      "teamAbv": "CAR"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Charlotte, NC",
+  "home": "CAR",
+  "playerStats": {
+    "11759": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "11759",
+      "longName": "JJ Jansen"
+    },
+    "13971": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.19"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "13971",
+      "longName": "Cameron Jordan"
+    },
+    "14958": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "14958",
+      "longName": "Demario Davis"
+    },
+    "15153": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "216",
+        "punts": "5",
+        "puntAvg": "43.2",
+        "puntsin20": "3",
+        "puntTouchBacks": "0",
+        "puntLong": "52"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "15153",
+      "longName": "Johnny Hekker"
+    },
+    "15851": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.94"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "15851",
+      "longName": "Tyrann Mathieu"
+    },
+    "16734": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "16734",
+      "longName": "Jadeveon Clowney"
+    },
+    "16757": {
+      "gameID": "20241103_NO@CAR",
+      "Passing": {
+        "qbr": "50.8",
+        "rtg": "92.9",
+        "sacked": "1-6",
+        "passAttempts": "31",
+        "passAvg": "7.6",
+        "passTD": "1",
+        "passYds": "236",
+        "int": "0",
+        "passCompletions": "18"
+      },
+      "scoringPlays": [
+        {
+          "score": "Foster Moreau 17 Yd pass from Derek Carr (Two-Point Pass Conversion Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "22",
+          "teamID": "23",
+          "scoreDetails": "11 plays, 70 yards, 5:40",
+          "scoreType": "TD",
+          "scoreTime": "11:55",
+          "team": "NO",
+          "playerIDs": [
+            "16757",
+            "3843945"
+          ]
+        }
+      ],
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.99",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "78",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "16757",
+      "longName": "Derek Carr"
+    },
+    "16763": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.76",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "16763",
+      "longName": "Jordan Matthews"
+    },
+    "2468609": {
+      "gameID": "20241103_NO@CAR",
+      "Rushing": {
+        "rushAvg": "3.8",
+        "rushYds": "19",
+        "carries": "5",
+        "longRush": "7",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "95.9",
+        "rtg": "39.6",
+        "sacked": "0-0",
+        "passAttempts": "1",
+        "passAvg": "0.0",
+        "passTD": "0",
+        "passYds": "0",
+        "int": "0",
+        "passCompletions": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "15",
+        "targets": "5",
+        "recYds": "41",
+        "recAvg": "10.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Taysom Hill 7 Yd Run (Blake Grupe Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "13",
+          "teamID": "23",
+          "scoreDetails": "9 plays, 78 yards, 5:46",
+          "scoreType": "TD",
+          "scoreTime": "4:13",
+          "team": "NO",
+          "playerIDs": [
+            "2468609",
+            "4259619"
+          ]
+        }
+      ],
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.44",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.38",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "2468609",
+      "longName": "Taysom Hill"
+    },
+    "2575788": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2575788",
+      "longName": "Zach Wood"
+    },
+    "2576508": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2576508",
+      "longName": "DeShawn Williams"
+    },
+    "2576736": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.54",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "2576736",
+      "longName": "Lucas Patrick"
+    },
+    "2577367": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "2577367",
+      "longName": "Connor McGovern"
+    },
+    "2973051": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "2973051",
+      "longName": "Taylor Moton"
+    },
+    "3040031": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.32"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3040031",
+      "longName": "Nick Thurman"
+    },
+    "3040150": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "79",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3040150",
+      "longName": "Josey Jewell"
+    },
+    "3040572": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "79",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3040572",
+      "longName": "Xavier Woods"
+    },
+    "3051738": {
+      "gameID": "20241103_NO@CAR",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "1",
+        "recYds": "5",
+        "recAvg": "5.0"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.41",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3051738",
+      "longName": "Marquez Valdes-Scantling"
+    },
+    "3051852": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "62",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.78"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "2",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3051852",
+      "longName": "Charles Harris"
+    },
+    "3054850": {
+      "gameID": "20241103_NO@CAR",
+      "Rushing": {
+        "rushAvg": "5.3",
+        "rushYds": "155",
+        "carries": "29",
+        "longRush": "20",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "20",
+        "targets": "9",
+        "recYds": "60",
+        "recAvg": "10.0"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.77",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3054850",
+      "longName": "Alvin Kamara"
+    },
+    "3054857": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.63"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3054857",
+      "longName": "A'Shawn Robinson"
+    },
+    "3115481": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.76",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3115481",
+      "longName": "J.T. Gray"
+    },
+    "3120502": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3120502",
+      "longName": "Olisaemeka Udoh"
+    },
+    "3121634": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.62"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3121634",
+      "longName": "Khalen Saunders"
+    },
+    "3122160": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3122160",
+      "longName": "Tre Herndon"
+    },
+    "3843945": {
+      "gameID": "20241103_NO@CAR",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "1",
+        "longRec": "17",
+        "targets": "2",
+        "recYds": "17",
+        "recAvg": "17.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Foster Moreau 17 Yd pass from Derek Carr (Two-Point Pass Conversion Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "22",
+          "teamID": "23",
+          "scoreDetails": "11 plays, 70 yards, 5:40",
+          "scoreType": "TD",
+          "scoreTime": "11:55",
+          "team": "NO",
+          "playerIDs": [
+            "16757",
+            "3843945"
+          ]
+        }
+      ],
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.80",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3843945",
+      "longName": "Foster Moreau"
+    },
+    "3871880": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "3871880",
+      "longName": "Yosh Nijman"
+    },
+    "3886601": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "43",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3886601",
+      "longName": "Shy Tuttle"
+    },
+    "3886834": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "10",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3886834",
+      "longName": "Ugo Amadi"
+    },
+    "3895791": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3895791",
+      "longName": "Dane Jackson"
+    },
+    "3917058": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.59",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3917058",
+      "longName": "Roderic Teamer"
+    },
+    "3917592": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "3917592",
+      "longName": "Robert Hunt"
+    },
+    "3917853": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "79",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3917853",
+      "longName": "Michael Jackson"
+    },
+    "3918310": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.79"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "3918310",
+      "longName": "Carl Granderson"
+    },
+    "3929645": {
+      "gameID": "20241103_NO@CAR",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "25",
+        "targets": "2",
+        "recYds": "41",
+        "recAvg": "20.5"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.65",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3929645",
+      "longName": "Juwan Johnson"
+    },
+    "3929914": {
+      "gameID": "20241103_NO@CAR",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.27",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.55",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3929914",
+      "longName": "Adam Prentice"
+    },
+    "4034496": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "17",
+        "stSnapPct": "0.59",
+        "offSnap": "0",
+        "defSnapPct": "0.43"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4034496",
+      "longName": "Cam Gill"
+    },
+    "4034949": {
+      "gameID": "20241103_NO@CAR",
+      "scoringPlays": [
+        {
+          "score": "Xavier Legette 3 Yd pass from Bryce Young (Eddy Pineiro Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "6",
+          "teamID": "5",
+          "scoreDetails": "8 plays, 40 yards, 4:50",
+          "scoreType": "TD",
+          "scoreTime": "9:59",
+          "team": "CAR",
+          "playerIDs": [
+            "4685720",
+            "4430034",
+            "4034949"
+          ]
+        },
+        {
+          "score": "Eddy Pineiro 48 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "10",
+          "awayScore": "13",
+          "teamID": "5",
+          "scoreDetails": "4 plays, -2 yards, 0:39",
+          "scoreType": "FG",
+          "scoreTime": "0:38",
+          "team": "CAR",
+          "playerIDs": [
+            "4034949"
+          ]
+        },
+        {
+          "score": "Chuba Hubbard 1 Yd Run (Eddy Pineiro Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "17",
+          "awayScore": "13",
+          "teamID": "5",
+          "scoreDetails": "9 plays, 86 yards, 5:05",
+          "scoreType": "TD",
+          "scoreTime": "9:55",
+          "team": "CAR",
+          "playerIDs": [
+            "4241416",
+            "4034949"
+          ]
+        }
+      ],
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.28",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "48",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "2",
+        "fgPct": "100.0",
+        "kickingPts": "5",
+        "xpAttempts": "2",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4034949",
+      "longName": "Eddy Pineiro"
+    },
+    "4035079": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4035079",
+      "longName": "Landon Young"
+    },
+    "4036335": {
+      "gameID": "20241103_NO@CAR",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "18",
+        "targets": "3",
+        "recYds": "34",
+        "recAvg": "17.0"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.47",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4036335",
+      "longName": "Cedrick Wilson Jr."
+    },
+    "4036430": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4036430",
+      "longName": "Shemar Jean-Charles"
+    },
+    "4044133": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "26",
+        "stSnapPct": "0.90",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4044133",
+      "longName": "Sam Franklin Jr."
+    },
+    "4045163": {
+      "gameID": "20241103_NO@CAR",
+      "Rushing": {
+        "rushAvg": "-2.5",
+        "rushYds": "-5",
+        "carries": "2",
+        "longRush": "-2",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "2",
+        "targets": "2",
+        "recYds": "-5",
+        "recAvg": "-2.5"
+      },
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.23",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "14",
+        "kickReturnAvg": "14.0",
+        "kickReturnLong": "14"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4045163",
+      "longName": "Miles Sanders"
+    },
+    "4045305": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.40",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4045305",
+      "longName": "Ian Thomas"
+    },
+    "4076951": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.68"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4076951",
+      "longName": "Nathan Shepherd"
+    },
+    "4212909": {
+      "gameID": "20241103_NO@CAR",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "4",
+        "recYds": "20",
+        "recAvg": "10.0"
+      },
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.87",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "46",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4212909",
+      "longName": "David Moore"
+    },
+    "4240269": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "17",
+        "stSnap": "15",
+        "stSnapPct": "0.52",
+        "offSnap": "0",
+        "defSnapPct": "0.32"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240269",
+      "longName": "Payton Turner"
+    },
+    "4240780": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "23",
+        "stSnapPct": "0.79",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4240780",
+      "longName": "Lonnie Johnson Jr."
+    },
+    "4240859": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "8",
+        "stSnapPct": "0.28",
+        "offSnap": "0",
+        "defSnapPct": "0.13"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240859",
+      "longName": "Caleb Farley"
+    },
+    "4241007": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.86",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241007",
+      "longName": "D'Marco Jackson"
+    },
+    "4241416": {
+      "gameID": "20241103_NO@CAR",
+      "Rushing": {
+        "rushAvg": "4.8",
+        "rushYds": "72",
+        "carries": "15",
+        "longRush": "16",
+        "rushTD": "2"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "3",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Chuba Hubbard 1 Yd Run (Eddy Pineiro Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "17",
+          "awayScore": "13",
+          "teamID": "5",
+          "scoreDetails": "9 plays, 86 yards, 5:05",
+          "scoreType": "TD",
+          "scoreTime": "9:55",
+          "team": "CAR",
+          "playerIDs": [
+            "4241416",
+            "4034949"
+          ]
+        },
+        {
+          "score": "Chuba Hubbard 16 Yd Run (Two-Point Pass Conversion Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "23",
+          "awayScore": "22",
+          "teamID": "5",
+          "scoreDetails": "4 plays, 64 yards, 1:08",
+          "scoreType": "TD",
+          "scoreTime": "2:18",
+          "team": "CAR",
+          "playerIDs": [
+            "4241416"
+          ]
+        }
+      ],
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.79",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4241416",
+      "longName": "Chuba Hubbard"
+    },
+    "4241473": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.49"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241473",
+      "longName": "LaBryan Ray"
+    },
+    "4241986": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.70"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4241986",
+      "longName": "Chase Young"
+    },
+    "4241993": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241993",
+      "longName": "Pete Werner"
+    },
+    "4243004": {
+      "gameID": "20241103_NO@CAR",
+      "Rushing": {
+        "rushAvg": "2.6",
+        "rushYds": "13",
+        "carries": "5",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "25",
+        "targets": "1",
+        "recYds": "25",
+        "recAvg": "25.0"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.15",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.42",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "19",
+        "kickReturnAvg": "19.0",
+        "kickReturnLong": "19"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4243004",
+      "longName": "Jordan Mims"
+    },
+    "4248627": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4248627",
+      "longName": "Trevor Penning"
+    },
+    "4256062": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4256062",
+      "longName": "Brady Christensen"
+    },
+    "4256224": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.76",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4256224",
+      "longName": "Claudin Cherelus"
+    },
+    "4258199": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4258199",
+      "longName": "Cesar Ruiz"
+    },
+    "4258485": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "26",
+        "stSnapPct": "0.90",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4258485",
+      "longName": "Jon Rhattigan"
+    },
+    "4259308": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.38",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "39",
+        "kickReturnAvg": "19.5",
+        "kickReturnLong": "21"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "24",
+        "puntReturnAvg": "12.0",
+        "puntReturnLong": "14",
+        "puntReturnTD": "0"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4259308",
+      "longName": "Raheem Blackshear"
+    },
+    "4259619": {
+      "gameID": "20241103_NO@CAR",
+      "scoringPlays": [
+        {
+          "score": "Blake Grupe 29 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "3",
+          "teamID": "23",
+          "scoreDetails": "10 plays, 67 yards, 4:09",
+          "scoreType": "FG",
+          "scoreTime": "10:51",
+          "team": "NO",
+          "playerIDs": [
+            "4259619"
+          ]
+        },
+        {
+          "score": "Blake Grupe 33 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "6",
+          "teamID": "23",
+          "scoreDetails": "11 plays, 72 yards, 5:07",
+          "scoreType": "FG",
+          "scoreTime": "3:08",
+          "team": "NO",
+          "playerIDs": [
+            "4259619"
+          ]
+        },
+        {
+          "score": "Taysom Hill 7 Yd Run (Blake Grupe Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "13",
+          "teamID": "23",
+          "scoreDetails": "9 plays, 78 yards, 5:46",
+          "scoreType": "TD",
+          "scoreTime": "4:13",
+          "team": "NO",
+          "playerIDs": [
+            "2468609",
+            "4259619"
+          ]
+        },
+        {
+          "score": "Blake Grupe 51 Yd Field Goal  ",
+          "scorePeriod": "Q3",
+          "homeScore": "17",
+          "awayScore": "16",
+          "teamID": "23",
+          "scoreDetails": "12 plays, 37 yards, 5:40",
+          "scoreType": "FG",
+          "scoreTime": "4:15",
+          "team": "NO",
+          "playerIDs": [
+            "4259619"
+          ]
+        }
+      ],
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "51",
+        "fgMade": "3",
+        "fgAttempts": "3",
+        "xpMade": "1",
+        "fgPct": "100.0",
+        "kickingPts": "10",
+        "xpAttempts": "1",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4259619",
+      "longName": "Blake Grupe"
+    },
+    "4259804": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "9",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4259804",
+      "longName": "Willie Gay"
+    },
+    "4360949": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360949",
+      "longName": "Jordan Howden"
+    },
+    "4361370": {
+      "gameID": "20241103_NO@CAR",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "1",
+        "recYds": "13",
+        "recAvg": "13.0"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.10",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4361370",
+      "longName": "Chris Olave"
+    },
+    "4361600": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.46",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "36",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4361600",
+      "longName": "Nick Saldiveri"
+    },
+    "4361788": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4361788",
+      "longName": "Cade Mays"
+    },
+    "4362647": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4362647",
+      "longName": "Damien Lewis"
+    },
+    "4362847": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "79",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362847",
+      "longName": "Jaycee Horn"
+    },
+    "4369835": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "3"
+      },
+      "playerID": "4369835",
+      "longName": "Alontae Taylor"
+    },
+    "4373474": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4373474",
+      "longName": "Jarrett Kingston"
+    },
+    "4373634": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.15",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4373634",
+      "longName": "Dallin Holker"
+    },
+    "4374187": {
+      "gameID": "20241103_NO@CAR",
+      "Rushing": {
+        "rushAvg": "-2.0",
+        "rushYds": "-2",
+        "carries": "1",
+        "longRush": "-2",
+        "rushTD": "0"
+      },
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.15",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4374187",
+      "longName": "Deven Thompkins"
+    },
+    "4384595": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.09"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4384595",
+      "longName": "Khristian Boyd"
+    },
+    "4422407": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.32"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4422407",
+      "longName": "Jonathan Harris"
+    },
+    "4426457": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.86",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4426457",
+      "longName": "Isaiah Foskey"
+    },
+    "4426485": {
+      "gameID": "20241103_NO@CAR",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.28",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.31",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4426485",
+      "longName": "Jonathan Mingo"
+    },
+    "4426926": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "79",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "12",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "8",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4426926",
+      "longName": "Demani Richardson"
+    },
+    "4428909": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.72",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428909",
+      "longName": "Jacoby Windmon"
+    },
+    "4428988": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "31",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428988",
+      "longName": "Bryan Bresee"
+    },
+    "4430034": {
+      "gameID": "20241103_NO@CAR",
+      "Rushing": {
+        "rushAvg": "6.0",
+        "rushYds": "6",
+        "carries": "1",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "26",
+        "targets": "6",
+        "recYds": "33",
+        "recAvg": "8.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Xavier Legette 3 Yd pass from Bryce Young (Eddy Pineiro Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "6",
+          "teamID": "5",
+          "scoreDetails": "8 plays, 40 yards, 4:50",
+          "scoreType": "TD",
+          "scoreTime": "9:59",
+          "team": "CAR",
+          "playerIDs": [
+            "4685720",
+            "4430034",
+            "4034949"
+          ]
+        }
+      ],
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.83",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430034",
+      "longName": "Xavier Legette"
+    },
+    "4431588": {
+      "gameID": "20241103_NO@CAR",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "46",
+        "targets": "5",
+        "recYds": "87",
+        "recAvg": "21.8"
+      },
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.85",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "45",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4431588",
+      "longName": "Ja'Tavion Sanders"
+    },
+    "4567535": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.86",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4567535",
+      "longName": "Anfernee Orji"
+    },
+    "4569352": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.62",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4569352",
+      "longName": "Millard Bradford"
+    },
+    "4571597": {
+      "gameID": "20241103_NO@CAR",
+      "Rushing": {
+        "rushAvg": "11.0",
+        "rushYds": "11",
+        "carries": "1",
+        "longRush": "11",
+        "rushTD": "0"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "169",
+        "punts": "4",
+        "puntAvg": "42.3",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "50"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4571597",
+      "longName": "Matthew Hayball"
+    },
+    "4573697": {
+      "gameID": "20241103_NO@CAR",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "3",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.76",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4573697",
+      "longName": "Mason Tipton"
+    },
+    "4606711": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4606711",
+      "longName": "Taliese Fuaga"
+    },
+    "4683815": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "69",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4683815",
+      "longName": "Trevin Wallace"
+    },
+    "4685720": {
+      "gameID": "20241103_NO@CAR",
+      "Rushing": {
+        "rushAvg": "2.3",
+        "rushYds": "9",
+        "carries": "4",
+        "longRush": "9",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "47.8",
+        "rtg": "77.6",
+        "sacked": "1-5",
+        "passAttempts": "26",
+        "passAvg": "6.6",
+        "passTD": "1",
+        "passYds": "171",
+        "int": "1",
+        "passCompletions": "16"
+      },
+      "scoringPlays": [
+        {
+          "score": "Xavier Legette 3 Yd pass from Bryce Young (Eddy Pineiro Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "6",
+          "teamID": "5",
+          "scoreDetails": "8 plays, 40 yards, 4:50",
+          "scoreType": "TD",
+          "scoreTime": "9:59",
+          "team": "CAR",
+          "playerIDs": [
+            "4685720",
+            "4430034",
+            "4034949"
+          ]
+        }
+      ],
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4685720",
+      "longName": "Bryce Young"
+    },
+    "4695883": {
+      "gameID": "20241103_NO@CAR",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "18",
+        "targets": "3",
+        "recYds": "36",
+        "recAvg": "18.0"
+      },
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.45",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4695883",
+      "longName": "Jalen Coker"
+    },
+    "4697636": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "13",
+        "stSnap": "15",
+        "stSnapPct": "0.52",
+        "offSnap": "0",
+        "defSnapPct": "0.16"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4697636",
+      "longName": "Chau Smith-Wade"
+    },
+    "4698301": {
+      "gameID": "20241103_NO@CAR",
+      "Rushing": {
+        "rushAvg": "-1.0",
+        "rushYds": "-1",
+        "carries": "1",
+        "longRush": "-1",
+        "rushTD": "0"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.38",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "40",
+        "kickReturnAvg": "20.0",
+        "kickReturnLong": "24"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "7",
+        "puntReturnAvg": "7.0",
+        "puntReturnLong": "7",
+        "puntReturnTD": "0"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4698301",
+      "longName": "Jermaine Jackson"
+    },
+    "4710661": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.08",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4710661",
+      "longName": "Chandler Zavala"
+    },
+    "4714157": {
+      "gameID": "20241103_NO@CAR",
+      "teamID": "5",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "26",
+        "stSnapPct": "0.90",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CAR",
+      "teamAbv": "CAR",
+      "playerID": "4714157",
+      "longName": "Thomas Incoom"
+    }
+  },
+  "arenaCapacity": "73,778",
+  "arena": "Bank of America Stadium",
+  "homePts": "23",
+  "awayResult": "L",
+  "teamIDAway": "23",
+  "Referees": "Barry Anderson, Ronald Torbert, Keith Washington, Ryan Dickson, Tony Josselyn, Brian Bolinger, Frank LeBlanc",
+  "gameClock": "",
+  "awayPts": "22",
+  "gameID": "20241103_NO@CAR",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

@@ -1,0 +1,2599 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "MIA",
+      "teamID": "20",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "1",
+      "ydsAllowed": "276",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "3",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "CLE",
+      "teamID": "8",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "4",
+      "ydsAllowed": "280",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "20",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "280",
+      "rushingAttempts": "27",
+      "rushingYards": "74",
+      "fumblesLost": "0",
+      "penalties": "11-94",
+      "totalPlays": "57",
+      "possession": "30:41",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "22-26",
+      "passingFirstDowns": "12",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "4-19",
+      "thirdDownEfficiency": "2-11",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.9",
+      "redZoneScoredAndAttempted": "2-2",
+      "teamID": "20",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "13",
+      "rushingFirstDowns": "4",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "18",
+      "passTD": "1",
+      "team": "MIA",
+      "blockedXP": "0",
+      "teamAbv": "MIA",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "0-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "206",
+      "yardsPerRush": "2.7",
+      "snapCounts": {
+        "totalSpecialTeams": "23",
+        "totalOffensive": "60",
+        "totalDefensive": "79"
+      },
+      "turnovers": "0",
+      "yardsPerPass": "6.9"
+    },
+    "home": {
+      "totalYards": "276",
+      "rushingAttempts": "28",
+      "rushingYards": "114",
+      "fumblesLost": "1",
+      "penalties": "9-84",
+      "totalPlays": "76",
+      "possession": "29:19",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "24-47",
+      "passingFirstDowns": "7",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "1-8",
+      "thirdDownEfficiency": "7-17",
+      "blockedPunt": "0",
+      "yardsPerPlay": "3.6",
+      "redZoneScoredAndAttempted": "0-3",
+      "teamID": "8",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "12",
+      "rushingFirstDowns": "8",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "18",
+      "passTD": "0",
+      "team": "CLE",
+      "blockedXP": "0",
+      "teamAbv": "CLE",
+      "firstDownsFromPenalties": "3",
+      "fourthDownEfficiency": "0-4",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "162",
+      "yardsPerRush": "4.1",
+      "snapCounts": {
+        "totalSpecialTeams": "23",
+        "totalOffensive": "79",
+        "totalDefensive": "60"
+      },
+      "turnovers": "2",
+      "yardsPerPass": "3.4"
+    }
+  },
+  "gameDate": "20241229",
+  "scoringPlays": [
+    {
+      "score": "Jason Sanders 54 Yd Field Goal",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "3",
+      "teamID": "20",
+      "scoreDetails": "7 plays, 26 yards, 3:39",
+      "scoreType": "FG",
+      "scoreTime": "5:46",
+      "team": "MIA",
+      "playerIDs": [
+        "3124679"
+      ]
+    },
+    {
+      "score": "Dustin Hopkins 25 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "3",
+      "teamID": "8",
+      "scoreDetails": "14 plays, 66 yards, 7:20",
+      "scoreType": "FG",
+      "scoreTime": "13:26",
+      "team": "CLE",
+      "playerIDs": [
+        "15965"
+      ]
+    },
+    {
+      "score": "Jason Sanders 39 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "6",
+      "teamID": "20",
+      "scoreDetails": "5 plays, 41 yards, 0:40",
+      "scoreType": "FG",
+      "scoreTime": "0:00",
+      "team": "MIA",
+      "playerIDs": [
+        "3124679"
+      ]
+    },
+    {
+      "score": "Tyler Huntley 13 Yd Rush (Jason Sanders Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "3",
+      "awayScore": "13",
+      "teamID": "20",
+      "scoreDetails": "6 plays, 72 yards, 3:05",
+      "scoreType": "TD",
+      "scoreTime": "11:04",
+      "team": "MIA",
+      "playerIDs": [
+        "4035671",
+        "3124679"
+      ]
+    },
+    {
+      "score": "Jonnu Smith 7 Yd pass from Tyler Huntley (Jason Sanders Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "3",
+      "awayScore": "20",
+      "teamID": "20",
+      "scoreDetails": "4 plays, 21 yards, 0:18",
+      "scoreType": "TD",
+      "scoreTime": "3:38",
+      "team": "MIA",
+      "playerIDs": [
+        "4035671",
+        "3054212",
+        "3124679"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "8",
+  "homeResult": "L",
+  "away": "MIA",
+  "gameWeek": "Week 17",
+  "attendance": "67,942",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "3",
+      "Q2": "3",
+      "Q3": "7",
+      "Q4": "7",
+      "teamID": "20",
+      "currentlyInPossession": "False",
+      "totalPts": "20",
+      "teamAbv": "MIA"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "3",
+      "Q3": "0",
+      "Q4": "0",
+      "teamID": "8",
+      "currentlyInPossession": "False",
+      "totalPts": "3",
+      "teamAbv": "CLE"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Cleveland, OH",
+  "home": "CLE",
+  "playerStats": {
+    "11284": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "5",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.61"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "11284",
+      "longName": "Calais Campbell"
+    },
+    "14676": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.48",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "14676",
+      "longName": "Jake McQuaide"
+    },
+    "15222": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "31",
+        "stSnap": "12",
+        "stSnapPct": "0.52",
+        "offSnap": "0",
+        "defSnapPct": "0.52"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "15222",
+      "longName": "Rodney McLeod Jr."
+    },
+    "15821": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.45",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "15821",
+      "longName": "Terron Armstead"
+    },
+    "15965": {
+      "gameID": "20241229_MIA@CLE",
+      "scoringPlays": [
+        {
+          "score": "Dustin Hopkins 25 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "3",
+          "teamID": "8",
+          "scoreDetails": "14 plays, 66 yards, 7:20",
+          "scoreType": "FG",
+          "scoreTime": "13:26",
+          "team": "CLE",
+          "playerIDs": [
+            "15965"
+          ]
+        }
+      ],
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "25",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "0",
+        "fgPct": "100.0",
+        "kickingPts": "3",
+        "xpAttempts": "0",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "15965",
+      "longName": "Dustin Hopkins"
+    },
+    "15979": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.90"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "15979",
+      "longName": "Jordan Poyer"
+    },
+    "16740": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "16740",
+      "longName": "Joel Bitonio"
+    },
+    "2509370": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "2509370",
+      "longName": "Kendall Lamm"
+    },
+    "2514270": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "31",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.52"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2514270",
+      "longName": "Jordan Hicks"
+    },
+    "2576414": {
+      "gameID": "20241229_MIA@CLE",
+      "Rushing": {
+        "rushAvg": "0.5",
+        "rushYds": "3",
+        "carries": "6",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "2",
+        "recYds": "16",
+        "recAvg": "8.0"
+      },
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.40",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.09",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "2576414",
+      "longName": "Raheem Mostert"
+    },
+    "2972304": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "2972304",
+      "longName": "Germain Ifedi"
+    },
+    "2976213": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.10",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "2976213",
+      "longName": "Michael Dunn"
+    },
+    "2977740": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "62",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.78"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "2977740",
+      "longName": "Emmanuel Ogbah"
+    },
+    "2979534": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "2979534",
+      "longName": "Jack Conklin"
+    },
+    "2979860": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.50"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2979860",
+      "longName": "Dalvin Tomlinson"
+    },
+    "3042725": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "8",
+        "stSnap": "19",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.10"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3042725",
+      "longName": "Duke Riley"
+    },
+    "3042738": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3042738",
+      "longName": "Ethan Pocic"
+    },
+    "3045373": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.85"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3045373",
+      "longName": "Jalen Ramsey"
+    },
+    "3045474": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3045474",
+      "longName": "Wyatt Teller"
+    },
+    "3050916": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "21",
+        "stSnapPct": "0.91",
+        "offSnap": "0",
+        "defSnapPct": "0.20"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3050916",
+      "longName": "Mike Ford Jr."
+    },
+    "3052056": {
+      "gameID": "20241229_MIA@CLE",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "16",
+        "targets": "1",
+        "recYds": "16",
+        "recAvg": "16.0"
+      },
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.33",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3052056",
+      "longName": "River Cracraft"
+    },
+    "3052897": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.28",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.09",
+        "offSnap": "17",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3052897",
+      "longName": "Durham Smythe"
+    },
+    "3054212": {
+      "gameID": "20241229_MIA@CLE",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "1",
+        "longRec": "12",
+        "targets": "4",
+        "recYds": "26",
+        "recAvg": "8.7"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jonnu Smith 7 Yd pass from Tyler Huntley (Jason Sanders Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "3",
+          "awayScore": "20",
+          "teamID": "20",
+          "scoreDetails": "4 plays, 21 yards, 0:18",
+          "scoreType": "TD",
+          "scoreTime": "3:38",
+          "team": "MIA",
+          "playerIDs": [
+            "4035671",
+            "3054212",
+            "3124679"
+          ]
+        }
+      ],
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.48",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3054212",
+      "longName": "Jonnu Smith"
+    },
+    "3057524": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "8",
+        "stSnap": "19",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.10"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3057524",
+      "longName": "Siran Neal"
+    },
+    "3057956": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "62",
+        "stSnap": "5",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.78"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3057956",
+      "longName": "Zach Sieler"
+    },
+    "3116406": {
+      "gameID": "20241229_MIA@CLE",
+      "Receiving": {
+        "receptions": "9",
+        "recTD": "0",
+        "longRec": "25",
+        "targets": "9",
+        "recYds": "105",
+        "recAvg": "11.7"
+      },
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.88",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "18",
+        "puntReturnAvg": "18.0",
+        "puntReturnLong": "18",
+        "puntReturnTD": "0"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3116406",
+      "longName": "Tyreek Hill"
+    },
+    "3122132": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "3",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "3122132",
+      "longName": "Myles Garrett"
+    },
+    "3122976": {
+      "gameID": "20241229_MIA@CLE",
+      "Rushing": {
+        "rushAvg": "1.7",
+        "rushYds": "5",
+        "carries": "3",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.13",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.22",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3122976",
+      "longName": "Jeff Wilson Jr."
+    },
+    "3124679": {
+      "gameID": "20241229_MIA@CLE",
+      "scoringPlays": [
+        {
+          "score": "Jason Sanders 54 Yd Field Goal",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "3",
+          "teamID": "20",
+          "scoreDetails": "7 plays, 26 yards, 3:39",
+          "scoreType": "FG",
+          "scoreTime": "5:46",
+          "team": "MIA",
+          "playerIDs": [
+            "3124679"
+          ]
+        },
+        {
+          "score": "Jason Sanders 39 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "6",
+          "teamID": "20",
+          "scoreDetails": "5 plays, 41 yards, 0:40",
+          "scoreType": "FG",
+          "scoreTime": "0:00",
+          "team": "MIA",
+          "playerIDs": [
+            "3124679"
+          ]
+        },
+        {
+          "score": "Tyler Huntley 13 Yd Rush (Jason Sanders Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "3",
+          "awayScore": "13",
+          "teamID": "20",
+          "scoreDetails": "6 plays, 72 yards, 3:05",
+          "scoreType": "TD",
+          "scoreTime": "11:04",
+          "team": "MIA",
+          "playerIDs": [
+            "4035671",
+            "3124679"
+          ]
+        },
+        {
+          "score": "Jonnu Smith 7 Yd pass from Tyler Huntley (Jason Sanders Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "3",
+          "awayScore": "20",
+          "teamID": "20",
+          "scoreDetails": "4 plays, 21 yards, 0:18",
+          "scoreType": "TD",
+          "scoreTime": "3:38",
+          "team": "MIA",
+          "playerIDs": [
+            "4035671",
+            "3054212",
+            "3124679"
+          ]
+        }
+      ],
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "54",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "2",
+        "fgPct": "100.0",
+        "kickingPts": "8",
+        "xpAttempts": "2",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3124679",
+      "longName": "Jason Sanders"
+    },
+    "3125116": {
+      "gameID": "20241229_MIA@CLE",
+      "Rushing": {
+        "rushAvg": "3.8",
+        "rushYds": "49",
+        "carries": "13",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "2",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.47",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3125116",
+      "longName": "D'Onta Foreman"
+    },
+    "3126352": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "1",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3126352",
+      "longName": "Da'Shawn Hand"
+    },
+    "3128452": {
+      "gameID": "20241229_MIA@CLE",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "15",
+        "targets": "8",
+        "recYds": "49",
+        "recAvg": "8.2"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.56",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3128452",
+      "longName": "Jordan Akins"
+    },
+    "3128713": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.57",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3128713",
+      "longName": "Isaiah Wynn"
+    },
+    "3134316": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.09"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3134316",
+      "longName": "Matt Dickerson"
+    },
+    "3913293": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3913293",
+      "longName": "Rex Sunahara"
+    },
+    "3915535": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "31",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.52"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915535",
+      "longName": "Denzel Ward"
+    },
+    "3916204": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "9",
+        "puntReturnAvg": "9.0",
+        "puntReturnLong": "9",
+        "puntReturnTD": "0"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3916204",
+      "longName": "James Proche II"
+    },
+    "3916414": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3916414",
+      "longName": "Geron Christian"
+    },
+    "3917668": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.38",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.30",
+        "offSnap": "23",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3917668",
+      "longName": "Alec Ingold"
+    },
+    "3917909": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.62"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3917909",
+      "longName": "Juan Thornhill"
+    },
+    "3931395": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.48",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "307",
+        "punts": "7",
+        "puntAvg": "43.9",
+        "puntsin20": "2",
+        "puntTouchBacks": "2",
+        "puntLong": "53"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3931395",
+      "longName": "Jake Bailey"
+    },
+    "3932901": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "17",
+        "stSnapPct": "0.74",
+        "offSnap": "0",
+        "defSnapPct": "0.14"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3932901",
+      "longName": "Elijah Campbell"
+    },
+    "3933407": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "19",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.32"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3933407",
+      "longName": "Quinton Bell"
+    },
+    "4033855": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "7",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.60"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4033855",
+      "longName": "Sam Kamara"
+    },
+    "4034862": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.02",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.48",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4034862",
+      "longName": "Jack Stoll"
+    },
+    "4035232": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "79",
+        "stSnap": "7",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "15",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4035232",
+      "longName": "Tyrel Dodson"
+    },
+    "4035299": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.43"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035299",
+      "longName": "Benito Jones"
+    },
+    "4035671": {
+      "gameID": "20241229_MIA@CLE",
+      "Rushing": {
+        "rushAvg": "7.4",
+        "rushYds": "52",
+        "carries": "7",
+        "longRush": "18",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "73.4",
+        "rtg": "115.5",
+        "sacked": "4-19",
+        "passAttempts": "26",
+        "passAvg": "8.7",
+        "passTD": "1",
+        "passYds": "225",
+        "int": "0",
+        "passCompletions": "22"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tyler Huntley 13 Yd Rush (Jason Sanders Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "3",
+          "awayScore": "13",
+          "teamID": "20",
+          "scoreDetails": "6 plays, 72 yards, 3:05",
+          "scoreType": "TD",
+          "scoreTime": "11:04",
+          "team": "MIA",
+          "playerIDs": [
+            "4035671",
+            "3124679"
+          ]
+        },
+        {
+          "score": "Jonnu Smith 7 Yd pass from Tyler Huntley (Jason Sanders Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "3",
+          "awayScore": "20",
+          "teamID": "20",
+          "scoreDetails": "4 plays, 21 yards, 0:18",
+          "scoreType": "TD",
+          "scoreTime": "3:38",
+          "team": "MIA",
+          "playerIDs": [
+            "4035671",
+            "3054212",
+            "3124679"
+          ]
+        }
+      ],
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4035671",
+      "longName": "Tyler Huntley"
+    },
+    "4035857": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "18",
+        "stSnapPct": "0.78",
+        "offSnap": "0",
+        "defSnapPct": "0.08"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035857",
+      "longName": "Cameron Goode"
+    },
+    "4036261": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "8",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.57"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "3",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036261",
+      "longName": "Devin Bush"
+    },
+    "4039396": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "250",
+        "punts": "5",
+        "puntAvg": "50.0",
+        "puntsin20": "0",
+        "puntTouchBacks": "0",
+        "puntLong": "68"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4039396",
+      "longName": "Corey Bojorquez"
+    },
+    "4040537": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4040537",
+      "longName": "Aaron Brewer"
+    },
+    "4043016": {
+      "gameID": "20241229_MIA@CLE",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "1",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4043016",
+      "longName": "Dee Eskridge"
+    },
+    "4043130": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.90"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4043130",
+      "longName": "Jordyn Brooks"
+    },
+    "4046525": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.74",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4046525",
+      "longName": "Khaleke Hudson"
+    },
+    "4046694": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.43",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4046694",
+      "longName": "Liam Eichenberg"
+    },
+    "4240608": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.10"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4240608",
+      "longName": "James Houston"
+    },
+    "4241463": {
+      "gameID": "20241229_MIA@CLE",
+      "Receiving": {
+        "receptions": "12",
+        "recTD": "0",
+        "longRec": "17",
+        "targets": "18",
+        "recYds": "94",
+        "recAvg": "7.8"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.97",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "77",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241463",
+      "longName": "Jerry Jeudy"
+    },
+    "4242208": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "59",
+        "stSnap": "7",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242208",
+      "longName": "Grant Delpit"
+    },
+    "4249836": {
+      "gameID": "20241229_MIA@CLE",
+      "Rushing": {
+        "rushAvg": "6.6",
+        "rushYds": "33",
+        "carries": "5",
+        "longRush": "19",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "5",
+        "recYds": "15",
+        "recAvg": "5.0"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.35",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.52",
+        "offSnap": "28",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4249836",
+      "longName": "Pierre Strong Jr."
+    },
+    "4251125": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "22",
+        "stSnapPct": "0.96",
+        "offSnap": "0",
+        "defSnapPct": "0.08"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4251125",
+      "longName": "Winston Reid"
+    },
+    "4291489": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.90"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4291489",
+      "longName": "Kader Kohou"
+    },
+    "4360174": {
+      "gameID": "20241229_MIA@CLE",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "3",
+        "targets": "3",
+        "recYds": "3",
+        "recAvg": "3.0"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.86",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4360174",
+      "longName": "Michael Woods II"
+    },
+    "4360320": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4360320",
+      "longName": "Jackson Carman"
+    },
+    "4360746": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "10",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "0.15"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360746",
+      "longName": "Ethan Bonner"
+    },
+    "4361510": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "8",
+        "stSnap": "11",
+        "stSnapPct": "0.48",
+        "offSnap": "0",
+        "defSnapPct": "0.13"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4361510",
+      "longName": "Cameron Thomas"
+    },
+    "4362018": {
+      "gameID": "20241229_MIA@CLE",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "1",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.43",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.43",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4362018",
+      "longName": "Blake Whiteheart"
+    },
+    "4362603": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4362603",
+      "longName": "Brenden Bates"
+    },
+    "4362895": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "17",
+        "stSnapPct": "0.74",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4362895",
+      "longName": "Nathaniel Watson"
+    },
+    "4365395": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.62",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.57",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4365395",
+      "longName": "Julian Hill"
+    },
+    "4367178": {
+      "gameID": "20241229_MIA@CLE",
+      "Rushing": {
+        "rushAvg": "2.5",
+        "rushYds": "10",
+        "carries": "4",
+        "longRush": "9",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "21.1",
+        "rtg": "50.8",
+        "sacked": "1-8",
+        "passAttempts": "47",
+        "passAvg": "3.6",
+        "passTD": "0",
+        "passYds": "170",
+        "int": "1",
+        "passCompletions": "24"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4367178",
+      "longName": "Dorian Thompson-Robinson"
+    },
+    "4372019": {
+      "gameID": "20241229_MIA@CLE",
+      "Rushing": {
+        "rushAvg": "3.7",
+        "rushYds": "22",
+        "carries": "6",
+        "longRush": "19",
+        "rushTD": "0"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "23",
+        "kickReturnAvg": "23.0",
+        "kickReturnLong": "23"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4372019",
+      "longName": "Jerome Ford"
+    },
+    "4372414": {
+      "gameID": "20241229_MIA@CLE",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "1",
+        "targets": "5",
+        "recYds": "1",
+        "recAvg": "1.0"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.65",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4372414",
+      "longName": "Elijah Moore"
+    },
+    "4373809": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.90"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4373809",
+      "longName": "Jevon Holland"
+    },
+    "4379414": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.78",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4379414",
+      "longName": "Channing Tindall"
+    },
+    "4426676": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "5",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426676",
+      "longName": "Jowon Briggs"
+    },
+    "4427103": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.76"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4427103",
+      "longName": "Storm Duck"
+    },
+    "4427963": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "2",
+        "stSnapPct": "0.09",
+        "offSnap": "0",
+        "defSnapPct": "0.90"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4427963",
+      "longName": "Isaiah McGuire"
+    },
+    "4428678": {
+      "gameID": "20241229_MIA@CLE",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.38",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4428678",
+      "longName": "Jamari Thrash"
+    },
+    "4429160": {
+      "gameID": "20241229_MIA@CLE",
+      "Rushing": {
+        "rushAvg": "2.5",
+        "rushYds": "25",
+        "carries": "10",
+        "longRush": "9",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "2",
+        "recYds": "13",
+        "recAvg": "6.5"
+      },
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.53",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4429160",
+      "longName": "De'Von Achane"
+    },
+    "4429568": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429568",
+      "longName": "Martin Emerson Jr."
+    },
+    "4430158": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "8",
+        "stSnap": "12",
+        "stSnapPct": "0.52",
+        "offSnap": "0",
+        "defSnapPct": "0.10"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4430158",
+      "longName": "Patrick McMorris"
+    },
+    "4431586": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.66"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4431586",
+      "longName": "Chop Robinson"
+    },
+    "4433963": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4433963",
+      "longName": "Zak Zinter"
+    },
+    "4567403": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "11",
+        "stSnapPct": "0.48",
+        "offSnap": "0",
+        "defSnapPct": "0.70"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4567403",
+      "longName": "Mohamoud Diabate"
+    },
+    "4567493": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.55",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "33",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4567493",
+      "longName": "Patrick Paul"
+    },
+    "4569603": {
+      "gameID": "20241229_MIA@CLE",
+      "Rushing": {
+        "rushAvg": "-11.0",
+        "rushYds": "-11",
+        "carries": "1",
+        "longRush": "-11",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "5",
+        "recYds": "41",
+        "recAvg": "10.3"
+      },
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.87",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "52",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "20",
+        "puntReturnAvg": "10.0",
+        "puntReturnLong": "16",
+        "puntReturnTD": "0"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4569603",
+      "longName": "Malik Washington"
+    },
+    "4569607": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4569607",
+      "longName": "Cameron Mitchell"
+    },
+    "4569620": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "2",
+        "stSnapPct": "0.09",
+        "offSnap": "0",
+        "defSnapPct": "0.65"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4569620",
+      "longName": "Ronnie Hickman"
+    },
+    "4570495": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4570495",
+      "longName": "Robert Jones"
+    },
+    "4600415": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4600415",
+      "longName": "Mike Hall Jr."
+    },
+    "4608386": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "21",
+        "stSnapPct": "0.91",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4608386",
+      "longName": "D'Anthony Bell"
+    },
+    "4682745": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4682745",
+      "longName": "Jaylen Wright"
+    },
+    "4695783": {
+      "gameID": "20241229_MIA@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "16",
+        "stSnapPct": "0.70",
+        "offSnap": "0",
+        "defSnapPct": "0.08"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4695783",
+      "longName": "Myles Harden"
+    }
+  },
+  "arenaCapacity": "",
+  "arena": "Huntington Bank Field",
+  "homePts": "3",
+  "awayResult": "W",
+  "teamIDAway": "20",
+  "Referees": "Barry Anderson, Ronald Torbert, Keith Washington, Ryan Dickson, Tony Josselyn, Brian Bolinger, Frank LeBlanc",
+  "gameClock": "",
+  "awayPts": "20",
+  "gameID": "20241229_MIA@CLE",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

@@ -1,0 +1,2593 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "MIN",
+      "teamID": "21",
+      "defTD": "1",
+      "defensiveInterceptions": "2",
+      "sacks": "5",
+      "ydsAllowed": "240",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "6",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "NYG",
+      "teamID": "24",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "1",
+      "ydsAllowed": "312",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "22",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "312",
+      "rushingAttempts": "26",
+      "rushingYards": "111",
+      "fumblesLost": "1",
+      "penalties": "7-63",
+      "totalPlays": "51",
+      "possession": "27:34",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "19-24",
+      "passingFirstDowns": "8",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "1-7",
+      "thirdDownEfficiency": "3-10",
+      "blockedPunt": "0",
+      "yardsPerPlay": "6.1",
+      "redZoneScoredAndAttempted": "2-2",
+      "teamID": "21",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "1",
+      "totalDrives": "10",
+      "rushingFirstDowns": "7",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "17",
+      "passTD": "2",
+      "team": "MIN",
+      "blockedXP": "0",
+      "teamAbv": "MIN",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "1-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "201",
+      "yardsPerRush": "4.3",
+      "snapCounts": {
+        "totalSpecialTeams": "24",
+        "totalOffensive": "55",
+        "totalDefensive": "71"
+      },
+      "turnovers": "2",
+      "yardsPerPass": "8.0"
+    },
+    "home": {
+      "totalYards": "240",
+      "rushingAttempts": "21",
+      "rushingYards": "74",
+      "fumblesLost": "0",
+      "penalties": "9-95",
+      "totalPlays": "68",
+      "possession": "32:26",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "22-42",
+      "passingFirstDowns": "8",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "5-20",
+      "thirdDownEfficiency": "7-18",
+      "blockedPunt": "0",
+      "yardsPerPlay": "3.5",
+      "redZoneScoredAndAttempted": "0-3",
+      "teamID": "24",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "14",
+      "passTD": "0",
+      "team": "NYG",
+      "blockedXP": "0",
+      "teamAbv": "NYG",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "1-3",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "166",
+      "yardsPerRush": "3.5",
+      "snapCounts": {
+        "totalSpecialTeams": "24",
+        "totalOffensive": "71",
+        "totalDefensive": "55"
+      },
+      "turnovers": "2",
+      "yardsPerPass": "3.5"
+    }
+  },
+  "gameDate": "20240908",
+  "scoringPlays": [
+    {
+      "score": "Graham Gano 23 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "0",
+      "teamID": "24",
+      "scoreDetails": "7 plays, 15 yards, 4:07",
+      "scoreType": "FG",
+      "scoreTime": "7:16",
+      "team": "NYG",
+      "playerIDs": [
+        "12460"
+      ]
+    },
+    {
+      "score": "Aaron Jones 3 Yd Run (Will Reichard Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "7",
+      "teamID": "21",
+      "scoreDetails": "5 plays, 65 yards, 3:26",
+      "scoreType": "TD",
+      "scoreTime": "3:50",
+      "team": "MIN",
+      "playerIDs": [
+        "3042519",
+        "4567104"
+      ]
+    },
+    {
+      "score": "Justin Jefferson 3 Yd pass from Sam Darnold (Will Reichard Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "14",
+      "teamID": "21",
+      "scoreDetails": "11 plays, 99 yards, 6:44",
+      "scoreType": "TD",
+      "scoreTime": "6:55",
+      "team": "MIN",
+      "playerIDs": [
+        "3912547",
+        "4262921",
+        "4567104"
+      ]
+    },
+    {
+      "score": "Jalen Nailor 21 Yd pass from Sam Darnold (Will Reichard Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "3",
+      "awayScore": "21",
+      "teamID": "21",
+      "scoreDetails": "6 plays, 70 yards, 2:52",
+      "scoreType": "TD",
+      "scoreTime": "12:08",
+      "team": "MIN",
+      "playerIDs": [
+        "3912547",
+        "4382466",
+        "4567104"
+      ]
+    },
+    {
+      "score": "Graham Gano 50 Yd Field Goal  ",
+      "scorePeriod": "Q3",
+      "homeScore": "6",
+      "awayScore": "21",
+      "teamID": "24",
+      "scoreDetails": "11 plays, 39 yards, 6:00",
+      "scoreType": "FG",
+      "scoreTime": "6:08",
+      "team": "NYG",
+      "playerIDs": [
+        "12460"
+      ]
+    },
+    {
+      "score": "Andrew Van Ginkel 10 Yd Interception Return (Will Reichard Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "6",
+      "awayScore": "28",
+      "teamID": "21",
+      "scoreDetails": "1 play, 0 yards, 0:04",
+      "scoreType": "TD",
+      "scoreTime": "4:22",
+      "team": "MIN",
+      "playerIDs": [
+        "3133487",
+        "4567104"
+      ]
+    }
+  ],
+  "network": "FOX",
+  "teamIDHome": "24",
+  "homeResult": "L",
+  "away": "MIN",
+  "gameWeek": "Week 1",
+  "attendance": "81,908",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "7",
+      "Q2": "7",
+      "Q3": "14",
+      "Q4": "0",
+      "teamID": "21",
+      "currentlyInPossession": "False",
+      "totalPts": "28",
+      "teamAbv": "MIN"
+    },
+    "home": {
+      "Q1": "3",
+      "Q2": "0",
+      "Q3": "3",
+      "Q4": "0",
+      "teamID": "24",
+      "currentlyInPossession": "False",
+      "totalPts": "6",
+      "teamAbv": "NYG"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "East Rutherford, NJ",
+  "home": "NYG",
+  "playerStats": {
+    "12460": {
+      "gameID": "20240908_MIN@NYG",
+      "scoringPlays": [
+        {
+          "score": "Graham Gano 23 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "0",
+          "teamID": "24",
+          "scoreDetails": "7 plays, 15 yards, 4:07",
+          "scoreType": "FG",
+          "scoreTime": "7:16",
+          "team": "NYG",
+          "playerIDs": [
+            "12460"
+          ]
+        },
+        {
+          "score": "Graham Gano 50 Yd Field Goal  ",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "21",
+          "teamID": "24",
+          "scoreDetails": "11 plays, 39 yards, 6:00",
+          "scoreType": "FG",
+          "scoreTime": "6:08",
+          "team": "NYG",
+          "playerIDs": [
+            "12460"
+          ]
+        }
+      ],
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "50",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "0",
+        "fgPct": "100.0",
+        "kickingPts": "6",
+        "xpAttempts": "0",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "12460",
+      "longName": "Graham Gano"
+    },
+    "14942": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "62",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "14942",
+      "longName": "Stephon Gilmore"
+    },
+    "14945": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "68",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.96"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "14945",
+      "longName": "Harrison Smith"
+    },
+    "15718": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "15718",
+      "longName": "Greg Van Roten"
+    },
+    "15726": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "15726",
+      "longName": "Andrew DePaola"
+    },
+    "15946": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "15946",
+      "longName": "David Quessenberry"
+    },
+    "17304": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "17304",
+      "longName": "Casey Kreiter"
+    },
+    "2531358": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.28",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.54",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "2531358",
+      "longName": "Chris Manhertz"
+    },
+    "2575453": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.62"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2575453",
+      "longName": "Rakeem Nunez-Roches"
+    },
+    "2575606": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "2575606",
+      "longName": "Bobby McCain"
+    },
+    "2979482": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "2979482",
+      "longName": "Dan Feeney"
+    },
+    "2980097": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.39"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2980097",
+      "longName": "Jonathan Bullard"
+    },
+    "3042519": {
+      "gameID": "20240908_MIN@NYG",
+      "Rushing": {
+        "rushAvg": "6.7",
+        "rushYds": "94",
+        "carries": "14",
+        "longRush": "19",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "2",
+        "recYds": "15",
+        "recAvg": "7.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Aaron Jones 3 Yd Run (Will Reichard Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "21",
+          "scoreDetails": "5 plays, 65 yards, 3:26",
+          "scoreType": "TD",
+          "scoreTime": "3:50",
+          "team": "MIN",
+          "playerIDs": [
+            "3042519",
+            "4567104"
+          ]
+        }
+      ],
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.55",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3042519",
+      "longName": "Aaron Jones"
+    },
+    "3049339": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3049339",
+      "longName": "Aaron Stinnie"
+    },
+    "3050851": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3050851",
+      "longName": "Kamu Grugier-Hill"
+    },
+    "3052096": {
+      "gameID": "20240908_MIN@NYG",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "3",
+        "recYds": "15",
+        "recAvg": "7.5"
+      },
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.53",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3052096",
+      "longName": "Johnny Mundt"
+    },
+    "3054026": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.62"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3054026",
+      "longName": "Shaquill Griffin"
+    },
+    "3115255": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.55",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "0",
+        "puntReturnAvg": "0.0",
+        "puntReturnLong": "0",
+        "puntReturnTD": "0"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3115255",
+      "longName": "Brandon Powell"
+    },
+    "3115303": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3115303",
+      "longName": "Jermaine Eluemunor"
+    },
+    "3115914": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.41"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3115914",
+      "longName": "Jihad Ward"
+    },
+    "3116431": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.84",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3116431",
+      "longName": "Ty Summers"
+    },
+    "3116729": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3116729",
+      "longName": "Garrett Bradbury"
+    },
+    "3117253": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "3",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3117253",
+      "longName": "Bobby Okereke"
+    },
+    "3117255": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.52"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "1"
+      },
+      "playerID": "3117255",
+      "longName": "Harrison Phillips"
+    },
+    "3120347": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.35"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3120347",
+      "longName": "Adoree' Jackson"
+    },
+    "3122168": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.31",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "17",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3122168",
+      "longName": "Trent Sherfield Sr."
+    },
+    "3123954": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3123954",
+      "longName": "Brian O'Neill"
+    },
+    "3133487": {
+      "gameID": "20240908_MIN@NYG",
+      "scoringPlays": [
+        {
+          "score": "Andrew Van Ginkel 10 Yd Interception Return (Will Reichard Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "28",
+          "teamID": "21",
+          "scoreDetails": "1 play, 0 yards, 0:04",
+          "scoreType": "TD",
+          "scoreTime": "4:22",
+          "team": "MIN",
+          "playerIDs": [
+            "3133487",
+            "4567104"
+          ]
+        }
+      ],
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "10",
+        "interceptionTDs": "1",
+        "sacks": "1",
+        "passDeflections": "1"
+      },
+      "playerID": "3133487",
+      "longName": "Andrew Van Ginkel"
+    },
+    "3728281": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "63",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.89"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3728281",
+      "longName": "Blake Cashman"
+    },
+    "3863182": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.55"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3863182",
+      "longName": "Jerry Tillery"
+    },
+    "3886818": {
+      "gameID": "20240908_MIN@NYG",
+      "Rushing": {
+        "rushAvg": "-3.0",
+        "rushYds": "-3",
+        "carries": "1",
+        "longRush": "-3",
+        "rushTD": "0"
+      },
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3886818",
+      "longName": "Myles Gaskin"
+    },
+    "3912547": {
+      "gameID": "20240908_MIN@NYG",
+      "Rushing": {
+        "rushAvg": "1.0",
+        "rushYds": "3",
+        "carries": "3",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "79.3",
+        "rtg": "113.2",
+        "sacked": "1-7",
+        "passAttempts": "24",
+        "passAvg": "8.7",
+        "passTD": "2",
+        "passYds": "208",
+        "int": "1",
+        "passCompletions": "19"
+      },
+      "scoringPlays": [
+        {
+          "score": "Justin Jefferson 3 Yd pass from Sam Darnold (Will Reichard Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "14",
+          "teamID": "21",
+          "scoreDetails": "11 plays, 99 yards, 6:44",
+          "scoreType": "TD",
+          "scoreTime": "6:55",
+          "team": "MIN",
+          "playerIDs": [
+            "3912547",
+            "4262921",
+            "4567104"
+          ]
+        },
+        {
+          "score": "Jalen Nailor 21 Yd pass from Sam Darnold (Will Reichard Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "3",
+          "awayScore": "21",
+          "teamID": "21",
+          "scoreDetails": "6 plays, 70 yards, 2:52",
+          "scoreType": "TD",
+          "scoreTime": "12:08",
+          "team": "MIN",
+          "playerIDs": [
+            "3912547",
+            "4382466",
+            "4567104"
+          ]
+        }
+      ],
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3912547",
+      "longName": "Sam Darnold"
+    },
+    "3916409": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3916409",
+      "longName": "Jonathan Greenard"
+    },
+    "3916945": {
+      "gameID": "20240908_MIN@NYG",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "4",
+        "recYds": "26",
+        "recAvg": "8.7"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.72",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "0",
+        "puntReturnAvg": "0.0",
+        "puntReturnLong": "0",
+        "puntReturnTD": "0"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3916945",
+      "longName": "Darius Slayton"
+    },
+    "3917792": {
+      "gameID": "20240908_MIN@NYG",
+      "Rushing": {
+        "rushAvg": "2.5",
+        "rushYds": "15",
+        "carries": "6",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "25.2",
+        "rtg": "44.3",
+        "sacked": "5-20",
+        "passAttempts": "42",
+        "passAvg": "4.4",
+        "passTD": "0",
+        "passYds": "186",
+        "int": "2",
+        "passCompletions": "22"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3917792",
+      "longName": "Daniel Jones"
+    },
+    "3921690": {
+      "gameID": "20240908_MIN@NYG",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "22",
+        "targets": "2",
+        "recYds": "27",
+        "recAvg": "13.5"
+      },
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.47",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3921690",
+      "longName": "Josh Oliver"
+    },
+    "3929936": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3929936",
+      "longName": "Jon Runyan"
+    },
+    "3930270": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "3930270",
+      "longName": "Blake Brandel"
+    },
+    "3936185": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "277",
+        "punts": "6",
+        "puntAvg": "46.2",
+        "puntsin20": "4",
+        "puntTouchBacks": "0",
+        "puntLong": "55"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3936185",
+      "longName": "Jamie Gillan"
+    },
+    "4012556": {
+      "gameID": "20240908_MIN@NYG",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "2",
+        "recYds": "11",
+        "recAvg": "5.5"
+      },
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.35",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.67",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4012556",
+      "longName": "C.J. Ham"
+    },
+    "4034766": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.42",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4034766",
+      "longName": "Carter Coughlin"
+    },
+    "4035462": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4035462",
+      "longName": "Isaiah Simmons"
+    },
+    "4035483": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.67"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "1"
+      },
+      "playerID": "4035483",
+      "longName": "Dexter Lawrence II"
+    },
+    "4035631": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035631",
+      "longName": "Brian Burns"
+    },
+    "4035861": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "68",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.96"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035861",
+      "longName": "Camryn Bynum"
+    },
+    "4036063": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.48"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "4036063",
+      "longName": "Pat Jones II"
+    },
+    "4036169": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.38"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036169",
+      "longName": "Nick McCloud"
+    },
+    "4038999": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.79"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4038999",
+      "longName": "Byron Murphy Jr."
+    },
+    "4040761": {
+      "gameID": "20240908_MIN@NYG",
+      "Rushing": {
+        "rushAvg": "3.7",
+        "rushYds": "37",
+        "carries": "10",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "5",
+        "recYds": "15",
+        "recAvg": "3.8"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.70",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "50",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4040761",
+      "longName": "Devin Singletary"
+    },
+    "4046537": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "11",
+        "stSnapPct": "0.46",
+        "offSnap": "0",
+        "defSnapPct": "0.90"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4046537",
+      "longName": "Josh Metellus"
+    },
+    "4240677": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "9",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.16"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240677",
+      "longName": "Jordon Riley"
+    },
+    "4240706": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4240706",
+      "longName": "Jason Pinnock"
+    },
+    "4240771": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4240771",
+      "longName": "John Michael Schmitz Jr."
+    },
+    "4242227": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4242227",
+      "longName": "Ed Ingram"
+    },
+    "4242431": {
+      "gameID": "20240908_MIN@NYG",
+      "Rushing": {
+        "rushAvg": "2.1",
+        "rushYds": "17",
+        "carries": "8",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "3",
+        "recYds": "25",
+        "recAvg": "8.3"
+      },
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.35",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4242431",
+      "longName": "Ty Chandler"
+    },
+    "4242436": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "18",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242436",
+      "longName": "Theo Jackson"
+    },
+    "4242899": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4242899",
+      "longName": "D.J. Davidson"
+    },
+    "4244607": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "10",
+        "stSnapPct": "0.42",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4244607",
+      "longName": "Akayleb Evans"
+    },
+    "4247722": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.92",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4247722",
+      "longName": "Benton Whitley"
+    },
+    "4249624": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4249624",
+      "longName": "Nick Muse"
+    },
+    "4259566": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4259566",
+      "longName": "Andrew Thomas"
+    },
+    "4262921": {
+      "gameID": "20240908_MIN@NYG",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "44",
+        "targets": "6",
+        "recYds": "59",
+        "recAvg": "14.8"
+      },
+      "scoringPlays": [
+        {
+          "score": "Justin Jefferson 3 Yd pass from Sam Darnold (Will Reichard Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "14",
+          "teamID": "21",
+          "scoreDetails": "11 plays, 99 yards, 6:44",
+          "scoreType": "TD",
+          "scoreTime": "6:55",
+          "team": "MIN",
+          "playerIDs": [
+            "3912547",
+            "4262921",
+            "4567104"
+          ]
+        }
+      ],
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.84",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "46",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4262921",
+      "longName": "Justin Jefferson"
+    },
+    "4360255": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4360255",
+      "longName": "Brian Asamoah II"
+    },
+    "4360516": {
+      "gameID": "20240908_MIN@NYG",
+      "Rushing": {
+        "rushAvg": "1.0",
+        "rushYds": "2",
+        "carries": "2",
+        "longRush": "2",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "3",
+        "recYds": "5",
+        "recAvg": "5.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.21",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4360516",
+      "longName": "Tyrone Tracy Jr."
+    },
+    "4361114": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.14"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4361114",
+      "longName": "Taki Taimani"
+    },
+    "4361516": {
+      "gameID": "20240908_MIN@NYG",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "3",
+        "targets": "1",
+        "recYds": "3",
+        "recAvg": "3.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.23",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.54",
+        "offSnap": "16",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4361516",
+      "longName": "Daniel Bellinger"
+    },
+    "4361823": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "168",
+        "punts": "4",
+        "puntAvg": "42.0",
+        "puntsin20": "3",
+        "puntTouchBacks": "0",
+        "puntLong": "48"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4361823",
+      "longName": "Ryan Wright"
+    },
+    "4361985": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4361985",
+      "longName": "Christian Darrisaw"
+    },
+    "4362227": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.71",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4362227",
+      "longName": "Bryce Ford-Wheaton"
+    },
+    "4373280": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4373280",
+      "longName": "Joshua Ezeudu"
+    },
+    "4379409": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "10",
+        "stSnapPct": "0.42",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4379409",
+      "longName": "Azeez Ojulari"
+    },
+    "4382466": {
+      "gameID": "20240908_MIN@NYG",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "1",
+        "longRec": "21",
+        "targets": "1",
+        "recYds": "21",
+        "recAvg": "21.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jalen Nailor 21 Yd pass from Sam Darnold (Will Reichard Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "3",
+          "awayScore": "21",
+          "teamID": "21",
+          "scoreDetails": "6 plays, 70 yards, 2:52",
+          "scoreType": "TD",
+          "scoreTime": "12:08",
+          "team": "MIN",
+          "playerIDs": [
+            "3912547",
+            "4382466",
+            "4567104"
+          ]
+        }
+      ],
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.47",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4382466",
+      "longName": "Jalen Nailor"
+    },
+    "4426326": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.75"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426326",
+      "longName": "Kayvon Thibodeaux"
+    },
+    "4426686": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "9",
+        "stSnap": "22",
+        "stSnapPct": "0.92",
+        "offSnap": "0",
+        "defSnapPct": "0.16"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4426686",
+      "longName": "Dane Belton"
+    },
+    "4428072": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "10",
+        "stSnapPct": "0.42",
+        "offSnap": "0",
+        "defSnapPct": "0.82"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "1",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4428072",
+      "longName": "Darius Muasau"
+    },
+    "4428328": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428328",
+      "longName": "Deonte Banks"
+    },
+    "4429148": {
+      "gameID": "20240908_MIN@NYG",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "18",
+        "targets": "4",
+        "recYds": "18",
+        "recAvg": "18.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.86",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4429148",
+      "longName": "Theo Johnson"
+    },
+    "4429205": {
+      "gameID": "20240908_MIN@NYG",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "16",
+        "targets": "4",
+        "recYds": "35",
+        "recAvg": "11.7"
+      },
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.51",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "28",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4429205",
+      "longName": "Jordan Addison"
+    },
+    "4429392": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429392",
+      "longName": "Elijah Chatman"
+    },
+    "4429607": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.67"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429607",
+      "longName": "Cor'Dale Flott"
+    },
+    "4430261": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430261",
+      "longName": "Tyler Nubin"
+    },
+    "4430280": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.55"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430280",
+      "longName": "Ivan Pace Jr."
+    },
+    "4431321": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "11",
+        "stSnapPct": "0.46",
+        "offSnap": "0",
+        "defSnapPct": "0.29"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4431321",
+      "longName": "Dru Phillips"
+    },
+    "4565190": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.51"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4565190",
+      "longName": "Dallas Turner"
+    },
+    "4567104": {
+      "gameID": "20240908_MIN@NYG",
+      "scoringPlays": [
+        {
+          "score": "Aaron Jones 3 Yd Run (Will Reichard Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "21",
+          "scoreDetails": "5 plays, 65 yards, 3:26",
+          "scoreType": "TD",
+          "scoreTime": "3:50",
+          "team": "MIN",
+          "playerIDs": [
+            "3042519",
+            "4567104"
+          ]
+        },
+        {
+          "score": "Justin Jefferson 3 Yd pass from Sam Darnold (Will Reichard Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "14",
+          "teamID": "21",
+          "scoreDetails": "11 plays, 99 yards, 6:44",
+          "scoreType": "TD",
+          "scoreTime": "6:55",
+          "team": "MIN",
+          "playerIDs": [
+            "3912547",
+            "4262921",
+            "4567104"
+          ]
+        },
+        {
+          "score": "Jalen Nailor 21 Yd pass from Sam Darnold (Will Reichard Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "3",
+          "awayScore": "21",
+          "teamID": "21",
+          "scoreDetails": "6 plays, 70 yards, 2:52",
+          "scoreType": "TD",
+          "scoreTime": "12:08",
+          "team": "MIN",
+          "playerIDs": [
+            "3912547",
+            "4382466",
+            "4567104"
+          ]
+        },
+        {
+          "score": "Andrew Van Ginkel 10 Yd Interception Return (Will Reichard Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "28",
+          "teamID": "21",
+          "scoreDetails": "1 play, 0 yards, 0:04",
+          "scoreType": "TD",
+          "scoreTime": "4:22",
+          "team": "MIN",
+          "playerIDs": [
+            "3133487",
+            "4567104"
+          ]
+        }
+      ],
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "0",
+        "fgMade": "0",
+        "fgAttempts": "0",
+        "xpMade": "4",
+        "fgPct": "0.0",
+        "kickingPts": "4",
+        "xpAttempts": "4",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4567104",
+      "longName": "Will Reichard"
+    },
+    "4568007": {
+      "gameID": "20240908_MIN@NYG",
+      "teamID": "21",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "20",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "MIN",
+      "teamAbv": "MIN",
+      "playerID": "4568007",
+      "longName": "Jay Ward"
+    },
+    "4569587": {
+      "gameID": "20240908_MIN@NYG",
+      "Rushing": {
+        "rushAvg": "14.0",
+        "rushYds": "14",
+        "carries": "1",
+        "longRush": "14",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "15",
+        "targets": "12",
+        "recYds": "44",
+        "recAvg": "7.3"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.68",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "48",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4569587",
+      "longName": "Wan'Dale Robinson"
+    },
+    "4570561": {
+      "gameID": "20240908_MIN@NYG",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "6",
+        "carries": "2",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "1",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.10",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "22",
+        "kickReturnAvg": "22.0",
+        "kickReturnLong": "22"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4570561",
+      "longName": "Eric Gray"
+    },
+    "4595348": {
+      "gameID": "20240908_MIN@NYG",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "25",
+        "targets": "7",
+        "recYds": "66",
+        "recAvg": "13.2"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4595348",
+      "longName": "Malik Nabers"
+    },
+    "4692590": {
+      "gameID": "20240908_MIN@NYG",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.23",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "16",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4692590",
+      "longName": "Jalin Hyatt"
+    }
+  },
+  "arenaCapacity": "82,500",
+  "arena": "MetLife Stadium",
+  "homePts": "6",
+  "awayResult": "W",
+  "teamIDAway": "21",
+  "gameClock": "",
+  "awayPts": "28",
+  "gameID": "20240908_MIN@NYG",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

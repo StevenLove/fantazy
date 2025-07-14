@@ -1,0 +1,2842 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "MIA",
+      "teamID": "20",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "1",
+      "ydsAllowed": "325",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "30",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "BUF",
+      "teamID": "4",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "1",
+      "ydsAllowed": "373",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "27",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "373",
+      "rushingAttempts": "31",
+      "rushingYards": "149",
+      "fumblesLost": "1",
+      "penalties": "8-57",
+      "totalPlays": "60",
+      "possession": "31:53",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "25-28",
+      "passingFirstDowns": "14",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "1-7",
+      "thirdDownEfficiency": "4-8",
+      "blockedPunt": "0",
+      "yardsPerPlay": "6.2",
+      "redZoneScoredAndAttempted": "3-4",
+      "teamID": "20",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "9",
+      "rushingFirstDowns": "10",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "26",
+      "passTD": "2",
+      "team": "MIA",
+      "blockedXP": "0",
+      "teamAbv": "MIA",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "1-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "224",
+      "yardsPerRush": "4.8",
+      "snapCounts": {
+        "totalSpecialTeams": "25",
+        "totalOffensive": "61",
+        "totalDefensive": "66"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "7.7"
+    },
+    "home": {
+      "totalYards": "325",
+      "rushingAttempts": "19",
+      "rushingYards": "94",
+      "fumblesLost": "0",
+      "penalties": "4-40",
+      "totalPlays": "59",
+      "possession": "28:07",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "25-39",
+      "passingFirstDowns": "15",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "1-4",
+      "thirdDownEfficiency": "5-10",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.5",
+      "redZoneScoredAndAttempted": "2-5",
+      "teamID": "4",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "8",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "1",
+      "firstDowns": "24",
+      "passTD": "3",
+      "team": "BUF",
+      "blockedXP": "0",
+      "teamAbv": "BUF",
+      "firstDownsFromPenalties": "4",
+      "fourthDownEfficiency": "1-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "231",
+      "yardsPerRush": "4.9",
+      "snapCounts": {
+        "totalSpecialTeams": "25",
+        "totalOffensive": "66",
+        "totalDefensive": "61"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "5.8"
+    }
+  },
+  "gameDate": "20241103",
+  "scoringPlays": [
+    {
+      "score": "Tyler Bass 40 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "0",
+      "teamID": "4",
+      "scoreDetails": "7 plays, 15 yards, 3:57",
+      "scoreType": "FG",
+      "scoreTime": "6:30",
+      "team": "BUF",
+      "playerIDs": [
+        "3917232"
+      ]
+    },
+    {
+      "score": "Jason Sanders 39 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "3",
+      "teamID": "20",
+      "scoreDetails": "9 plays, 49 yards, 5:11",
+      "scoreType": "FG",
+      "scoreTime": "1:19",
+      "team": "MIA",
+      "playerIDs": [
+        "3124679"
+      ]
+    },
+    {
+      "score": "De'Von Achane 14 Yd pass from Tua Tagovailoa (Jason Sanders Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "10",
+      "teamID": "20",
+      "scoreDetails": "14 plays, 97 yards, 8:21",
+      "scoreType": "TD",
+      "scoreTime": "3:20",
+      "team": "MIA",
+      "playerIDs": [
+        "4241479",
+        "4429160",
+        "3124679"
+      ]
+    },
+    {
+      "score": "Tyler Bass 49 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "6",
+      "awayScore": "10",
+      "teamID": "4",
+      "scoreDetails": "12 plays, 39 yards, 3:13",
+      "scoreType": "FG",
+      "scoreTime": "0:07",
+      "team": "BUF",
+      "playerIDs": [
+        "3917232"
+      ]
+    },
+    {
+      "score": "Mack Hollins 1 Yd pass from Josh Allen (Tyler Bass PAT failed)",
+      "scorePeriod": "Q3",
+      "homeScore": "12",
+      "awayScore": "10",
+      "teamID": "4",
+      "scoreDetails": "11 plays, 64 yards, 6:23",
+      "scoreType": "TD",
+      "scoreTime": "7:20",
+      "team": "BUF",
+      "playerIDs": [
+        "3918298",
+        "2991662",
+        "3917232"
+      ]
+    },
+    {
+      "score": "Jason Sanders 23 Yd Field Goal  ",
+      "scorePeriod": "Q3",
+      "homeScore": "12",
+      "awayScore": "13",
+      "teamID": "20",
+      "scoreDetails": "9 plays, 65 yards, 4:21",
+      "scoreType": "FG",
+      "scoreTime": "2:59",
+      "team": "MIA",
+      "playerIDs": [
+        "3124679"
+      ]
+    },
+    {
+      "score": "Ray Davis 63 Yd pass from Josh Allen (Josh Allen Pass to Keon Coleman for Two-Point Conversion)",
+      "scorePeriod": "Q3",
+      "homeScore": "20",
+      "awayScore": "13",
+      "teamID": "4",
+      "scoreDetails": "2 plays, 70 yards, 0:52",
+      "scoreType": "TD",
+      "scoreTime": "2:07",
+      "team": "BUF",
+      "playerIDs": [
+        "3918298",
+        "4429501",
+        "4635008"
+      ]
+    },
+    {
+      "score": "De'Von Achane 8 Yd Run (Jason Sanders Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "20",
+      "awayScore": "20",
+      "teamID": "20",
+      "scoreDetails": "9 plays, 70 yards, 4:53",
+      "scoreType": "TD",
+      "scoreTime": "12:14",
+      "team": "MIA",
+      "playerIDs": [
+        "4429160",
+        "3124679"
+      ]
+    },
+    {
+      "score": "Quintin Morris 2 Yd pass from Josh Allen (Tyler Bass Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "27",
+      "awayScore": "20",
+      "teamID": "4",
+      "scoreDetails": "10 plays, 70 yards, 5:56",
+      "scoreType": "TD",
+      "scoreTime": "6:18",
+      "team": "BUF",
+      "playerIDs": [
+        "3918298",
+        "4244049",
+        "3917232"
+      ]
+    },
+    {
+      "score": "Jaylen Waddle 7 Yd pass from Tua Tagovailoa (Jason Sanders Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "27",
+      "awayScore": "27",
+      "teamID": "20",
+      "scoreDetails": "11 plays, 81 yards, 4:40",
+      "scoreType": "TD",
+      "scoreTime": "1:38",
+      "team": "MIA",
+      "playerIDs": [
+        "4241479",
+        "4372016",
+        "3124679"
+      ]
+    },
+    {
+      "score": "Tyler Bass 61 Yd Field Goal  ",
+      "scorePeriod": "Q4",
+      "homeScore": "30",
+      "awayScore": "27",
+      "teamID": "4",
+      "scoreDetails": "9 plays, 27 yards, 1:33",
+      "scoreType": "FG",
+      "scoreTime": "0:05",
+      "team": "BUF",
+      "playerIDs": [
+        "3917232"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "4",
+  "homeResult": "W",
+  "away": "MIA",
+  "gameWeek": "Week 9",
+  "attendance": "70,862",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "3",
+      "Q2": "7",
+      "Q3": "3",
+      "Q4": "14",
+      "teamID": "20",
+      "currentlyInPossession": "False",
+      "totalPts": "27",
+      "teamAbv": "MIA"
+    },
+    "home": {
+      "Q1": "3",
+      "Q2": "3",
+      "Q3": "14",
+      "Q4": "10",
+      "teamID": "4",
+      "currentlyInPossession": "False",
+      "totalPts": "30",
+      "teamAbv": "BUF"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Orchard Park, NY",
+  "home": "BUF",
+  "playerStats": {
+    "11284": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "10",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.76"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "11284",
+      "longName": "Calais Campbell"
+    },
+    "13186": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "13186",
+      "longName": "Matt Overton"
+    },
+    "13976": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.34"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "13976",
+      "longName": "Von Miller"
+    },
+    "15821": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "15821",
+      "longName": "Terron Armstead"
+    },
+    "15928": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "49",
+        "punts": "1",
+        "puntAvg": "49.0",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "49"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "15928",
+      "longName": "Sam Martin"
+    },
+    "15979": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "15979",
+      "longName": "Jordan Poyer"
+    },
+    "16733": {
+      "gameID": "20241103_MIA@BUF",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "3",
+        "recYds": "15",
+        "recAvg": "5.0"
+      },
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.20",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "16733",
+      "longName": "Odell Beckham Jr."
+    },
+    "16910": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.59"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "16910",
+      "longName": "DaQuan Jones"
+    },
+    "2509370": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "2509370",
+      "longName": "Kendall Lamm"
+    },
+    "2576414": {
+      "gameID": "20241103_MIA@BUF",
+      "Rushing": {
+        "rushAvg": "5.6",
+        "rushYds": "56",
+        "carries": "10",
+        "longRush": "16",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "17",
+        "targets": "2",
+        "recYds": "32",
+        "recAvg": "16.0"
+      },
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.23",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "2576414",
+      "longName": "Raheem Mostert"
+    },
+    "2976549": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "2976549",
+      "longName": "Reid Ferguson"
+    },
+    "2977740": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2977740",
+      "longName": "Emmanuel Ogbah"
+    },
+    "2979591": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.26"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2979591",
+      "longName": "Austin Johnson"
+    },
+    "2980110": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2980110",
+      "longName": "Marcus Maye"
+    },
+    "2991662": {
+      "gameID": "20241103_MIA@BUF",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "1",
+        "longRec": "13",
+        "targets": "5",
+        "recYds": "30",
+        "recAvg": "6.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Mack Hollins 1 Yd pass from Josh Allen (Tyler Bass PAT failed)",
+          "scorePeriod": "Q3",
+          "homeScore": "12",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "11 plays, 64 yards, 6:23",
+          "scoreType": "TD",
+          "scoreTime": "7:20",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "2991662",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.68",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "45",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "2991662",
+      "longName": "Mack Hollins"
+    },
+    "3008150": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.34"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3008150",
+      "longName": "Eli Ankou"
+    },
+    "3040037": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "7",
+        "stSnapPct": "0.28",
+        "offSnap": "0",
+        "defSnapPct": "0.48"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3040037",
+      "longName": "Tyus Bowser"
+    },
+    "3042476": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3042476",
+      "longName": "Dawuane Smoot"
+    },
+    "3042725": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "19",
+        "stSnapPct": "0.76",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3042725",
+      "longName": "Duke Riley"
+    },
+    "3045251": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3045251",
+      "longName": "Anthony Walker Jr."
+    },
+    "3045373": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3045373",
+      "longName": "Jalen Ramsey"
+    },
+    "3045465": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3045465",
+      "longName": "Kendall Fuller"
+    },
+    "3051324": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3051324",
+      "longName": "Dion Dawkins"
+    },
+    "3052897": {
+      "gameID": "20241103_MIA@BUF",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "1",
+        "recYds": "4",
+        "recAvg": "4.0"
+      },
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.43",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.52",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3052897",
+      "longName": "Durham Smythe"
+    },
+    "3054212": {
+      "gameID": "20241103_MIA@BUF",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "15",
+        "targets": "6",
+        "recYds": "46",
+        "recAvg": "9.2"
+      },
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.69",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3054212",
+      "longName": "Jonnu Smith"
+    },
+    "3057524": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "13",
+        "stSnap": "20",
+        "stSnapPct": "0.80",
+        "offSnap": "0",
+        "defSnapPct": "0.20"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3057524",
+      "longName": "Siran Neal"
+    },
+    "3116406": {
+      "gameID": "20241103_MIA@BUF",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "28",
+        "targets": "5",
+        "recYds": "80",
+        "recAvg": "20.0"
+      },
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.97",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3116406",
+      "longName": "Tyreek Hill"
+    },
+    "3121003": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3121003",
+      "longName": "Taron Johnson"
+    },
+    "3121427": {
+      "gameID": "20241103_MIA@BUF",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.26",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "17",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3121427",
+      "longName": "Curtis Samuel"
+    },
+    "3124679": {
+      "gameID": "20241103_MIA@BUF",
+      "scoringPlays": [
+        {
+          "score": "Jason Sanders 39 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "3",
+          "teamID": "20",
+          "scoreDetails": "9 plays, 49 yards, 5:11",
+          "scoreType": "FG",
+          "scoreTime": "1:19",
+          "team": "MIA",
+          "playerIDs": [
+            "3124679"
+          ]
+        },
+        {
+          "score": "De'Von Achane 14 Yd pass from Tua Tagovailoa (Jason Sanders Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "10",
+          "teamID": "20",
+          "scoreDetails": "14 plays, 97 yards, 8:21",
+          "scoreType": "TD",
+          "scoreTime": "3:20",
+          "team": "MIA",
+          "playerIDs": [
+            "4241479",
+            "4429160",
+            "3124679"
+          ]
+        },
+        {
+          "score": "Jason Sanders 23 Yd Field Goal  ",
+          "scorePeriod": "Q3",
+          "homeScore": "12",
+          "awayScore": "13",
+          "teamID": "20",
+          "scoreDetails": "9 plays, 65 yards, 4:21",
+          "scoreType": "FG",
+          "scoreTime": "2:59",
+          "team": "MIA",
+          "playerIDs": [
+            "3124679"
+          ]
+        },
+        {
+          "score": "De'Von Achane 8 Yd Run (Jason Sanders Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "20",
+          "teamID": "20",
+          "scoreDetails": "9 plays, 70 yards, 4:53",
+          "scoreType": "TD",
+          "scoreTime": "12:14",
+          "team": "MIA",
+          "playerIDs": [
+            "4429160",
+            "3124679"
+          ]
+        },
+        {
+          "score": "Jaylen Waddle 7 Yd pass from Tua Tagovailoa (Jason Sanders Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "27",
+          "teamID": "20",
+          "scoreDetails": "11 plays, 81 yards, 4:40",
+          "scoreType": "TD",
+          "scoreTime": "1:38",
+          "team": "MIA",
+          "playerIDs": [
+            "4241479",
+            "4372016",
+            "3124679"
+          ]
+        }
+      ],
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.44",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "39",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "3",
+        "fgPct": "100.0",
+        "kickingPts": "9",
+        "xpAttempts": "3",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3124679",
+      "longName": "Jason Sanders"
+    },
+    "3126352": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.86"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3126352",
+      "longName": "Da'Shawn Hand"
+    },
+    "3915411": {
+      "gameID": "20241103_MIA@BUF",
+      "Rushing": {
+        "rushAvg": "7.7",
+        "rushYds": "23",
+        "carries": "3",
+        "longRush": "17",
+        "rushTD": "0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.29",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.32",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3915411",
+      "longName": "Ty Johnson"
+    },
+    "3916074": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.60",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3916074",
+      "longName": "David Long Jr."
+    },
+    "3916577": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "20",
+        "stSnapPct": "0.80",
+        "offSnap": "0",
+        "defSnapPct": "0.20"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3916577",
+      "longName": "Cam Lewis"
+    },
+    "3917232": {
+      "gameID": "20241103_MIA@BUF",
+      "scoringPlays": [
+        {
+          "score": "Tyler Bass 40 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "0",
+          "teamID": "4",
+          "scoreDetails": "7 plays, 15 yards, 3:57",
+          "scoreType": "FG",
+          "scoreTime": "6:30",
+          "team": "BUF",
+          "playerIDs": [
+            "3917232"
+          ]
+        },
+        {
+          "score": "Tyler Bass 49 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "6",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "12 plays, 39 yards, 3:13",
+          "scoreType": "FG",
+          "scoreTime": "0:07",
+          "team": "BUF",
+          "playerIDs": [
+            "3917232"
+          ]
+        },
+        {
+          "score": "Mack Hollins 1 Yd pass from Josh Allen (Tyler Bass PAT failed)",
+          "scorePeriod": "Q3",
+          "homeScore": "12",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "11 plays, 64 yards, 6:23",
+          "scoreType": "TD",
+          "scoreTime": "7:20",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "2991662",
+            "3917232"
+          ]
+        },
+        {
+          "score": "Quintin Morris 2 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "20",
+          "teamID": "4",
+          "scoreDetails": "10 plays, 70 yards, 5:56",
+          "scoreType": "TD",
+          "scoreTime": "6:18",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "4244049",
+            "3917232"
+          ]
+        },
+        {
+          "score": "Tyler Bass 61 Yd Field Goal  ",
+          "scorePeriod": "Q4",
+          "homeScore": "30",
+          "awayScore": "27",
+          "teamID": "4",
+          "scoreDetails": "9 plays, 27 yards, 1:33",
+          "scoreType": "FG",
+          "scoreTime": "0:05",
+          "team": "BUF",
+          "playerIDs": [
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.48",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "61",
+        "fgMade": "3",
+        "fgAttempts": "3",
+        "xpMade": "1",
+        "fgPct": "100.0",
+        "kickingPts": "10",
+        "xpAttempts": "2",
+        "fgMissed": "0",
+        "xpMissed": "1"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3917232",
+      "longName": "Tyler Bass"
+    },
+    "3917660": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3917660",
+      "longName": "David Edwards"
+    },
+    "3917668": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.31",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3917668",
+      "longName": "Alec Ingold"
+    },
+    "3918298": {
+      "gameID": "20241103_MIA@BUF",
+      "Rushing": {
+        "rushAvg": "3.5",
+        "rushYds": "7",
+        "carries": "2",
+        "longRush": "14",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "70.6",
+        "rtg": "95.6",
+        "sacked": "1-4",
+        "passAttempts": "39",
+        "passAvg": "6.0",
+        "passTD": "3",
+        "passYds": "235",
+        "int": "1",
+        "passingTwoPointConversion": "1",
+        "passCompletions": "25"
+      },
+      "scoringPlays": [
+        {
+          "score": "Mack Hollins 1 Yd pass from Josh Allen (Tyler Bass PAT failed)",
+          "scorePeriod": "Q3",
+          "homeScore": "12",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "11 plays, 64 yards, 6:23",
+          "scoreType": "TD",
+          "scoreTime": "7:20",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "2991662",
+            "3917232"
+          ]
+        },
+        {
+          "score": "Ray Davis 63 Yd pass from Josh Allen (Josh Allen Pass to Keon Coleman for Two-Point Conversion)",
+          "scorePeriod": "Q3",
+          "homeScore": "20",
+          "awayScore": "13",
+          "teamID": "4",
+          "scoreDetails": "2 plays, 70 yards, 0:52",
+          "scoreType": "TD",
+          "scoreTime": "2:07",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "4429501",
+            "4635008"
+          ]
+        },
+        {
+          "score": "Quintin Morris 2 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "20",
+          "teamID": "4",
+          "scoreDetails": "10 plays, 70 yards, 5:56",
+          "scoreType": "TD",
+          "scoreTime": "6:18",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "4244049",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3918298",
+      "longName": "Josh Allen"
+    },
+    "3925344": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3925344",
+      "longName": "Lester Cotton"
+    },
+    "3930086": {
+      "gameID": "20241103_MIA@BUF",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "2",
+        "recYds": "5",
+        "recAvg": "5.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.65",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3930086",
+      "longName": "Dawson Knox"
+    },
+    "3931395": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "37",
+        "punts": "1",
+        "puntAvg": "37.0",
+        "puntsin20": "0",
+        "puntTouchBacks": "0",
+        "puntLong": "37"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3931395",
+      "longName": "Jake Bailey"
+    },
+    "3931408": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "10",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.18"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3931408",
+      "longName": "Casey Toohill"
+    },
+    "3932901": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "13",
+        "stSnapPct": "0.52",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3932901",
+      "longName": "Elijah Campbell"
+    },
+    "3933407": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "20",
+        "stSnapPct": "0.80",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "3933407",
+      "longName": "Quinton Bell"
+    },
+    "3943270": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3943270",
+      "longName": "Rasul Douglas"
+    },
+    "4030899": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4030899",
+      "longName": "Spencer Brown"
+    },
+    "4033748": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4033748",
+      "longName": "Connor McGovern"
+    },
+    "4035299": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4035299",
+      "longName": "Benito Jones"
+    },
+    "4036060": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "7",
+        "stSnapPct": "0.28",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036060",
+      "longName": "Damar Hamlin"
+    },
+    "4036448": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.32",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4036448",
+      "longName": "Jalen Virgil"
+    },
+    "4039007": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039007",
+      "longName": "Taylor Rapp"
+    },
+    "4039303": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039303",
+      "longName": "Ed Oliver"
+    },
+    "4040537": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4040537",
+      "longName": "Aaron Brewer"
+    },
+    "4043016": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.28",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "55",
+        "kickReturnAvg": "27.5",
+        "kickReturnLong": "33"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4043016",
+      "longName": "Dee Eskridge"
+    },
+    "4043130": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4043130",
+      "longName": "Jordyn Brooks"
+    },
+    "4046694": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4046694",
+      "longName": "Liam Eichenberg"
+    },
+    "4047422": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.11",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.60",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4047422",
+      "longName": "Tanner Conner"
+    },
+    "4239140": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4239140",
+      "longName": "Ryan Van Demark"
+    },
+    "4239997": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.80",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4239997",
+      "longName": "Baylon Spector"
+    },
+    "4240059": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "19",
+        "stSnapPct": "0.76",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240059",
+      "longName": "Ja'Marcus Ingram"
+    },
+    "4240585": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.39"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240585",
+      "longName": "AJ Epenesa"
+    },
+    "4241479": {
+      "gameID": "20241103_MIA@BUF",
+      "Rushing": {
+        "rushAvg": "1.5",
+        "rushYds": "3",
+        "carries": "2",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "90.3",
+        "rtg": "124.9",
+        "sacked": "1-7",
+        "passAttempts": "28",
+        "passAvg": "8.3",
+        "passTD": "2",
+        "passYds": "231",
+        "int": "0",
+        "passCompletions": "25"
+      },
+      "scoringPlays": [
+        {
+          "score": "De'Von Achane 14 Yd pass from Tua Tagovailoa (Jason Sanders Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "10",
+          "teamID": "20",
+          "scoreDetails": "14 plays, 97 yards, 8:21",
+          "scoreType": "TD",
+          "scoreTime": "3:20",
+          "team": "MIA",
+          "playerIDs": [
+            "4241479",
+            "4429160",
+            "3124679"
+          ]
+        },
+        {
+          "score": "Jaylen Waddle 7 Yd pass from Tua Tagovailoa (Jason Sanders Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "27",
+          "teamID": "20",
+          "scoreDetails": "11 plays, 81 yards, 4:40",
+          "scoreType": "TD",
+          "scoreTime": "1:38",
+          "team": "MIA",
+          "playerIDs": [
+            "4241479",
+            "4372016",
+            "3124679"
+          ]
+        }
+      ],
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4241479",
+      "longName": "Tua Tagovailoa"
+    },
+    "4242234": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.23"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242234",
+      "longName": "Neil Farrell"
+    },
+    "4244049": {
+      "gameID": "20241103_MIA@BUF",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "1",
+        "longRec": "2",
+        "targets": "1",
+        "recYds": "2",
+        "recAvg": "2.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Quintin Morris 2 Yd pass from Josh Allen (Tyler Bass Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "20",
+          "teamID": "4",
+          "scoreDetails": "10 plays, 70 yards, 5:56",
+          "scoreType": "TD",
+          "scoreTime": "6:18",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "4244049",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.12",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.80",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4244049",
+      "longName": "Quintin Morris"
+    },
+    "4259166": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4259166",
+      "longName": "Terrel Bernard"
+    },
+    "4259651": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.15"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4259651",
+      "longName": "Brandon Pili"
+    },
+    "4271632": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4271632",
+      "longName": "Austin Jackson"
+    },
+    "4360746": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.76",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4360746",
+      "longName": "Ethan Bonner"
+    },
+    "4362506": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "3",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4362506",
+      "longName": "Greg Rousseau"
+    },
+    "4366349": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.60",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4366349",
+      "longName": "Joe Andreessen"
+    },
+    "4367203": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.17",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.44",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4367203",
+      "longName": "Alec Anderson"
+    },
+    "4372016": {
+      "gameID": "20241103_MIA@BUF",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "12",
+        "targets": "2",
+        "recYds": "-4",
+        "recAvg": "-2.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jaylen Waddle 7 Yd pass from Tua Tagovailoa (Jason Sanders Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "27",
+          "teamID": "20",
+          "scoreDetails": "11 plays, 81 yards, 4:40",
+          "scoreType": "TD",
+          "scoreTime": "1:38",
+          "team": "MIA",
+          "playerIDs": [
+            "4241479",
+            "4372016",
+            "3124679"
+          ]
+        }
+      ],
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.85",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "52",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4372016",
+      "longName": "Jaylen Waddle"
+    },
+    "4373678": {
+      "gameID": "20241103_MIA@BUF",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "14",
+        "targets": "7",
+        "recYds": "50",
+        "recAvg": "8.3"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.53",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4373678",
+      "longName": "Khalil Shakir"
+    },
+    "4374280": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4374280",
+      "longName": "Edefuan Ulofoshio"
+    },
+    "4379399": {
+      "gameID": "20241103_MIA@BUF",
+      "Rushing": {
+        "rushAvg": "4.4",
+        "rushYds": "44",
+        "carries": "10",
+        "longRush": "13",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "6",
+        "recYds": "25",
+        "recAvg": "5.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.55",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "36",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4379399",
+      "longName": "James Cook"
+    },
+    "4379414": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.60",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4379414",
+      "longName": "Channing Tindall"
+    },
+    "4385690": {
+      "gameID": "20241103_MIA@BUF",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "15",
+        "targets": "10",
+        "recYds": "32",
+        "recAvg": "8.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.79",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "52",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4385690",
+      "longName": "Dalton Kincaid"
+    },
+    "4427677": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.08"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4427677",
+      "longName": "Mohamed Kamara"
+    },
+    "4428548": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "2",
+        "stSnap": "15",
+        "stSnapPct": "0.60",
+        "offSnap": "0",
+        "defSnapPct": "0.03"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4428548",
+      "longName": "Javon Solomon"
+    },
+    "4428696": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4428696",
+      "longName": "O'Cyrus Torrence"
+    },
+    "4429160": {
+      "gameID": "20241103_MIA@BUF",
+      "Rushing": {
+        "rushAvg": "5.3",
+        "rushYds": "63",
+        "carries": "12",
+        "longRush": "12",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "8",
+        "recTD": "1",
+        "longRec": "18",
+        "targets": "8",
+        "recYds": "58",
+        "recAvg": "7.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "De'Von Achane 14 Yd pass from Tua Tagovailoa (Jason Sanders Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "10",
+          "teamID": "20",
+          "scoreDetails": "14 plays, 97 yards, 8:21",
+          "scoreType": "TD",
+          "scoreTime": "3:20",
+          "team": "MIA",
+          "playerIDs": [
+            "4241479",
+            "4429160",
+            "3124679"
+          ]
+        },
+        {
+          "score": "De'Von Achane 8 Yd Run (Jason Sanders Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "20",
+          "teamID": "20",
+          "scoreDetails": "9 plays, 70 yards, 4:53",
+          "scoreType": "TD",
+          "scoreTime": "12:14",
+          "team": "MIA",
+          "playerIDs": [
+            "4429160",
+            "3124679"
+          ]
+        }
+      ],
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.69",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4429160",
+      "longName": "De'Von Achane"
+    },
+    "4429501": {
+      "gameID": "20241103_MIA@BUF",
+      "Rushing": {
+        "rushAvg": "5.0",
+        "rushYds": "20",
+        "carries": "4",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "63",
+        "targets": "2",
+        "recYds": "70",
+        "recAvg": "35.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ray Davis 63 Yd pass from Josh Allen (Josh Allen Pass to Keon Coleman for Two-Point Conversion)",
+          "scorePeriod": "Q3",
+          "homeScore": "20",
+          "awayScore": "13",
+          "teamID": "4",
+          "scoreDetails": "2 plays, 70 yards, 0:52",
+          "scoreType": "TD",
+          "scoreTime": "2:07",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "4429501",
+            "4635008"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "9",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4429501",
+      "longName": "Ray Davis"
+    },
+    "4430815": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4430815",
+      "longName": "Sedrick Van Pran-Granger"
+    },
+    "4431586": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.50"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4431586",
+      "longName": "Chop Robinson"
+    },
+    "4567399": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "5",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4567399",
+      "longName": "Kaiir Elam"
+    },
+    "4567493": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4567493",
+      "longName": "Patrick Paul"
+    },
+    "4568624": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "12",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4568624",
+      "longName": "Dorian Williams"
+    },
+    "4569603": {
+      "gameID": "20241103_MIA@BUF",
+      "Rushing": {
+        "rushAvg": "9.0",
+        "rushYds": "9",
+        "carries": "1",
+        "longRush": "9",
+        "rushTD": "0"
+      },
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.32",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "-1",
+        "puntReturnAvg": "-1.0",
+        "puntReturnLong": "-1",
+        "puntReturnTD": "0"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4569603",
+      "longName": "Malik Washington"
+    },
+    "4570495": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4570495",
+      "longName": "Robert Jones"
+    },
+    "4570672": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "7",
+        "stSnapPct": "0.28",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4570672",
+      "longName": "Cam Smith"
+    },
+    "4576069": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.28",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "29",
+        "puntReturnAvg": "29.0",
+        "puntReturnLong": "29",
+        "puntReturnTD": "0"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4576069",
+      "longName": "Brandon Codrington"
+    },
+    "4635008": {
+      "gameID": "20241103_MIA@BUF",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "recAvg": "21.0",
+        "receivingTwoPointConversion": "1",
+        "longRec": "21",
+        "targets": "2",
+        "recYds": "21"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ray Davis 63 Yd pass from Josh Allen (Josh Allen Pass to Keon Coleman for Two-Point Conversion)",
+          "scorePeriod": "Q3",
+          "homeScore": "20",
+          "awayScore": "13",
+          "teamID": "4",
+          "scoreDetails": "2 plays, 70 yards, 0:52",
+          "scoreType": "TD",
+          "scoreTime": "2:07",
+          "team": "BUF",
+          "playerIDs": [
+            "3918298",
+            "4429501",
+            "4635008"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.79",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "52",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4635008",
+      "longName": "Keon Coleman"
+    },
+    "4676004": {
+      "gameID": "20241103_MIA@BUF",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "15",
+        "stSnapPct": "0.60",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4676004",
+      "longName": "Cole Bishop"
+    },
+    "4682745": {
+      "gameID": "20241103_MIA@BUF",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "18",
+        "carries": "6",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "teamID": "20",
+      "snapCounts": {
+        "offSnapPct": "0.15",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "9",
+        "defSnapPct": "0.00"
+      },
+      "team": "MIA",
+      "teamAbv": "MIA",
+      "playerID": "4682745",
+      "longName": "Jaylen Wright"
+    }
+  },
+  "arenaCapacity": "71,621",
+  "arena": "Highmark Stadium",
+  "homePts": "30",
+  "awayResult": "L",
+  "teamIDAway": "20",
+  "Referees": "Carl Paganelli, Pat Turner, Mearl Robinson, Don Willard, Grantis Bell, Thomas Eaton, Tra Blake",
+  "gameClock": "",
+  "awayPts": "27",
+  "gameID": "20241103_MIA@BUF",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

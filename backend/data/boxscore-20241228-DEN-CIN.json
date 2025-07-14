@@ -1,0 +1,2829 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "DEN",
+      "teamID": "10",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "7",
+      "ydsAllowed": "499",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "30",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "CIN",
+      "teamID": "7",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "2",
+      "ydsAllowed": "329",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "24",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "329",
+      "rushingAttempts": "27",
+      "rushingYards": "123",
+      "fumblesLost": "0",
+      "penalties": "7-35",
+      "totalPlays": "60",
+      "possession": "26:57",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "24-31",
+      "passingFirstDowns": "10",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "2-13",
+      "thirdDownEfficiency": "4-12",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.5",
+      "redZoneScoredAndAttempted": "1-2",
+      "teamID": "10",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "10",
+      "rushingFirstDowns": "9",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "19",
+      "passTD": "3",
+      "team": "DEN",
+      "blockedXP": "0",
+      "teamAbv": "DEN",
+      "firstDownsFromPenalties": "0",
+      "fourthDownEfficiency": "1-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "206",
+      "yardsPerRush": "4.6",
+      "snapCounts": {
+        "totalSpecialTeams": "25",
+        "totalOffensive": "60",
+        "totalDefensive": "90"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "6.2"
+    },
+    "home": {
+      "totalYards": "499",
+      "rushingAttempts": "28",
+      "rushingYards": "115",
+      "fumblesLost": "1",
+      "penalties": "3-15",
+      "totalPlays": "84",
+      "possession": "41:56",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "39-49",
+      "passingFirstDowns": "23",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "7-28",
+      "thirdDownEfficiency": "7-13",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.9",
+      "redZoneScoredAndAttempted": "4-7",
+      "teamID": "7",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "6",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "34",
+      "passTD": "3",
+      "team": "CIN",
+      "blockedXP": "0",
+      "teamAbv": "CIN",
+      "firstDownsFromPenalties": "5",
+      "fourthDownEfficiency": "1-3",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "384",
+      "yardsPerRush": "4.1",
+      "snapCounts": {
+        "totalSpecialTeams": "25",
+        "totalOffensive": "90",
+        "totalDefensive": "60"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "6.9"
+    }
+  },
+  "gameDate": "20241228",
+  "scoringPlays": [
+    {
+      "score": "Wil Lutz 30 Yd Field Goal ",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "3",
+      "teamID": "10",
+      "scoreDetails": "10 plays, 58 yards, 5:15",
+      "scoreType": "FG",
+      "scoreTime": "9:45",
+      "team": "DEN",
+      "playerIDs": [
+        "2985659"
+      ]
+    },
+    {
+      "score": "Tee Higgins 2 Yd pass from Joe Burrow (Cade York Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "7",
+      "awayScore": "3",
+      "teamID": "7",
+      "scoreDetails": "7 plays, 62 yards, 3:06",
+      "scoreType": "TD",
+      "scoreTime": "1:49",
+      "team": "CIN",
+      "playerIDs": [
+        "3915511",
+        "4239993",
+        "4428963"
+      ]
+    },
+    {
+      "score": "Cade York 22 Yd Field Goal",
+      "scorePeriod": "Q3",
+      "homeScore": "10",
+      "awayScore": "3",
+      "teamID": "7",
+      "scoreDetails": "11 plays, 69 yards, 5:53",
+      "scoreType": "FG",
+      "scoreTime": "9:07",
+      "team": "CIN",
+      "playerIDs": [
+        "4428963"
+      ]
+    },
+    {
+      "score": "Courtland Sutton 6 Yd pass from Bo Nix (Wil Lutz Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "10",
+      "awayScore": "10",
+      "teamID": "10",
+      "scoreDetails": "12 plays, 70 yards, 5:57",
+      "scoreType": "TD",
+      "scoreTime": "3:10",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "3128429",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Tee Higgins 12 Yd pass from Joe Burrow (Cade York Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "17",
+      "awayScore": "10",
+      "teamID": "7",
+      "scoreDetails": "11 plays, 63 yards, 6:37",
+      "scoreType": "TD",
+      "scoreTime": "11:33",
+      "team": "CIN",
+      "playerIDs": [
+        "3915511",
+        "4239993",
+        "4428963"
+      ]
+    },
+    {
+      "score": "Marvin Mims Jr. 51 Yd pass from Bo Nix (Wil Lutz Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "17",
+      "awayScore": "17",
+      "teamID": "10",
+      "scoreDetails": "5 plays, 75 yards, 2:45",
+      "scoreType": "TD",
+      "scoreTime": "8:48",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "4686472",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Joe Burrow 1 Yd Rush (Cade York Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "24",
+      "awayScore": "17",
+      "teamID": "7",
+      "scoreDetails": "6 plays, 59 yards, 1:01",
+      "scoreType": "TD",
+      "scoreTime": "1:29",
+      "team": "CIN",
+      "playerIDs": [
+        "3915511",
+        "4428963"
+      ]
+    },
+    {
+      "score": "Marvin Mims Jr. 25 Yd pass from Bo Nix (Wil Lutz Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "24",
+      "awayScore": "24",
+      "teamID": "10",
+      "scoreDetails": "7 plays, 70 yards, 1:21",
+      "scoreType": "TD",
+      "scoreTime": "0:08",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "4686472",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Tee Higgins 3 Yd pass from Joe Burrow",
+      "scorePeriod": "OT",
+      "homeScore": "30",
+      "awayScore": "24",
+      "teamID": "7",
+      "scoreDetails": "5 plays, 63 yards, 1:13",
+      "scoreType": "TD",
+      "scoreTime": "1:07",
+      "team": "CIN",
+      "playerIDs": [
+        "3915511",
+        "4239993"
+      ]
+    }
+  ],
+  "network": "NFL Net",
+  "teamIDHome": "7",
+  "homeResult": "W",
+  "away": "DEN",
+  "gameWeek": "Week 17",
+  "attendance": "66,546",
+  "lineScore": {
+    "period": "Final/OT",
+    "gameClock": "",
+    "away": {
+      "Q1": "3",
+      "Q2": "0",
+      "Q3": "7",
+      "Q4": "14",
+      "OT": "0",
+      "teamID": "10",
+      "currentlyInPossession": "False",
+      "totalPts": "24",
+      "teamAbv": "DEN"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "7",
+      "Q3": "3",
+      "Q4": "14",
+      "OT": "6",
+      "teamID": "7",
+      "currentlyInPossession": "False",
+      "totalPts": "30",
+      "teamAbv": "CIN"
+    }
+  },
+  "currentPeriod": "Final/OT",
+  "gameLocation": "Cincinnati, OH",
+  "home": "CIN",
+  "playerStats": {
+    "2515270": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.13",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.48",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2515270",
+      "longName": "Michael Burton"
+    },
+    "2576188": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "90",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "2576188",
+      "longName": "Ted Karras"
+    },
+    "2577619": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "166",
+        "punts": "4",
+        "puntAvg": "41.5",
+        "puntsin20": "0",
+        "puntTouchBacks": "0",
+        "puntLong": "48"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2577619",
+      "longName": "Riley Dixon"
+    },
+    "2980383": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2980383",
+      "longName": "Mike Hilton"
+    },
+    "2985659": {
+      "gameID": "20241228_DEN@CIN",
+      "scoringPlays": [
+        {
+          "score": "Wil Lutz 30 Yd Field Goal ",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "3",
+          "teamID": "10",
+          "scoreDetails": "10 plays, 58 yards, 5:15",
+          "scoreType": "FG",
+          "scoreTime": "9:45",
+          "team": "DEN",
+          "playerIDs": [
+            "2985659"
+          ]
+        },
+        {
+          "score": "Courtland Sutton 6 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "12 plays, 70 yards, 5:57",
+          "scoreType": "TD",
+          "scoreTime": "3:10",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3128429",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Marvin Mims Jr. 51 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "17",
+          "teamID": "10",
+          "scoreDetails": "5 plays, 75 yards, 2:45",
+          "scoreType": "TD",
+          "scoreTime": "8:48",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4686472",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Marvin Mims Jr. 25 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "24",
+          "awayScore": "24",
+          "teamID": "10",
+          "scoreDetails": "7 plays, 70 yards, 1:21",
+          "scoreType": "TD",
+          "scoreTime": "0:08",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4686472",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "30",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "3",
+        "fgPct": "100.0",
+        "kickingPts": "6",
+        "xpAttempts": "3",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2985659",
+      "longName": "Wil Lutz"
+    },
+    "3051388": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "9",
+        "stSnapPct": "0.36",
+        "offSnap": "0",
+        "defSnapPct": "0.30"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3051388",
+      "longName": "Vonn Bell"
+    },
+    "3051750": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3051750",
+      "longName": "Zach Cunningham"
+    },
+    "3052743": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.82"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "3052743",
+      "longName": "Trey Hendrickson"
+    },
+    "3052885": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3052885",
+      "longName": "Mike McGlinchey"
+    },
+    "3059021": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "90",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3059021",
+      "longName": "Alex Cappa"
+    },
+    "3116164": {
+      "gameID": "20241228_DEN@CIN",
+      "Receiving": {
+        "receptions": "10",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "12",
+        "recYds": "86",
+        "recAvg": "8.6"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.57",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3116164",
+      "longName": "Mike Gesicki"
+    },
+    "3116370": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "90",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3116370",
+      "longName": "Orlando Brown Jr."
+    },
+    "3116724": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.83"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "2",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3116724",
+      "longName": "Germaine Pratt"
+    },
+    "3116748": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.90"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3116748",
+      "longName": "B.J. Hill"
+    },
+    "3120464": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "3120464",
+      "longName": "John Franklin-Myers"
+    },
+    "3127310": {
+      "gameID": "20241228_DEN@CIN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "3",
+        "targets": "1",
+        "recYds": "3",
+        "recAvg": "3.0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.61",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.48",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3127310",
+      "longName": "Drew Sample"
+    },
+    "3128429": {
+      "gameID": "20241228_DEN@CIN",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "1",
+        "longRec": "15",
+        "targets": "9",
+        "recYds": "55",
+        "recAvg": "11.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Courtland Sutton 6 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "12 plays, 70 yards, 5:57",
+          "scoreType": "TD",
+          "scoreTime": "3:10",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3128429",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.93",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "56",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3128429",
+      "longName": "Courtland Sutton"
+    },
+    "3134448": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.84",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3134448",
+      "longName": "Tremon Smith"
+    },
+    "3139166": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3139166",
+      "longName": "Mitchell Fraboni"
+    },
+    "3707061": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "90",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3707061",
+      "longName": "Cody Ford"
+    },
+    "3894915": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "43",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.48"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "3894915",
+      "longName": "D.J. Jones"
+    },
+    "3911853": {
+      "gameID": "20241228_DEN@CIN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "3",
+        "recYds": "5",
+        "recAvg": "5.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.48",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3911853",
+      "longName": "Adam Trautman"
+    },
+    "3915282": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "85",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.94"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "6",
+        "defensiveInterceptions": "0",
+        "sacks": "3.5",
+        "passDeflections": "0"
+      },
+      "playerID": "3915282",
+      "longName": "Zach Allen"
+    },
+    "3915511": {
+      "gameID": "20241228_DEN@CIN",
+      "Rushing": {
+        "rushAvg": "6.3",
+        "rushYds": "25",
+        "carries": "4",
+        "longRush": "19",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "91.5",
+        "rtg": "122.1",
+        "sacked": "7-28",
+        "passAttempts": "49",
+        "passAvg": "8.4",
+        "passTD": "3",
+        "passYds": "412",
+        "int": "0",
+        "passCompletions": "39"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tee Higgins 2 Yd pass from Joe Burrow (Cade York Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "3",
+          "teamID": "7",
+          "scoreDetails": "7 plays, 62 yards, 3:06",
+          "scoreType": "TD",
+          "scoreTime": "1:49",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4239993",
+            "4428963"
+          ]
+        },
+        {
+          "score": "Tee Higgins 12 Yd pass from Joe Burrow (Cade York Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "10",
+          "teamID": "7",
+          "scoreDetails": "11 plays, 63 yards, 6:37",
+          "scoreType": "TD",
+          "scoreTime": "11:33",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4239993",
+            "4428963"
+          ]
+        },
+        {
+          "score": "Joe Burrow 1 Yd Rush (Cade York Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "24",
+          "awayScore": "17",
+          "teamID": "7",
+          "scoreDetails": "6 plays, 59 yards, 1:01",
+          "scoreType": "TD",
+          "scoreTime": "1:29",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4428963"
+          ]
+        },
+        {
+          "score": "Tee Higgins 3 Yd pass from Joe Burrow",
+          "scorePeriod": "OT",
+          "homeScore": "30",
+          "awayScore": "24",
+          "teamID": "7",
+          "scoreDetails": "5 plays, 63 yards, 1:13",
+          "scoreType": "TD",
+          "scoreTime": "1:07",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4239993"
+          ]
+        }
+      ],
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "90",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3915511",
+      "longName": "Joe Burrow"
+    },
+    "3917142": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3917142",
+      "longName": "Akeem Davis-Gaither"
+    },
+    "3919548": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.67"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3919548",
+      "longName": "Justin Strnad"
+    },
+    "3921936": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.32",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3921936",
+      "longName": "Matt Peart"
+    },
+    "3926229": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "85",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.94"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3926229",
+      "longName": "Cody Barton"
+    },
+    "3929850": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "85",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.94"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3929850",
+      "longName": "P.J. Locke"
+    },
+    "4035222": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.40",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4035222",
+      "longName": "Trayveon Williams"
+    },
+    "4035270": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.67",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4035270",
+      "longName": "Devin Cochran"
+    },
+    "4035662": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4035662",
+      "longName": "Garett Bolles"
+    },
+    "4035886": {
+      "gameID": "20241228_DEN@CIN",
+      "Rushing": {
+        "rushAvg": "5.8",
+        "rushYds": "23",
+        "carries": "4",
+        "longRush": "13",
+        "rushTD": "0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.20",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.40",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4035886",
+      "longName": "Khalil Herbert"
+    },
+    "4037559": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "16",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.06"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037559",
+      "longName": "Devon Key"
+    },
+    "4037650": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4037650",
+      "longName": "Ben Powers"
+    },
+    "4039018": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4039018",
+      "longName": "Luke Wattenberg"
+    },
+    "4039057": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.45",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4039057",
+      "longName": "Lil'Jordan Humphrey"
+    },
+    "4039059": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "84",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.93"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "13",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "9",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039059",
+      "longName": "Brandon Jones"
+    },
+    "4039064": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039064",
+      "longName": "Malcolm Roach"
+    },
+    "4040608": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "69",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.77"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4040608",
+      "longName": "Jonathon Cooper"
+    },
+    "4040950": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4040950",
+      "longName": "Cordell Volson"
+    },
+    "4239993": {
+      "gameID": "20241228_DEN@CIN",
+      "Receiving": {
+        "receptions": "11",
+        "recTD": "3",
+        "longRec": "31",
+        "targets": "12",
+        "recYds": "131",
+        "recAvg": "11.9"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tee Higgins 2 Yd pass from Joe Burrow (Cade York Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "3",
+          "teamID": "7",
+          "scoreDetails": "7 plays, 62 yards, 3:06",
+          "scoreType": "TD",
+          "scoreTime": "1:49",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4239993",
+            "4428963"
+          ]
+        },
+        {
+          "score": "Tee Higgins 12 Yd pass from Joe Burrow (Cade York Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "10",
+          "teamID": "7",
+          "scoreDetails": "11 plays, 63 yards, 6:37",
+          "scoreType": "TD",
+          "scoreTime": "11:33",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4239993",
+            "4428963"
+          ]
+        },
+        {
+          "score": "Tee Higgins 3 Yd pass from Joe Burrow",
+          "scorePeriod": "OT",
+          "homeScore": "30",
+          "awayScore": "24",
+          "teamID": "7",
+          "scoreDetails": "5 plays, 63 yards, 1:13",
+          "scoreType": "TD",
+          "scoreTime": "1:07",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4239993"
+          ]
+        }
+      ],
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.69",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "62",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4239993",
+      "longName": "Tee Higgins"
+    },
+    "4240551": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4240551",
+      "longName": "Alex Palczewski"
+    },
+    "4240575": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240575",
+      "longName": "Geno Stone"
+    },
+    "4240595": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "9",
+        "stSnapPct": "0.36",
+        "offSnap": "0",
+        "defSnapPct": "0.08"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4240595",
+      "longName": "Marco Wilson"
+    },
+    "4240707": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "11",
+        "stSnapPct": "0.44",
+        "offSnap": "0",
+        "defSnapPct": "0.12"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240707",
+      "longName": "Damarri Mathis"
+    },
+    "4240719": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4240719",
+      "longName": "Cal Adomitis"
+    },
+    "4242503": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4242503",
+      "longName": "Alex Forsyth"
+    },
+    "4257240": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.80",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4257240",
+      "longName": "Tycen Anderson"
+    },
+    "4259647": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "3",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.12"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4259647",
+      "longName": "Jay Tufele"
+    },
+    "4261090": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "10",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.08"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4261090",
+      "longName": "Jordan Jackson"
+    },
+    "4360231": {
+      "gameID": "20241228_DEN@CIN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "3",
+        "targets": "1",
+        "recYds": "3",
+        "recAvg": "3.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.40",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.36",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4360231",
+      "longName": "Lucas Krull"
+    },
+    "4360259": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "72",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.80"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4360259",
+      "longName": "Nik Bonitto"
+    },
+    "4360413": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4360413",
+      "longName": "Shaka Heyward"
+    },
+    "4361196": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361196",
+      "longName": "Cam Taylor-Britt"
+    },
+    "4361579": {
+      "gameID": "20241228_DEN@CIN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "2",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.37",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "22",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361579",
+      "longName": "Javonte Williams"
+    },
+    "4362094": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.83"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "1"
+      },
+      "playerID": "4362094",
+      "longName": "Joseph Ossai"
+    },
+    "4362238": {
+      "gameID": "20241228_DEN@CIN",
+      "Rushing": {
+        "rushAvg": "3.4",
+        "rushYds": "67",
+        "carries": "20",
+        "longRush": "9",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "4",
+        "recYds": "24",
+        "recAvg": "6.0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.81",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4362238",
+      "longName": "Chase Brown"
+    },
+    "4362502": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "20",
+        "stSnapPct": "0.80",
+        "offSnap": "0",
+        "defSnapPct": "0.07"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4362502",
+      "longName": "DJ Ivey"
+    },
+    "4362628": {
+      "gameID": "20241228_DEN@CIN",
+      "Receiving": {
+        "receptions": "9",
+        "recTD": "0",
+        "longRec": "38",
+        "targets": "15",
+        "recYds": "102",
+        "recAvg": "11.3"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.98",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "88",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4362628",
+      "longName": "Ja'Marr Chase"
+    },
+    "4365319": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4365319",
+      "longName": "Josh Newton"
+    },
+    "4368003": {
+      "gameID": "20241228_DEN@CIN",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "26",
+        "targets": "4",
+        "recYds": "59",
+        "recAvg": "19.7"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.79",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4368003",
+      "longName": "Andrei Iosivas"
+    },
+    "4372012": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "90",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "6",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4372012",
+      "longName": "Pat Surtain II"
+    },
+    "4382401": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "80",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.89"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "14",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "11",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4382401",
+      "longName": "Riley Moss"
+    },
+    "4383440": {
+      "gameID": "20241228_DEN@CIN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "7",
+        "targets": "1",
+        "recYds": "7",
+        "recAvg": "7.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.37",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.48",
+        "offSnap": "22",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4383440",
+      "longName": "Nate Adkins"
+    },
+    "4384171": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.02",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.44",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4384171",
+      "longName": "Tanner McLachlan"
+    },
+    "4426338": {
+      "gameID": "20241228_DEN@CIN",
+      "Rushing": {
+        "rushAvg": "4.4",
+        "rushYds": "31",
+        "carries": "7",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "65.9",
+        "rtg": "114.9",
+        "sacked": "2-13",
+        "passAttempts": "31",
+        "passAvg": "7.1",
+        "passTD": "3",
+        "passYds": "219",
+        "int": "1",
+        "passCompletions": "24"
+      },
+      "scoringPlays": [
+        {
+          "score": "Courtland Sutton 6 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "12 plays, 70 yards, 5:57",
+          "scoreType": "TD",
+          "scoreTime": "3:10",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3128429",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Marvin Mims Jr. 51 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "17",
+          "teamID": "10",
+          "scoreDetails": "5 plays, 75 yards, 2:45",
+          "scoreType": "TD",
+          "scoreTime": "8:48",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4686472",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Marvin Mims Jr. 25 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "24",
+          "awayScore": "24",
+          "teamID": "10",
+          "scoreDetails": "7 plays, 70 yards, 1:21",
+          "scoreType": "TD",
+          "scoreTime": "0:08",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4686472",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4426338",
+      "longName": "Bo Nix"
+    },
+    "4428125": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.80",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428125",
+      "longName": "Maema Njongmeta"
+    },
+    "4428503": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "21",
+        "stSnapPct": "0.84",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428503",
+      "longName": "JL Skinner"
+    },
+    "4428963": {
+      "gameID": "20241228_DEN@CIN",
+      "scoringPlays": [
+        {
+          "score": "Tee Higgins 2 Yd pass from Joe Burrow (Cade York Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "3",
+          "teamID": "7",
+          "scoreDetails": "7 plays, 62 yards, 3:06",
+          "scoreType": "TD",
+          "scoreTime": "1:49",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4239993",
+            "4428963"
+          ]
+        },
+        {
+          "score": "Cade York 22 Yd Field Goal",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "3",
+          "teamID": "7",
+          "scoreDetails": "11 plays, 69 yards, 5:53",
+          "scoreType": "FG",
+          "scoreTime": "9:07",
+          "team": "CIN",
+          "playerIDs": [
+            "4428963"
+          ]
+        },
+        {
+          "score": "Tee Higgins 12 Yd pass from Joe Burrow (Cade York Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "10",
+          "teamID": "7",
+          "scoreDetails": "11 plays, 63 yards, 6:37",
+          "scoreType": "TD",
+          "scoreTime": "11:33",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4239993",
+            "4428963"
+          ]
+        },
+        {
+          "score": "Joe Burrow 1 Yd Rush (Cade York Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "24",
+          "awayScore": "17",
+          "teamID": "7",
+          "scoreDetails": "6 plays, 59 yards, 1:01",
+          "scoreType": "TD",
+          "scoreTime": "1:29",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4428963"
+          ]
+        }
+      ],
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "22",
+        "fgMade": "1",
+        "fgAttempts": "2",
+        "xpMade": "3",
+        "fgPct": "50.0",
+        "kickingPts": "6",
+        "xpAttempts": "3",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4428963",
+      "longName": "Cade York"
+    },
+    "4428985": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4428985",
+      "longName": "Myles Murphy"
+    },
+    "4429033": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.06",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "3",
+        "kickReturnTD": "0",
+        "kickReturnYds": "98",
+        "kickReturnAvg": "32.7",
+        "kickReturnLong": "38"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4429033",
+      "longName": "Jermaine Burton"
+    },
+    "4429193": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "10",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.06"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429193",
+      "longName": "Kris Abrams-Draine"
+    },
+    "4430065": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "15",
+        "stSnapPct": "0.60",
+        "offSnap": "0",
+        "defSnapPct": "0.18"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4430065",
+      "longName": "Cedric Johnson"
+    },
+    "4431280": {
+      "gameID": "20241228_DEN@CIN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "-1",
+        "targets": "2",
+        "recYds": "-1",
+        "recAvg": "-1.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.33",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4431280",
+      "longName": "Troy Franklin"
+    },
+    "4431571": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.33",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4431571",
+      "longName": "Amarius Mims"
+    },
+    "4432301": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "23",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.38"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4432301",
+      "longName": "Kris Jenkins Jr."
+    },
+    "4567098": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.88"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4567098",
+      "longName": "Jordan Battle"
+    },
+    "4567462": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "72",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.80"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4567462",
+      "longName": "Ja'Quan McMillian"
+    },
+    "4568986": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4568986",
+      "longName": "Matt Lee"
+    },
+    "4569371": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "4",
+        "puntReturnAvg": "4.0",
+        "puntReturnLong": "4",
+        "puntReturnTD": "0"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4569371",
+      "longName": "Isaiah Williams"
+    },
+    "4569559": {
+      "gameID": "20241228_DEN@CIN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "16",
+        "targets": "2",
+        "recYds": "27",
+        "recAvg": "13.5"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.50",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4569559",
+      "longName": "Devaughn Vele"
+    },
+    "4569682": {
+      "gameID": "20241228_DEN@CIN",
+      "Rushing": {
+        "rushAvg": "2.7",
+        "rushYds": "24",
+        "carries": "9",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "1",
+        "recYds": "13",
+        "recAvg": "13.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.20",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4569682",
+      "longName": "Audric Estime"
+    },
+    "4608138": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4608138",
+      "longName": "Quinn Meinerz"
+    },
+    "4608820": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "47",
+        "punts": "1",
+        "puntAvg": "47.0",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "47"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4608820",
+      "longName": "Ryan Rehkow"
+    },
+    "4685721": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "9",
+        "stSnap": "16",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.10"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4685721",
+      "longName": "Drew Sanders"
+    },
+    "4686472": {
+      "gameID": "20241228_DEN@CIN",
+      "Rushing": {
+        "rushAvg": "-1.0",
+        "rushYds": "-1",
+        "carries": "1",
+        "longRush": "-1",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "8",
+        "recTD": "2",
+        "longRec": "51",
+        "targets": "8",
+        "recYds": "103",
+        "recAvg": "12.9"
+      },
+      "scoringPlays": [
+        {
+          "score": "Marvin Mims Jr. 51 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "17",
+          "teamID": "10",
+          "scoreDetails": "5 plays, 75 yards, 2:45",
+          "scoreType": "TD",
+          "scoreTime": "8:48",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4686472",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Marvin Mims Jr. 25 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "24",
+          "awayScore": "24",
+          "teamID": "10",
+          "scoreDetails": "7 plays, 70 yards, 1:21",
+          "scoreType": "TD",
+          "scoreTime": "0:08",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4686472",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.47",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.24",
+        "offSnap": "28",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "27",
+        "kickReturnAvg": "27.0",
+        "kickReturnLong": "27"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4686472",
+      "longName": "Marvin Mims Jr."
+    },
+    "4687592": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "13",
+        "stSnapPct": "0.52",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4687592",
+      "longName": "Jonah Elliss"
+    },
+    "4692680": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "4",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.33"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4692680",
+      "longName": "McKinnley Jackson"
+    },
+    "4700712": {
+      "gameID": "20241228_DEN@CIN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "7",
+        "targets": "1",
+        "recYds": "7",
+        "recAvg": "7.0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.18",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.48",
+        "offSnap": "16",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4700712",
+      "longName": "Cam Grandy"
+    },
+    "4722893": {
+      "gameID": "20241228_DEN@CIN",
+      "Rushing": {
+        "rushAvg": "6.9",
+        "rushYds": "69",
+        "carries": "10",
+        "longRush": "13",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "2",
+        "recYds": "7",
+        "recAvg": "3.5"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.23",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4722893",
+      "longName": "Jaleel McLaughlin"
+    },
+    "4874448": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.60",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4874448",
+      "longName": "Daijahn Anthony"
+    },
+    "5216101": {
+      "gameID": "20241228_DEN@CIN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "17",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.22"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "5216101",
+      "longName": "Dondrea Tillman"
+    }
+  },
+  "arenaCapacity": "65,515",
+  "arena": "Paycor Stadium",
+  "homePts": "30",
+  "awayResult": "L",
+  "teamIDAway": "10",
+  "Referees": "Trawick Boger, Adrian Hill, Greg Steed, Roy Ellison, Greg Bradley, Clay Reynard, David Oliver",
+  "gameClock": "",
+  "awayPts": "24",
+  "gameID": "20241228_DEN@CIN",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

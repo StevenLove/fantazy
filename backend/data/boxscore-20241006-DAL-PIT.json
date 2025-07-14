@@ -1,0 +1,2814 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "DAL",
+      "teamID": "9",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "3",
+      "ydsAllowed": "226",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "17",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "PIT",
+      "teamID": "26",
+      "defTD": "0",
+      "defensiveInterceptions": "2",
+      "sacks": "2",
+      "ydsAllowed": "445",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "20",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "445",
+      "rushingAttempts": "31",
+      "rushingYards": "109",
+      "fumblesLost": "1",
+      "penalties": "11-87",
+      "totalPlays": "75",
+      "possession": "32:29",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "29-42",
+      "passingFirstDowns": "14",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "2-16",
+      "thirdDownEfficiency": "9-15",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.9",
+      "redZoneScoredAndAttempted": "1-4",
+      "teamID": "9",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "9",
+      "rushingFirstDowns": "9",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "25",
+      "passTD": "2",
+      "team": "DAL",
+      "blockedXP": "0",
+      "teamAbv": "DAL",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "1-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "336",
+      "yardsPerRush": "3.5",
+      "snapCounts": {
+        "totalSpecialTeams": "24",
+        "totalOffensive": "76",
+        "totalDefensive": "58"
+      },
+      "turnovers": "3",
+      "yardsPerPass": "7.6"
+    },
+    "home": {
+      "totalYards": "226",
+      "rushingAttempts": "26",
+      "rushingYards": "92",
+      "fumblesLost": "1",
+      "penalties": "8-50",
+      "totalPlays": "57",
+      "possession": "27:31",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "16-28",
+      "passingFirstDowns": "7",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "3-16",
+      "thirdDownEfficiency": "3-12",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.0",
+      "redZoneScoredAndAttempted": "2-2",
+      "teamID": "26",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "10",
+      "rushingFirstDowns": "6",
+      "blockedFG": "1",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "17",
+      "passTD": "2",
+      "team": "PIT",
+      "blockedXP": "0",
+      "teamAbv": "PIT",
+      "firstDownsFromPenalties": "4",
+      "fourthDownEfficiency": "2-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "134",
+      "yardsPerRush": "3.5",
+      "snapCounts": {
+        "totalSpecialTeams": "24",
+        "totalOffensive": "58",
+        "totalDefensive": "76"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "4.3"
+    }
+  },
+  "gameDate": "20241006",
+  "scoringPlays": [
+    {
+      "score": "Brandon Aubrey 55 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "3",
+      "teamID": "9",
+      "scoreDetails": "6 plays, 21 yards, 2:25",
+      "scoreType": "FG",
+      "scoreTime": "12:35",
+      "team": "DAL",
+      "playerIDs": [
+        "3953687"
+      ]
+    },
+    {
+      "score": "Chris Boswell 41 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "3",
+      "teamID": "26",
+      "scoreDetails": "11 plays, 52 yards, 5:02",
+      "scoreType": "FG",
+      "scoreTime": "7:33",
+      "team": "PIT",
+      "playerIDs": [
+        "17372"
+      ]
+    },
+    {
+      "score": "Brandon Aubrey 33 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "6",
+      "teamID": "9",
+      "scoreDetails": "8 plays, 51 yards, 3:29",
+      "scoreType": "FG",
+      "scoreTime": "8:51",
+      "team": "DAL",
+      "playerIDs": [
+        "3953687"
+      ]
+    },
+    {
+      "score": "Connor Heyward 16 Yd pass from Justin Fields (Chris Boswell Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "10",
+      "awayScore": "6",
+      "teamID": "26",
+      "scoreDetails": "6 plays, 72 yards, 3:10",
+      "scoreType": "TD",
+      "scoreTime": "11:50",
+      "team": "PIT",
+      "playerIDs": [
+        "4362887",
+        "4241961",
+        "17372"
+      ]
+    },
+    {
+      "score": "Rico Dowdle 22 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "10",
+      "awayScore": "13",
+      "teamID": "9",
+      "scoreDetails": "16 plays, 90 yards, 8:32",
+      "scoreType": "TD",
+      "scoreTime": "13:51",
+      "team": "DAL",
+      "playerIDs": [
+        "2577417",
+        "4038815",
+        "3953687"
+      ]
+    },
+    {
+      "score": "Pat Freiermuth 6 Yd pass from Justin Fields (Chris Boswell Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "17",
+      "awayScore": "13",
+      "teamID": "26",
+      "scoreDetails": "12 plays, 63 yards, 5:32",
+      "scoreType": "TD",
+      "scoreTime": "4:56",
+      "team": "PIT",
+      "playerIDs": [
+        "4362887",
+        "4361411",
+        "17372"
+      ]
+    },
+    {
+      "score": "Jalen Tolbert 4 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "17",
+      "awayScore": "20",
+      "teamID": "9",
+      "scoreDetails": "15 plays, 70 yards, 4:36",
+      "scoreType": "TD",
+      "scoreTime": "0:20",
+      "team": "DAL",
+      "playerIDs": [
+        "2577417",
+        "4249417",
+        "3953687"
+      ]
+    }
+  ],
+  "network": "NBC/Peacock",
+  "teamIDHome": "26",
+  "homeResult": "L",
+  "away": "DAL",
+  "gameWeek": "Week 5",
+  "attendance": "67,380",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "3",
+      "Q2": "3",
+      "Q3": "0",
+      "Q4": "14",
+      "teamID": "9",
+      "currentlyInPossession": "False",
+      "totalPts": "20",
+      "teamAbv": "DAL"
+    },
+    "home": {
+      "Q1": "3",
+      "Q2": "0",
+      "Q3": "7",
+      "Q4": "7",
+      "teamID": "26",
+      "currentlyInPossession": "False",
+      "totalPts": "17",
+      "teamAbv": "PIT"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Pittsburgh, PA",
+  "home": "PIT",
+  "playerStats": {
+    "13281": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.38"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "13281",
+      "longName": "Linval Joseph"
+    },
+    "13977": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "13977",
+      "longName": "Cameron Heyward"
+    },
+    "14950": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "45",
+        "punts": "1",
+        "puntAvg": "45.0",
+        "puntsin20": "0",
+        "puntTouchBacks": "0",
+        "puntLong": "45"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "14950",
+      "longName": "Bryan Anger"
+    },
+    "16709": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.95",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "72",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "16709",
+      "longName": "Zack Martin"
+    },
+    "17372": {
+      "gameID": "20241006_DAL@PIT",
+      "scoringPlays": [
+        {
+          "score": "Chris Boswell 41 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "3",
+          "teamID": "26",
+          "scoreDetails": "11 plays, 52 yards, 5:02",
+          "scoreType": "FG",
+          "scoreTime": "7:33",
+          "team": "PIT",
+          "playerIDs": [
+            "17372"
+          ]
+        },
+        {
+          "score": "Connor Heyward 16 Yd pass from Justin Fields (Chris Boswell Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "6",
+          "teamID": "26",
+          "scoreDetails": "6 plays, 72 yards, 3:10",
+          "scoreType": "TD",
+          "scoreTime": "11:50",
+          "team": "PIT",
+          "playerIDs": [
+            "4362887",
+            "4241961",
+            "17372"
+          ]
+        },
+        {
+          "score": "Pat Freiermuth 6 Yd pass from Justin Fields (Chris Boswell Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "13",
+          "teamID": "26",
+          "scoreDetails": "12 plays, 63 yards, 5:32",
+          "scoreType": "TD",
+          "scoreTime": "4:56",
+          "team": "PIT",
+          "playerIDs": [
+            "4362887",
+            "4361411",
+            "17372"
+          ]
+        }
+      ],
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "41",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "2",
+        "fgPct": "100.0",
+        "kickingPts": "5",
+        "xpAttempts": "2",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "17372",
+      "longName": "Chris Boswell"
+    },
+    "17474": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "17474",
+      "longName": "C.J. Goodwin"
+    },
+    "2510863": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "2510863",
+      "longName": "Eric Kendricks"
+    },
+    "2575164": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "2575164",
+      "longName": "Miles Killebrew"
+    },
+    "2577417": {
+      "gameID": "20241006_DAL@PIT",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "3",
+        "carries": "1",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "71.3",
+        "rtg": "90.6",
+        "sacked": "2-16",
+        "passAttempts": "42",
+        "passAvg": "8.4",
+        "passTD": "2",
+        "passYds": "352",
+        "int": "2",
+        "passCompletions": "29"
+      },
+      "scoringPlays": [
+        {
+          "score": "Rico Dowdle 22 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "10",
+          "awayScore": "13",
+          "teamID": "9",
+          "scoreDetails": "16 plays, 90 yards, 8:32",
+          "scoreType": "TD",
+          "scoreTime": "13:51",
+          "team": "DAL",
+          "playerIDs": [
+            "2577417",
+            "4038815",
+            "3953687"
+          ]
+        },
+        {
+          "score": "Jalen Tolbert 4 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "20",
+          "teamID": "9",
+          "scoreDetails": "15 plays, 70 yards, 4:36",
+          "scoreType": "TD",
+          "scoreTime": "0:20",
+          "team": "DAL",
+          "playerIDs": [
+            "2577417",
+            "4249417",
+            "3953687"
+          ]
+        }
+      ],
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "76",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "2577417",
+      "longName": "Dak Prescott"
+    },
+    "2971816": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "2971816",
+      "longName": "Nick Vigil"
+    },
+    "2974348": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "13",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.17"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2974348",
+      "longName": "Dean Lowry"
+    },
+    "2976099": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "17",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.22"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2976099",
+      "longName": "Damontae Kazee"
+    },
+    "2977681": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2977681",
+      "longName": "Carlos Watkins"
+    },
+    "2978247": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "2978247",
+      "longName": "Isaac Seumalo"
+    },
+    "2978524": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "2978524",
+      "longName": "Christian Kuntz"
+    },
+    "2987743": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2987743",
+      "longName": "Elandon Roberts"
+    },
+    "3045207": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.59"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3045207",
+      "longName": "Jourdan Lewis"
+    },
+    "3045282": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.92"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "7",
+        "tfl": "1",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "1.5",
+        "passDeflections": "0"
+      },
+      "playerID": "3045282",
+      "longName": "T.J. Watt"
+    },
+    "3050122": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.20"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3050122",
+      "longName": "Larry Ogunjobi"
+    },
+    "3051392": {
+      "gameID": "20241006_DAL@PIT",
+      "Rushing": {
+        "rushAvg": "2.8",
+        "rushYds": "17",
+        "carries": "6",
+        "longRush": "5",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "23",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "3051392",
+      "longName": "Ezekiel Elliott"
+    },
+    "3051894": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3051894",
+      "longName": "Montravius Adams"
+    },
+    "3051911": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.52"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "3051911",
+      "longName": "Carl Lawson"
+    },
+    "3052357": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "3052357",
+      "longName": "Trent Sieg"
+    },
+    "3115293": {
+      "gameID": "20241006_DAL@PIT",
+      "Passing": {
+        "qbr": "99.4",
+        "rtg": "118.8",
+        "sacked": "0-0",
+        "passAttempts": "1",
+        "passAvg": "19.0",
+        "passTD": "0",
+        "passYds": "19",
+        "int": "0",
+        "passCompletions": "1"
+      },
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "3115293",
+      "longName": "Kyle Allen"
+    },
+    "3116175": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3116175",
+      "longName": "Amani Oruwariye"
+    },
+    "3121415": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3121415",
+      "longName": "Malik Hooker"
+    },
+    "3122135": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3122135",
+      "longName": "Donovan Wilson"
+    },
+    "3123867": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "3123867",
+      "longName": "Calvin Anderson"
+    },
+    "3124067": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.14"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "3124067",
+      "longName": "Terrell Edmunds"
+    },
+    "3125280": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "222",
+        "punts": "5",
+        "puntAvg": "44.4",
+        "puntsin20": "2",
+        "puntTouchBacks": "1",
+        "puntLong": "48"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "3125280",
+      "longName": "Corliss Waitman"
+    },
+    "3676833": {
+      "gameID": "20241006_DAL@PIT",
+      "Rushing": {
+        "rushAvg": "-6.0",
+        "rushYds": "-6",
+        "carries": "1",
+        "longRush": "-6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "34",
+        "targets": "5",
+        "recYds": "50",
+        "recAvg": "12.5"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.29",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "22",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "38",
+        "kickReturnAvg": "38.0",
+        "kickReturnLong": "38"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "3676833",
+      "longName": "KaVontae Turpin"
+    },
+    "3843769": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "74",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "2",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3843769",
+      "longName": "Donte Jackson"
+    },
+    "3914397": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.22",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "3914397",
+      "longName": "Scotty Miller"
+    },
+    "3915834": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "76",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "3915834",
+      "longName": "Terence Steele"
+    },
+    "3925345": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "74",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3925345",
+      "longName": "Minkah Fitzpatrick"
+    },
+    "3929846": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.86"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3929846",
+      "longName": "DeShon Elliott"
+    },
+    "3930066": {
+      "gameID": "20241006_DAL@PIT",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "5",
+        "recYds": "26",
+        "recAvg": "8.7"
+      },
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.81",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "47",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "3930066",
+      "longName": "Van Jefferson"
+    },
+    "3953687": {
+      "gameID": "20241006_DAL@PIT",
+      "scoringPlays": [
+        {
+          "score": "Brandon Aubrey 55 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "3",
+          "teamID": "9",
+          "scoreDetails": "6 plays, 21 yards, 2:25",
+          "scoreType": "FG",
+          "scoreTime": "12:35",
+          "team": "DAL",
+          "playerIDs": [
+            "3953687"
+          ]
+        },
+        {
+          "score": "Brandon Aubrey 33 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "6",
+          "teamID": "9",
+          "scoreDetails": "8 plays, 51 yards, 3:29",
+          "scoreType": "FG",
+          "scoreTime": "8:51",
+          "team": "DAL",
+          "playerIDs": [
+            "3953687"
+          ]
+        },
+        {
+          "score": "Rico Dowdle 22 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "10",
+          "awayScore": "13",
+          "teamID": "9",
+          "scoreDetails": "16 plays, 90 yards, 8:32",
+          "scoreType": "TD",
+          "scoreTime": "13:51",
+          "team": "DAL",
+          "playerIDs": [
+            "2577417",
+            "4038815",
+            "3953687"
+          ]
+        },
+        {
+          "score": "Jalen Tolbert 4 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "20",
+          "teamID": "9",
+          "scoreDetails": "15 plays, 70 yards, 4:36",
+          "scoreType": "TD",
+          "scoreTime": "0:20",
+          "team": "DAL",
+          "playerIDs": [
+            "2577417",
+            "4249417",
+            "3953687"
+          ]
+        }
+      ],
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.46",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "55",
+        "fgMade": "2",
+        "fgAttempts": "3",
+        "xpMade": "2",
+        "fgPct": "67.0",
+        "kickingPts": "8",
+        "xpAttempts": "2",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "3953687",
+      "longName": "Brandon Aubrey"
+    },
+    "4034959": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4034959",
+      "longName": "Jeremiah Moon"
+    },
+    "4035198": {
+      "gameID": "20241006_DAL@PIT",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "1",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.09",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4035198",
+      "longName": "Brandon Johnson"
+    },
+    "4035253": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4035253",
+      "longName": "Ryan McCollum"
+    },
+    "4035798": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "14",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.18"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4035798",
+      "longName": "Isaiahh Loudermilk"
+    },
+    "4035840": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4035840",
+      "longName": "Osa Odighizuwa"
+    },
+    "4036132": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.90"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4036132",
+      "longName": "Chauncey Golston"
+    },
+    "4038815": {
+      "gameID": "20241006_DAL@PIT",
+      "Rushing": {
+        "rushAvg": "4.4",
+        "rushYds": "87",
+        "carries": "20",
+        "longRush": "13",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "22",
+        "targets": "2",
+        "recYds": "27",
+        "recAvg": "13.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Rico Dowdle 22 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "10",
+          "awayScore": "13",
+          "teamID": "9",
+          "scoreDetails": "16 plays, 90 yards, 8:32",
+          "scoreType": "TD",
+          "scoreTime": "13:51",
+          "team": "DAL",
+          "playerIDs": [
+            "2577417",
+            "4038815",
+            "3953687"
+          ]
+        }
+      ],
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.50",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "38",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4038815",
+      "longName": "Rico Dowdle"
+    },
+    "4039274": {
+      "gameID": "20241006_DAL@PIT",
+      "Rushing": {
+        "rushAvg": "4.5",
+        "rushYds": "9",
+        "carries": "2",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.58",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4039274",
+      "longName": "Jonathan Ward"
+    },
+    "4040966": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4040966",
+      "longName": "Trevon Diggs"
+    },
+    "4240900": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240900",
+      "longName": "Buddy Johnson"
+    },
+    "4240920": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4240920",
+      "longName": "Dan Moore Jr."
+    },
+    "4241087": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4241087",
+      "longName": "Brock Hoffman"
+    },
+    "4241389": {
+      "gameID": "20241006_DAL@PIT",
+      "Rushing": {
+        "rushAvg": "2.0",
+        "rushYds": "2",
+        "carries": "1",
+        "longRush": "2",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "27",
+        "targets": "9",
+        "recYds": "62",
+        "recAvg": "12.4"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.87",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4241389",
+      "longName": "CeeDee Lamb"
+    },
+    "4241457": {
+      "gameID": "20241006_DAL@PIT",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "42",
+        "carries": "14",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "20",
+        "targets": "2",
+        "recYds": "35",
+        "recAvg": "17.5"
+      },
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.74",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4241457",
+      "longName": "Najee Harris"
+    },
+    "4241921": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4241921",
+      "longName": "Markquese Bell"
+    },
+    "4241961": {
+      "gameID": "20241006_DAL@PIT",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "16",
+        "targets": "4",
+        "recYds": "23",
+        "recAvg": "11.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Connor Heyward 16 Yd pass from Justin Fields (Chris Boswell Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "6",
+          "teamID": "26",
+          "scoreDetails": "6 plays, 72 yards, 3:10",
+          "scoreType": "TD",
+          "scoreTime": "11:50",
+          "team": "PIT",
+          "playerIDs": [
+            "4362887",
+            "4241961",
+            "17372"
+          ]
+        }
+      ],
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.22",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4241961",
+      "longName": "Connor Heyward"
+    },
+    "4242207": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "76",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242207",
+      "longName": "Patrick Queen"
+    },
+    "4242355": {
+      "gameID": "20241006_DAL@PIT",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "27",
+        "targets": "7",
+        "recYds": "70",
+        "recAvg": "11.7"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.75",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242355",
+      "longName": "Jake Ferguson"
+    },
+    "4243389": {
+      "gameID": "20241006_DAL@PIT",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "2",
+        "recYds": "6",
+        "recAvg": "6.0"
+      },
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.76",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4243389",
+      "longName": "Calvin Austin III"
+    },
+    "4248068": {
+      "gameID": "20241006_DAL@PIT",
+      "Rushing": {
+        "rushAvg": "3.5",
+        "rushYds": "14",
+        "carries": "4",
+        "longRush": "5",
+        "rushTD": "0"
+      },
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "4",
+        "kickReturnTD": "0",
+        "kickReturnYds": "101",
+        "kickReturnAvg": "25.3",
+        "kickReturnLong": "32"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4248068",
+      "longName": "Aaron Shampklin"
+    },
+    "4249342": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4249342",
+      "longName": "Mark Robinson"
+    },
+    "4249417": {
+      "gameID": "20241006_DAL@PIT",
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "1",
+        "longRec": "48",
+        "targets": "10",
+        "recYds": "87",
+        "recAvg": "12.4"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jalen Tolbert 4 Yd pass from Dak Prescott (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "20",
+          "teamID": "9",
+          "scoreDetails": "15 plays, 70 yards, 4:36",
+          "scoreType": "TD",
+          "scoreTime": "0:20",
+          "team": "DAL",
+          "playerIDs": [
+            "2577417",
+            "4249417",
+            "3953687"
+          ]
+        }
+      ],
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.89",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4249417",
+      "longName": "Jalen Tolbert"
+    },
+    "4250969": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4250969",
+      "longName": "Rodney Williams"
+    },
+    "4259252": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4259252",
+      "longName": "James Pierre"
+    },
+    "4360590": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "18",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360590",
+      "longName": "Juanyeh Thomas"
+    },
+    "4360967": {
+      "gameID": "20241006_DAL@PIT",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "3",
+        "recYds": "20",
+        "recAvg": "10.0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.20",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4360967",
+      "longName": "Brevyn Spann-Ford"
+    },
+    "4361411": {
+      "gameID": "20241006_DAL@PIT",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "1",
+        "longRec": "19",
+        "targets": "3",
+        "recYds": "22",
+        "recAvg": "7.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Pat Freiermuth 6 Yd pass from Justin Fields (Chris Boswell Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "13",
+          "teamID": "26",
+          "scoreDetails": "12 plays, 63 yards, 5:32",
+          "scoreType": "TD",
+          "scoreTime": "4:56",
+          "team": "PIT",
+          "playerIDs": [
+            "4362887",
+            "4361411",
+            "17372"
+          ]
+        }
+      ],
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.79",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "46",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4361411",
+      "longName": "Pat Freiermuth"
+    },
+    "4361652": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361652",
+      "longName": "Payton Wilson"
+    },
+    "4362088": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4362088",
+      "longName": "DeMarvion Overshown"
+    },
+    "4362636": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362636",
+      "longName": "Damone Clark"
+    },
+    "4362855": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "17",
+        "stSnapPct": "0.71",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4362855",
+      "longName": "Israel Mukuamu"
+    },
+    "4362887": {
+      "gameID": "20241006_DAL@PIT",
+      "Rushing": {
+        "rushAvg": "4.5",
+        "rushYds": "27",
+        "carries": "6",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "36.0",
+        "rtg": "93.3",
+        "sacked": "3-16",
+        "passAttempts": "27",
+        "passAvg": "4.9",
+        "passTD": "2",
+        "passYds": "131",
+        "int": "0",
+        "passCompletions": "15"
+      },
+      "scoringPlays": [
+        {
+          "score": "Connor Heyward 16 Yd pass from Justin Fields (Chris Boswell Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "6",
+          "teamID": "26",
+          "scoreDetails": "6 plays, 72 yards, 3:10",
+          "scoreType": "TD",
+          "scoreTime": "11:50",
+          "team": "PIT",
+          "playerIDs": [
+            "4362887",
+            "4241961",
+            "17372"
+          ]
+        },
+        {
+          "score": "Pat Freiermuth 6 Yd pass from Justin Fields (Chris Boswell Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "13",
+          "teamID": "26",
+          "scoreDetails": "12 plays, 63 yards, 5:32",
+          "scoreType": "TD",
+          "scoreTime": "4:56",
+          "team": "PIT",
+          "playerIDs": [
+            "4362887",
+            "4361411",
+            "17372"
+          ]
+        }
+      ],
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.97",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "56",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4362887",
+      "longName": "Justin Fields"
+    },
+    "4363052": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.75"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4363052",
+      "longName": "Beanie Bishop Jr."
+    },
+    "4368304": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4368304",
+      "longName": "Mason McCormick"
+    },
+    "4372056": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.02",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4372056",
+      "longName": "Spencer Anderson"
+    },
+    "4372096": {
+      "gameID": "20241006_DAL@PIT",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "2",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.26",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4372096",
+      "longName": "Luke Schoonmaker"
+    },
+    "4383396": {
+      "gameID": "20241006_DAL@PIT",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "6",
+        "carries": "2",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "18",
+        "targets": "1",
+        "recYds": "18",
+        "recAvg": "18.0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "23",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4383396",
+      "longName": "Hunter Luepke"
+    },
+    "4426344": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4426344",
+      "longName": "Andrew Booth Jr."
+    },
+    "4426347": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.48"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426347",
+      "longName": "Mazi Smith"
+    },
+    "4426354": {
+      "gameID": "20241006_DAL@PIT",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "21",
+        "targets": "7",
+        "recYds": "26",
+        "recAvg": "8.7"
+      },
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.59",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4426354",
+      "longName": "George Pickens"
+    },
+    "4426359": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.16"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426359",
+      "longName": "DeMarvin Leal"
+    },
+    "4426506": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "75",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "16",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4426506",
+      "longName": "Joey Porter Jr."
+    },
+    "4426663": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "76",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4426663",
+      "longName": "Cooper Beebe"
+    },
+    "4426694": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.59"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4426694",
+      "longName": "Keeanu Benton"
+    },
+    "4427816": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "14",
+        "stSnapPct": "0.58",
+        "offSnap": "0",
+        "defSnapPct": "0.41"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4427816",
+      "longName": "Marist Liufau"
+    },
+    "4428990": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4428990",
+      "longName": "Broderick Jones"
+    },
+    "4429164": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "Defense": {
+        "totalTackles": "2",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4429164",
+      "longName": "Nick Herbig"
+    },
+    "4429775": {
+      "gameID": "20241006_DAL@PIT",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "-2",
+        "targets": "0",
+        "recYds": "-2",
+        "recAvg": "0.0"
+      },
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4429775",
+      "longName": "Zach Frazier"
+    },
+    "4429996": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.07"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429996",
+      "longName": "Marshawn Kneeland"
+    },
+    "4430379": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4430379",
+      "longName": "Asim Richards"
+    },
+    "4430802": {
+      "gameID": "20241006_DAL@PIT",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "2",
+        "recYds": "5",
+        "recAvg": "5.0"
+      },
+      "teamID": "26",
+      "snapCounts": {
+        "offSnapPct": "0.52",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "team": "PIT",
+      "teamAbv": "PIT",
+      "playerID": "4430802",
+      "longName": "Darnell Washington"
+    },
+    "4568652": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "76",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4568652",
+      "longName": "Tyler Smith"
+    },
+    "4609048": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "23",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4609048",
+      "longName": "Tyler Guyton"
+    },
+    "4685120": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.70",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4685120",
+      "longName": "T.J. Bass"
+    },
+    "4689333": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.60"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4689333",
+      "longName": "Tyrus Wheat"
+    },
+    "4692835": {
+      "gameID": "20241006_DAL@PIT",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "1",
+        "recYds": "10",
+        "recAvg": "10.0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.49",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4692835",
+      "longName": "Jalen Brooks"
+    },
+    "5083754": {
+      "gameID": "20241006_DAL@PIT",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.13",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "5083754",
+      "longName": "Ryan Flournoy"
+    }
+  },
+  "arenaCapacity": "68,400",
+  "arena": "Acrisure Stadium",
+  "homePts": "17",
+  "awayResult": "W",
+  "teamIDAway": "9",
+  "Referees": "Tim Podraza, Jim Quirk, Shawn Hochuli, Jimmy Russell, Terry Killens Jr., Patrick Holt, Jason Ledet",
+  "gameClock": "",
+  "awayPts": "20",
+  "gameID": "20241006_DAL@PIT",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

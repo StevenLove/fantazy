@@ -1,0 +1,2784 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "IND",
+      "teamID": "14",
+      "defTD": "0",
+      "defensiveInterceptions": "3",
+      "sacks": "1",
+      "ydsAllowed": "193",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "25",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "DEN",
+      "teamID": "10",
+      "defTD": "1",
+      "defensiveInterceptions": "2",
+      "sacks": "2",
+      "ydsAllowed": "310",
+      "fumblesRecovered": "3",
+      "ptsAllowed": "13",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "310",
+      "rushingAttempts": "32",
+      "rushingYards": "149",
+      "fumblesLost": "3",
+      "penalties": "8-69",
+      "totalPlays": "72",
+      "possession": "31:32",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "17-38",
+      "passingFirstDowns": "8",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "2-11",
+      "thirdDownEfficiency": "4-15",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.3",
+      "redZoneScoredAndAttempted": "0-1",
+      "teamID": "14",
+      "defensiveInterceptions": "3",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "15",
+      "rushingFirstDowns": "7",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "18",
+      "passTD": "0",
+      "team": "IND",
+      "blockedXP": "0",
+      "teamAbv": "IND",
+      "firstDownsFromPenalties": "3",
+      "fourthDownEfficiency": "2-4",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "161",
+      "yardsPerRush": "4.7",
+      "snapCounts": {
+        "totalSpecialTeams": "30",
+        "totalOffensive": "76",
+        "totalDefensive": "63"
+      },
+      "turnovers": "5",
+      "yardsPerPass": "4.0"
+    },
+    "home": {
+      "totalYards": "193",
+      "rushingAttempts": "27",
+      "rushingYards": "72",
+      "fumblesLost": "0",
+      "penalties": "6-58",
+      "totalPlays": "61",
+      "possession": "28:28",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "20-33",
+      "passingFirstDowns": "5",
+      "interceptionsThrown": "3",
+      "sacksAndYardsLost": "1-9",
+      "thirdDownEfficiency": "6-17",
+      "blockedPunt": "0",
+      "yardsPerPlay": "3.2",
+      "redZoneScoredAndAttempted": "2-2",
+      "teamID": "10",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "1",
+      "totalDrives": "15",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "13",
+      "passTD": "3",
+      "team": "DEN",
+      "blockedXP": "0",
+      "teamAbv": "DEN",
+      "firstDownsFromPenalties": "3",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "121",
+      "yardsPerRush": "2.7",
+      "snapCounts": {
+        "totalSpecialTeams": "30",
+        "totalOffensive": "63",
+        "totalDefensive": "76"
+      },
+      "turnovers": "3",
+      "yardsPerPass": "3.6"
+    }
+  },
+  "gameDate": "20241215",
+  "scoringPlays": [
+    {
+      "score": "Anthony Richardson 23 Yd Rush (Matt Gay Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "7",
+      "teamID": "14",
+      "scoreDetails": "10 plays, 70 yards, 4:08",
+      "scoreType": "TD",
+      "scoreTime": "10:52",
+      "team": "IND",
+      "playerIDs": [
+        "4429084",
+        "4249087"
+      ]
+    },
+    {
+      "score": "Matt Gay 37 Yd Field Goal ",
+      "scorePeriod": "Q2",
+      "homeScore": "0",
+      "awayScore": "10",
+      "teamID": "14",
+      "scoreDetails": "14 plays, 52 yards, 7:17",
+      "scoreType": "FG",
+      "scoreTime": "14:49",
+      "team": "IND",
+      "playerIDs": [
+        "4249087"
+      ]
+    },
+    {
+      "score": "Adam Trautman 13 Yd pass from Bo Nix (Wil Lutz Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "7",
+      "awayScore": "10",
+      "teamID": "10",
+      "scoreDetails": "9 plays, 54 yards, 4:31",
+      "scoreType": "TD",
+      "scoreTime": "5:29",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "3911853",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Matt Gay 49 Yd Field Goal ",
+      "scorePeriod": "Q2",
+      "homeScore": "7",
+      "awayScore": "13",
+      "teamID": "14",
+      "scoreDetails": "6 plays, 15 yards, 1:32",
+      "scoreType": "FG",
+      "scoreTime": "0:06",
+      "team": "IND",
+      "playerIDs": [
+        "4249087"
+      ]
+    },
+    {
+      "score": "Wil Lutz 44 Yd Field Goal",
+      "scorePeriod": "Q3",
+      "homeScore": "10",
+      "awayScore": "13",
+      "teamID": "10",
+      "scoreDetails": "4 plays, 5 yards, 1:56",
+      "scoreType": "FG",
+      "scoreTime": "5:18",
+      "team": "DEN",
+      "playerIDs": [
+        "2985659"
+      ]
+    },
+    {
+      "score": "Nate Adkins 15 Yd pass from Bo Nix (Wil Lutz Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "17",
+      "awayScore": "13",
+      "teamID": "10",
+      "scoreDetails": "2 plays, 15 yards, 0:10",
+      "scoreType": "TD",
+      "scoreTime": "13:51",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "4383440",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Nik Bonitto 50 Yd Fumble Recovery (Wil Lutz Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "24",
+      "awayScore": "13",
+      "teamID": "10",
+      "scoreDetails": "3 plays, 20 yards, 1:22",
+      "scoreType": "TD",
+      "scoreTime": "12:29",
+      "team": "DEN",
+      "playerIDs": [
+        "4360259",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Courtland Sutton 20 Yd pass from Bo Nix (Wil Lutz Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "31",
+      "awayScore": "13",
+      "teamID": "10",
+      "scoreDetails": "6 plays, 35 yards, 1:51",
+      "scoreType": "TD",
+      "scoreTime": "5:48",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "3128429",
+        "2985659"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "10",
+  "homeResult": "W",
+  "away": "IND",
+  "gameWeek": "Week 15",
+  "attendance": "76,496",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "7",
+      "Q2": "6",
+      "Q3": "0",
+      "Q4": "0",
+      "teamID": "14",
+      "currentlyInPossession": "False",
+      "totalPts": "13",
+      "teamAbv": "IND"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "7",
+      "Q3": "3",
+      "Q4": "21",
+      "teamID": "10",
+      "currentlyInPossession": "False",
+      "totalPts": "31",
+      "teamAbv": "DEN"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Denver, CO",
+  "home": "DEN",
+  "playerStats": {
+    "2515270": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.11",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.70",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2515270",
+      "longName": "Michael Burton"
+    },
+    "2566045": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "2566045",
+      "longName": "Luke Rhodes"
+    },
+    "2577619": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "287",
+        "punts": "6",
+        "puntAvg": "47.8",
+        "puntsin20": "3",
+        "puntTouchBacks": "2",
+        "puntLong": "57"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2577619",
+      "longName": "Riley Dixon"
+    },
+    "2971282": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.76"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "2971282",
+      "longName": "DeForest Buckner"
+    },
+    "2976632": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "76",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "2976632",
+      "longName": "Mark Glowinski"
+    },
+    "2985659": {
+      "gameID": "20241215_IND@DEN",
+      "scoringPlays": [
+        {
+          "score": "Adam Trautman 13 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "9 plays, 54 yards, 4:31",
+          "scoreType": "TD",
+          "scoreTime": "5:29",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3911853",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Wil Lutz 44 Yd Field Goal",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "13",
+          "teamID": "10",
+          "scoreDetails": "4 plays, 5 yards, 1:56",
+          "scoreType": "FG",
+          "scoreTime": "5:18",
+          "team": "DEN",
+          "playerIDs": [
+            "2985659"
+          ]
+        },
+        {
+          "score": "Nate Adkins 15 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "13",
+          "teamID": "10",
+          "scoreDetails": "2 plays, 15 yards, 0:10",
+          "scoreType": "TD",
+          "scoreTime": "13:51",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4383440",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Nik Bonitto 50 Yd Fumble Recovery (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "24",
+          "awayScore": "13",
+          "teamID": "10",
+          "scoreDetails": "3 plays, 20 yards, 1:22",
+          "scoreType": "TD",
+          "scoreTime": "12:29",
+          "team": "DEN",
+          "playerIDs": [
+            "4360259",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Courtland Sutton 20 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "31",
+          "awayScore": "13",
+          "teamID": "10",
+          "scoreDetails": "6 plays, 35 yards, 1:51",
+          "scoreType": "TD",
+          "scoreTime": "5:48",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3128429",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "44",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "4",
+        "fgPct": "100.0",
+        "kickingPts": "7",
+        "xpAttempts": "4",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2985659",
+      "longName": "Wil Lutz"
+    },
+    "2998565": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "23",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "2998565",
+      "longName": "Mo Alie-Cox"
+    },
+    "3040513": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.43"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "3040513",
+      "longName": "Tyquan Lewis"
+    },
+    "3051750": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3051750",
+      "longName": "Zach Cunningham"
+    },
+    "3052885": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3052885",
+      "longName": "Mike McGlinchey"
+    },
+    "3071353": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "12",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3071353",
+      "longName": "E.J. Speed"
+    },
+    "3115249": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "10",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.19"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "3115249",
+      "longName": "Taven Bryan"
+    },
+    "3120464": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.32"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "3120464",
+      "longName": "John Franklin-Myers"
+    },
+    "3124005": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "63",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "4",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3124005",
+      "longName": "Zaire Franklin"
+    },
+    "3128429": {
+      "gameID": "20241215_IND@DEN",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "1",
+        "longRec": "20",
+        "targets": "9",
+        "recYds": "32",
+        "recAvg": "10.7"
+      },
+      "scoringPlays": [
+        {
+          "score": "Courtland Sutton 20 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "31",
+          "awayScore": "13",
+          "teamID": "10",
+          "scoreDetails": "6 plays, 35 yards, 1:51",
+          "scoreType": "TD",
+          "scoreTime": "5:48",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3128429",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.90",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3128429",
+      "longName": "Courtland Sutton"
+    },
+    "3128630": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "26",
+        "stSnapPct": "0.87",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "3128630",
+      "longName": "Chris Lammons"
+    },
+    "3129308": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "76",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "3129308",
+      "longName": "Quenton Nelson"
+    },
+    "3134448": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.80",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3134448",
+      "longName": "Tremon Smith"
+    },
+    "3139166": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3139166",
+      "longName": "Mitchell Fraboni"
+    },
+    "3859006": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.77",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "3859006",
+      "longName": "Ronnie Harrison Jr."
+    },
+    "3894915": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.32"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3894915",
+      "longName": "D.J. Jones"
+    },
+    "3911853": {
+      "gameID": "20241215_IND@DEN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "13",
+        "targets": "2",
+        "recYds": "20",
+        "recAvg": "10.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Adam Trautman 13 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "9 plays, 54 yards, 4:31",
+          "scoreType": "TD",
+          "scoreTime": "5:29",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3911853",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.43",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3911853",
+      "longName": "Adam Trautman"
+    },
+    "3914922": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "259",
+        "punts": "5",
+        "puntAvg": "51.8",
+        "puntsin20": "0",
+        "puntTouchBacks": "0",
+        "puntLong": "54"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "3914922",
+      "longName": "Rigoberto Sanchez"
+    },
+    "3915282": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "69",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.91"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "4",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915282",
+      "longName": "Zach Allen"
+    },
+    "3915470": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "76",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "3915470",
+      "longName": "Danny Pinter"
+    },
+    "3919548": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.93"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3919548",
+      "longName": "Justin Strnad"
+    },
+    "3921936": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.08",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3921936",
+      "longName": "Matt Peart"
+    },
+    "3926229": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "76",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3926229",
+      "longName": "Cody Barton"
+    },
+    "3929850": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "76",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3929850",
+      "longName": "P.J. Locke"
+    },
+    "4035661": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035661",
+      "longName": "Julian Blackmon"
+    },
+    "4035662": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4035662",
+      "longName": "Garett Bolles"
+    },
+    "4035687": {
+      "gameID": "20241215_IND@DEN",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "17",
+        "targets": "9",
+        "recYds": "58",
+        "recAvg": "9.7"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.96",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4035687",
+      "longName": "Michael Pittman Jr."
+    },
+    "4037559": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "21",
+        "stSnapPct": "0.70",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4037559",
+      "longName": "Devon Key"
+    },
+    "4037650": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.95",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4037650",
+      "longName": "Ben Powers"
+    },
+    "4039018": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4039018",
+      "longName": "Luke Wattenberg"
+    },
+    "4039057": {
+      "gameID": "20241215_IND@DEN",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.33",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039057",
+      "longName": "Lil'Jordan Humphrey"
+    },
+    "4039059": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.93"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "3"
+      },
+      "playerID": "4039059",
+      "longName": "Brandon Jones"
+    },
+    "4039064": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.51"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039064",
+      "longName": "Malcolm Roach"
+    },
+    "4039160": {
+      "gameID": "20241215_IND@DEN",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "18",
+        "targets": "4",
+        "recYds": "47",
+        "recAvg": "15.7"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.36",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.67",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4039160",
+      "longName": "Kylen Granson"
+    },
+    "4040608": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4040608",
+      "longName": "Jonathon Cooper"
+    },
+    "4040965": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.25"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4040965",
+      "longName": "Raekwon Davis"
+    },
+    "4046536": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4046536",
+      "longName": "David Long Jr."
+    },
+    "4058825": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "10",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.59"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4058825",
+      "longName": "Grover Stewart"
+    },
+    "4218312": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "62",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4218312",
+      "longName": "Kenny Moore II"
+    },
+    "4240255": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "27",
+        "stSnapPct": "0.90",
+        "offSnap": "0",
+        "defSnapPct": "0.33"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240255",
+      "longName": "Grant Stuard"
+    },
+    "4240551": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.06",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4240551",
+      "longName": "Alex Palczewski"
+    },
+    "4240707": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "8",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.26"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4240707",
+      "longName": "Damarri Mathis"
+    },
+    "4241401": {
+      "gameID": "20241215_IND@DEN",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "3",
+        "carries": "1",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "2",
+        "recYds": "9",
+        "recAvg": "4.5"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.24",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4241401",
+      "longName": "Trey Sermon"
+    },
+    "4242335": {
+      "gameID": "20241215_IND@DEN",
+      "Rushing": {
+        "rushAvg": "4.9",
+        "rushYds": "107",
+        "carries": "22",
+        "longRush": "40",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "2",
+        "recYds": "4",
+        "recAvg": "4.0"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.68",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "52",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4242335",
+      "longName": "Jonathan Taylor"
+    },
+    "4242503": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4242503",
+      "longName": "Alex Forsyth"
+    },
+    "4242659": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.62"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242659",
+      "longName": "Dayo Odeyingbo"
+    },
+    "4248455": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.06"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4248455",
+      "longName": "Rodney Thomas II"
+    },
+    "4249087": {
+      "gameID": "20241215_IND@DEN",
+      "scoringPlays": [
+        {
+          "score": "Anthony Richardson 23 Yd Rush (Matt Gay Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "14",
+          "scoreDetails": "10 plays, 70 yards, 4:08",
+          "scoreType": "TD",
+          "scoreTime": "10:52",
+          "team": "IND",
+          "playerIDs": [
+            "4429084",
+            "4249087"
+          ]
+        },
+        {
+          "score": "Matt Gay 37 Yd Field Goal ",
+          "scorePeriod": "Q2",
+          "homeScore": "0",
+          "awayScore": "10",
+          "teamID": "14",
+          "scoreDetails": "14 plays, 52 yards, 7:17",
+          "scoreType": "FG",
+          "scoreTime": "14:49",
+          "team": "IND",
+          "playerIDs": [
+            "4249087"
+          ]
+        },
+        {
+          "score": "Matt Gay 49 Yd Field Goal ",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "13",
+          "teamID": "14",
+          "scoreDetails": "6 plays, 15 yards, 1:32",
+          "scoreType": "FG",
+          "scoreTime": "0:06",
+          "team": "IND",
+          "playerIDs": [
+            "4249087"
+          ]
+        }
+      ],
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "49",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "1",
+        "fgPct": "100.0",
+        "kickingPts": "7",
+        "xpAttempts": "1",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4249087",
+      "longName": "Matt Gay"
+    },
+    "4258194": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.56"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4258194",
+      "longName": "Kwity Paye"
+    },
+    "4260703": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "26",
+        "stSnapPct": "0.87",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4260703",
+      "longName": "Segun Olubi"
+    },
+    "4261090": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4261090",
+      "longName": "Jordan Jackson"
+    },
+    "4280416": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "43",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.68"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4280416",
+      "longName": "Samuel Womack III"
+    },
+    "4360078": {
+      "gameID": "20241215_IND@DEN",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "4",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.46",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360078",
+      "longName": "Alec Pierce"
+    },
+    "4360231": {
+      "gameID": "20241215_IND@DEN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "2",
+        "recYds": "8",
+        "recAvg": "4.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.38",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.53",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4360231",
+      "longName": "Lucas Krull"
+    },
+    "4360259": {
+      "gameID": "20241215_IND@DEN",
+      "scoringPlays": [
+        {
+          "score": "Nik Bonitto 50 Yd Fumble Recovery (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "24",
+          "awayScore": "13",
+          "teamID": "10",
+          "scoreDetails": "3 plays, 20 yards, 1:22",
+          "scoreType": "TD",
+          "scoreTime": "12:29",
+          "team": "DEN",
+          "playerIDs": [
+            "4360259",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.64"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "5",
+        "fumblesLost": "0",
+        "defTD": "1",
+        "forcedFumbles": "1",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4360259",
+      "longName": "Nik Bonitto"
+    },
+    "4361579": {
+      "gameID": "20241215_IND@DEN",
+      "Rushing": {
+        "rushAvg": "2.5",
+        "rushYds": "15",
+        "carries": "6",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "3",
+        "recYds": "8",
+        "recAvg": "4.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.54",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4361579",
+      "longName": "Javonte Williams"
+    },
+    "4362523": {
+      "gameID": "20241215_IND@DEN",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.24",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4362523",
+      "longName": "Will Mallory"
+    },
+    "4362580": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "76",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4362580",
+      "longName": "Bernhard Raimann"
+    },
+    "4370363": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4370363",
+      "longName": "Dalton Tucker"
+    },
+    "4371946": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4371946",
+      "longName": "Reese Taylor"
+    },
+    "4372012": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "74",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "4",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4372012",
+      "longName": "Pat Surtain II"
+    },
+    "4372085": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4372085",
+      "longName": "Cameron McGrone"
+    },
+    "4383440": {
+      "gameID": "20241215_IND@DEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "1",
+        "longRec": "15",
+        "targets": "1",
+        "recYds": "15",
+        "recAvg": "15.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Nate Adkins 15 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "13",
+          "teamID": "10",
+          "scoreDetails": "2 plays, 15 yards, 0:10",
+          "scoreType": "TD",
+          "scoreTime": "13:51",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4383440",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.46",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.70",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4383440",
+      "longName": "Nate Adkins"
+    },
+    "4426338": {
+      "gameID": "20241215_IND@DEN",
+      "Rushing": {
+        "rushAvg": "2.9",
+        "rushYds": "23",
+        "carries": "8",
+        "longRush": "16",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "14.5",
+        "rtg": "61.4",
+        "sacked": "1-9",
+        "passAttempts": "33",
+        "passAvg": "3.9",
+        "passTD": "3",
+        "passYds": "130",
+        "int": "3",
+        "passCompletions": "20"
+      },
+      "scoringPlays": [
+        {
+          "score": "Adam Trautman 13 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "9 plays, 54 yards, 4:31",
+          "scoreType": "TD",
+          "scoreTime": "5:29",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3911853",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Nate Adkins 15 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "13",
+          "teamID": "10",
+          "scoreDetails": "2 plays, 15 yards, 0:10",
+          "scoreType": "TD",
+          "scoreTime": "13:51",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4383440",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Courtland Sutton 20 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "31",
+          "awayScore": "13",
+          "teamID": "10",
+          "scoreDetails": "6 plays, 35 yards, 1:51",
+          "scoreType": "TD",
+          "scoreTime": "5:48",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3128429",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4426338",
+      "longName": "Bo Nix"
+    },
+    "4426403": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "63",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "5",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4426403",
+      "longName": "Nick Cross"
+    },
+    "4426473": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.56"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426473",
+      "longName": "Laiatu Latu"
+    },
+    "4427298": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "76",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4427298",
+      "longName": "Matt Goncalves"
+    },
+    "4427635": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "15",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4427635",
+      "longName": "Adetomiwa Adebawore"
+    },
+    "4428503": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.80",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4428503",
+      "longName": "JL Skinner"
+    },
+    "4429084": {
+      "gameID": "20241215_IND@DEN",
+      "Rushing": {
+        "rushAvg": "6.6",
+        "rushYds": "46",
+        "carries": "7",
+        "longRush": "23",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "27.5",
+        "rtg": "36.3",
+        "sacked": "2-11",
+        "passAttempts": "38",
+        "passAvg": "4.5",
+        "passTD": "0",
+        "passYds": "172",
+        "int": "2",
+        "passCompletions": "17"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "-1",
+        "targets": "1",
+        "recYds": "-1",
+        "recAvg": "-1.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Anthony Richardson 23 Yd Rush (Matt Gay Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "14",
+          "scoreDetails": "10 plays, 70 yards, 4:08",
+          "scoreType": "TD",
+          "scoreTime": "10:52",
+          "team": "IND",
+          "playerIDs": [
+            "4429084",
+            "4249087"
+          ]
+        }
+      ],
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "76",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4429084",
+      "longName": "Anthony Richardson"
+    },
+    "4429193": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.76"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4429193",
+      "longName": "Kris Abrams-Draine"
+    },
+    "4429636": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4429636",
+      "longName": "Blake Freeland"
+    },
+    "4429676": {
+      "gameID": "20241215_IND@DEN",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "3",
+        "carries": "1",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.67",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4429676",
+      "longName": "Tyler Goodson"
+    },
+    "4429684": {
+      "gameID": "20241215_IND@DEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "23",
+        "targets": "1",
+        "recYds": "23",
+        "recAvg": "23.0"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.40",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "36",
+        "puntReturnAvg": "18.0",
+        "puntReturnLong": "36",
+        "puntReturnTD": "0"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4429684",
+      "longName": "Anthony Gould"
+    },
+    "4430957": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4430957",
+      "longName": "Tanor Bortolini"
+    },
+    "4431280": {
+      "gameID": "20241215_IND@DEN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "5",
+        "recYds": "9",
+        "recAvg": "4.5"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.46",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4431280",
+      "longName": "Troy Franklin"
+    },
+    "4567462": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.76"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4567462",
+      "longName": "Ja'Quan McMillian"
+    },
+    "4569559": {
+      "gameID": "20241215_IND@DEN",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.60",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "38",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4569559",
+      "longName": "Devaughn Vele"
+    },
+    "4569682": {
+      "gameID": "20241215_IND@DEN",
+      "Rushing": {
+        "rushAvg": "2.6",
+        "rushYds": "13",
+        "carries": "5",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "1",
+        "recYds": "5",
+        "recAvg": "5.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.21",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4569682",
+      "longName": "Audric Estime"
+    },
+    "4597500": {
+      "gameID": "20241215_IND@DEN",
+      "Rushing": {
+        "rushAvg": "-10.0",
+        "rushYds": "-10",
+        "carries": "1",
+        "longRush": "-10",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "4",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.49",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4597500",
+      "longName": "Adonai Mitchell"
+    },
+    "4608138": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.94",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4608138",
+      "longName": "Quinn Meinerz"
+    },
+    "4685145": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "63",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4685145",
+      "longName": "Jaylon Jones"
+    },
+    "4685721": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.47",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4685721",
+      "longName": "Drew Sanders"
+    },
+    "4686472": {
+      "gameID": "20241215_IND@DEN",
+      "Rushing": {
+        "rushAvg": "0.0",
+        "rushYds": "0",
+        "carries": "1",
+        "longRush": "0",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "4",
+        "recYds": "20",
+        "recAvg": "5.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.25",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "16",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "3",
+        "puntReturnYds": "97",
+        "puntReturnAvg": "32.3",
+        "puntReturnLong": "61",
+        "puntReturnTD": "0"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4686472",
+      "longName": "Marvin Mims Jr."
+    },
+    "4687592": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "17",
+        "stSnapPct": "0.57",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4687592",
+      "longName": "Jonah Elliss"
+    },
+    "4688813": {
+      "gameID": "20241215_IND@DEN",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "22",
+        "targets": "8",
+        "recYds": "32",
+        "recAvg": "10.7"
+      },
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.76",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4688813",
+      "longName": "Josh Downs"
+    },
+    "4722893": {
+      "gameID": "20241215_IND@DEN",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "21",
+        "carries": "7",
+        "longRush": "12",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "3",
+        "recYds": "13",
+        "recAvg": "4.3"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.24",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4722893",
+      "longName": "Jaleel McLaughlin"
+    },
+    "4722908": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "14",
+      "snapCounts": {
+        "offSnapPct": "0.39",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.37",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "team": "IND",
+      "teamAbv": "IND",
+      "playerID": "4722908",
+      "longName": "Drew Ogletree"
+    },
+    "5216101": {
+      "gameID": "20241215_IND@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "18",
+        "stSnapPct": "0.60",
+        "offSnap": "0",
+        "defSnapPct": "0.29"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "5216101",
+      "longName": "Dondrea Tillman"
+    }
+  },
+  "arenaCapacity": "76,125",
+  "arena": "Empower Field at Mile High",
+  "homePts": "31",
+  "awayResult": "L",
+  "teamIDAway": "14",
+  "Referees": "Carl Cheffers, Martin Hankins, Eugene Hall, Mike Carr, Nathan Jones, Tripp Sutter, Brandon Cruse",
+  "gameClock": "",
+  "awayPts": "13",
+  "gameID": "20241215_IND@DEN",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

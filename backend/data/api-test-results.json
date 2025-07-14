@@ -1,0 +1,56 @@
+{
+  "sleeper": [
+    {
+      "endpoint": "/v1/players/nfl",
+      "status": 200,
+      "success": true,
+      "dataSize": 11373,
+      "sampleKeys": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "endpoint": "/v1/players/nfl/trending/add",
+      "status": 200,
+      "success": true,
+      "dataSize": 25
+    },
+    {
+      "endpoint": "/v1/state/nfl",
+      "status": 200,
+      "success": true,
+      "currentWeek": 0,
+      "season": "2025"
+    }
+  ],
+  "espn": [
+    {
+      "endpoint": "player_overview",
+      "path": "/apis/common/v3/sports/football/nfl/athletes/3895827/overview",
+      "status": 200,
+      "success": true,
+      "hasData": false
+    },
+    {
+      "endpoint": "player_gamelog",
+      "path": "/apis/common/v3/sports/football/nfl/athletes/3895827/gamelog",
+      "status": 200,
+      "success": true
+    },
+    {
+      "endpoint": "player_splits",
+      "path": "/apis/common/v3/sports/football/nfl/athletes/3895827/splits",
+      "status": 200,
+      "success": true,
+      "hasSplits": false
+    }
+  ],
+  "fantasypros": [
+    {
+      "error": "No API key available",
+      "success": false
+    }
+  ]
+}

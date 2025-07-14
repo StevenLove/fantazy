@@ -1,0 +1,2611 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "LV",
+      "teamID": "17",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "1",
+      "ydsAllowed": "316",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "22",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "LAC",
+      "teamID": "18",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "4",
+      "ydsAllowed": "296",
+      "fumblesRecovered": "2",
+      "ptsAllowed": "10",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "296",
+      "rushingAttempts": "22",
+      "rushingYards": "71",
+      "fumblesLost": "2",
+      "penalties": "2-15",
+      "totalPlays": "59",
+      "possession": "31:44",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "25-33",
+      "passingFirstDowns": "12",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "4-32",
+      "thirdDownEfficiency": "5-14",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.0",
+      "redZoneScoredAndAttempted": "0-1",
+      "teamID": "17",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "13",
+      "rushingFirstDowns": "1",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "14",
+      "passTD": "1",
+      "team": "LV",
+      "blockedXP": "0",
+      "teamAbv": "LV",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "0-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "225",
+      "yardsPerRush": "3.2",
+      "snapCounts": {
+        "totalSpecialTeams": "28",
+        "totalOffensive": "60",
+        "totalDefensive": "57"
+      },
+      "turnovers": "3",
+      "yardsPerPass": "6.1"
+    },
+    "home": {
+      "totalYards": "316",
+      "rushingAttempts": "27",
+      "rushingYards": "176",
+      "fumblesLost": "0",
+      "penalties": "7-50",
+      "totalPlays": "54",
+      "possession": "28:16",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "17-26",
+      "passingFirstDowns": "6",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "1-4",
+      "thirdDownEfficiency": "4-15",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.9",
+      "redZoneScoredAndAttempted": "2-4",
+      "teamID": "18",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "13",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "11",
+      "passTD": "1",
+      "team": "LAC",
+      "blockedXP": "0",
+      "teamAbv": "LAC",
+      "firstDownsFromPenalties": "0",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "140",
+      "yardsPerRush": "6.5",
+      "snapCounts": {
+        "totalSpecialTeams": "28",
+        "totalOffensive": "57",
+        "totalDefensive": "60"
+      },
+      "turnovers": "0",
+      "yardsPerPass": "5.2"
+    }
+  },
+  "gameDate": "20240908",
+  "scoringPlays": [
+    {
+      "score": "Cameron Dicker 53 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "0",
+      "teamID": "18",
+      "scoreDetails": "4 plays, 5 yards, 1:33",
+      "scoreType": "FG",
+      "scoreTime": "4:22",
+      "team": "LAC",
+      "playerIDs": [
+        "4362081"
+      ]
+    },
+    {
+      "score": "Alexander Mattison 31 Yd pass from Gardner Minshew (Daniel Carlson Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "7",
+      "teamID": "17",
+      "scoreDetails": "7 plays, 67 yards, 3:37",
+      "scoreType": "TD",
+      "scoreTime": "0:45",
+      "team": "LV",
+      "playerIDs": [
+        "4038524",
+        "4048244",
+        "3051909"
+      ]
+    },
+    {
+      "score": "Cameron Dicker 25 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "6",
+      "awayScore": "7",
+      "teamID": "18",
+      "scoreDetails": "4 plays, 5 yards, 0:47",
+      "scoreType": "FG",
+      "scoreTime": "0:26",
+      "team": "LAC",
+      "playerIDs": [
+        "4362081"
+      ]
+    },
+    {
+      "score": "Cameron Dicker 24 Yd Field Goal  ",
+      "scorePeriod": "Q3",
+      "homeScore": "9",
+      "awayScore": "7",
+      "teamID": "18",
+      "scoreDetails": "9 plays, 74 yards, 3:45",
+      "scoreType": "FG",
+      "scoreTime": "9:08",
+      "team": "LAC",
+      "playerIDs": [
+        "4362081"
+      ]
+    },
+    {
+      "score": "J.K. Dobbins 12 Yd Run (Cameron Dicker Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "16",
+      "awayScore": "7",
+      "teamID": "18",
+      "scoreDetails": "6 plays, 61 yards, 2:07",
+      "scoreType": "TD",
+      "scoreTime": "14:55",
+      "team": "LAC",
+      "playerIDs": [
+        "4241985",
+        "4362081"
+      ]
+    },
+    {
+      "score": "Daniel Carlson 32 Yd Field Goal  ",
+      "scorePeriod": "Q4",
+      "homeScore": "16",
+      "awayScore": "10",
+      "teamID": "17",
+      "scoreDetails": "8 plays, 56 yards, 4:25",
+      "scoreType": "FG",
+      "scoreTime": "10:30",
+      "team": "LV",
+      "playerIDs": [
+        "3051909"
+      ]
+    },
+    {
+      "score": "Ladd McConkey 10 Yd pass from Justin Herbert (Two-Point Run Conversion Failed)",
+      "scorePeriod": "Q4",
+      "homeScore": "22",
+      "awayScore": "10",
+      "teamID": "18",
+      "scoreDetails": "8 plays, 92 yards, 3:29",
+      "scoreType": "TD",
+      "scoreTime": "3:40",
+      "team": "LAC",
+      "playerIDs": [
+        "4038941",
+        "4612826"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "18",
+  "homeResult": "W",
+  "away": "LV",
+  "gameWeek": "Week 1",
+  "attendance": "70,240",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "7",
+      "Q2": "0",
+      "Q3": "0",
+      "Q4": "3",
+      "teamID": "17",
+      "currentlyInPossession": "False",
+      "totalPts": "10",
+      "teamAbv": "LV"
+    },
+    "home": {
+      "Q1": "3",
+      "Q2": "3",
+      "Q3": "3",
+      "Q4": "13",
+      "teamID": "18",
+      "currentlyInPossession": "False",
+      "totalPts": "22",
+      "teamAbv": "LAC"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Inglewood, CA",
+  "home": "LAC",
+  "playerStats": {
+    "15151": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "15151",
+      "longName": "Josh Harris"
+    },
+    "15846": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.60"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "15846",
+      "longName": "John Jenkins"
+    },
+    "16710": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "43",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "3",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1.5",
+        "passDeflections": "1"
+      },
+      "playerID": "16710",
+      "longName": "Khalil Mack"
+    },
+    "16800": {
+      "gameID": "20240908_LV@LAC",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "23",
+        "targets": "6",
+        "recYds": "59",
+        "recAvg": "11.8"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.97",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "16800",
+      "longName": "Davante Adams"
+    },
+    "2511973": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.12",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "2511973",
+      "longName": "Eric Tomlinson"
+    },
+    "2576336": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "28",
+        "kickReturnAvg": "28.0",
+        "kickReturnLong": "28"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "2576336",
+      "longName": "Ameer Abdullah"
+    },
+    "2576702": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.50"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2576702",
+      "longName": "Bud Dupree"
+    },
+    "2577346": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "2577346",
+      "longName": "Cody Whitehair"
+    },
+    "2579621": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.50"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2579621",
+      "longName": "Denzel Perryman"
+    },
+    "2972342": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.93"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2972342",
+      "longName": "Adam Butler"
+    },
+    "2978278": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "2978278",
+      "longName": "Andrus Peat"
+    },
+    "3051389": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.67"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "6",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3051389",
+      "longName": "Joey Bosa"
+    },
+    "3051909": {
+      "gameID": "20240908_LV@LAC",
+      "scoringPlays": [
+        {
+          "score": "Alexander Mattison 31 Yd pass from Gardner Minshew (Daniel Carlson Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "17",
+          "scoreDetails": "7 plays, 67 yards, 3:37",
+          "scoreType": "TD",
+          "scoreTime": "0:45",
+          "team": "LV",
+          "playerIDs": [
+            "4038524",
+            "4048244",
+            "3051909"
+          ]
+        },
+        {
+          "score": "Daniel Carlson 32 Yd Field Goal  ",
+          "scorePeriod": "Q4",
+          "homeScore": "16",
+          "awayScore": "10",
+          "teamID": "17",
+          "scoreDetails": "8 plays, 56 yards, 4:25",
+          "scoreType": "FG",
+          "scoreTime": "10:30",
+          "team": "LV",
+          "playerIDs": [
+            "3051909"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "32",
+        "fgMade": "1",
+        "fgAttempts": "2",
+        "xpMade": "1",
+        "fgPct": "50.0",
+        "kickingPts": "4",
+        "xpAttempts": "1",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3051909",
+      "longName": "Daniel Carlson"
+    },
+    "3051926": {
+      "gameID": "20240908_LV@LAC",
+      "Rushing": {
+        "rushAvg": "2.4",
+        "rushYds": "26",
+        "carries": "11",
+        "longRush": "10",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "2",
+        "targets": "1",
+        "recYds": "2",
+        "recAvg": "2.0"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.42",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "3051926",
+      "longName": "Gus Edwards"
+    },
+    "3054842": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "3054842",
+      "longName": "Bradley Bozeman"
+    },
+    "3059620": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.48"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "3059620",
+      "longName": "Morgan Fox"
+    },
+    "3125114": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "3",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "3125114",
+      "longName": "Poona Ford"
+    },
+    "3126368": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "332",
+        "punts": "7",
+        "puntAvg": "47.4",
+        "puntsin20": "1",
+        "puntTouchBacks": "2",
+        "puntLong": "56"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "3126368",
+      "longName": "JK Scott"
+    },
+    "3127292": {
+      "gameID": "20240908_LV@LAC",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "1",
+        "recYds": "13",
+        "recAvg": "13.0"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.44",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "25",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "3127292",
+      "longName": "Will Dissly"
+    },
+    "3129446": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "7",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3129446",
+      "longName": "Robert Spillane"
+    },
+    "3134312": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3134312",
+      "longName": "Kolton Miller"
+    },
+    "3139368": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3139368",
+      "longName": "Marcus Epps"
+    },
+    "3686689": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "265",
+        "punts": "5",
+        "puntAvg": "53.0",
+        "puntsin20": "3",
+        "puntTouchBacks": "1",
+        "puntLong": "62"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3686689",
+      "longName": "AJ Cole"
+    },
+    "3691739": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3691739",
+      "longName": "Derwin James Jr."
+    },
+    "3728266": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "7",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3728266",
+      "longName": "Christian Wilkins"
+    },
+    "3916433": {
+      "gameID": "20240908_LV@LAC",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "3",
+        "carries": "1",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "33",
+        "targets": "3",
+        "recYds": "61",
+        "recAvg": "20.3"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.87",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "52",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3916433",
+      "longName": "Jakobi Meyers"
+    },
+    "3916655": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3916655",
+      "longName": "Maxx Crosby"
+    },
+    "3924365": {
+      "gameID": "20240908_LV@LAC",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "27",
+        "targets": "3",
+        "recYds": "33",
+        "recAvg": "16.5"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.61",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "3924365",
+      "longName": "Hayden Hurst"
+    },
+    "3925443": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3925443",
+      "longName": "Jacob Bobenmoyer"
+    },
+    "3932244": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3932244",
+      "longName": "Andre James"
+    },
+    "4035433": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035433",
+      "longName": "Kristian Fulton"
+    },
+    "4035604": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.42"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4035604",
+      "longName": "Janarius Robinson"
+    },
+    "4035686": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.93"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035686",
+      "longName": "Jack Jones"
+    },
+    "4036211": {
+      "gameID": "20240908_LV@LAC",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "1",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.08",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.82",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036211",
+      "longName": "DJ Turner"
+    },
+    "4037212": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "25",
+        "stSnapPct": "0.89",
+        "offSnap": "0",
+        "defSnapPct": "0.07"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037212",
+      "longName": "Luke Masterson"
+    },
+    "4037468": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.61",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4037468",
+      "longName": "Shaq Quarterman"
+    },
+    "4037626": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037626",
+      "longName": "Divine Deablo"
+    },
+    "4038524": {
+      "gameID": "20240908_LV@LAC",
+      "Rushing": {
+        "rushAvg": "1.7",
+        "rushYds": "5",
+        "carries": "3",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "34.4",
+        "rtg": "95.1",
+        "sacked": "4-32",
+        "passAttempts": "33",
+        "passAvg": "7.8",
+        "passTD": "1",
+        "passYds": "257",
+        "int": "1",
+        "passCompletions": "25"
+      },
+      "scoringPlays": [
+        {
+          "score": "Alexander Mattison 31 Yd pass from Gardner Minshew (Daniel Carlson Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "17",
+          "scoreDetails": "7 plays, 67 yards, 3:37",
+          "scoreType": "TD",
+          "scoreTime": "0:45",
+          "team": "LV",
+          "playerIDs": [
+            "4038524",
+            "4048244",
+            "3051909"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4038524",
+      "longName": "Gardner Minshew"
+    },
+    "4038941": {
+      "gameID": "20240908_LV@LAC",
+      "Rushing": {
+        "rushAvg": "1.5",
+        "rushYds": "6",
+        "carries": "4",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "35.2",
+        "rtg": "92.5",
+        "sacked": "1-4",
+        "passAttempts": "26",
+        "passAvg": "5.5",
+        "passTD": "1",
+        "passYds": "144",
+        "int": "0",
+        "passCompletions": "17"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ladd McConkey 10 Yd pass from Justin Herbert (Two-Point Run Conversion Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "22",
+          "awayScore": "10",
+          "teamID": "18",
+          "scoreDetails": "8 plays, 92 yards, 3:29",
+          "scoreType": "TD",
+          "scoreTime": "3:40",
+          "team": "LAC",
+          "playerIDs": [
+            "4038941",
+            "4612826"
+          ]
+        }
+      ],
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4038941",
+      "longName": "Justin Herbert"
+    },
+    "4038946": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.79",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4038946",
+      "longName": "Troy Dye"
+    },
+    "4039413": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "59",
+        "stSnap": "10",
+        "stSnapPct": "0.36",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039413",
+      "longName": "Alohi Gilman"
+    },
+    "4040774": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4040774",
+      "longName": "Harrison Bryant"
+    },
+    "4048244": {
+      "gameID": "20240908_LV@LAC",
+      "Rushing": {
+        "rushAvg": "3.8",
+        "rushYds": "19",
+        "carries": "5",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "31",
+        "targets": "6",
+        "recYds": "43",
+        "recAvg": "10.8"
+      },
+      "scoringPlays": [
+        {
+          "score": "Alexander Mattison 31 Yd pass from Gardner Minshew (Daniel Carlson Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "17",
+          "scoreDetails": "7 plays, 67 yards, 3:37",
+          "scoreType": "TD",
+          "scoreTime": "0:45",
+          "team": "LV",
+          "playerIDs": [
+            "4038524",
+            "4048244",
+            "3051909"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.60",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "36",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4048244",
+      "longName": "Alexander Mattison"
+    },
+    "4076803": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4076803",
+      "longName": "Jordan Meredith"
+    },
+    "4240434": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.77"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "3",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240434",
+      "longName": "Ja'Sir Taylor"
+    },
+    "4240542": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4240542",
+      "longName": "Nate Hobbs"
+    },
+    "4240800": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4240800",
+      "longName": "Brenden Jaimes"
+    },
+    "4240849": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "21",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240849",
+      "longName": "Charles Snowden"
+    },
+    "4241597": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "18",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.67"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241597",
+      "longName": "Daiyan Henley"
+    },
+    "4241985": {
+      "gameID": "20240908_LV@LAC",
+      "Rushing": {
+        "rushAvg": "13.5",
+        "rushYds": "135",
+        "carries": "10",
+        "longRush": "61",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "3",
+        "targets": "3",
+        "recYds": "4",
+        "recAvg": "1.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "J.K. Dobbins 12 Yd Run (Cameron Dicker Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "16",
+          "awayScore": "7",
+          "teamID": "18",
+          "scoreDetails": "6 plays, 61 yards, 2:07",
+          "scoreType": "TD",
+          "scoreTime": "14:55",
+          "team": "LAC",
+          "playerIDs": [
+            "4241985",
+            "4362081"
+          ]
+        }
+      ],
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.58",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "33",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4241985",
+      "longName": "J.K. Dobbins"
+    },
+    "4242001": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4242001",
+      "longName": "Thayer Munford Jr."
+    },
+    "4242283": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4242283",
+      "longName": "Rashawn Slater"
+    },
+    "4242433": {
+      "gameID": "20240908_LV@LAC",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "4",
+        "recYds": "15",
+        "recAvg": "7.5"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.81",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "46",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4242433",
+      "longName": "Joshua Palmer"
+    },
+    "4242973": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4242973",
+      "longName": "Darnay Holmes"
+    },
+    "4243328": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.33"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243328",
+      "longName": "Elijah Molden"
+    },
+    "4243375": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243375",
+      "longName": "Dylan Parham"
+    },
+    "4247347": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4247347",
+      "longName": "Zion Johnson"
+    },
+    "4250764": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.09",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4250764",
+      "longName": "Stone Smartt"
+    },
+    "4259632": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "2",
+        "stSnap": "23",
+        "stSnapPct": "0.82",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4259632",
+      "longName": "Isaiah Pola-Mao"
+    },
+    "4360239": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360239",
+      "longName": "Amari Burney"
+    },
+    "4360469": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4360469",
+      "longName": "Amari Gainer"
+    },
+    "4360739": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.16",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.36",
+        "offSnap": "9",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4360739",
+      "longName": "Simi Fehoko"
+    },
+    "4360855": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.89",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4360855",
+      "longName": "Kana'i Mauga"
+    },
+    "4361777": {
+      "gameID": "20240908_LV@LAC",
+      "Rushing": {
+        "rushAvg": "3.4",
+        "rushYds": "44",
+        "carries": "13",
+        "longRush": "12",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "1",
+        "targets": "2",
+        "recYds": "2",
+        "recAvg": "1.0"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.38",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "23",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4361777",
+      "longName": "Zamir White"
+    },
+    "4362081": {
+      "gameID": "20240908_LV@LAC",
+      "scoringPlays": [
+        {
+          "score": "Cameron Dicker 53 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "0",
+          "teamID": "18",
+          "scoreDetails": "4 plays, 5 yards, 1:33",
+          "scoreType": "FG",
+          "scoreTime": "4:22",
+          "team": "LAC",
+          "playerIDs": [
+            "4362081"
+          ]
+        },
+        {
+          "score": "Cameron Dicker 25 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "6",
+          "awayScore": "7",
+          "teamID": "18",
+          "scoreDetails": "4 plays, 5 yards, 0:47",
+          "scoreType": "FG",
+          "scoreTime": "0:26",
+          "team": "LAC",
+          "playerIDs": [
+            "4362081"
+          ]
+        },
+        {
+          "score": "Cameron Dicker 24 Yd Field Goal  ",
+          "scorePeriod": "Q3",
+          "homeScore": "9",
+          "awayScore": "7",
+          "teamID": "18",
+          "scoreDetails": "9 plays, 74 yards, 3:45",
+          "scoreType": "FG",
+          "scoreTime": "9:08",
+          "team": "LAC",
+          "playerIDs": [
+            "4362081"
+          ]
+        },
+        {
+          "score": "J.K. Dobbins 12 Yd Run (Cameron Dicker Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "16",
+          "awayScore": "7",
+          "teamID": "18",
+          "scoreDetails": "6 plays, 61 yards, 2:07",
+          "scoreType": "TD",
+          "scoreTime": "14:55",
+          "team": "LAC",
+          "playerIDs": [
+            "4241985",
+            "4362081"
+          ]
+        }
+      ],
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.36",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "53",
+        "fgMade": "3",
+        "fgAttempts": "3",
+        "xpMade": "1",
+        "fgPct": "100.0",
+        "kickingPts": "10",
+        "xpAttempts": "1",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4362081",
+      "longName": "Cameron Dicker"
+    },
+    "4362477": {
+      "gameID": "20240908_LV@LAC",
+      "Rushing": {
+        "rushAvg": "4.5",
+        "rushYds": "9",
+        "carries": "2",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.12",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "35",
+        "kickReturnAvg": "35.0",
+        "kickReturnLong": "35"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "9",
+        "puntReturnAvg": "9.0",
+        "puntReturnLong": "9",
+        "puntReturnTD": "0"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4362477",
+      "longName": "Derius Davis"
+    },
+    "4362487": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362487",
+      "longName": "Tre'von Moehrig"
+    },
+    "4362497": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.18"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4362497",
+      "longName": "Nesta Jade Silvera"
+    },
+    "4363034": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4363034",
+      "longName": "Asante Samuel Jr."
+    },
+    "4367210": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.45"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4367210",
+      "longName": "Otito Ogbonnia"
+    },
+    "4372071": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4372071",
+      "longName": "Hassan Haskins"
+    },
+    "4372533": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.11"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4372533",
+      "longName": "Tyree Wilson"
+    },
+    "4373684": {
+      "gameID": "20240908_LV@LAC",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.32",
+        "defSnap": "16",
+        "stSnap": "14",
+        "stSnapPct": "0.50",
+        "offSnap": "18",
+        "defSnapPct": "0.27"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4373684",
+      "longName": "Scott Matlock"
+    },
+    "4373956": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4373956",
+      "longName": "Jonah Laulu"
+    },
+    "4374269": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.10"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4374269",
+      "longName": "Teair Tart"
+    },
+    "4379412": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4379412",
+      "longName": "Jamaree Salyer"
+    },
+    "4379413": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.82",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4379413",
+      "longName": "Chris Smith II"
+    },
+    "4411189": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4411189",
+      "longName": "Trey Pipkins III"
+    },
+    "4427190": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.57",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4427190",
+      "longName": "AJ Finley"
+    },
+    "4427404": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4427404",
+      "longName": "Cam Hart"
+    },
+    "4428718": {
+      "gameID": "20240908_LV@LAC",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "14",
+        "targets": "3",
+        "recYds": "22",
+        "recAvg": "11.0"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.78",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.25",
+        "offSnap": "47",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "28",
+        "puntReturnAvg": "14.0",
+        "puntReturnLong": "21",
+        "puntReturnTD": "0"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4428718",
+      "longName": "Tre Tucker"
+    },
+    "4429025": {
+      "gameID": "20240908_LV@LAC",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "16",
+        "targets": "5",
+        "recYds": "38",
+        "recAvg": "12.7"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.67",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "38",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4429025",
+      "longName": "Quentin Johnston"
+    },
+    "4429086": {
+      "gameID": "20240908_LV@LAC",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "3",
+        "targets": "3",
+        "recYds": "3",
+        "recAvg": "1.5"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.57",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4429086",
+      "longName": "Michael Mayer"
+    },
+    "4431212": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "12",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4431212",
+      "longName": "Junior Colson"
+    },
+    "4431442": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "21",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.45"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4431442",
+      "longName": "Tuli Tuipulotu"
+    },
+    "4432665": {
+      "gameID": "20240908_LV@LAC",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "26",
+        "targets": "8",
+        "recYds": "58",
+        "recAvg": "9.7"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.68",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "41",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4432665",
+      "longName": "Brock Bowers"
+    },
+    "4589248": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4589248",
+      "longName": "Tyreik McAllister"
+    },
+    "4606683": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4606683",
+      "longName": "DJ Glaze"
+    },
+    "4612826": {
+      "gameID": "20240908_LV@LAC",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "1",
+        "longRec": "11",
+        "targets": "7",
+        "recYds": "39",
+        "recAvg": "7.8"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ladd McConkey 10 Yd pass from Justin Herbert (Two-Point Run Conversion Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "22",
+          "awayScore": "10",
+          "teamID": "18",
+          "scoreDetails": "8 plays, 92 yards, 3:29",
+          "scoreType": "TD",
+          "scoreTime": "3:40",
+          "team": "LAC",
+          "playerIDs": [
+            "4038941",
+            "4612826"
+          ]
+        }
+      ],
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.67",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "38",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4612826",
+      "longName": "Ladd McConkey"
+    },
+    "4683487": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4683487",
+      "longName": "Joe Alt"
+    },
+    "4686911": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4686911",
+      "longName": "Jakorian Bennett"
+    },
+    "4690171": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.71",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4690171",
+      "longName": "Deane Leonard"
+    },
+    "4700660": {
+      "gameID": "20240908_LV@LAC",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4700660",
+      "longName": "Sam Webb"
+    }
+  },
+  "arenaCapacity": "71,500",
+  "arena": "SoFi Stadium",
+  "homePts": "22",
+  "awayResult": "L",
+  "teamIDAway": "17",
+  "Referees": "Terry Brown, Terrence Miles, David Meslow, Scott Novak, Mark Pellis, Mark Stewart, Brian Sakowski",
+  "gameClock": "",
+  "awayPts": "10",
+  "gameID": "20240908_LV@LAC",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

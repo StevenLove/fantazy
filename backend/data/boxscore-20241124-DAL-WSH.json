@@ -1,0 +1,3003 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "DAL",
+      "teamID": "9",
+      "defTD": "1",
+      "defensiveInterceptions": "2",
+      "sacks": "4",
+      "ydsAllowed": "412",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "26",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "WSH",
+      "teamID": "32",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "1",
+      "ydsAllowed": "332",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "28",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "332",
+      "rushingAttempts": "28",
+      "rushingYards": "91",
+      "fumblesLost": "1",
+      "penalties": "4-20",
+      "totalPlays": "61",
+      "possession": "35:12",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "24-32",
+      "passingFirstDowns": "12",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "1-6",
+      "thirdDownEfficiency": "2-11",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.4",
+      "redZoneScoredAndAttempted": "2-3",
+      "teamID": "9",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "1",
+      "totalDrives": "15",
+      "rushingFirstDowns": "3",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "19",
+      "passTD": "2",
+      "team": "DAL",
+      "blockedXP": "0",
+      "teamAbv": "DAL",
+      "firstDownsFromPenalties": "4",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "241",
+      "yardsPerRush": "3.3",
+      "snapCounts": {
+        "totalSpecialTeams": "38",
+        "totalOffensive": "66",
+        "totalDefensive": "70"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "7.3"
+    },
+    "home": {
+      "totalYards": "412",
+      "rushingAttempts": "25",
+      "rushingYards": "145",
+      "fumblesLost": "1",
+      "penalties": "8-78",
+      "totalPlays": "67",
+      "possession": "24:48",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "25-38",
+      "passingFirstDowns": "11",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "4-8",
+      "thirdDownEfficiency": "4-12",
+      "blockedPunt": "0",
+      "yardsPerPlay": "6.1",
+      "redZoneScoredAndAttempted": "2-2",
+      "teamID": "32",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "16",
+      "rushingFirstDowns": "8",
+      "blockedFG": "1",
+      "rushTD": "1",
+      "twoPointConversions": "1",
+      "firstDowns": "19",
+      "passTD": "2",
+      "team": "WSH",
+      "blockedXP": "0",
+      "teamAbv": "WSH",
+      "firstDownsFromPenalties": "0",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "267",
+      "yardsPerRush": "5.8",
+      "snapCounts": {
+        "totalSpecialTeams": "38",
+        "totalOffensive": "70",
+        "totalDefensive": "66"
+      },
+      "turnovers": "3",
+      "yardsPerPass": "6.4"
+    }
+  },
+  "gameDate": "20241124",
+  "scoringPlays": [
+    {
+      "score": "Austin Seibert 41 Yd Field Goal",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "0",
+      "teamID": "32",
+      "scoreDetails": "7 plays, 17 yards, 2:24",
+      "scoreType": "FG",
+      "scoreTime": "9:01",
+      "team": "WSH",
+      "playerIDs": [
+        "3821683"
+      ]
+    },
+    {
+      "score": "Brandon Aubrey 46 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "3",
+      "teamID": "9",
+      "scoreDetails": "3 plays, 58 yards, 0:42",
+      "scoreType": "FG",
+      "scoreTime": "0:03",
+      "team": "DAL",
+      "playerIDs": [
+        "3953687"
+      ]
+    },
+    {
+      "score": "Jayden Daniels 17 Yd Rush (Austin Seibert PAT Failed)",
+      "scorePeriod": "Q3",
+      "homeScore": "9",
+      "awayScore": "3",
+      "teamID": "32",
+      "scoreDetails": "10 plays, 60 yards, 5:07",
+      "scoreType": "TD",
+      "scoreTime": "9:53",
+      "team": "WSH",
+      "playerIDs": [
+        "4426348",
+        "3821683"
+      ]
+    },
+    {
+      "score": "Jalen Tolbert 6 Yd pass from Cooper Rush (Brandon Aubrey Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "9",
+      "awayScore": "10",
+      "teamID": "9",
+      "scoreDetails": "8 plays, 80 yards, 5:13",
+      "scoreType": "TD",
+      "scoreTime": "4:40",
+      "team": "DAL",
+      "playerIDs": [
+        "2972515",
+        "4249417",
+        "3953687"
+      ]
+    },
+    {
+      "score": "Brandon Aubrey 48 Yd Field Goal",
+      "scorePeriod": "Q4",
+      "homeScore": "9",
+      "awayScore": "13",
+      "teamID": "9",
+      "scoreDetails": "6 plays, 20 yards, 3:06",
+      "scoreType": "FG",
+      "scoreTime": "8:11",
+      "team": "DAL",
+      "playerIDs": [
+        "3953687"
+      ]
+    },
+    {
+      "score": "Luke Schoonmaker 22 Yd pass from Cooper Rush (Brandon Aubrey Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "9",
+      "awayScore": "20",
+      "teamID": "9",
+      "scoreDetails": "5 plays, 44 yards, 2:47",
+      "scoreType": "TD",
+      "scoreTime": "5:16",
+      "team": "DAL",
+      "playerIDs": [
+        "2972515",
+        "4372096",
+        "3953687"
+      ]
+    },
+    {
+      "score": "Zach Ertz 4 Yd pass from Jayden Daniels (Jayden Daniels Run for Two-Point Conversion)",
+      "scorePeriod": "Q4",
+      "homeScore": "17",
+      "awayScore": "20",
+      "teamID": "32",
+      "scoreDetails": "9 plays, 69 yards, 2:14",
+      "scoreType": "TD",
+      "scoreTime": "3:02",
+      "team": "WSH",
+      "playerIDs": [
+        "4426348",
+        "15835"
+      ]
+    },
+    {
+      "score": "KaVontae Turpin 99 Yd Kickoff Return (Brandon Aubrey Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "17",
+      "awayScore": "27",
+      "teamID": "9",
+      "scoreDetails": "0 plays, 0 yards, 0:13",
+      "scoreType": "TD",
+      "scoreTime": "2:49",
+      "team": "DAL",
+      "playerIDs": [
+        "3676833",
+        "3953687"
+      ]
+    },
+    {
+      "score": "Austin Seibert 51 Yd Field Goal",
+      "scorePeriod": "Q4",
+      "homeScore": "20",
+      "awayScore": "27",
+      "teamID": "32",
+      "scoreDetails": "6 plays, 37 yards, 1:09",
+      "scoreType": "FG",
+      "scoreTime": "1:40",
+      "team": "WSH",
+      "playerIDs": [
+        "3821683"
+      ]
+    },
+    {
+      "score": "Terry McLaurin 86 Yd pass from Jayden Daniels (Austin Seibert PAT Failed)",
+      "scorePeriod": "Q4",
+      "homeScore": "26",
+      "awayScore": "27",
+      "teamID": "32",
+      "scoreDetails": "1 play, 86 yards, 0:12",
+      "scoreType": "TD",
+      "scoreTime": "0:21",
+      "team": "WSH",
+      "playerIDs": [
+        "4426348",
+        "3121422",
+        "3821683"
+      ]
+    },
+    {
+      "score": "Juanyeh Thomas 43 Yd Kickoff Return (Brandon Aubrey Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "26",
+      "awayScore": "34",
+      "teamID": "9",
+      "scoreDetails": "0 plays, 0 yards, 0:07",
+      "scoreType": "TD",
+      "scoreTime": "0:14",
+      "team": "DAL",
+      "playerIDs": [
+        "4360590",
+        "3953687"
+      ]
+    }
+  ],
+  "network": "FOX",
+  "teamIDHome": "32",
+  "homeResult": "L",
+  "away": "DAL",
+  "gameWeek": "Week 12",
+  "attendance": "64,955",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "0",
+      "Q2": "3",
+      "Q3": "7",
+      "Q4": "24",
+      "teamID": "9",
+      "currentlyInPossession": "False",
+      "totalPts": "34",
+      "teamAbv": "DAL"
+    },
+    "home": {
+      "Q1": "3",
+      "Q2": "0",
+      "Q3": "6",
+      "Q4": "17",
+      "teamID": "32",
+      "currentlyInPossession": "False",
+      "totalPts": "26",
+      "teamAbv": "WSH"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Landover, MD",
+  "home": "WSH",
+  "playerStats": {
+    "13281": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.06"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "13281",
+      "longName": "Linval Joseph"
+    },
+    "14471": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "32",
+        "stSnapPct": "0.84",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "14471",
+      "longName": "Nick Bellore"
+    },
+    "14950": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.37",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "238",
+        "punts": "6",
+        "puntAvg": "39.7",
+        "puntsin20": "3",
+        "puntTouchBacks": "0",
+        "puntLong": "56"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "14950",
+      "longName": "Bryan Anger"
+    },
+    "14979": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "8",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "8",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "14979",
+      "longName": "Bobby Wagner"
+    },
+    "15835": {
+      "gameID": "20241124_DAL@WSH",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "1",
+        "longRec": "13",
+        "targets": "8",
+        "recYds": "38",
+        "recAvg": "6.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Zach Ertz 4 Yd pass from Jayden Daniels (Jayden Daniels Run for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "20",
+          "teamID": "32",
+          "scoreDetails": "9 plays, 69 yards, 2:14",
+          "scoreType": "TD",
+          "scoreTime": "3:02",
+          "team": "WSH",
+          "playerIDs": [
+            "4426348",
+            "15835"
+          ]
+        }
+      ],
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.76",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "15835",
+      "longName": "Zach Ertz"
+    },
+    "16166": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "247",
+        "punts": "6",
+        "puntAvg": "41.2",
+        "puntsin20": "5",
+        "puntTouchBacks": "0",
+        "puntLong": "51"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "16166",
+      "longName": "Tress Way"
+    },
+    "17202": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "17202",
+      "longName": "Cornelius Lucas"
+    },
+    "17378": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "17378",
+      "longName": "Tyler Ott"
+    },
+    "17474": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "30",
+        "stSnapPct": "0.79",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "17474",
+      "longName": "C.J. Goodwin"
+    },
+    "2510863": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "63",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.90"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "10",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2510863",
+      "longName": "Eric Kendricks"
+    },
+    "2971816": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.66",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2971816",
+      "longName": "Nick Vigil"
+    },
+    "2972515": {
+      "gameID": "20241124_DAL@WSH",
+      "Rushing": {
+        "rushAvg": "0.3",
+        "rushYds": "1",
+        "carries": "4",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "48.0",
+        "rtg": "117.6",
+        "sacked": "1-6",
+        "passAttempts": "32",
+        "passAvg": "7.7",
+        "passTD": "2",
+        "passYds": "247",
+        "int": "0",
+        "passCompletions": "24"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jalen Tolbert 6 Yd pass from Cooper Rush (Brandon Aubrey Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "9",
+          "awayScore": "10",
+          "teamID": "9",
+          "scoreDetails": "8 plays, 80 yards, 5:13",
+          "scoreType": "TD",
+          "scoreTime": "4:40",
+          "team": "DAL",
+          "playerIDs": [
+            "2972515",
+            "4249417",
+            "3953687"
+          ]
+        },
+        {
+          "score": "Luke Schoonmaker 22 Yd pass from Cooper Rush (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "9",
+          "awayScore": "20",
+          "teamID": "9",
+          "scoreDetails": "5 plays, 44 yards, 2:47",
+          "scoreType": "TD",
+          "scoreTime": "5:16",
+          "team": "DAL",
+          "playerIDs": [
+            "2972515",
+            "4372096",
+            "3953687"
+          ]
+        }
+      ],
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.97",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "2972515",
+      "longName": "Cooper Rush"
+    },
+    "2976194": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.42"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2976194",
+      "longName": "Sheldon Day"
+    },
+    "2977681": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "5",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.09"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "2977681",
+      "longName": "Carlos Watkins"
+    },
+    "2980100": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.48"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2980100",
+      "longName": "Dante Fowler Jr."
+    },
+    "3042702": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.59",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.08",
+        "offSnap": "41",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3042702",
+      "longName": "Andrew Wylie"
+    },
+    "3045207": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "69",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3045207",
+      "longName": "Jourdan Lewis"
+    },
+    "3051392": {
+      "gameID": "20241124_DAL@WSH",
+      "Rushing": {
+        "rushAvg": "2.0",
+        "rushYds": "6",
+        "carries": "3",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.20",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "3051392",
+      "longName": "Ezekiel Elliott"
+    },
+    "3051911": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "5",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "3051911",
+      "longName": "Carl Lawson"
+    },
+    "3052357": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.37",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "3052357",
+      "longName": "Trent Sieg"
+    },
+    "3053795": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "20",
+        "stSnapPct": "0.53",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3053795",
+      "longName": "Michael Davis"
+    },
+    "3068267": {
+      "gameID": "20241124_DAL@WSH",
+      "Rushing": {
+        "rushAvg": "2.4",
+        "rushYds": "22",
+        "carries": "9",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "2",
+        "targets": "3",
+        "recYds": "2",
+        "recAvg": "1.0"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.18",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "3",
+        "kickReturnTD": "0",
+        "kickReturnYds": "101",
+        "kickReturnAvg": "33.7",
+        "kickReturnLong": "38"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3068267",
+      "longName": "Austin Ekeler"
+    },
+    "3115922": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.13",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3115922",
+      "longName": "Nick Allegretti"
+    },
+    "3121409": {
+      "gameID": "20241124_DAL@WSH",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "19",
+        "targets": "10",
+        "recYds": "71",
+        "recAvg": "11.8"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.73",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3121409",
+      "longName": "Noah Brown"
+    },
+    "3121414": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.18"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3121414",
+      "longName": "Jalyn Holmes"
+    },
+    "3121415": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "68",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3121415",
+      "longName": "Malik Hooker"
+    },
+    "3121422": {
+      "gameID": "20241124_DAL@WSH",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "1",
+        "longRec": "86",
+        "targets": "6",
+        "recYds": "102",
+        "recAvg": "20.4"
+      },
+      "scoringPlays": [
+        {
+          "score": "Terry McLaurin 86 Yd pass from Jayden Daniels (Austin Seibert PAT Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "26",
+          "awayScore": "27",
+          "teamID": "32",
+          "scoreDetails": "1 play, 86 yards, 0:12",
+          "scoreType": "TD",
+          "scoreTime": "0:21",
+          "team": "WSH",
+          "playerIDs": [
+            "4426348",
+            "3121422",
+            "3821683"
+          ]
+        }
+      ],
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.81",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "3121422",
+      "longName": "Terry McLaurin"
+    },
+    "3121541": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3121541",
+      "longName": "Michael Deiter"
+    },
+    "3122135": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.69"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3122135",
+      "longName": "Donovan Wilson"
+    },
+    "3123303": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.41",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.13",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3123303",
+      "longName": "Trent Scott"
+    },
+    "3125248": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.66",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3125248",
+      "longName": "Jeremy Reaves"
+    },
+    "3127273": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "3"
+      },
+      "playerID": "3127273",
+      "longName": "Frankie Luvu"
+    },
+    "3127586": {
+      "gameID": "20241124_DAL@WSH",
+      "Rushing": {
+        "rushAvg": "7.3",
+        "rushYds": "22",
+        "carries": "3",
+        "longRush": "13",
+        "rushTD": "0"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.24",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.45",
+        "offSnap": "17",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3127586",
+      "longName": "Jeremy McNichols"
+    },
+    "3676833": {
+      "gameID": "20241124_DAL@WSH",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "1",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "KaVontae Turpin 99 Yd Kickoff Return (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "27",
+          "teamID": "9",
+          "scoreDetails": "0 plays, 0 yards, 0:13",
+          "scoreType": "TD",
+          "scoreTime": "2:49",
+          "team": "DAL",
+          "playerIDs": [
+            "3676833",
+            "3953687"
+          ]
+        }
+      ],
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.21",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.26",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "4",
+        "kickReturnTD": "1",
+        "kickReturnYds": "179",
+        "kickReturnAvg": "44.8",
+        "kickReturnLong": "99"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "-2",
+        "puntReturnAvg": "-2.0",
+        "puntReturnLong": "-2",
+        "puntReturnTD": "0"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "3676833",
+      "longName": "KaVontae Turpin"
+    },
+    "3728258": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "8",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.50"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3728258",
+      "longName": "Clelin Ferrell"
+    },
+    "3821683": {
+      "gameID": "20241124_DAL@WSH",
+      "scoringPlays": [
+        {
+          "score": "Austin Seibert 41 Yd Field Goal",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "0",
+          "teamID": "32",
+          "scoreDetails": "7 plays, 17 yards, 2:24",
+          "scoreType": "FG",
+          "scoreTime": "9:01",
+          "team": "WSH",
+          "playerIDs": [
+            "3821683"
+          ]
+        },
+        {
+          "score": "Jayden Daniels 17 Yd Rush (Austin Seibert PAT Failed)",
+          "scorePeriod": "Q3",
+          "homeScore": "9",
+          "awayScore": "3",
+          "teamID": "32",
+          "scoreDetails": "10 plays, 60 yards, 5:07",
+          "scoreType": "TD",
+          "scoreTime": "9:53",
+          "team": "WSH",
+          "playerIDs": [
+            "4426348",
+            "3821683"
+          ]
+        },
+        {
+          "score": "Austin Seibert 51 Yd Field Goal",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "27",
+          "teamID": "32",
+          "scoreDetails": "6 plays, 37 yards, 1:09",
+          "scoreType": "FG",
+          "scoreTime": "1:40",
+          "team": "WSH",
+          "playerIDs": [
+            "3821683"
+          ]
+        },
+        {
+          "score": "Terry McLaurin 86 Yd pass from Jayden Daniels (Austin Seibert PAT Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "26",
+          "awayScore": "27",
+          "teamID": "32",
+          "scoreDetails": "1 play, 86 yards, 0:12",
+          "scoreType": "TD",
+          "scoreTime": "0:21",
+          "team": "WSH",
+          "playerIDs": [
+            "4426348",
+            "3121422",
+            "3821683"
+          ]
+        }
+      ],
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "51",
+        "fgMade": "2",
+        "fgAttempts": "3",
+        "xpMade": "0",
+        "fgPct": "66.7",
+        "kickingPts": "7",
+        "xpAttempts": "2",
+        "fgMissed": "1",
+        "xpMissed": "2"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3821683",
+      "longName": "Austin Seibert"
+    },
+    "3915834": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.21",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "3915834",
+      "longName": "Terence Steele"
+    },
+    "3917914": {
+      "gameID": "20241124_DAL@WSH",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "1",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.16",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "19",
+        "puntReturnAvg": "19.0",
+        "puntReturnLong": "19",
+        "puntReturnTD": "0"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "3917914",
+      "longName": "Olamide Zaccheaus"
+    },
+    "3925354": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "10",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.62"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3925354",
+      "longName": "Daron Payne"
+    },
+    "3928979": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "9",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.64"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3928979",
+      "longName": "Dorance Armstrong"
+    },
+    "3929814": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "12",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "10",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "3"
+      },
+      "playerID": "3929814",
+      "longName": "Josh Butler"
+    },
+    "3953687": {
+      "gameID": "20241124_DAL@WSH",
+      "scoringPlays": [
+        {
+          "score": "Brandon Aubrey 46 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "3",
+          "teamID": "9",
+          "scoreDetails": "3 plays, 58 yards, 0:42",
+          "scoreType": "FG",
+          "scoreTime": "0:03",
+          "team": "DAL",
+          "playerIDs": [
+            "3953687"
+          ]
+        },
+        {
+          "score": "Jalen Tolbert 6 Yd pass from Cooper Rush (Brandon Aubrey Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "9",
+          "awayScore": "10",
+          "teamID": "9",
+          "scoreDetails": "8 plays, 80 yards, 5:13",
+          "scoreType": "TD",
+          "scoreTime": "4:40",
+          "team": "DAL",
+          "playerIDs": [
+            "2972515",
+            "4249417",
+            "3953687"
+          ]
+        },
+        {
+          "score": "Brandon Aubrey 48 Yd Field Goal",
+          "scorePeriod": "Q4",
+          "homeScore": "9",
+          "awayScore": "13",
+          "teamID": "9",
+          "scoreDetails": "6 plays, 20 yards, 3:06",
+          "scoreType": "FG",
+          "scoreTime": "8:11",
+          "team": "DAL",
+          "playerIDs": [
+            "3953687"
+          ]
+        },
+        {
+          "score": "Luke Schoonmaker 22 Yd pass from Cooper Rush (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "9",
+          "awayScore": "20",
+          "teamID": "9",
+          "scoreDetails": "5 plays, 44 yards, 2:47",
+          "scoreType": "TD",
+          "scoreTime": "5:16",
+          "team": "DAL",
+          "playerIDs": [
+            "2972515",
+            "4372096",
+            "3953687"
+          ]
+        },
+        {
+          "score": "KaVontae Turpin 99 Yd Kickoff Return (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "27",
+          "teamID": "9",
+          "scoreDetails": "0 plays, 0 yards, 0:13",
+          "scoreType": "TD",
+          "scoreTime": "2:49",
+          "team": "DAL",
+          "playerIDs": [
+            "3676833",
+            "3953687"
+          ]
+        },
+        {
+          "score": "Juanyeh Thomas 43 Yd Kickoff Return (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "26",
+          "awayScore": "34",
+          "teamID": "9",
+          "scoreDetails": "0 plays, 0 yards, 0:07",
+          "scoreType": "TD",
+          "scoreTime": "0:14",
+          "team": "DAL",
+          "playerIDs": [
+            "4360590",
+            "3953687"
+          ]
+        }
+      ],
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "48",
+        "fgMade": "2",
+        "fgAttempts": "4",
+        "xpMade": "4",
+        "fgPct": "50.0",
+        "kickingPts": "9",
+        "xpAttempts": "4",
+        "fgMissed": "2",
+        "xpMissed": "0"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "3953687",
+      "longName": "Brandon Aubrey"
+    },
+    "4035788": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4035788",
+      "longName": "Tyler Biadasz"
+    },
+    "4035840": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "5",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.91"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035840",
+      "longName": "Osa Odighizuwa"
+    },
+    "4036132": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "12",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.80"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "18",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4036132",
+      "longName": "Chauncey Golston"
+    },
+    "4038815": {
+      "gameID": "20241124_DAL@WSH",
+      "Rushing": {
+        "rushAvg": "4.5",
+        "rushYds": "86",
+        "carries": "19",
+        "longRush": "9",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "3",
+        "recYds": "12",
+        "recAvg": "4.0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.61",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "40",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4038815",
+      "longName": "Rico Dowdle"
+    },
+    "4043169": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "14",
+        "stSnapPct": "0.37",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4043169",
+      "longName": "Jeremy Chinn"
+    },
+    "4048228": {
+      "gameID": "20241124_DAL@WSH",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "1",
+        "recYds": "13",
+        "recAvg": "13.0"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.41",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.47",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4048228",
+      "longName": "John Bates"
+    },
+    "4239088": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "2",
+        "stSnap": "6",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.03"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4239088",
+      "longName": "Darrick Forrest"
+    },
+    "4240900": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "28",
+        "stSnapPct": "0.74",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240900",
+      "longName": "Buddy Johnson"
+    },
+    "4241087": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.21",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4241087",
+      "longName": "Brock Hoffman"
+    },
+    "4241389": {
+      "gameID": "20241124_DAL@WSH",
+      "Rushing": {
+        "rushAvg": "1.0",
+        "rushYds": "1",
+        "carries": "1",
+        "longRush": "1",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "10",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "12",
+        "recYds": "67",
+        "recAvg": "6.7"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.94",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.05",
+        "offSnap": "62",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4241389",
+      "longName": "CeeDee Lamb"
+    },
+    "4241468": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "11",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.23"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4241468",
+      "longName": "Phidarian Mathis"
+    },
+    "4241474": {
+      "gameID": "20241124_DAL@WSH",
+      "Rushing": {
+        "rushAvg": "2.6",
+        "rushYds": "13",
+        "carries": "5",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "2",
+        "recYds": "11",
+        "recAvg": "11.0"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.17",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241474",
+      "longName": "Brian Robinson Jr."
+    },
+    "4242442": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.66",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4242442",
+      "longName": "Princeton Fant"
+    },
+    "4242516": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "6",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242516",
+      "longName": "Noah Igbinoghene"
+    },
+    "4243009": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "33",
+        "stSnapPct": "0.87",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243009",
+      "longName": "Mykal Walker"
+    },
+    "4243831": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.55",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4243831",
+      "longName": "Kemon Hall"
+    },
+    "4248911": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.83"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4248911",
+      "longName": "DaRon Bland"
+    },
+    "4249417": {
+      "gameID": "20241124_DAL@WSH",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "16",
+        "targets": "4",
+        "recYds": "22",
+        "recAvg": "11.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jalen Tolbert 6 Yd pass from Cooper Rush (Brandon Aubrey Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "9",
+          "awayScore": "10",
+          "teamID": "9",
+          "scoreDetails": "8 plays, 80 yards, 5:13",
+          "scoreType": "TD",
+          "scoreTime": "4:40",
+          "team": "DAL",
+          "playerIDs": [
+            "2972515",
+            "4249417",
+            "3953687"
+          ]
+        }
+      ],
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.97",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.05",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4249417",
+      "longName": "Jalen Tolbert"
+    },
+    "4258206": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4258206",
+      "longName": "Benjamin St-Juste"
+    },
+    "4262199": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.13",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4262199",
+      "longName": "Sam Cosmi"
+    },
+    "4360378": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "12",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360378",
+      "longName": "Quan Martin"
+    },
+    "4360590": {
+      "gameID": "20241124_DAL@WSH",
+      "scoringPlays": [
+        {
+          "score": "Juanyeh Thomas 43 Yd Kickoff Return (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "26",
+          "awayScore": "34",
+          "teamID": "9",
+          "scoreDetails": "0 plays, 0 yards, 0:07",
+          "scoreType": "TD",
+          "scoreTime": "0:14",
+          "team": "DAL",
+          "playerIDs": [
+            "4360590",
+            "3953687"
+          ]
+        }
+      ],
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "29",
+        "stSnapPct": "0.76",
+        "offSnap": "0",
+        "defSnapPct": "0.34"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "1",
+        "kickReturnYds": "43",
+        "kickReturnAvg": "43.0",
+        "kickReturnLong": "43"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360590",
+      "longName": "Juanyeh Thomas"
+    },
+    "4360967": {
+      "gameID": "20241124_DAL@WSH",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "18",
+        "targets": "2",
+        "recYds": "24",
+        "recAvg": "12.0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.50",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.05",
+        "offSnap": "33",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4360967",
+      "longName": "Brevyn Spann-Ford"
+    },
+    "4361357": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "13",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.20"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361357",
+      "longName": "Javontae Jean-Baptiste"
+    },
+    "4361423": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "2",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "4361423",
+      "longName": "Micah Parsons"
+    },
+    "4361577": {
+      "gameID": "20241124_DAL@WSH",
+      "Rushing": {
+        "rushAvg": "14.0",
+        "rushYds": "14",
+        "carries": "1",
+        "longRush": "14",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "20",
+        "targets": "2",
+        "recYds": "22",
+        "recAvg": "11.0"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.21",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4361577",
+      "longName": "Dyami Brown"
+    },
+    "4362088": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4362088",
+      "longName": "DeMarvion Overshown"
+    },
+    "4362636": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "28",
+        "stSnapPct": "0.74",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362636",
+      "longName": "Damone Clark"
+    },
+    "4362855": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "24",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.21"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "5",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4362855",
+      "longName": "Israel Mukuamu"
+    },
+    "4363097": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "8",
+        "stSnap": "25",
+        "stSnapPct": "0.66",
+        "offSnap": "0",
+        "defSnapPct": "0.12"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4363097",
+      "longName": "Percy Butler"
+    },
+    "4370876": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4370876",
+      "longName": "Matt Waletzko"
+    },
+    "4372096": {
+      "gameID": "20241124_DAL@WSH",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "1",
+        "longRec": "24",
+        "targets": "4",
+        "recYds": "55",
+        "recAvg": "18.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Luke Schoonmaker 22 Yd pass from Cooper Rush (Brandon Aubrey Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "9",
+          "awayScore": "20",
+          "teamID": "9",
+          "scoreDetails": "5 plays, 44 yards, 2:47",
+          "scoreType": "TD",
+          "scoreTime": "5:16",
+          "team": "DAL",
+          "playerIDs": [
+            "2972515",
+            "4372096",
+            "3953687"
+          ]
+        }
+      ],
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.65",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.42",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4372096",
+      "longName": "Luke Schoonmaker"
+    },
+    "4383351": {
+      "gameID": "20241124_DAL@WSH",
+      "Rushing": {
+        "rushAvg": "-3.0",
+        "rushYds": "-3",
+        "carries": "1",
+        "longRush": "-3",
+        "rushTD": "0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4383351",
+      "longName": "Trey Lance"
+    },
+    "4383396": {
+      "gameID": "20241124_DAL@WSH",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "1",
+        "recYds": "10",
+        "recAvg": "10.0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.23",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.39",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4383396",
+      "longName": "Hunter Luepke"
+    },
+    "4426347": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.49"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426347",
+      "longName": "Mazi Smith"
+    },
+    "4426348": {
+      "gameID": "20241124_DAL@WSH",
+      "Rushing": {
+        "rushAvg": "10.6",
+        "rushYds": "74",
+        "rushingTwoPointConversion": "1",
+        "carries": "7",
+        "longRush": "23",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "64.1",
+        "rtg": "82.7",
+        "sacked": "4-8",
+        "passAttempts": "38",
+        "passAvg": "7.2",
+        "passTD": "2",
+        "passYds": "275",
+        "int": "2",
+        "passCompletions": "25"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jayden Daniels 17 Yd Rush (Austin Seibert PAT Failed)",
+          "scorePeriod": "Q3",
+          "homeScore": "9",
+          "awayScore": "3",
+          "teamID": "32",
+          "scoreDetails": "10 plays, 60 yards, 5:07",
+          "scoreType": "TD",
+          "scoreTime": "9:53",
+          "team": "WSH",
+          "playerIDs": [
+            "4426348",
+            "3821683"
+          ]
+        },
+        {
+          "score": "Zach Ertz 4 Yd pass from Jayden Daniels (Jayden Daniels Run for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "20",
+          "teamID": "32",
+          "scoreDetails": "9 plays, 69 yards, 2:14",
+          "scoreType": "TD",
+          "scoreTime": "3:02",
+          "team": "WSH",
+          "playerIDs": [
+            "4426348",
+            "15835"
+          ]
+        },
+        {
+          "score": "Terry McLaurin 86 Yd pass from Jayden Daniels (Austin Seibert PAT Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "26",
+          "awayScore": "27",
+          "teamID": "32",
+          "scoreDetails": "1 play, 86 yards, 0:12",
+          "scoreType": "TD",
+          "scoreTime": "0:21",
+          "team": "WSH",
+          "playerIDs": [
+            "4426348",
+            "3121422",
+            "3821683"
+          ]
+        }
+      ],
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426348",
+      "longName": "Jayden Daniels"
+    },
+    "4426485": {
+      "gameID": "20241124_DAL@WSH",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "2",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.23",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4426485",
+      "longName": "Jonathan Mingo"
+    },
+    "4426663": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.21",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4426663",
+      "longName": "Cooper Beebe"
+    },
+    "4426948": {
+      "gameID": "20241124_DAL@WSH",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "1",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.26",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.13",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426948",
+      "longName": "Luke McCaffrey"
+    },
+    "4427816": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "17",
+        "stSnap": "16",
+        "stSnapPct": "0.42",
+        "offSnap": "0",
+        "defSnapPct": "0.24"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4427816",
+      "longName": "Marist Liufau"
+    },
+    "4428414": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "2",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4428414",
+      "longName": "Mike Sainristil"
+    },
+    "4429996": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4429996",
+      "longName": "Marshawn Kneeland"
+    },
+    "4430379": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.33",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.32",
+        "offSnap": "22",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430379",
+      "longName": "Asim Richards"
+    },
+    "4430560": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.59"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430560",
+      "longName": "Jer'Zhan Newton"
+    },
+    "4568617": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.66",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4568617",
+      "longName": "Jordan Magee"
+    },
+    "4572460": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "30",
+        "stSnapPct": "0.79",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4572460",
+      "longName": "Tyler Owens"
+    },
+    "4609048": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.70",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.21",
+        "offSnap": "46",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4609048",
+      "longName": "Tyler Guyton"
+    },
+    "4685030": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.13",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4685030",
+      "longName": "Brandon Coleman"
+    },
+    "4685120": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.21",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4685120",
+      "longName": "T.J. Bass"
+    },
+    "4690923": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "32",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.39",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "team": "WSH",
+      "teamAbv": "WSH",
+      "playerID": "4690923",
+      "longName": "Ben Sinnott"
+    },
+    "4692835": {
+      "gameID": "20241124_DAL@WSH",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "41",
+        "targets": "3",
+        "recYds": "41",
+        "recAvg": "41.0"
+      },
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.29",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.39",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "4692835",
+      "longName": "Jalen Brooks"
+    },
+    "5083754": {
+      "gameID": "20241124_DAL@WSH",
+      "teamID": "9",
+      "snapCounts": {
+        "offSnapPct": "0.15",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.16",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "DAL",
+      "teamAbv": "DAL",
+      "playerID": "5083754",
+      "longName": "Ryan Flournoy"
+    }
+  },
+  "arenaCapacity": "",
+  "arena": "Northwest Stadium",
+  "homePts": "26",
+  "awayResult": "W",
+  "teamIDAway": "9",
+  "Referees": "Carl Paganelli, Pat Turner, Mearl Robinson, Don Willard, Grantis Bell, Thomas Eaton, Tra Blake",
+  "gameClock": "",
+  "awayPts": "34",
+  "gameID": "20241124_DAL@WSH",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

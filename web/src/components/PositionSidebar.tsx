@@ -11,6 +11,7 @@ const positions = [
   { key: 'RB', label: 'RB' },
   { key: 'WR', label: 'WR' },
   { key: 'TE', label: 'TE' },
+  { key: 'K', label: 'K' },
   { key: 'FLEX', label: 'FLEX' },
   { key: 'MY_TEAM', label: 'MY TEAM' },
 ]
@@ -40,6 +41,9 @@ export default function PositionSidebar({ selectedPosition, onPositionSelect }: 
                 case 'TE':
                   buttonClass += 'bg-orange-500 text-white'
                   break
+                case 'K':
+                  buttonClass += 'bg-yellow-500 text-white'
+                  break
                 default:
                   buttonClass += 'bg-blue-600 text-white'
               }
@@ -56,6 +60,9 @@ export default function PositionSidebar({ selectedPosition, onPositionSelect }: 
                   break
                 case 'TE':
                   buttonClass += 'bg-gray-700 text-gray-300 hover:bg-orange-600 hover:text-white'
+                  break
+                case 'K':
+                  buttonClass += 'bg-gray-700 text-gray-300 hover:bg-yellow-600 hover:text-white'
                   break
                 default:
                   buttonClass += 'bg-gray-700 text-gray-300 hover:bg-gray-600 hover:text-white'

@@ -1,0 +1,2854 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "LV",
+      "teamID": "17",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "3",
+      "ydsAllowed": "289",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "28",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "DEN",
+      "teamID": "10",
+      "defTD": "1",
+      "defensiveInterceptions": "3",
+      "sacks": "3",
+      "ydsAllowed": "330",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "18",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "330",
+      "rushingAttempts": "25",
+      "rushingYards": "115",
+      "fumblesLost": "0",
+      "penalties": "11-79",
+      "totalPlays": "65",
+      "possession": "31:23",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "22-37",
+      "passingFirstDowns": "13",
+      "interceptionsThrown": "3",
+      "sacksAndYardsLost": "3-16",
+      "thirdDownEfficiency": "7-15",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.1",
+      "redZoneScoredAndAttempted": "1-2",
+      "teamID": "17",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "12",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "1",
+      "firstDowns": "20",
+      "passTD": "1",
+      "team": "LV",
+      "blockedXP": "0",
+      "teamAbv": "LV",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "0-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "215",
+      "yardsPerRush": "4.6",
+      "snapCounts": {
+        "totalSpecialTeams": "30",
+        "totalOffensive": "70",
+        "totalDefensive": "63"
+      },
+      "turnovers": "3",
+      "yardsPerPass": "5.4"
+    },
+    "home": {
+      "totalYards": "289",
+      "rushingAttempts": "28",
+      "rushingYards": "109",
+      "fumblesLost": "0",
+      "penalties": "9-44",
+      "totalPlays": "58",
+      "possession": "28:37",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "19-27",
+      "passingFirstDowns": "9",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "3-26",
+      "thirdDownEfficiency": "3-12",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.0",
+      "redZoneScoredAndAttempted": "3-4",
+      "teamID": "10",
+      "defensiveInterceptions": "3",
+      "defensiveOrSpecialTeamsTds": "1",
+      "totalDrives": "12",
+      "rushingFirstDowns": "6",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "18",
+      "passTD": "2",
+      "team": "DEN",
+      "blockedXP": "0",
+      "teamAbv": "DEN",
+      "firstDownsFromPenalties": "3",
+      "fourthDownEfficiency": "1-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "180",
+      "yardsPerRush": "3.9",
+      "snapCounts": {
+        "totalSpecialTeams": "30",
+        "totalOffensive": "63",
+        "totalDefensive": "70"
+      },
+      "turnovers": "0",
+      "yardsPerPass": "6.0"
+    }
+  },
+  "gameDate": "20241006",
+  "scoringPlays": [
+    {
+      "score": "Brock Bowers 57 Yd pass from Gardner Minshew (Daniel Carlson Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "7",
+      "teamID": "17",
+      "scoreDetails": "4 plays, 70 yards, 2:03",
+      "scoreType": "TD",
+      "scoreTime": "12:57",
+      "team": "LV",
+      "playerIDs": [
+        "4038524",
+        "4432665",
+        "3051909"
+      ]
+    },
+    {
+      "score": "Daniel Carlson 40 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "10",
+      "teamID": "17",
+      "scoreDetails": "13 plays, 68 yards, 8:06",
+      "scoreType": "FG",
+      "scoreTime": "1:27",
+      "team": "LV",
+      "playerIDs": [
+        "3051909"
+      ]
+    },
+    {
+      "score": "Wil Lutz 51 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "10",
+      "teamID": "10",
+      "scoreDetails": "7 plays, 26 yards, 4:04",
+      "scoreType": "FG",
+      "scoreTime": "12:23",
+      "team": "DEN",
+      "playerIDs": [
+        "2985659"
+      ]
+    },
+    {
+      "score": "Pat Surtain II 100 Yd Interception Return (Wil Lutz Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "10",
+      "awayScore": "10",
+      "teamID": "10",
+      "scoreDetails": "6 plays, 64 yards, 3:40",
+      "scoreType": "TD",
+      "scoreTime": "8:43",
+      "team": "DEN",
+      "playerIDs": [
+        "4372012",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Wil Lutz 44 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "13",
+      "awayScore": "10",
+      "teamID": "10",
+      "scoreDetails": "5 plays, 38 yards, 0:27",
+      "scoreType": "FG",
+      "scoreTime": "0:00",
+      "team": "DEN",
+      "playerIDs": [
+        "2985659"
+      ]
+    },
+    {
+      "score": "Jaleel McLaughlin 4 Yd pass from Bo Nix (Wil Lutz Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "20",
+      "awayScore": "10",
+      "teamID": "10",
+      "scoreDetails": "6 plays, 50 yards, 3:00",
+      "scoreType": "TD",
+      "scoreTime": "6:54",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "4722893",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Bo Nix 1 Yd Run (Wil Lutz Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "27",
+      "awayScore": "10",
+      "teamID": "10",
+      "scoreDetails": "8 plays, 58 yards, 4:48",
+      "scoreType": "TD",
+      "scoreTime": "10:12",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Josh Reynolds 9 Yd pass from Bo Nix (Wil Lutz Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "34",
+      "awayScore": "10",
+      "teamID": "10",
+      "scoreDetails": "4 plays, 39 yards, 1:53",
+      "scoreType": "TD",
+      "scoreTime": "8:14",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "3115306",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Ameer Abdullah 3 Yd Run (Alexander Mattison Run for Two-Point Conversion)",
+      "scorePeriod": "Q4",
+      "homeScore": "34",
+      "awayScore": "18",
+      "teamID": "17",
+      "scoreDetails": "12 plays, 75 yards, 4:13",
+      "scoreType": "TD",
+      "scoreTime": "4:01",
+      "team": "LV",
+      "playerIDs": [
+        "2576336",
+        "4048244"
+      ]
+    }
+  ],
+  "network": "FOX",
+  "teamIDHome": "10",
+  "homeResult": "W",
+  "away": "LV",
+  "gameWeek": "Week 5",
+  "attendance": "72,825",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "10",
+      "Q2": "0",
+      "Q3": "0",
+      "Q4": "8",
+      "teamID": "17",
+      "currentlyInPossession": "False",
+      "totalPts": "18",
+      "teamAbv": "LV"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "13",
+      "Q3": "7",
+      "Q4": "14",
+      "teamID": "10",
+      "currentlyInPossession": "False",
+      "totalPts": "34",
+      "teamAbv": "DEN"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Denver, CO",
+  "home": "DEN",
+  "playerStats": {
+    "15846": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.60"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "15846",
+      "longName": "John Jenkins"
+    },
+    "2515270": {
+      "gameID": "20241006_LV@DEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "1",
+        "recYds": "5",
+        "recAvg": "5.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.17",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.67",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2515270",
+      "longName": "Michael Burton"
+    },
+    "2576336": {
+      "gameID": "20241006_LV@DEN",
+      "Rushing": {
+        "rushAvg": "8.4",
+        "rushYds": "42",
+        "carries": "5",
+        "longRush": "40",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "3",
+        "recYds": "9",
+        "recAvg": "3.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ameer Abdullah 3 Yd Run (Alexander Mattison Run for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "34",
+          "awayScore": "18",
+          "teamID": "17",
+          "scoreDetails": "12 plays, 75 yards, 4:13",
+          "scoreType": "TD",
+          "scoreTime": "4:01",
+          "team": "LV",
+          "playerIDs": [
+            "2576336",
+            "4048244"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.44",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.53",
+        "offSnap": "31",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "23",
+        "kickReturnAvg": "23.0",
+        "kickReturnLong": "23"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "2576336",
+      "longName": "Ameer Abdullah"
+    },
+    "2577346": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "2577346",
+      "longName": "Cody Whitehair"
+    },
+    "2577619": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "259",
+        "punts": "6",
+        "puntAvg": "43.2",
+        "puntsin20": "3",
+        "puntTouchBacks": "1",
+        "puntLong": "53"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2577619",
+      "longName": "Riley Dixon"
+    },
+    "2972342": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.85"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2972342",
+      "longName": "Adam Butler"
+    },
+    "2978278": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "2978278",
+      "longName": "Andrus Peat"
+    },
+    "2985659": {
+      "gameID": "20241006_LV@DEN",
+      "scoringPlays": [
+        {
+          "score": "Wil Lutz 51 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "7 plays, 26 yards, 4:04",
+          "scoreType": "FG",
+          "scoreTime": "12:23",
+          "team": "DEN",
+          "playerIDs": [
+            "2985659"
+          ]
+        },
+        {
+          "score": "Pat Surtain II 100 Yd Interception Return (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "10",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "6 plays, 64 yards, 3:40",
+          "scoreType": "TD",
+          "scoreTime": "8:43",
+          "team": "DEN",
+          "playerIDs": [
+            "4372012",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Wil Lutz 44 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "13",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "5 plays, 38 yards, 0:27",
+          "scoreType": "FG",
+          "scoreTime": "0:00",
+          "team": "DEN",
+          "playerIDs": [
+            "2985659"
+          ]
+        },
+        {
+          "score": "Jaleel McLaughlin 4 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "20",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "6 plays, 50 yards, 3:00",
+          "scoreType": "TD",
+          "scoreTime": "6:54",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4722893",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Bo Nix 1 Yd Run (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "8 plays, 58 yards, 4:48",
+          "scoreType": "TD",
+          "scoreTime": "10:12",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Josh Reynolds 9 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "34",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "4 plays, 39 yards, 1:53",
+          "scoreType": "TD",
+          "scoreTime": "8:14",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3115306",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "51",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "4",
+        "fgPct": "100.0",
+        "kickingPts": "10",
+        "xpAttempts": "4",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2985659",
+      "longName": "Wil Lutz"
+    },
+    "3051909": {
+      "gameID": "20241006_LV@DEN",
+      "scoringPlays": [
+        {
+          "score": "Brock Bowers 57 Yd pass from Gardner Minshew (Daniel Carlson Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "17",
+          "scoreDetails": "4 plays, 70 yards, 2:03",
+          "scoreType": "TD",
+          "scoreTime": "12:57",
+          "team": "LV",
+          "playerIDs": [
+            "4038524",
+            "4432665",
+            "3051909"
+          ]
+        },
+        {
+          "score": "Daniel Carlson 40 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "10",
+          "teamID": "17",
+          "scoreDetails": "13 plays, 68 yards, 8:06",
+          "scoreType": "FG",
+          "scoreTime": "1:27",
+          "team": "LV",
+          "playerIDs": [
+            "3051909"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "40",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "1",
+        "fgPct": "100.0",
+        "kickingPts": "4",
+        "xpAttempts": "1",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3051909",
+      "longName": "Daniel Carlson"
+    },
+    "3115306": {
+      "gameID": "20241006_LV@DEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "1",
+        "longRec": "9",
+        "targets": "2",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Josh Reynolds 9 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "34",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "4 plays, 39 yards, 1:53",
+          "scoreType": "TD",
+          "scoreTime": "8:14",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3115306",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.48",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3115306",
+      "longName": "Josh Reynolds"
+    },
+    "3120464": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.51"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3120464",
+      "longName": "John Franklin-Myers"
+    },
+    "3128429": {
+      "gameID": "20241006_LV@DEN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "24",
+        "targets": "5",
+        "recYds": "32",
+        "recAvg": "16.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.81",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3128429",
+      "longName": "Courtland Sutton"
+    },
+    "3129446": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "63",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3129446",
+      "longName": "Robert Spillane"
+    },
+    "3133440": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.14"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3133440",
+      "longName": "Levi Wallace"
+    },
+    "3134312": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3134312",
+      "longName": "Kolton Miller"
+    },
+    "3134448": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.77",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "61",
+        "kickReturnAvg": "30.5",
+        "kickReturnLong": "38"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3134448",
+      "longName": "Tremon Smith"
+    },
+    "3139166": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3139166",
+      "longName": "Mitchell Fraboni"
+    },
+    "3686689": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "267",
+        "punts": "5",
+        "puntAvg": "53.4",
+        "puntsin20": "2",
+        "puntTouchBacks": "0",
+        "puntLong": "61"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3686689",
+      "longName": "AJ Cole"
+    },
+    "3728266": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.35"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "2",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3728266",
+      "longName": "Christian Wilkins"
+    },
+    "3894915": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3894915",
+      "longName": "D.J. Jones"
+    },
+    "3911853": {
+      "gameID": "20241006_LV@DEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "19",
+        "targets": "1",
+        "recYds": "19",
+        "recAvg": "19.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.54",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3911853",
+      "longName": "Adam Trautman"
+    },
+    "3915282": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "63",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.90"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3915282",
+      "longName": "Zach Allen"
+    },
+    "3916433": {
+      "gameID": "20241006_LV@DEN",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "21",
+        "targets": "9",
+        "recYds": "72",
+        "recAvg": "12.0"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.97",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3916433",
+      "longName": "Jakobi Meyers"
+    },
+    "3916655": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.82"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "2",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "3916655",
+      "longName": "Maxx Crosby"
+    },
+    "3919510": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.53",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3919510",
+      "longName": "Alex Bachman"
+    },
+    "3919548": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "51",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3919548",
+      "longName": "Justin Strnad"
+    },
+    "3921936": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.59",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3921936",
+      "longName": "Matt Peart"
+    },
+    "3925443": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3925443",
+      "longName": "Jacob Bobenmoyer"
+    },
+    "3926229": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3926229",
+      "longName": "Cody Barton"
+    },
+    "3929850": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3929850",
+      "longName": "P.J. Locke"
+    },
+    "3932244": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "3932244",
+      "longName": "Andre James"
+    },
+    "4035604": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "8",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4035604",
+      "longName": "Janarius Robinson"
+    },
+    "4035662": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.94",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4035662",
+      "longName": "Garett Bolles"
+    },
+    "4035686": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.89"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4035686",
+      "longName": "Jack Jones"
+    },
+    "4036153": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "16",
+        "stSnapPct": "0.53",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4036153",
+      "longName": "Kristian Welch"
+    },
+    "4036211": {
+      "gameID": "20241006_LV@DEN",
+      "Rushing": {
+        "rushAvg": "5.0",
+        "rushYds": "5",
+        "carries": "1",
+        "longRush": "5",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "4",
+        "recYds": "12",
+        "recAvg": "12.0"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.74",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.37",
+        "offSnap": "52",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4036211",
+      "longName": "DJ Turner"
+    },
+    "4037559": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.47",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4037559",
+      "longName": "Devon Key"
+    },
+    "4037650": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4037650",
+      "longName": "Ben Powers"
+    },
+    "4038524": {
+      "gameID": "20241006_LV@DEN",
+      "Rushing": {
+        "rushAvg": "11.0",
+        "rushYds": "22",
+        "carries": "2",
+        "longRush": "11",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "46.9",
+        "rtg": "74.5",
+        "sacked": "2-9",
+        "passAttempts": "17",
+        "passAvg": "8.1",
+        "passTD": "1",
+        "passYds": "137",
+        "int": "2",
+        "passCompletions": "12"
+      },
+      "scoringPlays": [
+        {
+          "score": "Brock Bowers 57 Yd pass from Gardner Minshew (Daniel Carlson Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "17",
+          "scoreDetails": "4 plays, 70 yards, 2:03",
+          "scoreType": "TD",
+          "scoreTime": "12:57",
+          "team": "LV",
+          "playerIDs": [
+            "4038524",
+            "4432665",
+            "3051909"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4038524",
+      "longName": "Gardner Minshew"
+    },
+    "4039018": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.84",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4039018",
+      "longName": "Luke Wattenberg"
+    },
+    "4039057": {
+      "gameID": "20241006_LV@DEN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "27",
+        "targets": "2",
+        "recYds": "48",
+        "recAvg": "24.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "40",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4039057",
+      "longName": "Lil'Jordan Humphrey"
+    },
+    "4039059": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "68",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039059",
+      "longName": "Brandon Jones"
+    },
+    "4039064": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.39"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039064",
+      "longName": "Malcolm Roach"
+    },
+    "4040608": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.76"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4040608",
+      "longName": "Jonathon Cooper"
+    },
+    "4040774": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.46",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4040774",
+      "longName": "Harrison Bryant"
+    },
+    "4048244": {
+      "gameID": "20241006_LV@DEN",
+      "Rushing": {
+        "rushAvg": "2.5",
+        "rushYds": "38",
+        "rushingTwoPointConversion": "1",
+        "carries": "15",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "3",
+        "recYds": "23",
+        "recAvg": "11.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ameer Abdullah 3 Yd Run (Alexander Mattison Run for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "34",
+          "awayScore": "18",
+          "teamID": "17",
+          "scoreDetails": "12 plays, 75 yards, 4:13",
+          "scoreType": "TD",
+          "scoreTime": "4:01",
+          "team": "LV",
+          "playerIDs": [
+            "2576336",
+            "4048244"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.57",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "40",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4048244",
+      "longName": "Alexander Mattison"
+    },
+    "4076803": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4076803",
+      "longName": "Jordan Meredith"
+    },
+    "4240542": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "47",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240542",
+      "longName": "Nate Hobbs"
+    },
+    "4240551": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.52",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "33",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4240551",
+      "longName": "Alex Palczewski"
+    },
+    "4240849": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240849",
+      "longName": "Charles Snowden"
+    },
+    "4242205": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "10",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.33"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242205",
+      "longName": "K'Lavon Chaisson"
+    },
+    "4242503": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.16",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4242503",
+      "longName": "Alex Forsyth"
+    },
+    "4242526": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.50",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242526",
+      "longName": "John Samuel Shenker"
+    },
+    "4242973": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4242973",
+      "longName": "Darnay Holmes"
+    },
+    "4243375": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4243375",
+      "longName": "Dylan Parham"
+    },
+    "4259632": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4259632",
+      "longName": "Isaiah Pola-Mao"
+    },
+    "4260394": {
+      "gameID": "20241006_LV@DEN",
+      "Passing": {
+        "qbr": "20.9",
+        "rtg": "42.5",
+        "sacked": "1-7",
+        "passAttempts": "20",
+        "passAvg": "4.7",
+        "passTD": "0",
+        "passYds": "94",
+        "int": "1",
+        "passCompletions": "10"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.37",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4260394",
+      "longName": "Aidan O'Connell"
+    },
+    "4261090": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "10",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.23"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4261090",
+      "longName": "Jordan Jackson"
+    },
+    "4360231": {
+      "gameID": "20241006_LV@DEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "1",
+        "recYds": "5",
+        "recAvg": "5.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.29",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.27",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4360231",
+      "longName": "Lucas Krull"
+    },
+    "4360239": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "8",
+        "stSnap": "21",
+        "stSnapPct": "0.70",
+        "offSnap": "0",
+        "defSnapPct": "0.13"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4360239",
+      "longName": "Amari Burney"
+    },
+    "4360259": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.56"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4360259",
+      "longName": "Nik Bonitto"
+    },
+    "4360469": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "28",
+        "stSnapPct": "0.93",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360469",
+      "longName": "Amari Gainer"
+    },
+    "4360855": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.60",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4360855",
+      "longName": "Kana'i Mauga"
+    },
+    "4361579": {
+      "gameID": "20241006_LV@DEN",
+      "Rushing": {
+        "rushAvg": "4.7",
+        "rushYds": "61",
+        "carries": "13",
+        "longRush": "17",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "26",
+        "targets": "6",
+        "recYds": "50",
+        "recAvg": "10.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "40",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4361579",
+      "longName": "Javonte Williams"
+    },
+    "4361604": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.02",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4361604",
+      "longName": "Blake Watson"
+    },
+    "4361691": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.10",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "6",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4361691",
+      "longName": "Frank Crum"
+    },
+    "4362487": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.79"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4362487",
+      "longName": "Tre'von Moehrig"
+    },
+    "4362497": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.16"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362497",
+      "longName": "Nesta Jade Silvera"
+    },
+    "4366963": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4366963",
+      "longName": "Dylan Laube"
+    },
+    "4372012": {
+      "gameID": "20241006_LV@DEN",
+      "scoringPlays": [
+        {
+          "score": "Pat Surtain II 100 Yd Interception Return (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "10",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "6 plays, 64 yards, 3:40",
+          "scoreType": "TD",
+          "scoreTime": "8:43",
+          "team": "DEN",
+          "playerIDs": [
+            "4372012",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "70",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "3",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "2",
+        "defensiveInterceptionsYards": "100",
+        "interceptionTDs": "1",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4372012",
+      "longName": "Pat Surtain II"
+    },
+    "4372418": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.37",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4372418",
+      "longName": "Keidron Smith"
+    },
+    "4372533": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4372533",
+      "longName": "Tyree Wilson"
+    },
+    "4373956": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.30"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4373956",
+      "longName": "Jonah Laulu"
+    },
+    "4379413": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "26",
+        "stSnapPct": "0.87",
+        "offSnap": "0",
+        "defSnapPct": "0.17"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4379413",
+      "longName": "Chris Smith II"
+    },
+    "4382401": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "69",
+        "stSnap": "8",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4382401",
+      "longName": "Riley Moss"
+    },
+    "4383440": {
+      "gameID": "20241006_LV@DEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "1",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.51",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.40",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4383440",
+      "longName": "Nate Adkins"
+    },
+    "4426338": {
+      "gameID": "20241006_LV@DEN",
+      "Rushing": {
+        "rushAvg": "1.1",
+        "rushYds": "9",
+        "carries": "8",
+        "longRush": "11",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "25.9",
+        "rtg": "117.2",
+        "sacked": "3-26",
+        "passAttempts": "27",
+        "passAvg": "7.6",
+        "passTD": "2",
+        "passYds": "206",
+        "int": "0",
+        "passCompletions": "19"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jaleel McLaughlin 4 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "20",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "6 plays, 50 yards, 3:00",
+          "scoreType": "TD",
+          "scoreTime": "6:54",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4722893",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Bo Nix 1 Yd Run (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "8 plays, 58 yards, 4:48",
+          "scoreType": "TD",
+          "scoreTime": "10:12",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Josh Reynolds 9 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "34",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "4 plays, 39 yards, 1:53",
+          "scoreType": "TD",
+          "scoreTime": "8:14",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "3115306",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4426338",
+      "longName": "Bo Nix"
+    },
+    "4428241": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.47",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4428241",
+      "longName": "Levelle Bailey"
+    },
+    "4428503": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428503",
+      "longName": "JL Skinner"
+    },
+    "4428718": {
+      "gameID": "20241006_LV@DEN",
+      "Rushing": {
+        "rushAvg": "4.0",
+        "rushYds": "8",
+        "carries": "2",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "5",
+        "recYds": "18",
+        "recAvg": "9.0"
+      },
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.84",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428718",
+      "longName": "Tre Tucker"
+    },
+    "4429560": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "18",
+        "stSnapPct": "0.60",
+        "offSnap": "0",
+        "defSnapPct": "0.71"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429560",
+      "longName": "Tommy Eichenberg"
+    },
+    "4430104": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4430104",
+      "longName": "Sincere McCormick"
+    },
+    "4431280": {
+      "gameID": "20241006_LV@DEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "20",
+        "targets": "2",
+        "recYds": "20",
+        "recAvg": "20.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.17",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4431280",
+      "longName": "Troy Franklin"
+    },
+    "4432665": {
+      "gameID": "20241006_LV@DEN",
+      "Receiving": {
+        "receptions": "8",
+        "recTD": "1",
+        "longRec": "57",
+        "targets": "12",
+        "recYds": "97",
+        "recAvg": "12.1"
+      },
+      "scoringPlays": [
+        {
+          "score": "Brock Bowers 57 Yd pass from Gardner Minshew (Daniel Carlson Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "17",
+          "scoreDetails": "4 plays, 70 yards, 2:03",
+          "scoreType": "TD",
+          "scoreTime": "12:57",
+          "team": "LV",
+          "playerIDs": [
+            "4038524",
+            "4432665",
+            "3051909"
+          ]
+        }
+      ],
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.79",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4432665",
+      "longName": "Brock Bowers"
+    },
+    "4567462": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4567462",
+      "longName": "Ja'Quan McMillian"
+    },
+    "4569323": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "13",
+        "stSnap": "23",
+        "stSnapPct": "0.77",
+        "offSnap": "0",
+        "defSnapPct": "0.21"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4569323",
+      "longName": "Thomas Harper"
+    },
+    "4606683": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4606683",
+      "longName": "DJ Glaze"
+    },
+    "4608138": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4608138",
+      "longName": "Quinn Meinerz"
+    },
+    "4686472": {
+      "gameID": "20241006_LV@DEN",
+      "Rushing": {
+        "rushAvg": "17.0",
+        "rushYds": "17",
+        "carries": "1",
+        "longRush": "17",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "7",
+        "targets": "1",
+        "recYds": "7",
+        "recAvg": "7.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "54",
+        "puntReturnAvg": "27.0",
+        "puntReturnLong": "38",
+        "puntReturnTD": "0"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4686472",
+      "longName": "Marvin Mims Jr."
+    },
+    "4686911": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "62",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4686911",
+      "longName": "Jakorian Bennett"
+    },
+    "4687592": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "14",
+        "stSnapPct": "0.47",
+        "offSnap": "0",
+        "defSnapPct": "0.51"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4687592",
+      "longName": "Jonah Elliss"
+    },
+    "4700660": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4700660",
+      "longName": "Sam Webb"
+    },
+    "4722893": {
+      "gameID": "20241006_LV@DEN",
+      "Rushing": {
+        "rushAvg": "3.7",
+        "rushYds": "22",
+        "carries": "6",
+        "longRush": "13",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "1",
+        "longRec": "4",
+        "targets": "4",
+        "recYds": "3",
+        "recAvg": "1.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jaleel McLaughlin 4 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "20",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "6 plays, 50 yards, 3:00",
+          "scoreType": "TD",
+          "scoreTime": "6:54",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4722893",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.37",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "23",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4722893",
+      "longName": "Jaleel McLaughlin"
+    },
+    "4875295": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "17",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "LV",
+      "teamAbv": "LV",
+      "playerID": "4875295",
+      "longName": "Jackson Powers-Johnson"
+    },
+    "5216101": {
+      "gameID": "20241006_LV@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "17",
+        "stSnap": "14",
+        "stSnapPct": "0.47",
+        "offSnap": "0",
+        "defSnapPct": "0.24"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "5216101",
+      "longName": "Dondrea Tillman"
+    }
+  },
+  "arenaCapacity": "76,125",
+  "arena": "Empower Field at Mile High",
+  "homePts": "34",
+  "awayResult": "L",
+  "teamIDAway": "17",
+  "Referees": "Frank Steratore, Craig Wrolstad, Rich Martinez, Steve Woods, Danny Short, Jeff Shears, Brett Bergman",
+  "gameClock": "",
+  "awayPts": "18",
+  "gameID": "20241006_LV@DEN",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

@@ -1,0 +1,2743 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "NO",
+      "teamID": "23",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "1",
+      "ydsAllowed": "395",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "27",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "TB",
+      "teamID": "30",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "2",
+      "ydsAllowed": "292",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "19",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "292",
+      "rushingAttempts": "19",
+      "rushingYards": "64",
+      "fumblesLost": "0",
+      "penalties": "8-77",
+      "totalPlays": "63",
+      "possession": "27:44",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "26-42",
+      "passingFirstDowns": "14",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "2-12",
+      "thirdDownEfficiency": "3-13",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.6",
+      "redZoneScoredAndAttempted": "1-2",
+      "teamID": "23",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "9",
+      "rushingFirstDowns": "4",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "19",
+      "passTD": "1",
+      "team": "NO",
+      "blockedXP": "0",
+      "teamAbv": "NO",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "2-3",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "228",
+      "yardsPerRush": "3.4",
+      "snapCounts": {
+        "totalSpecialTeams": "28",
+        "totalOffensive": "66",
+        "totalDefensive": "67"
+      },
+      "turnovers": "0",
+      "yardsPerPass": "5.2"
+    },
+    "home": {
+      "totalYards": "395",
+      "rushingAttempts": "31",
+      "rushingYards": "179",
+      "fumblesLost": "0",
+      "penalties": "12-90",
+      "totalPlays": "64",
+      "possession": "32:16",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "21-32",
+      "passingFirstDowns": "11",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "1-5",
+      "thirdDownEfficiency": "10-16",
+      "blockedPunt": "0",
+      "yardsPerPlay": "6.2",
+      "redZoneScoredAndAttempted": "2-3",
+      "teamID": "30",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "10",
+      "rushingFirstDowns": "6",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "20",
+      "passTD": "2",
+      "team": "TB",
+      "blockedXP": "0",
+      "teamAbv": "TB",
+      "firstDownsFromPenalties": "3",
+      "fourthDownEfficiency": "1-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "216",
+      "yardsPerRush": "5.8",
+      "snapCounts": {
+        "totalSpecialTeams": "28",
+        "totalOffensive": "67",
+        "totalDefensive": "66"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "6.5"
+    }
+  },
+  "gameDate": "20250105",
+  "scoringPlays": [
+    {
+      "score": "Blake Grupe 35 Yd Field Goal",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "3",
+      "teamID": "23",
+      "scoreDetails": "11 plays, 54 yards, 5:44",
+      "scoreType": "FG",
+      "scoreTime": "9:16",
+      "team": "NO",
+      "playerIDs": [
+        "4259619"
+      ]
+    },
+    {
+      "score": "Chase McLaughlin 52 Yd Field Goal ",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "3",
+      "teamID": "30",
+      "scoreDetails": "9 plays, 43 yards, 4:25",
+      "scoreType": "FG",
+      "scoreTime": "4:51",
+      "team": "TB",
+      "playerIDs": [
+        "3150744"
+      ]
+    },
+    {
+      "score": "Blake Grupe 39 Yd Field Goal ",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "6",
+      "teamID": "23",
+      "scoreDetails": "10 plays, 49 yards, 4:59",
+      "scoreType": "FG",
+      "scoreTime": "14:52",
+      "team": "NO",
+      "playerIDs": [
+        "4259619"
+      ]
+    },
+    {
+      "score": "Dante Pettis 5 Yd pass from Spencer Rattler (Blake Grupe Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "13",
+      "teamID": "23",
+      "scoreDetails": "14 plays, 79 yards, 7:36",
+      "scoreType": "TD",
+      "scoreTime": "6:14",
+      "team": "NO",
+      "playerIDs": [
+        "4426339",
+        "3127306",
+        "4259619"
+      ]
+    },
+    {
+      "score": "Chase McLaughlin 25 Yd Field Goal ",
+      "scorePeriod": "Q2",
+      "homeScore": "6",
+      "awayScore": "13",
+      "teamID": "30",
+      "scoreDetails": "12 plays, 63 yards, 5:11",
+      "scoreType": "FG",
+      "scoreTime": "1:03",
+      "team": "TB",
+      "playerIDs": [
+        "3150744"
+      ]
+    },
+    {
+      "score": "Blake Grupe 39 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "6",
+      "awayScore": "16",
+      "teamID": "23",
+      "scoreDetails": "10 plays, 49 yards, 0:56",
+      "scoreType": "FG",
+      "scoreTime": "0:07",
+      "team": "NO",
+      "playerIDs": [
+        "4259619"
+      ]
+    },
+    {
+      "score": "Payne Durham 6 Yd pass from Baker Mayfield (Chase McLaughlin Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "13",
+      "awayScore": "16",
+      "teamID": "30",
+      "scoreDetails": "10 plays, 72 yards, 4:33",
+      "scoreType": "TD",
+      "scoreTime": "10:27",
+      "team": "TB",
+      "playerIDs": [
+        "3052587",
+        "4372505",
+        "3150744"
+      ]
+    },
+    {
+      "score": "Blake Grupe 49 Yd Field Goal",
+      "scorePeriod": "Q3",
+      "homeScore": "13",
+      "awayScore": "19",
+      "teamID": "23",
+      "scoreDetails": "4 plays, 6 yards, 1:36",
+      "scoreType": "FG",
+      "scoreTime": "5:53",
+      "team": "NO",
+      "playerIDs": [
+        "4259619"
+      ]
+    },
+    {
+      "score": "Jalen McMillan 32 Yd pass from Baker Mayfield (Chase McLaughlin Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "20",
+      "awayScore": "19",
+      "teamID": "30",
+      "scoreDetails": "12 plays, 82 yards, 7:09",
+      "scoreType": "TD",
+      "scoreTime": "10:09",
+      "team": "TB",
+      "playerIDs": [
+        "3052587",
+        "4430834",
+        "3150744"
+      ]
+    },
+    {
+      "score": "Bucky Irving 11 Yd Rush (Chase McLaughlin Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "27",
+      "awayScore": "19",
+      "teamID": "30",
+      "scoreDetails": "12 plays, 94 yards, 5:47",
+      "scoreType": "TD",
+      "scoreTime": "1:51",
+      "team": "TB",
+      "playerIDs": [
+        "4596448",
+        "3150744"
+      ]
+    }
+  ],
+  "network": "FOX",
+  "teamIDHome": "30",
+  "homeResult": "W",
+  "away": "NO",
+  "gameWeek": "Week 18",
+  "attendance": "63,001",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "3",
+      "Q2": "13",
+      "Q3": "3",
+      "Q4": "0",
+      "teamID": "23",
+      "currentlyInPossession": "False",
+      "totalPts": "19",
+      "teamAbv": "NO"
+    },
+    "home": {
+      "Q1": "3",
+      "Q2": "3",
+      "Q3": "7",
+      "Q4": "14",
+      "teamID": "30",
+      "currentlyInPossession": "False",
+      "totalPts": "27",
+      "teamAbv": "TB"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Tampa, FL",
+  "home": "TB",
+  "playerStats": {
+    "13971": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.57"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "13971",
+      "longName": "Cameron Jordan"
+    },
+    "14958": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "14958",
+      "longName": "Demario Davis"
+    },
+    "14985": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "14985",
+      "longName": "Lavonte David"
+    },
+    "15851": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "15851",
+      "longName": "Tyrann Mathieu"
+    },
+    "16019": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.15"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "16019",
+      "longName": "William Gholston"
+    },
+    "16737": {
+      "gameID": "20250105_NO@TB",
+      "Receiving": {
+        "receptions": "9",
+        "recTD": "0",
+        "longRec": "14",
+        "targets": "14",
+        "recYds": "89",
+        "recAvg": "9.9"
+      },
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.88",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "16737",
+      "longName": "Mike Evans"
+    },
+    "16967": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.18"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "16967",
+      "longName": "Shaquil Barrett"
+    },
+    "2575788": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2575788",
+      "longName": "Zach Wood"
+    },
+    "2976545": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "2976545",
+      "longName": "Deion Jones"
+    },
+    "2976592": {
+      "gameID": "20250105_NO@TB",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "2",
+        "recYds": "11",
+        "recAvg": "11.0"
+      },
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "2976592",
+      "longName": "Sterling Shepard"
+    },
+    "2980453": {
+      "gameID": "20250105_NO@TB",
+      "Rushing": {
+        "rushAvg": "1.9",
+        "rushYds": "15",
+        "carries": "8",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "7",
+        "targets": "1",
+        "recYds": "7",
+        "recAvg": "7.0"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.36",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.32",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "2980453",
+      "longName": "Jamaal Williams"
+    },
+    "2982313": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2982313",
+      "longName": "Tanoh Kpassagnon"
+    },
+    "3051738": {
+      "gameID": "20250105_NO@TB",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "20",
+        "targets": "8",
+        "recYds": "33",
+        "recAvg": "11.0"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.70",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "46",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3051738",
+      "longName": "Marquez Valdes-Scantling"
+    },
+    "3052587": {
+      "gameID": "20250105_NO@TB",
+      "Rushing": {
+        "rushAvg": "7.6",
+        "rushYds": "68",
+        "carries": "9",
+        "longRush": "28",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "91.1",
+        "rtg": "93.4",
+        "sacked": "1-5",
+        "passAttempts": "32",
+        "passAvg": "6.9",
+        "passTD": "2",
+        "passYds": "221",
+        "int": "1",
+        "passCompletions": "21"
+      },
+      "scoringPlays": [
+        {
+          "score": "Payne Durham 6 Yd pass from Baker Mayfield (Chase McLaughlin Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "13",
+          "awayScore": "16",
+          "teamID": "30",
+          "scoreDetails": "10 plays, 72 yards, 4:33",
+          "scoreType": "TD",
+          "scoreTime": "10:27",
+          "team": "TB",
+          "playerIDs": [
+            "3052587",
+            "4372505",
+            "3150744"
+          ]
+        },
+        {
+          "score": "Jalen McMillan 32 Yd pass from Baker Mayfield (Chase McLaughlin Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "19",
+          "teamID": "30",
+          "scoreDetails": "12 plays, 82 yards, 7:09",
+          "scoreType": "TD",
+          "scoreTime": "10:09",
+          "team": "TB",
+          "playerIDs": [
+            "3052587",
+            "4430834",
+            "3150744"
+          ]
+        }
+      ],
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "3052587",
+      "longName": "Baker Mayfield"
+    },
+    "3115481": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "23",
+        "stSnapPct": "0.82",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3115481",
+      "longName": "J.T. Gray"
+    },
+    "3120502": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3120502",
+      "longName": "Olisaemeka Udoh"
+    },
+    "3121344": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "8",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.12"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "3121344",
+      "longName": "Ryan Neal"
+    },
+    "3121634": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.52"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3121634",
+      "longName": "Khalen Saunders"
+    },
+    "3127294": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3127294",
+      "longName": "Greg Gaines"
+    },
+    "3127306": {
+      "gameID": "20250105_NO@TB",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "11",
+        "targets": "6",
+        "recYds": "16",
+        "recAvg": "8.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Dante Pettis 5 Yd pass from Spencer Rattler (Blake Grupe Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "13",
+          "teamID": "23",
+          "scoreDetails": "14 plays, 79 yards, 7:36",
+          "scoreType": "TD",
+          "scoreTime": "6:14",
+          "team": "NO",
+          "playerIDs": [
+            "4426339",
+            "3127306",
+            "4259619"
+          ]
+        }
+      ],
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.32",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "9",
+        "puntReturnAvg": "9.0",
+        "puntReturnLong": "9",
+        "puntReturnTD": "0"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3127306",
+      "longName": "Dante Pettis"
+    },
+    "3134362": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.83"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3134362",
+      "longName": "Vita Vea"
+    },
+    "3150744": {
+      "gameID": "20250105_NO@TB",
+      "scoringPlays": [
+        {
+          "score": "Chase McLaughlin 52 Yd Field Goal ",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "3",
+          "teamID": "30",
+          "scoreDetails": "9 plays, 43 yards, 4:25",
+          "scoreType": "FG",
+          "scoreTime": "4:51",
+          "team": "TB",
+          "playerIDs": [
+            "3150744"
+          ]
+        },
+        {
+          "score": "Chase McLaughlin 25 Yd Field Goal ",
+          "scorePeriod": "Q2",
+          "homeScore": "6",
+          "awayScore": "13",
+          "teamID": "30",
+          "scoreDetails": "12 plays, 63 yards, 5:11",
+          "scoreType": "FG",
+          "scoreTime": "1:03",
+          "team": "TB",
+          "playerIDs": [
+            "3150744"
+          ]
+        },
+        {
+          "score": "Payne Durham 6 Yd pass from Baker Mayfield (Chase McLaughlin Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "13",
+          "awayScore": "16",
+          "teamID": "30",
+          "scoreDetails": "10 plays, 72 yards, 4:33",
+          "scoreType": "TD",
+          "scoreTime": "10:27",
+          "team": "TB",
+          "playerIDs": [
+            "3052587",
+            "4372505",
+            "3150744"
+          ]
+        },
+        {
+          "score": "Jalen McMillan 32 Yd pass from Baker Mayfield (Chase McLaughlin Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "19",
+          "teamID": "30",
+          "scoreDetails": "12 plays, 82 yards, 7:09",
+          "scoreType": "TD",
+          "scoreTime": "10:09",
+          "team": "TB",
+          "playerIDs": [
+            "3052587",
+            "4430834",
+            "3150744"
+          ]
+        },
+        {
+          "score": "Bucky Irving 11 Yd Rush (Chase McLaughlin Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "19",
+          "teamID": "30",
+          "scoreDetails": "12 plays, 94 yards, 5:47",
+          "scoreType": "TD",
+          "scoreTime": "1:51",
+          "team": "TB",
+          "playerIDs": [
+            "4596448",
+            "3150744"
+          ]
+        }
+      ],
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "52",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "3",
+        "fgPct": "100.0",
+        "kickingPts": "9",
+        "xpAttempts": "3",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "3150744",
+      "longName": "Chase McLaughlin"
+    },
+    "3155647": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.86"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3155647",
+      "longName": "Mike Edwards"
+    },
+    "3843945": {
+      "gameID": "20250105_NO@TB",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "4",
+        "recYds": "31",
+        "recAvg": "7.8"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.79",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "52",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3843945",
+      "longName": "Foster Moreau"
+    },
+    "3886834": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "47",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.70"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3886834",
+      "longName": "Ugo Amadi"
+    },
+    "3894856": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "14",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.64"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3894856",
+      "longName": "Anthony Nelson"
+    },
+    "3915142": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3915142",
+      "longName": "Shane Lemieux"
+    },
+    "3915297": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3915297",
+      "longName": "Will Harris"
+    },
+    "3915777": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "3915777",
+      "longName": "Justin Skule"
+    },
+    "3918310": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "43",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.64"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3918310",
+      "longName": "Carl Granderson"
+    },
+    "3929645": {
+      "gameID": "20250105_NO@TB",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "26",
+        "targets": "7",
+        "recYds": "80",
+        "recAvg": "13.3"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.79",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "52",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3929645",
+      "longName": "Juwan Johnson"
+    },
+    "3929914": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.18",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "3929914",
+      "longName": "Adam Prentice"
+    },
+    "4034779": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.16",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.79",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4034779",
+      "longName": "Ko Kieft"
+    },
+    "4035079": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4035079",
+      "longName": "Landon Young"
+    },
+    "4036335": {
+      "gameID": "20250105_NO@TB",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "5",
+        "recYds": "22",
+        "recAvg": "7.3"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.45",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.43",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4036335",
+      "longName": "Cedrick Wilson Jr."
+    },
+    "4036430": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.06"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036430",
+      "longName": "Shemar Jean-Charles"
+    },
+    "4046551": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4046551",
+      "longName": "Ben Bredeson"
+    },
+    "4076951": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.43"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4076951",
+      "longName": "Nathan Shepherd"
+    },
+    "4240269": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4240269",
+      "longName": "Payton Turner"
+    },
+    "4240589": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4240589",
+      "longName": "Tristan Wirfs"
+    },
+    "4241611": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "2",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4241611",
+      "longName": "Nephi Sewell"
+    },
+    "4241986": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.61"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4241986",
+      "longName": "Chase Young"
+    },
+    "4242214": {
+      "gameID": "20250105_NO@TB",
+      "Rushing": {
+        "rushAvg": "3.3",
+        "rushYds": "26",
+        "carries": "8",
+        "longRush": "12",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "14",
+        "targets": "1",
+        "recYds": "14",
+        "recAvg": "14.0"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.27",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4242214",
+      "longName": "Clyde Edwards-Helaire"
+    },
+    "4242391": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4242391",
+      "longName": "Robert Hainsey"
+    },
+    "4242521": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "18",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.24"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242521",
+      "longName": "K.J. Britt"
+    },
+    "4243004": {
+      "gameID": "20250105_NO@TB",
+      "Rushing": {
+        "rushAvg": "6.0",
+        "rushYds": "12",
+        "carries": "2",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "3",
+        "recYds": "13",
+        "recAvg": "4.3"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.36",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4243004",
+      "longName": "Jordan Mims"
+    },
+    "4243333": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.39"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4243333",
+      "longName": "Joe Tryon-Shoyinka"
+    },
+    "4243366": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "19",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243366",
+      "longName": "J.J. Russell"
+    },
+    "4248047": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4248047",
+      "longName": "John Ridgeway III"
+    },
+    "4248533": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "12",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "12",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "10",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4248533",
+      "longName": "Josh Hayes"
+    },
+    "4248545": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4248545",
+      "longName": "Cody Mauch"
+    },
+    "4248627": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4248627",
+      "longName": "Trevor Penning"
+    },
+    "4250392": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "12",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "4"
+      },
+      "playerID": "4250392",
+      "longName": "Zyon McCollum"
+    },
+    "4258199": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4258199",
+      "longName": "Cesar Ruiz"
+    },
+    "4259619": {
+      "gameID": "20250105_NO@TB",
+      "scoringPlays": [
+        {
+          "score": "Blake Grupe 35 Yd Field Goal",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "3",
+          "teamID": "23",
+          "scoreDetails": "11 plays, 54 yards, 5:44",
+          "scoreType": "FG",
+          "scoreTime": "9:16",
+          "team": "NO",
+          "playerIDs": [
+            "4259619"
+          ]
+        },
+        {
+          "score": "Blake Grupe 39 Yd Field Goal ",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "6",
+          "teamID": "23",
+          "scoreDetails": "10 plays, 49 yards, 4:59",
+          "scoreType": "FG",
+          "scoreTime": "14:52",
+          "team": "NO",
+          "playerIDs": [
+            "4259619"
+          ]
+        },
+        {
+          "score": "Dante Pettis 5 Yd pass from Spencer Rattler (Blake Grupe Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "13",
+          "teamID": "23",
+          "scoreDetails": "14 plays, 79 yards, 7:36",
+          "scoreType": "TD",
+          "scoreTime": "6:14",
+          "team": "NO",
+          "playerIDs": [
+            "4426339",
+            "3127306",
+            "4259619"
+          ]
+        },
+        {
+          "score": "Blake Grupe 39 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "6",
+          "awayScore": "16",
+          "teamID": "23",
+          "scoreDetails": "10 plays, 49 yards, 0:56",
+          "scoreType": "FG",
+          "scoreTime": "0:07",
+          "team": "NO",
+          "playerIDs": [
+            "4259619"
+          ]
+        },
+        {
+          "score": "Blake Grupe 49 Yd Field Goal",
+          "scorePeriod": "Q3",
+          "homeScore": "13",
+          "awayScore": "19",
+          "teamID": "23",
+          "scoreDetails": "4 plays, 6 yards, 1:36",
+          "scoreType": "FG",
+          "scoreTime": "5:53",
+          "team": "NO",
+          "playerIDs": [
+            "4259619"
+          ]
+        }
+      ],
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "49",
+        "fgMade": "4",
+        "fgAttempts": "4",
+        "xpMade": "1",
+        "fgPct": "100.0",
+        "kickingPts": "13",
+        "xpAttempts": "1",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4259619",
+      "longName": "Blake Grupe"
+    },
+    "4334405": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "23",
+        "stSnapPct": "0.82",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4334405",
+      "longName": "Tavierre Thomas"
+    },
+    "4360189": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.45"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360189",
+      "longName": "Logan Hall"
+    },
+    "4360502": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4360502",
+      "longName": "Kaevon Merriweather"
+    },
+    "4360949": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "14",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "3",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4360949",
+      "longName": "Jordan Howden"
+    },
+    "4361112": {
+      "gameID": "20250105_NO@TB",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "20",
+        "targets": "2",
+        "recYds": "36",
+        "recAvg": "18.0"
+      },
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.24",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.50",
+        "offSnap": "16",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4361112",
+      "longName": "Devin Culp"
+    },
+    "4361194": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.82",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4361194",
+      "longName": "Isaiah Stalbird"
+    },
+    "4361727": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4361727",
+      "longName": "Evan Deckers"
+    },
+    "4362066": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4362066",
+      "longName": "Elijah Klein"
+    },
+    "4367330": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.61",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4367330",
+      "longName": "Tyrek Funderburk"
+    },
+    "4368350": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.61",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4368350",
+      "longName": "Rico Payton"
+    },
+    "4369466": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.12",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.54",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4369466",
+      "longName": "Ryan Miller"
+    },
+    "4369835": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4369835",
+      "longName": "Alontae Taylor"
+    },
+    "4372505": {
+      "gameID": "20250105_NO@TB",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "10",
+        "targets": "2",
+        "recYds": "16",
+        "recAvg": "8.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Payne Durham 6 Yd pass from Baker Mayfield (Chase McLaughlin Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "13",
+          "awayScore": "16",
+          "teamID": "30",
+          "scoreDetails": "10 plays, 72 yards, 4:33",
+          "scoreType": "TD",
+          "scoreTime": "10:27",
+          "team": "TB",
+          "playerIDs": [
+            "3052587",
+            "4372505",
+            "3150744"
+          ]
+        }
+      ],
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.81",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4372505",
+      "longName": "Payne Durham"
+    },
+    "4372758": {
+      "gameID": "20250105_NO@TB",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "1",
+        "recYds": "13",
+        "recAvg": "13.0"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.55",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "36",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4372758",
+      "longName": "Kevin Austin Jr."
+    },
+    "4373634": {
+      "gameID": "20250105_NO@TB",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "3",
+        "recYds": "11",
+        "recAvg": "5.5"
+      },
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.21",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4373634",
+      "longName": "Dallin Holker"
+    },
+    "4380507": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4380507",
+      "longName": "Luke Goedeke"
+    },
+    "4384683": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4384683",
+      "longName": "Kyle Hergel"
+    },
+    "4426339": {
+      "gameID": "20250105_NO@TB",
+      "Rushing": {
+        "rushAvg": "11.0",
+        "rushYds": "11",
+        "carries": "1",
+        "longRush": "11",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "57.1",
+        "rtg": "85.4",
+        "sacked": "2-12",
+        "passAttempts": "42",
+        "passAvg": "5.7",
+        "passTD": "1",
+        "passYds": "240",
+        "int": "0",
+        "passCompletions": "26"
+      },
+      "scoringPlays": [
+        {
+          "score": "Dante Pettis 5 Yd pass from Spencer Rattler (Blake Grupe Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "13",
+          "teamID": "23",
+          "scoreDetails": "14 plays, 79 yards, 7:36",
+          "scoreType": "TD",
+          "scoreTime": "6:14",
+          "team": "NO",
+          "playerIDs": [
+            "4426339",
+            "3127306",
+            "4259619"
+          ]
+        }
+      ],
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4426339",
+      "longName": "Spencer Rattler"
+    },
+    "4426407": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.12",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "0",
+        "puntReturnAvg": "0.0",
+        "puntReturnLong": "0",
+        "puntReturnTD": "0"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4426407",
+      "longName": "Trey Palmer"
+    },
+    "4426457": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.82",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4426457",
+      "longName": "Isaiah Foskey"
+    },
+    "4427673": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.83"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4427673",
+      "longName": "Calijah Kancey"
+    },
+    "4428522": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.67"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428522",
+      "longName": "Tykee Smith"
+    },
+    "4428988": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428988",
+      "longName": "Bryan Bresee"
+    },
+    "4428989": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "12",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "0.08"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4428989",
+      "longName": "Chris Braswell"
+    },
+    "4429006": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.10",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4429006",
+      "longName": "Rakim Jarrett"
+    },
+    "4429251": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4429251",
+      "longName": "Graham Barton"
+    },
+    "4430834": {
+      "gameID": "20250105_NO@TB",
+      "Rushing": {
+        "rushAvg": "6.0",
+        "rushYds": "6",
+        "carries": "1",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "1",
+        "longRec": "33",
+        "targets": "6",
+        "recYds": "74",
+        "recAvg": "14.8"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jalen McMillan 32 Yd pass from Baker Mayfield (Chase McLaughlin Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "19",
+          "teamID": "30",
+          "scoreDetails": "12 plays, 82 yards, 7:09",
+          "scoreType": "TD",
+          "scoreTime": "10:09",
+          "team": "TB",
+          "playerIDs": [
+            "3052587",
+            "4430834",
+            "3150744"
+          ]
+        }
+      ],
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.88",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4430834",
+      "longName": "Jalen McMillan"
+    },
+    "4430871": {
+      "gameID": "20250105_NO@TB",
+      "Rushing": {
+        "rushAvg": "8.0",
+        "rushYds": "16",
+        "carries": "2",
+        "longRush": "14",
+        "rushTD": "0"
+      },
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.36",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "3",
+        "kickReturnTD": "0",
+        "kickReturnYds": "88",
+        "kickReturnAvg": "29.3",
+        "kickReturnLong": "36"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4430871",
+      "longName": "Sean Tucker"
+    },
+    "4433975": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "63",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.94"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4433975",
+      "longName": "Kool-Aid McKinstry"
+    },
+    "4567535": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "18",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.30"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4567535",
+      "longName": "Anfernee Orji"
+    },
+    "4569352": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4569352",
+      "longName": "Millard Bradford"
+    },
+    "4571597": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "131",
+        "punts": "3",
+        "puntAvg": "43.7",
+        "puntsin20": "2",
+        "puntTouchBacks": "0",
+        "puntLong": "51"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4571597",
+      "longName": "Matthew Hayball"
+    },
+    "4596448": {
+      "gameID": "20250105_NO@TB",
+      "Rushing": {
+        "rushAvg": "4.7",
+        "rushYds": "89",
+        "carries": "19",
+        "longRush": "25",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "2",
+        "targets": "5",
+        "recYds": "-5",
+        "recAvg": "-2.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Bucky Irving 11 Yd Rush (Chase McLaughlin Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "19",
+          "teamID": "30",
+          "scoreDetails": "12 plays, 94 yards, 5:47",
+          "scoreType": "TD",
+          "scoreTime": "1:51",
+          "team": "TB",
+          "playerIDs": [
+            "4596448",
+            "3150744"
+          ]
+        }
+      ],
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.72",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "48",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4596448",
+      "longName": "Bucky Irving"
+    },
+    "4606711": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "23",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "NO",
+      "teamAbv": "NO",
+      "playerID": "4606711",
+      "longName": "Taliese Fuaga"
+    },
+    "4686334": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "4",
+        "qbHits": "4",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4686334",
+      "longName": "Yaya Diaby"
+    },
+    "4697815": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.27",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4697815",
+      "longName": "Rachaad White"
+    },
+    "4876013": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "66",
+        "punts": "2",
+        "puntAvg": "33.0",
+        "puntsin20": "0",
+        "puntTouchBacks": "0",
+        "puntLong": "52"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4876013",
+      "longName": "Jack Browning"
+    },
+    "4917592": {
+      "gameID": "20250105_NO@TB",
+      "teamID": "30",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "TB",
+      "teamAbv": "TB",
+      "playerID": "4917592",
+      "longName": "Dallis Flowers"
+    }
+  },
+  "arenaCapacity": "65,844",
+  "arena": "Raymond James Stadium",
+  "homePts": "27",
+  "awayResult": "L",
+  "teamIDAway": "23",
+  "Referees": "Trawick Boger, Adrian Hill, Greg Steed, Roy Ellison, Greg Bradley, Clay Reynard, David Oliver",
+  "gameClock": "",
+  "awayPts": "19",
+  "gameID": "20250105_NO@TB",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

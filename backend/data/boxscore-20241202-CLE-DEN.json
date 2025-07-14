@@ -1,0 +1,3003 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "CLE",
+      "teamID": "8",
+      "defTD": "0",
+      "defensiveInterceptions": "2",
+      "sacks": "0",
+      "ydsAllowed": "400",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "29",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "DEN",
+      "teamID": "10",
+      "defTD": "2",
+      "defensiveInterceptions": "3",
+      "sacks": "3",
+      "ydsAllowed": "552",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "32",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "552",
+      "rushingAttempts": "23",
+      "rushingYards": "77",
+      "fumblesLost": "0",
+      "penalties": "5-46",
+      "totalPlays": "84",
+      "possession": "32:10",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "34-58",
+      "passingFirstDowns": "24",
+      "interceptionsThrown": "3",
+      "sacksAndYardsLost": "3-22",
+      "thirdDownEfficiency": "9-19",
+      "blockedPunt": "0",
+      "yardsPerPlay": "6.6",
+      "redZoneScoredAndAttempted": "3-4",
+      "teamID": "8",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "15",
+      "rushingFirstDowns": "3",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "1",
+      "firstDowns": "28",
+      "passTD": "4",
+      "team": "CLE",
+      "blockedXP": "0",
+      "teamAbv": "CLE",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "2-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "475",
+      "yardsPerRush": "3.3",
+      "snapCounts": {
+        "totalSpecialTeams": "37",
+        "totalOffensive": "86",
+        "totalDefensive": "66"
+      },
+      "turnovers": "3",
+      "yardsPerPass": "7.8"
+    },
+    "home": {
+      "totalYards": "400",
+      "rushingAttempts": "26",
+      "rushingYards": "106",
+      "fumblesLost": "0",
+      "penalties": "4-57",
+      "totalPlays": "61",
+      "possession": "27:50",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "18-35",
+      "passingFirstDowns": "11",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "0-0",
+      "thirdDownEfficiency": "6-13",
+      "blockedPunt": "0",
+      "yardsPerPlay": "6.6",
+      "redZoneScoredAndAttempted": "2-4",
+      "teamID": "10",
+      "defensiveInterceptions": "3",
+      "defensiveOrSpecialTeamsTds": "2",
+      "totalDrives": "14",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "2",
+      "twoPointConversions": "0",
+      "firstDowns": "19",
+      "passTD": "1",
+      "team": "DEN",
+      "blockedXP": "0",
+      "teamAbv": "DEN",
+      "firstDownsFromPenalties": "3",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "294",
+      "yardsPerRush": "4.1",
+      "snapCounts": {
+        "totalSpecialTeams": "37",
+        "totalOffensive": "66",
+        "totalDefensive": "86"
+      },
+      "turnovers": "2",
+      "yardsPerPass": "8.4"
+    }
+  },
+  "gameDate": "20241202",
+  "scoringPlays": [
+    {
+      "score": "Javonte Williams 2 Yd Rush (Wil Lutz Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "7",
+      "awayScore": "0",
+      "teamID": "10",
+      "scoreDetails": "12 plays, 63 yards, 6:03",
+      "scoreType": "TD",
+      "scoreTime": "4:13",
+      "team": "DEN",
+      "playerIDs": [
+        "4361579",
+        "2985659"
+      ]
+    },
+    {
+      "score": "David Njoku 8 Yd pass from Jameis Winston (Dustin Hopkins Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "7",
+      "awayScore": "7",
+      "teamID": "8",
+      "scoreDetails": "5 plays, 70 yards, 3:04",
+      "scoreType": "TD",
+      "scoreTime": "1:09",
+      "team": "CLE",
+      "playerIDs": [
+        "2969939",
+        "3123076",
+        "15965"
+      ]
+    },
+    {
+      "score": "Dustin Hopkins 45 Yd Field Goal ",
+      "scorePeriod": "Q2",
+      "homeScore": "7",
+      "awayScore": "10",
+      "teamID": "8",
+      "scoreDetails": "9 plays, 42 yards, 3:43",
+      "scoreType": "FG",
+      "scoreTime": "8:49",
+      "team": "CLE",
+      "playerIDs": [
+        "15965"
+      ]
+    },
+    {
+      "score": "Michael Burton 1 Yd Rush (Wil Lutz Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "14",
+      "awayScore": "10",
+      "teamID": "10",
+      "scoreDetails": "6 plays, 67 yards, 3:04",
+      "scoreType": "TD",
+      "scoreTime": "4:03",
+      "team": "DEN",
+      "playerIDs": [
+        "2515270",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Nik Bonitto 71 Yd Interception Return (Wil Lutz Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "21",
+      "awayScore": "10",
+      "teamID": "10",
+      "scoreDetails": "7 plays, 41 yards, 2:25",
+      "scoreType": "TD",
+      "scoreTime": "1:38",
+      "team": "DEN",
+      "playerIDs": [
+        "4360259",
+        "2985659"
+      ]
+    },
+    {
+      "score": "David Njoku 4 Yd pass from Jameis Winston (Dustin Hopkins Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "21",
+      "awayScore": "17",
+      "teamID": "8",
+      "scoreDetails": "11 plays, 70 yards, 1:25",
+      "scoreType": "TD",
+      "scoreTime": "0:13",
+      "team": "CLE",
+      "playerIDs": [
+        "2969939",
+        "3123076",
+        "15965"
+      ]
+    },
+    {
+      "score": "Marvin Mims Jr. 93 Yd pass from Bo Nix (Wil Lutz Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "28",
+      "awayScore": "17",
+      "teamID": "10",
+      "scoreDetails": "3 plays, 92 yards, 0:33",
+      "scoreType": "TD",
+      "scoreTime": "10:01",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "4686472",
+        "2985659"
+      ]
+    },
+    {
+      "score": "Jerry Jeudy 70 Yd pass from Jameis Winston (Jameis Winston Pass to Jerry Jeudy for Two-Point Conversion)",
+      "scorePeriod": "Q3",
+      "homeScore": "28",
+      "awayScore": "25",
+      "teamID": "8",
+      "scoreDetails": "1 play, 70 yards, 0:11",
+      "scoreType": "TD",
+      "scoreTime": "9:50",
+      "team": "CLE",
+      "playerIDs": [
+        "2969939",
+        "4241463"
+      ]
+    },
+    {
+      "score": "Wil Lutz 36 Yd Field Goal ",
+      "scorePeriod": "Q3",
+      "homeScore": "31",
+      "awayScore": "25",
+      "teamID": "10",
+      "scoreDetails": "10 plays, 78 yards, 4:06",
+      "scoreType": "FG",
+      "scoreTime": "1:52",
+      "team": "DEN",
+      "playerIDs": [
+        "2985659"
+      ]
+    },
+    {
+      "score": "Nick Chubb 5 Yd pass from Jameis Winston (Dustin Hopkins Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "31",
+      "awayScore": "32",
+      "teamID": "8",
+      "scoreDetails": "9 plays, 72 yards, 3:34",
+      "scoreType": "TD",
+      "scoreTime": "8:57",
+      "team": "CLE",
+      "playerIDs": [
+        "2969939",
+        "3128720",
+        "15965"
+      ]
+    },
+    {
+      "score": "Wil Lutz 27 Yd Field Goal",
+      "scorePeriod": "Q4",
+      "homeScore": "34",
+      "awayScore": "32",
+      "teamID": "10",
+      "scoreDetails": "11 plays, 61 yards, 6:03",
+      "scoreType": "FG",
+      "scoreTime": "2:54",
+      "team": "DEN",
+      "playerIDs": [
+        "2985659"
+      ]
+    },
+    {
+      "score": "Ja'Quan McMillian 44 Yd Interception Return (Wil Lutz Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "41",
+      "awayScore": "32",
+      "teamID": "10",
+      "scoreDetails": "4 plays, 12 yards, 1:06",
+      "scoreType": "TD",
+      "scoreTime": "1:48",
+      "team": "DEN",
+      "playerIDs": [
+        "4567462",
+        "2985659"
+      ]
+    }
+  ],
+  "network": "ESPN",
+  "teamIDHome": "10",
+  "homeResult": "W",
+  "away": "CLE",
+  "gameWeek": "Week 13",
+  "attendance": "68,306",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "7",
+      "Q2": "10",
+      "Q3": "8",
+      "Q4": "7",
+      "teamID": "8",
+      "currentlyInPossession": "False",
+      "totalPts": "32",
+      "teamAbv": "CLE"
+    },
+    "home": {
+      "Q1": "7",
+      "Q2": "14",
+      "Q3": "10",
+      "Q4": "10",
+      "teamID": "10",
+      "currentlyInPossession": "False",
+      "totalPts": "41",
+      "teamAbv": "DEN"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Denver, CO",
+  "home": "DEN",
+  "playerStats": {
+    "15222": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "20",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "15222",
+      "longName": "Rodney McLeod Jr."
+    },
+    "15965": {
+      "gameID": "20241202_CLE@DEN",
+      "scoringPlays": [
+        {
+          "score": "David Njoku 8 Yd pass from Jameis Winston (Dustin Hopkins Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "7",
+          "teamID": "8",
+          "scoreDetails": "5 plays, 70 yards, 3:04",
+          "scoreType": "TD",
+          "scoreTime": "1:09",
+          "team": "CLE",
+          "playerIDs": [
+            "2969939",
+            "3123076",
+            "15965"
+          ]
+        },
+        {
+          "score": "Dustin Hopkins 45 Yd Field Goal ",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "10",
+          "teamID": "8",
+          "scoreDetails": "9 plays, 42 yards, 3:43",
+          "scoreType": "FG",
+          "scoreTime": "8:49",
+          "team": "CLE",
+          "playerIDs": [
+            "15965"
+          ]
+        },
+        {
+          "score": "David Njoku 4 Yd pass from Jameis Winston (Dustin Hopkins Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "21",
+          "awayScore": "17",
+          "teamID": "8",
+          "scoreDetails": "11 plays, 70 yards, 1:25",
+          "scoreType": "TD",
+          "scoreTime": "0:13",
+          "team": "CLE",
+          "playerIDs": [
+            "2969939",
+            "3123076",
+            "15965"
+          ]
+        },
+        {
+          "score": "Nick Chubb 5 Yd pass from Jameis Winston (Dustin Hopkins Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "31",
+          "awayScore": "32",
+          "teamID": "8",
+          "scoreDetails": "9 plays, 72 yards, 3:34",
+          "scoreType": "TD",
+          "scoreTime": "8:57",
+          "team": "CLE",
+          "playerIDs": [
+            "2969939",
+            "3128720",
+            "15965"
+          ]
+        }
+      ],
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "45",
+        "fgMade": "1",
+        "fgAttempts": "2",
+        "xpMade": "3",
+        "fgPct": "50.0",
+        "kickingPts": "6",
+        "xpAttempts": "3",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "15965",
+      "longName": "Dustin Hopkins"
+    },
+    "16740": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.14",
+        "offSnap": "86",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "16740",
+      "longName": "Joel Bitonio"
+    },
+    "16837": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "8",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "16837",
+      "longName": "Shelby Harris"
+    },
+    "2514270": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "63",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "12",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2514270",
+      "longName": "Jordan Hicks"
+    },
+    "2515270": {
+      "gameID": "20241202_CLE@DEN",
+      "Rushing": {
+        "rushAvg": "1.0",
+        "rushYds": "1",
+        "carries": "1",
+        "longRush": "1",
+        "rushTD": "1"
+      },
+      "scoringPlays": [
+        {
+          "score": "Michael Burton 1 Yd Rush (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "14",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "6 plays, 67 yards, 3:04",
+          "scoreType": "TD",
+          "scoreTime": "4:03",
+          "team": "DEN",
+          "playerIDs": [
+            "2515270",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.20",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.60",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2515270",
+      "longName": "Michael Burton"
+    },
+    "2577619": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "256",
+        "punts": "5",
+        "puntAvg": "51.2",
+        "puntsin20": "3",
+        "puntTouchBacks": "0",
+        "puntLong": "61"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2577619",
+      "longName": "Riley Dixon"
+    },
+    "2969939": {
+      "gameID": "20241202_CLE@DEN",
+      "Rushing": {
+        "rushAvg": "3.7",
+        "rushYds": "11",
+        "carries": "3",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "76.9",
+        "rtg": "88.1",
+        "sacked": "3-22",
+        "passAttempts": "58",
+        "passAvg": "8.6",
+        "passTD": "4",
+        "passYds": "497",
+        "int": "3",
+        "passingTwoPointConversion": "1",
+        "passCompletions": "34"
+      },
+      "scoringPlays": [
+        {
+          "score": "David Njoku 8 Yd pass from Jameis Winston (Dustin Hopkins Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "7",
+          "teamID": "8",
+          "scoreDetails": "5 plays, 70 yards, 3:04",
+          "scoreType": "TD",
+          "scoreTime": "1:09",
+          "team": "CLE",
+          "playerIDs": [
+            "2969939",
+            "3123076",
+            "15965"
+          ]
+        },
+        {
+          "score": "David Njoku 4 Yd pass from Jameis Winston (Dustin Hopkins Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "21",
+          "awayScore": "17",
+          "teamID": "8",
+          "scoreDetails": "11 plays, 70 yards, 1:25",
+          "scoreType": "TD",
+          "scoreTime": "0:13",
+          "team": "CLE",
+          "playerIDs": [
+            "2969939",
+            "3123076",
+            "15965"
+          ]
+        },
+        {
+          "score": "Jerry Jeudy 70 Yd pass from Jameis Winston (Jameis Winston Pass to Jerry Jeudy for Two-Point Conversion)",
+          "scorePeriod": "Q3",
+          "homeScore": "28",
+          "awayScore": "25",
+          "teamID": "8",
+          "scoreDetails": "1 play, 70 yards, 0:11",
+          "scoreType": "TD",
+          "scoreTime": "9:50",
+          "team": "CLE",
+          "playerIDs": [
+            "2969939",
+            "4241463"
+          ]
+        },
+        {
+          "score": "Nick Chubb 5 Yd pass from Jameis Winston (Dustin Hopkins Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "31",
+          "awayScore": "32",
+          "teamID": "8",
+          "scoreDetails": "9 plays, 72 yards, 3:34",
+          "scoreType": "TD",
+          "scoreTime": "8:57",
+          "team": "CLE",
+          "playerIDs": [
+            "2969939",
+            "3128720",
+            "15965"
+          ]
+        }
+      ],
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "86",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "2969939",
+      "longName": "Jameis Winston"
+    },
+    "2972304": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.14",
+        "offSnap": "86",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "2972304",
+      "longName": "Germain Ifedi"
+    },
+    "2976213": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "2976213",
+      "longName": "Michael Dunn"
+    },
+    "2979534": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.14",
+        "offSnap": "86",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "2979534",
+      "longName": "Jack Conklin"
+    },
+    "2979860": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "7",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.76"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2979860",
+      "longName": "Dalvin Tomlinson"
+    },
+    "2985659": {
+      "gameID": "20241202_CLE@DEN",
+      "scoringPlays": [
+        {
+          "score": "Javonte Williams 2 Yd Rush (Wil Lutz Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "10",
+          "scoreDetails": "12 plays, 63 yards, 6:03",
+          "scoreType": "TD",
+          "scoreTime": "4:13",
+          "team": "DEN",
+          "playerIDs": [
+            "4361579",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Michael Burton 1 Yd Rush (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "14",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "6 plays, 67 yards, 3:04",
+          "scoreType": "TD",
+          "scoreTime": "4:03",
+          "team": "DEN",
+          "playerIDs": [
+            "2515270",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Nik Bonitto 71 Yd Interception Return (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "21",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "7 plays, 41 yards, 2:25",
+          "scoreType": "TD",
+          "scoreTime": "1:38",
+          "team": "DEN",
+          "playerIDs": [
+            "4360259",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Marvin Mims Jr. 93 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "28",
+          "awayScore": "17",
+          "teamID": "10",
+          "scoreDetails": "3 plays, 92 yards, 0:33",
+          "scoreType": "TD",
+          "scoreTime": "10:01",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4686472",
+            "2985659"
+          ]
+        },
+        {
+          "score": "Wil Lutz 36 Yd Field Goal ",
+          "scorePeriod": "Q3",
+          "homeScore": "31",
+          "awayScore": "25",
+          "teamID": "10",
+          "scoreDetails": "10 plays, 78 yards, 4:06",
+          "scoreType": "FG",
+          "scoreTime": "1:52",
+          "team": "DEN",
+          "playerIDs": [
+            "2985659"
+          ]
+        },
+        {
+          "score": "Wil Lutz 27 Yd Field Goal",
+          "scorePeriod": "Q4",
+          "homeScore": "34",
+          "awayScore": "32",
+          "teamID": "10",
+          "scoreDetails": "11 plays, 61 yards, 6:03",
+          "scoreType": "FG",
+          "scoreTime": "2:54",
+          "team": "DEN",
+          "playerIDs": [
+            "2985659"
+          ]
+        },
+        {
+          "score": "Ja'Quan McMillian 44 Yd Interception Return (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "41",
+          "awayScore": "32",
+          "teamID": "10",
+          "scoreDetails": "4 plays, 12 yards, 1:06",
+          "scoreType": "TD",
+          "scoreTime": "1:48",
+          "team": "DEN",
+          "playerIDs": [
+            "4567462",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "36",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "5",
+        "fgPct": "100.0",
+        "kickingPts": "11",
+        "xpAttempts": "5",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2985659",
+      "longName": "Wil Lutz"
+    },
+    "3042738": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "86",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3042738",
+      "longName": "Ethan Pocic"
+    },
+    "3045220": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "5",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.42"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3045220",
+      "longName": "Maurice Hurst II"
+    },
+    "3045474": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.14",
+        "offSnap": "86",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3045474",
+      "longName": "Wyatt Teller"
+    },
+    "3050916": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "28",
+        "stSnapPct": "0.76",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3050916",
+      "longName": "Mike Ford Jr."
+    },
+    "3051750": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3051750",
+      "longName": "Zach Cunningham"
+    },
+    "3052667": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "7",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.67"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3052667",
+      "longName": "Ogbo Okoronkwo"
+    },
+    "3052885": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.19",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3052885",
+      "longName": "Mike McGlinchey"
+    },
+    "3120464": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.56"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3120464",
+      "longName": "John Franklin-Myers"
+    },
+    "3122132": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "47",
+        "stSnap": "7",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.71"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3122132",
+      "longName": "Myles Garrett"
+    },
+    "3123076": {
+      "gameID": "20241202_CLE@DEN",
+      "Receiving": {
+        "receptions": "9",
+        "recTD": "2",
+        "longRec": "13",
+        "targets": "17",
+        "recYds": "52",
+        "recAvg": "5.8"
+      },
+      "scoringPlays": [
+        {
+          "score": "David Njoku 8 Yd pass from Jameis Winston (Dustin Hopkins Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "7",
+          "teamID": "8",
+          "scoreDetails": "5 plays, 70 yards, 3:04",
+          "scoreType": "TD",
+          "scoreTime": "1:09",
+          "team": "CLE",
+          "playerIDs": [
+            "2969939",
+            "3123076",
+            "15965"
+          ]
+        },
+        {
+          "score": "David Njoku 4 Yd pass from Jameis Winston (Dustin Hopkins Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "21",
+          "awayScore": "17",
+          "teamID": "8",
+          "scoreDetails": "11 plays, 70 yards, 1:25",
+          "scoreType": "TD",
+          "scoreTime": "0:13",
+          "team": "CLE",
+          "playerIDs": [
+            "2969939",
+            "3123076",
+            "15965"
+          ]
+        }
+      ],
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.92",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3123076",
+      "longName": "David Njoku"
+    },
+    "3128429": {
+      "gameID": "20241202_CLE@DEN",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "32",
+        "targets": "9",
+        "recYds": "102",
+        "recAvg": "17.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.94",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "62",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3128429",
+      "longName": "Courtland Sutton"
+    },
+    "3128452": {
+      "gameID": "20241202_CLE@DEN",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.23",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.51",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3128452",
+      "longName": "Jordan Akins"
+    },
+    "3128720": {
+      "gameID": "20241202_CLE@DEN",
+      "Rushing": {
+        "rushAvg": "2.3",
+        "rushYds": "21",
+        "carries": "9",
+        "longRush": "10",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "19",
+        "targets": "2",
+        "recYds": "24",
+        "recAvg": "12.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Nick Chubb 5 Yd pass from Jameis Winston (Dustin Hopkins Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "31",
+          "awayScore": "32",
+          "teamID": "8",
+          "scoreDetails": "9 plays, 72 yards, 3:34",
+          "scoreType": "TD",
+          "scoreTime": "8:57",
+          "team": "CLE",
+          "playerIDs": [
+            "2969939",
+            "3128720",
+            "15965"
+          ]
+        }
+      ],
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3128720",
+      "longName": "Nick Chubb"
+    },
+    "3133440": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "74",
+        "stSnap": "4",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.86"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3133440",
+      "longName": "Levi Wallace"
+    },
+    "3134448": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "30",
+        "stSnapPct": "0.81",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3134448",
+      "longName": "Tremon Smith"
+    },
+    "3139166": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3139166",
+      "longName": "Mitchell Fraboni"
+    },
+    "3894915": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "5",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3894915",
+      "longName": "D.J. Jones"
+    },
+    "3911853": {
+      "gameID": "20241202_CLE@DEN",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.56",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.16",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3911853",
+      "longName": "Adam Trautman"
+    },
+    "3913293": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3913293",
+      "longName": "Rex Sunahara"
+    },
+    "3915282": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "83",
+        "stSnap": "5",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "4",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915282",
+      "longName": "Zach Allen"
+    },
+    "3915535": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "4",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.79"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "3915535",
+      "longName": "Denzel Ward"
+    },
+    "3919548": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "78",
+        "stSnap": "10",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.91"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3919548",
+      "longName": "Justin Strnad"
+    },
+    "3921936": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.09",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.19",
+        "offSnap": "6",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3921936",
+      "longName": "Matt Peart"
+    },
+    "3926229": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "86",
+        "stSnap": "5",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "56",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3926229",
+      "longName": "Cody Barton"
+    },
+    "3929850": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "86",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3929850",
+      "longName": "P.J. Locke"
+    },
+    "4035662": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.19",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4035662",
+      "longName": "Garett Bolles"
+    },
+    "4036261": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "15",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.50"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036261",
+      "longName": "Devin Bush"
+    },
+    "4037559": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "18",
+        "stSnapPct": "0.49",
+        "offSnap": "0",
+        "defSnapPct": "0.43"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037559",
+      "longName": "Devon Key"
+    },
+    "4037650": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.19",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4037650",
+      "longName": "Ben Powers"
+    },
+    "4039018": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4039018",
+      "longName": "Luke Wattenberg"
+    },
+    "4039057": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.32",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4039057",
+      "longName": "Lil'Jordan Humphrey"
+    },
+    "4039059": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.56"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4039059",
+      "longName": "Brandon Jones"
+    },
+    "4039064": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "8",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.30"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039064",
+      "longName": "Malcolm Roach"
+    },
+    "4039396": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "312",
+        "punts": "6",
+        "puntAvg": "52.0",
+        "puntsin20": "3",
+        "puntTouchBacks": "1",
+        "puntLong": "63"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4039396",
+      "longName": "Corey Bojorquez"
+    },
+    "4040608": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "5",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4040608",
+      "longName": "Jonathon Cooper"
+    },
+    "4046525": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.65",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4046525",
+      "longName": "Khaleke Hudson"
+    },
+    "4240551": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4240551",
+      "longName": "Alex Palczewski"
+    },
+    "4240600": {
+      "gameID": "20241202_CLE@DEN",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "3",
+        "carries": "1",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "6",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4240600",
+      "longName": "Kadarius Toney"
+    },
+    "4240707": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "19",
+        "stSnapPct": "0.51",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240707",
+      "longName": "Damarri Mathis"
+    },
+    "4241463": {
+      "gameID": "20241202_CLE@DEN",
+      "Receiving": {
+        "receptions": "9",
+        "recTD": "1",
+        "recAvg": "26.1",
+        "receivingTwoPointConversion": "1",
+        "longRec": "70",
+        "targets": "13",
+        "recYds": "235"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jerry Jeudy 70 Yd pass from Jameis Winston (Jameis Winston Pass to Jerry Jeudy for Two-Point Conversion)",
+          "scorePeriod": "Q3",
+          "homeScore": "28",
+          "awayScore": "25",
+          "teamID": "8",
+          "scoreDetails": "1 play, 70 yards, 0:11",
+          "scoreType": "TD",
+          "scoreTime": "9:50",
+          "team": "CLE",
+          "playerIDs": [
+            "2969939",
+            "4241463"
+          ]
+        }
+      ],
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.91",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "78",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4241463",
+      "longName": "Jerry Jeudy"
+    },
+    "4242208": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "12",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.85"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242208",
+      "longName": "Grant Delpit"
+    },
+    "4242503": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4242503",
+      "longName": "Alex Forsyth"
+    },
+    "4243830": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "8",
+        "puntReturnAvg": "4.0",
+        "puntReturnLong": "8",
+        "puntReturnTD": "0"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4243830",
+      "longName": "Jaelon Darden"
+    },
+    "4249836": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.65",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4249836",
+      "longName": "Pierre Strong Jr."
+    },
+    "4251125": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "2",
+        "stSnap": "32",
+        "stSnapPct": "0.86",
+        "offSnap": "0",
+        "defSnapPct": "0.03"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4251125",
+      "longName": "Winston Reid"
+    },
+    "4261090": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "15",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.17"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4261090",
+      "longName": "Jordan Jackson"
+    },
+    "4360174": {
+      "gameID": "20241202_CLE@DEN",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "16",
+        "targets": "5",
+        "recYds": "43",
+        "recAvg": "14.3"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.77",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4360174",
+      "longName": "Michael Woods II"
+    },
+    "4360231": {
+      "gameID": "20241202_CLE@DEN",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "3",
+        "recYds": "24",
+        "recAvg": "8.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.33",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.38",
+        "offSnap": "22",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4360231",
+      "longName": "Lucas Krull"
+    },
+    "4360259": {
+      "gameID": "20241202_CLE@DEN",
+      "scoringPlays": [
+        {
+          "score": "Nik Bonitto 71 Yd Interception Return (Wil Lutz Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "21",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "7 plays, 41 yards, 2:25",
+          "scoreType": "TD",
+          "scoreTime": "1:38",
+          "team": "DEN",
+          "playerIDs": [
+            "4360259",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.56"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "71",
+        "interceptionTDs": "1",
+        "sacks": "1",
+        "passDeflections": "2"
+      },
+      "playerID": "4360259",
+      "longName": "Nik Bonitto"
+    },
+    "4361266": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "4",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.64"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "-2",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4361266",
+      "longName": "Greg Newsome II"
+    },
+    "4361510": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "9",
+        "stSnap": "4",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.14"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361510",
+      "longName": "Cameron Thomas"
+    },
+    "4361579": {
+      "gameID": "20241202_CLE@DEN",
+      "Rushing": {
+        "rushAvg": "0.3",
+        "rushYds": "1",
+        "carries": "4",
+        "longRush": "2",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "3",
+        "targets": "2",
+        "recYds": "3",
+        "recAvg": "3.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Javonte Williams 2 Yd Rush (Wil Lutz Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "10",
+          "scoreDetails": "12 plays, 63 yards, 6:03",
+          "scoreType": "TD",
+          "scoreTime": "4:13",
+          "team": "DEN",
+          "playerIDs": [
+            "4361579",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.45",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4361579",
+      "longName": "Javonte Williams"
+    },
+    "4362018": {
+      "gameID": "20241202_CLE@DEN",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.35",
+        "offSnap": "16",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4362018",
+      "longName": "Blake Whiteheart"
+    },
+    "4362895": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "26",
+        "stSnapPct": "0.70",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4362895",
+      "longName": "Nathaniel Watson"
+    },
+    "4372012": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "86",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4372012",
+      "longName": "Pat Surtain II"
+    },
+    "4372019": {
+      "gameID": "20241202_CLE@DEN",
+      "Rushing": {
+        "rushAvg": "4.6",
+        "rushYds": "41",
+        "carries": "9",
+        "longRush": "21",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "21",
+        "targets": "1",
+        "recYds": "21",
+        "recAvg": "21.0"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.66",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.22",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "21",
+        "kickReturnAvg": "21.0",
+        "kickReturnLong": "21"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4372019",
+      "longName": "Jerome Ford"
+    },
+    "4372414": {
+      "gameID": "20241202_CLE@DEN",
+      "Rushing": {
+        "rushAvg": "1.0",
+        "rushYds": "1",
+        "carries": "1",
+        "longRush": "1",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "8",
+        "recTD": "0",
+        "longRec": "44",
+        "targets": "14",
+        "recYds": "111",
+        "recAvg": "13.9"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.74",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4372414",
+      "longName": "Elijah Moore"
+    },
+    "4383440": {
+      "gameID": "20241202_CLE@DEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "16",
+        "targets": "1",
+        "recYds": "16",
+        "recAvg": "16.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.39",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.54",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4383440",
+      "longName": "Nate Adkins"
+    },
+    "4426338": {
+      "gameID": "20241202_CLE@DEN",
+      "Rushing": {
+        "rushAvg": "1.3",
+        "rushYds": "4",
+        "carries": "3",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "42.2",
+        "rtg": "65.7",
+        "sacked": "0-0",
+        "passAttempts": "35",
+        "passAvg": "8.4",
+        "passTD": "1",
+        "passYds": "294",
+        "int": "2",
+        "passCompletions": "18"
+      },
+      "scoringPlays": [
+        {
+          "score": "Marvin Mims Jr. 93 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "28",
+          "awayScore": "17",
+          "teamID": "10",
+          "scoreDetails": "3 plays, 92 yards, 0:33",
+          "scoreType": "TD",
+          "scoreTime": "10:01",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4686472",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4426338",
+      "longName": "Bo Nix"
+    },
+    "4426676": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "4",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.24"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426676",
+      "longName": "Jowon Briggs"
+    },
+    "4427963": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "5",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.48"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4427963",
+      "longName": "Isaiah McGuire"
+    },
+    "4428241": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4428241",
+      "longName": "Levelle Bailey"
+    },
+    "4428503": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "30",
+        "stSnapPct": "0.81",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4428503",
+      "longName": "JL Skinner"
+    },
+    "4428678": {
+      "gameID": "20241202_CLE@DEN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "2",
+        "recYds": "11",
+        "recAvg": "5.5"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.17",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4428678",
+      "longName": "Jamari Thrash"
+    },
+    "4429193": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "12",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.14"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429193",
+      "longName": "Kris Abrams-Draine"
+    },
+    "4429568": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.85"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429568",
+      "longName": "Martin Emerson Jr."
+    },
+    "4431280": {
+      "gameID": "20241202_CLE@DEN",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "23",
+        "targets": "5",
+        "recYds": "28",
+        "recAvg": "14.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.41",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4431280",
+      "longName": "Troy Franklin"
+    },
+    "4433963": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4433963",
+      "longName": "Zak Zinter"
+    },
+    "4567403": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "19",
+        "stSnapPct": "0.51",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4567403",
+      "longName": "Mohamoud Diabate"
+    },
+    "4567462": {
+      "gameID": "20241202_CLE@DEN",
+      "scoringPlays": [
+        {
+          "score": "Ja'Quan McMillian 44 Yd Interception Return (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "41",
+          "awayScore": "32",
+          "teamID": "10",
+          "scoreDetails": "4 plays, 12 yards, 1:06",
+          "scoreType": "TD",
+          "scoreTime": "1:48",
+          "team": "DEN",
+          "playerIDs": [
+            "4567462",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "62",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "44",
+        "interceptionTDs": "1",
+        "sacks": "0",
+        "passDeflections": "4"
+      },
+      "playerID": "4567462",
+      "longName": "Ja'Quan McMillian"
+    },
+    "4569559": {
+      "gameID": "20241202_CLE@DEN",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "16",
+        "targets": "4",
+        "recYds": "16",
+        "recAvg": "16.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.47",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "31",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4569559",
+      "longName": "Devaughn Vele"
+    },
+    "4569607": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "13",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.24"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4569607",
+      "longName": "Cameron Mitchell"
+    },
+    "4569620": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.68"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4569620",
+      "longName": "Ronnie Hickman"
+    },
+    "4569682": {
+      "gameID": "20241202_CLE@DEN",
+      "Rushing": {
+        "rushAvg": "4.0",
+        "rushYds": "12",
+        "carries": "3",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.12",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.16",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4569682",
+      "longName": "Audric Estime"
+    },
+    "4608138": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.19",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4608138",
+      "longName": "Quinn Meinerz"
+    },
+    "4608386": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "31",
+        "stSnapPct": "0.84",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4608386",
+      "longName": "D'Anthony Bell"
+    },
+    "4686472": {
+      "gameID": "20241202_CLE@DEN",
+      "Rushing": {
+        "rushAvg": "4.0",
+        "rushYds": "4",
+        "carries": "1",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "1",
+        "longRec": "93",
+        "targets": "4",
+        "recYds": "105",
+        "recAvg": "35.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Marvin Mims Jr. 93 Yd pass from Bo Nix (Wil Lutz Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "28",
+          "awayScore": "17",
+          "teamID": "10",
+          "scoreDetails": "3 plays, 92 yards, 0:33",
+          "scoreType": "TD",
+          "scoreTime": "10:01",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "4686472",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.35",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.33",
+        "offSnap": "23",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "10",
+        "puntReturnAvg": "10.0",
+        "puntReturnLong": "10",
+        "puntReturnTD": "0"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4686472",
+      "longName": "Marvin Mims Jr."
+    },
+    "4687592": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "31",
+        "stSnap": "19",
+        "stSnapPct": "0.51",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4687592",
+      "longName": "Jonah Elliss"
+    },
+    "4722893": {
+      "gameID": "20241202_CLE@DEN",
+      "Rushing": {
+        "rushAvg": "6.0",
+        "rushYds": "84",
+        "carries": "14",
+        "longRush": "18",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "2",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.36",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4722893",
+      "longName": "Jaleel McLaughlin"
+    },
+    "5216101": {
+      "gameID": "20241202_CLE@DEN",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "31",
+        "stSnap": "25",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "5216101",
+      "longName": "Dondrea Tillman"
+    }
+  },
+  "arenaCapacity": "76,125",
+  "arena": "Empower Field at Mile High",
+  "homePts": "41",
+  "awayResult": "L",
+  "teamIDAway": "8",
+  "Referees": "Allen Baynes, John Hussey, Carl Johnson, Tony Michalek, Max Causey, Matt Edwards, Anthony Flemming",
+  "gameClock": "",
+  "awayPts": "32",
+  "gameID": "20241202_CLE@DEN",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

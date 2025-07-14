@@ -1,0 +1,2750 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "JAX",
+      "teamID": "15",
+      "defTD": "1",
+      "defensiveInterceptions": "0",
+      "sacks": "3",
+      "ydsAllowed": "447",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "28",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "PHI",
+      "teamID": "27",
+      "defTD": "0",
+      "defensiveInterceptions": "2",
+      "sacks": "2",
+      "ydsAllowed": "215",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "17",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "215",
+      "rushingAttempts": "18",
+      "rushingYards": "60",
+      "fumblesLost": "1",
+      "penalties": "4-17",
+      "totalPlays": "51",
+      "possession": "21:48",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "16-31",
+      "passingFirstDowns": "9",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "2-14",
+      "thirdDownEfficiency": "3-10",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.2",
+      "redZoneScoredAndAttempted": "2-3",
+      "teamID": "15",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "1",
+      "totalDrives": "11",
+      "rushingFirstDowns": "4",
+      "blockedFG": "0",
+      "rushTD": "2",
+      "twoPointConversions": "2",
+      "firstDowns": "14",
+      "passTD": "0",
+      "team": "JAX",
+      "blockedXP": "0",
+      "teamAbv": "JAX",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "1-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "155",
+      "yardsPerRush": "3.3",
+      "snapCounts": {
+        "totalSpecialTeams": "23",
+        "totalOffensive": "54",
+        "totalDefensive": "79"
+      },
+      "turnovers": "3",
+      "yardsPerPass": "4.7"
+    },
+    "home": {
+      "totalYards": "447",
+      "rushingAttempts": "46",
+      "rushingYards": "237",
+      "fumblesLost": "1",
+      "penalties": "8-67",
+      "totalPlays": "73",
+      "possession": "38:12",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "18-24",
+      "passingFirstDowns": "11",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "3-20",
+      "thirdDownEfficiency": "9-17",
+      "blockedPunt": "0",
+      "yardsPerPlay": "6.1",
+      "redZoneScoredAndAttempted": "3-4",
+      "teamID": "27",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "13",
+      "rushingFirstDowns": "9",
+      "blockedFG": "0",
+      "rushTD": "2",
+      "twoPointConversions": "0",
+      "firstDowns": "21",
+      "passTD": "2",
+      "team": "PHI",
+      "blockedXP": "0",
+      "teamAbv": "PHI",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "0-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "210",
+      "yardsPerRush": "5.2",
+      "snapCounts": {
+        "totalSpecialTeams": "23",
+        "totalOffensive": "79",
+        "totalDefensive": "54"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "7.8"
+    }
+  },
+  "gameDate": "20241103",
+  "scoringPlays": [
+    {
+      "score": "Saquon Barkley 20 Yd pass from Jalen Hurts (Jake Elliott Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "7",
+      "awayScore": "0",
+      "teamID": "27",
+      "scoreDetails": "2 plays, 20 yards, 0:48",
+      "scoreType": "TD",
+      "scoreTime": "10:22",
+      "team": "PHI",
+      "playerIDs": [
+        "4040715",
+        "3929630",
+        "3050478"
+      ]
+    },
+    {
+      "score": "Jake Elliott 43 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "10",
+      "awayScore": "0",
+      "teamID": "27",
+      "scoreDetails": "15 plays, 68 yards, 8:53",
+      "scoreType": "FG",
+      "scoreTime": "9:20",
+      "team": "PHI",
+      "playerIDs": [
+        "3050478"
+      ]
+    },
+    {
+      "score": "Saquon Barkley 19 Yd Run (Two-Point Run Conversion Failed)",
+      "scorePeriod": "Q2",
+      "homeScore": "16",
+      "awayScore": "0",
+      "teamID": "27",
+      "scoreDetails": "7 plays, 42 yards, 1:16",
+      "scoreType": "TD",
+      "scoreTime": "0:22",
+      "team": "PHI",
+      "playerIDs": [
+        "3929630"
+      ]
+    },
+    {
+      "score": "Jalen Hurts 18 Yd Run (Two-Point Run Conversion Failed)",
+      "scorePeriod": "Q3",
+      "homeScore": "22",
+      "awayScore": "0",
+      "teamID": "27",
+      "scoreDetails": "7 plays, 78 yards, 3:56",
+      "scoreType": "TD",
+      "scoreTime": "9:25",
+      "team": "PHI",
+      "playerIDs": [
+        "4040715"
+      ]
+    },
+    {
+      "score": "Trevor Lawrence 1 Yd Run (Trevor Lawrence Pass to Brian Thomas Jr. for Two-Point Conversion)",
+      "scorePeriod": "Q3",
+      "homeScore": "22",
+      "awayScore": "8",
+      "teamID": "15",
+      "scoreDetails": "10 plays, 61 yards, 3:59",
+      "scoreType": "TD",
+      "scoreTime": "5:26",
+      "team": "JAX",
+      "playerIDs": [
+        "4360310",
+        "4432773"
+      ]
+    },
+    {
+      "score": "Travon Walker 35 Yd Fumble Return (Trevor Lawrence Pass to Evan Engram for Two-Point Conversion)",
+      "scorePeriod": "Q3",
+      "homeScore": "22",
+      "awayScore": "16",
+      "teamID": "15",
+      "scoreDetails": "1 play, 4 yards, 0:14",
+      "scoreType": "TD",
+      "scoreTime": "5:12",
+      "team": "JAX",
+      "playerIDs": [
+        "4360310",
+        "3051876",
+        "4426349"
+      ]
+    },
+    {
+      "score": "DeVonta Smith 25 Yd pass from Jalen Hurts (Two-Point Pass Conversion Failed)",
+      "scorePeriod": "Q4",
+      "homeScore": "28",
+      "awayScore": "16",
+      "teamID": "27",
+      "scoreDetails": "8 plays, 91 yards, 5:08",
+      "scoreType": "TD",
+      "scoreTime": "7:43",
+      "team": "PHI",
+      "playerIDs": [
+        "4040715",
+        "4241478"
+      ]
+    },
+    {
+      "score": "Trevor Lawrence 4 Yd Run (Cam Little Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "28",
+      "awayScore": "23",
+      "teamID": "15",
+      "scoreDetails": "9 plays, 70 yards, 3:39",
+      "scoreType": "TD",
+      "scoreTime": "4:04",
+      "team": "JAX",
+      "playerIDs": [
+        "4360310",
+        "4686361"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "27",
+  "homeResult": "W",
+  "away": "JAX",
+  "gameWeek": "Week 9",
+  "attendance": "69,879",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "0",
+      "Q2": "0",
+      "Q3": "16",
+      "Q4": "7",
+      "teamID": "15",
+      "currentlyInPossession": "False",
+      "totalPts": "23",
+      "teamAbv": "JAX"
+    },
+    "home": {
+      "Q1": "7",
+      "Q2": "9",
+      "Q3": "6",
+      "Q4": "6",
+      "teamID": "27",
+      "currentlyInPossession": "False",
+      "totalPts": "28",
+      "teamAbv": "PHI"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Philadelphia, PA",
+  "home": "PHI",
+  "playerStats": {
+    "13239": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.69"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "13239",
+      "longName": "Brandon Graham"
+    },
+    "15797": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "15797",
+      "longName": "Lane Johnson"
+    },
+    "2511708": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "2511708",
+      "longName": "Brandon Scherff"
+    },
+    "2514122": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.98",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "2514122",
+      "longName": "Mitch Morse"
+    },
+    "2565971": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "2565971",
+      "longName": "Rick Lovato"
+    },
+    "2969920": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.77"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "2969920",
+      "longName": "Ronald Darby"
+    },
+    "2971275": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2971275",
+      "longName": "Arik Armstead"
+    },
+    "3050073": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.90"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3050073",
+      "longName": "Foyesade Oluokun"
+    },
+    "3050478": {
+      "gameID": "20241103_JAX@PHI",
+      "scoringPlays": [
+        {
+          "score": "Saquon Barkley 20 Yd pass from Jalen Hurts (Jake Elliott Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "27",
+          "scoreDetails": "2 plays, 20 yards, 0:48",
+          "scoreType": "TD",
+          "scoreTime": "10:22",
+          "team": "PHI",
+          "playerIDs": [
+            "4040715",
+            "3929630",
+            "3050478"
+          ]
+        },
+        {
+          "score": "Jake Elliott 43 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "10",
+          "awayScore": "0",
+          "teamID": "27",
+          "scoreDetails": "15 plays, 68 yards, 8:53",
+          "scoreType": "FG",
+          "scoreTime": "9:20",
+          "team": "PHI",
+          "playerIDs": [
+            "3050478"
+          ]
+        }
+      ],
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "43",
+        "fgMade": "1",
+        "fgAttempts": "2",
+        "xpMade": "1",
+        "fgPct": "50.0",
+        "kickingPts": "4",
+        "xpAttempts": "1",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3050478",
+      "longName": "Jake Elliott"
+    },
+    "3051746": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.74",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3051746",
+      "longName": "Oren Burks"
+    },
+    "3051876": {
+      "gameID": "20241103_JAX@PHI",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "recAvg": "9.0",
+        "receivingTwoPointConversion": "1",
+        "longRec": "24",
+        "targets": "10",
+        "recYds": "45"
+      },
+      "scoringPlays": [
+        {
+          "score": "Travon Walker 35 Yd Fumble Return (Trevor Lawrence Pass to Evan Engram for Two-Point Conversion)",
+          "scorePeriod": "Q3",
+          "homeScore": "22",
+          "awayScore": "16",
+          "teamID": "15",
+          "scoreDetails": "1 play, 4 yards, 0:14",
+          "scoreType": "TD",
+          "scoreTime": "5:12",
+          "team": "JAX",
+          "playerIDs": [
+            "4360310",
+            "3051876",
+            "4426349"
+          ]
+        }
+      ],
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.80",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3051876",
+      "longName": "Evan Engram"
+    },
+    "3115480": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "238",
+        "punts": "5",
+        "puntAvg": "47.6",
+        "puntsin20": "3",
+        "puntTouchBacks": "0",
+        "puntLong": "56"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "3115480",
+      "longName": "Logan Cooke"
+    },
+    "3116096": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3116096",
+      "longName": "Nick Gates"
+    },
+    "3116135": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.39",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "3116135",
+      "longName": "Blake Hance"
+    },
+    "3123938": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "11",
+        "stSnapPct": "0.48",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3123938",
+      "longName": "Avonte Maddox"
+    },
+    "3139602": {
+      "gameID": "20241103_JAX@PHI",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "6",
+        "carries": "2",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.24",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.22",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "3139602",
+      "longName": "D'Ernest Johnson"
+    },
+    "3693166": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "2",
+        "stSnapPct": "0.09",
+        "offSnap": "0",
+        "defSnapPct": "0.78"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "2",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "1"
+      },
+      "playerID": "3693166",
+      "longName": "Josh Sweat"
+    },
+    "3892689": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.51"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3892689",
+      "longName": "Jeremiah Ledbetter"
+    },
+    "3914151": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.02",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.65",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "3914151",
+      "longName": "Josiah Deguara"
+    },
+    "3915106": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.99",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "78",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3915106",
+      "longName": "Fred Johnson"
+    },
+    "3915239": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.71"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "2",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "3915239",
+      "longName": "Josh Hines-Allen"
+    },
+    "3915419": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "78",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3915419",
+      "longName": "Darnell Savage"
+    },
+    "3915520": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.68"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915520",
+      "longName": "DaVon Hamilton"
+    },
+    "3917657": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "5",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "3917657",
+      "longName": "Zack Baun"
+    },
+    "3928931": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "3928931",
+      "longName": "Ross Matiscik"
+    },
+    "3929630": {
+      "gameID": "20241103_JAX@PHI",
+      "Rushing": {
+        "rushAvg": "5.9",
+        "rushYds": "159",
+        "carries": "27",
+        "longRush": "21",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "1",
+        "longRec": "20",
+        "targets": "4",
+        "recYds": "40",
+        "recAvg": "13.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Saquon Barkley 20 Yd pass from Jalen Hurts (Jake Elliott Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "27",
+          "scoreDetails": "2 plays, 20 yards, 0:48",
+          "scoreType": "TD",
+          "scoreTime": "10:22",
+          "team": "PHI",
+          "playerIDs": [
+            "4040715",
+            "3929630",
+            "3050478"
+          ]
+        },
+        {
+          "score": "Saquon Barkley 19 Yd Run (Two-Point Run Conversion Failed)",
+          "scorePeriod": "Q2",
+          "homeScore": "16",
+          "awayScore": "0",
+          "teamID": "27",
+          "scoreDetails": "7 plays, 42 yards, 1:16",
+          "scoreType": "TD",
+          "scoreTime": "0:22",
+          "team": "PHI",
+          "playerIDs": [
+            "3929630"
+          ]
+        }
+      ],
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.72",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3929630",
+      "longName": "Saquon Barkley"
+    },
+    "3932668": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3932668",
+      "longName": "Jack Driscoll"
+    },
+    "4034862": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.39",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.48",
+        "offSnap": "31",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4034862",
+      "longName": "Jack Stoll"
+    },
+    "4034953": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4034953",
+      "longName": "C.J. Gardner-Johnson"
+    },
+    "4035048": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.02",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4035048",
+      "longName": "Luke Fortner"
+    },
+    "4035239": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.57",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "146",
+        "punts": "3",
+        "puntAvg": "48.7",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "54"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4035239",
+      "longName": "Braden Mann"
+    },
+    "4035505": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.96",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4035505",
+      "longName": "Daniel Thomas"
+    },
+    "4035624": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4035624",
+      "longName": "Landon Dickerson"
+    },
+    "4035791": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.06",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4035791",
+      "longName": "Cole Van Lanen"
+    },
+    "4039375": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.11"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4039375",
+      "longName": "Bryce Huff"
+    },
+    "4040612": {
+      "gameID": "20241103_JAX@PHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "1",
+        "recYds": "5",
+        "recAvg": "5.0"
+      },
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.26",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.26",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4040612",
+      "longName": "Luke Farrell"
+    },
+    "4040715": {
+      "gameID": "20241103_JAX@PHI",
+      "Rushing": {
+        "rushAvg": "5.2",
+        "rushYds": "67",
+        "carries": "13",
+        "longRush": "21",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "42.3",
+        "rtg": "132.3",
+        "sacked": "3-20",
+        "passAttempts": "24",
+        "passAvg": "9.6",
+        "passTD": "2",
+        "passYds": "230",
+        "int": "0",
+        "passCompletions": "18"
+      },
+      "scoringPlays": [
+        {
+          "score": "Saquon Barkley 20 Yd pass from Jalen Hurts (Jake Elliott Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "27",
+          "scoreDetails": "2 plays, 20 yards, 0:48",
+          "scoreType": "TD",
+          "scoreTime": "10:22",
+          "team": "PHI",
+          "playerIDs": [
+            "4040715",
+            "3929630",
+            "3050478"
+          ]
+        },
+        {
+          "score": "Jalen Hurts 18 Yd Run (Two-Point Run Conversion Failed)",
+          "scorePeriod": "Q3",
+          "homeScore": "22",
+          "awayScore": "0",
+          "teamID": "27",
+          "scoreDetails": "7 plays, 78 yards, 3:56",
+          "scoreType": "TD",
+          "scoreTime": "9:25",
+          "team": "PHI",
+          "playerIDs": [
+            "4040715"
+          ]
+        },
+        {
+          "score": "DeVonta Smith 25 Yd pass from Jalen Hurts (Two-Point Pass Conversion Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "28",
+          "awayScore": "16",
+          "teamID": "27",
+          "scoreDetails": "8 plays, 91 yards, 5:08",
+          "scoreType": "TD",
+          "scoreTime": "7:43",
+          "team": "PHI",
+          "playerIDs": [
+            "4040715",
+            "4241478"
+          ]
+        }
+      ],
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4040715",
+      "longName": "Jalen Hurts"
+    },
+    "4044540": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4044540",
+      "longName": "Isaiah Rodgers"
+    },
+    "4047646": {
+      "gameID": "20241103_JAX@PHI",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "20",
+        "targets": "4",
+        "recYds": "36",
+        "recAvg": "18.0"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.47",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4047646",
+      "longName": "A.J. Brown"
+    },
+    "4051069": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.96",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4051069",
+      "longName": "Caleb Johnson"
+    },
+    "4239699": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.41"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4239699",
+      "longName": "Milton Williams"
+    },
+    "4239996": {
+      "gameID": "20241103_JAX@PHI",
+      "Rushing": {
+        "rushAvg": "8.0",
+        "rushYds": "24",
+        "carries": "3",
+        "longRush": "16",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "3",
+        "targets": "3",
+        "recYds": "6",
+        "recAvg": "3.0"
+      },
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.31",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "17",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4239996",
+      "longName": "Travis Etienne Jr."
+    },
+    "4240090": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4240090",
+      "longName": "Mekhi Becton"
+    },
+    "4240610": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "11",
+        "stSnapPct": "0.48",
+        "offSnap": "0",
+        "defSnapPct": "0.57"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240610",
+      "longName": "Ventrell Miller"
+    },
+    "4241374": {
+      "gameID": "20241103_JAX@PHI",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "5",
+        "recYds": "30",
+        "recAvg": "6.0"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.92",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4241374",
+      "longName": "Grant Calcaterra"
+    },
+    "4241478": {
+      "gameID": "20241103_JAX@PHI",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "46",
+        "targets": "6",
+        "recYds": "87",
+        "recAvg": "21.8"
+      },
+      "scoringPlays": [
+        {
+          "score": "DeVonta Smith 25 Yd pass from Jalen Hurts (Two-Point Pass Conversion Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "28",
+          "awayScore": "16",
+          "teamID": "27",
+          "scoreDetails": "8 plays, 91 yards, 5:08",
+          "scoreType": "TD",
+          "scoreTime": "7:43",
+          "team": "PHI",
+          "playerIDs": [
+            "4040715",
+            "4241478"
+          ]
+        }
+      ],
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.96",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "76",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4241478",
+      "longName": "DeVonta Smith"
+    },
+    "4241588": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.06",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4241588",
+      "longName": "Elijah Cooks"
+    },
+    "4242149": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.23"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4242149",
+      "longName": "Montaric Brown"
+    },
+    "4242554": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4242554",
+      "longName": "Walker Little"
+    },
+    "4243256": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.77"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243256",
+      "longName": "Devin Lloyd"
+    },
+    "4243956": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "54",
+        "stSnap": "2",
+        "stSnapPct": "0.09",
+        "offSnap": "3",
+        "defSnapPct": "1.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243956",
+      "longName": "Reed Blankenship"
+    },
+    "4244856": {
+      "gameID": "20241103_JAX@PHI",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "22",
+        "targets": "3",
+        "recYds": "40",
+        "recAvg": "20.0"
+      },
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.61",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.09",
+        "offSnap": "33",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "7",
+        "puntReturnAvg": "3.5",
+        "puntReturnLong": "6",
+        "puntReturnTD": "0"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4244856",
+      "longName": "Austin Trammell"
+    },
+    "4245131": {
+      "gameID": "20241103_JAX@PHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "2",
+        "recYds": "10",
+        "recAvg": "10.0"
+      },
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.26",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.78",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4245131",
+      "longName": "Tim Jones"
+    },
+    "4248557": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.35",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4248557",
+      "longName": "E.J. Jenkins"
+    },
+    "4360310": {
+      "gameID": "20241103_JAX@PHI",
+      "Rushing": {
+        "rushAvg": "1.6",
+        "rushYds": "8",
+        "carries": "5",
+        "longRush": "4",
+        "rushTD": "2"
+      },
+      "Passing": {
+        "qbr": "34.2",
+        "rtg": "40.9",
+        "sacked": "2-14",
+        "passAttempts": "31",
+        "passAvg": "5.5",
+        "passTD": "0",
+        "passYds": "169",
+        "int": "2",
+        "passingTwoPointConversion": "2",
+        "passCompletions": "16"
+      },
+      "scoringPlays": [
+        {
+          "score": "Trevor Lawrence 1 Yd Run (Trevor Lawrence Pass to Brian Thomas Jr. for Two-Point Conversion)",
+          "scorePeriod": "Q3",
+          "homeScore": "22",
+          "awayScore": "8",
+          "teamID": "15",
+          "scoreDetails": "10 plays, 61 yards, 3:59",
+          "scoreType": "TD",
+          "scoreTime": "5:26",
+          "team": "JAX",
+          "playerIDs": [
+            "4360310",
+            "4432773"
+          ]
+        },
+        {
+          "score": "Travon Walker 35 Yd Fumble Return (Trevor Lawrence Pass to Evan Engram for Two-Point Conversion)",
+          "scorePeriod": "Q3",
+          "homeScore": "22",
+          "awayScore": "16",
+          "teamID": "15",
+          "scoreDetails": "1 play, 4 yards, 0:14",
+          "scoreType": "TD",
+          "scoreTime": "5:12",
+          "team": "JAX",
+          "playerIDs": [
+            "4360310",
+            "3051876",
+            "4426349"
+          ]
+        },
+        {
+          "score": "Trevor Lawrence 4 Yd Run (Cam Little Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "28",
+          "awayScore": "23",
+          "teamID": "15",
+          "scoreDetails": "9 plays, 70 yards, 3:39",
+          "scoreType": "TD",
+          "scoreTime": "4:04",
+          "team": "JAX",
+          "playerIDs": [
+            "4360310",
+            "4686361"
+          ]
+        }
+      ],
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4360310",
+      "longName": "Trevor Lawrence"
+    },
+    "4360386": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.74",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360386",
+      "longName": "Sydney Brown"
+    },
+    "4360749": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4360749",
+      "longName": "Thomas Booker IV"
+    },
+    "4360786": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.61",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "33",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4360786",
+      "longName": "Cooper Hodges"
+    },
+    "4360807": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "22",
+        "stSnapPct": "0.96",
+        "offSnap": "0",
+        "defSnapPct": "0.08"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360807",
+      "longName": "Yasir Abdullah"
+    },
+    "4361178": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "79",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4361178",
+      "longName": "Cam Jurgens"
+    },
+    "4361409": {
+      "gameID": "20241103_JAX@PHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "36",
+        "targets": "1",
+        "recYds": "36",
+        "recAvg": "36.0"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.53",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4361409",
+      "longName": "Jahan Dotson"
+    },
+    "4361707": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.78",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4361707",
+      "longName": "Chad Muma"
+    },
+    "4361861": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.52"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361861",
+      "longName": "Tyler Lacy"
+    },
+    "4361939": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "79",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361939",
+      "longName": "Andre Cisco"
+    },
+    "4362116": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.30"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4362116",
+      "longName": "Moro Ojomo"
+    },
+    "4362805": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4362805",
+      "longName": "Tyler Steen"
+    },
+    "4365303": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.14"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4365303",
+      "longName": "Myles Cole"
+    },
+    "4371733": {
+      "gameID": "20241103_JAX@PHI",
+      "Rushing": {
+        "rushAvg": "1.8",
+        "rushYds": "9",
+        "carries": "5",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "1",
+        "targets": "1",
+        "recYds": "1",
+        "recAvg": "1.0"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.28",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.35",
+        "offSnap": "22",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "34",
+        "kickReturnAvg": "34.0",
+        "kickReturnLong": "34"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4371733",
+      "longName": "Kenneth Gainwell"
+    },
+    "4372070": {
+      "gameID": "20241103_JAX@PHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.30",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4372070",
+      "longName": "Ben VanSumeren"
+    },
+    "4379397": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "79",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4379397",
+      "longName": "Tyson Campbell"
+    },
+    "4381558": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "5",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.39"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4381558",
+      "longName": "Jordan Davis"
+    },
+    "4426331": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "6",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.41"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426331",
+      "longName": "Nolan Smith Jr."
+    },
+    "4426340": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "2",
+        "stSnapPct": "0.09",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4426340",
+      "longName": "Nakobe Dean"
+    },
+    "4426349": {
+      "gameID": "20241103_JAX@PHI",
+      "scoringPlays": [
+        {
+          "score": "Travon Walker 35 Yd Fumble Return (Trevor Lawrence Pass to Evan Engram for Two-Point Conversion)",
+          "scorePeriod": "Q3",
+          "homeScore": "22",
+          "awayScore": "16",
+          "teamID": "15",
+          "scoreDetails": "1 play, 4 yards, 0:14",
+          "scoreType": "TD",
+          "scoreTime": "5:12",
+          "team": "JAX",
+          "playerIDs": [
+            "4360310",
+            "3051876",
+            "4426349"
+          ]
+        }
+      ],
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "7",
+        "fumblesLost": "0",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "6",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426349",
+      "longName": "Travon Walker"
+    },
+    "4426448": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "7",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.67"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426448",
+      "longName": "Jarrian Jones"
+    },
+    "4428283": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4428283",
+      "longName": "De'Antre Prince"
+    },
+    "4428532": {
+      "gameID": "20241103_JAX@PHI",
+      "Rushing": {
+        "rushAvg": "2.0",
+        "rushYds": "2",
+        "carries": "1",
+        "longRush": "2",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.06",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4428532",
+      "longName": "Ainias Smith"
+    },
+    "4428992": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.74",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428992",
+      "longName": "Kelee Ringo"
+    },
+    "4429011": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.52",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429011",
+      "longName": "Eli Ricks"
+    },
+    "4429013": {
+      "gameID": "20241103_JAX@PHI",
+      "Rushing": {
+        "rushAvg": "2.8",
+        "rushYds": "22",
+        "carries": "8",
+        "longRush": "10",
+        "rushTD": "0"
+      },
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.52",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.39",
+        "offSnap": "28",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "69",
+        "kickReturnAvg": "34.5",
+        "kickReturnLong": "41"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4429013",
+      "longName": "Tank Bigsby"
+    },
+    "4429168": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "17",
+        "stSnapPct": "0.74",
+        "offSnap": "0",
+        "defSnapPct": "0.06"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429168",
+      "longName": "Antonio Johnson"
+    },
+    "4430539": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.17",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.70",
+        "offSnap": "9",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4430539",
+      "longName": "Brenton Strange"
+    },
+    "4431545": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.70",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4431545",
+      "longName": "Will Shipley"
+    },
+    "4432620": {
+      "gameID": "20241103_JAX@PHI",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "18",
+        "targets": "6",
+        "recYds": "41",
+        "recAvg": "13.7"
+      },
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.85",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.09",
+        "offSnap": "46",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "4",
+        "puntReturnAvg": "4.0",
+        "puntReturnLong": "4",
+        "puntReturnTD": "0"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4432620",
+      "longName": "Parker Washington"
+    },
+    "4432773": {
+      "gameID": "20241103_JAX@PHI",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "recAvg": "11.0",
+        "receivingTwoPointConversion": "1",
+        "longRec": "16",
+        "targets": "4",
+        "recYds": "22"
+      },
+      "scoringPlays": [
+        {
+          "score": "Trevor Lawrence 1 Yd Run (Trevor Lawrence Pass to Brian Thomas Jr. for Two-Point Conversion)",
+          "scorePeriod": "Q3",
+          "homeScore": "22",
+          "awayScore": "8",
+          "teamID": "15",
+          "scoreDetails": "10 plays, 61 yards, 3:59",
+          "scoreType": "TD",
+          "scoreTime": "5:26",
+          "team": "JAX",
+          "playerIDs": [
+            "4360310",
+            "4432773"
+          ]
+        }
+      ],
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.91",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "49",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4432773",
+      "longName": "Brian Thomas Jr."
+    },
+    "4432777": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.74",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4432777",
+      "longName": "Jeremiah Trotter Jr."
+    },
+    "4569448": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.20"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4569448",
+      "longName": "Jordan Jefferson"
+    },
+    "4571162": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.70",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4571162",
+      "longName": "Jalyx Hunt"
+    },
+    "4682618": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "6",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.96"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4682618",
+      "longName": "Cooper DeJean"
+    },
+    "4685759": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.96"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4685759",
+      "longName": "Jalen Carter"
+    },
+    "4686104": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.44",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.22",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4686104",
+      "longName": "Johnny Wilson"
+    },
+    "4686273": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "2",
+        "stSnapPct": "0.09",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4686273",
+      "longName": "Quinyon Mitchell"
+    },
+    "4686361": {
+      "gameID": "20241103_JAX@PHI",
+      "scoringPlays": [
+        {
+          "score": "Trevor Lawrence 4 Yd Run (Cam Little Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "28",
+          "awayScore": "23",
+          "teamID": "15",
+          "scoreDetails": "9 plays, 70 yards, 3:39",
+          "scoreType": "TD",
+          "scoreTime": "4:04",
+          "team": "JAX",
+          "playerIDs": [
+            "4360310",
+            "4686361"
+          ]
+        }
+      ],
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "0",
+        "fgMade": "0",
+        "fgAttempts": "0",
+        "xpMade": "1",
+        "fgPct": "0.0",
+        "kickingPts": "1",
+        "xpAttempts": "1",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4686361",
+      "longName": "Cam Little"
+    },
+    "4692525": {
+      "gameID": "20241103_JAX@PHI",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.94",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4692525",
+      "longName": "Anton Harrison"
+    }
+  },
+  "arenaCapacity": "69,879",
+  "arena": "Lincoln Financial Field",
+  "homePts": "28",
+  "awayResult": "L",
+  "teamIDAway": "15",
+  "Referees": "Derick Bowers, Greg Meyer, Tab Slaughter, Dale Shaw, John Jenkins, Alan Eck, Derek Anderson",
+  "gameClock": "",
+  "awayPts": "23",
+  "gameID": "20241103_JAX@PHI",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

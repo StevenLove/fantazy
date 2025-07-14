@@ -1,0 +1,2723 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "NYG",
+      "teamID": "24",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "0",
+      "ydsAllowed": "329",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "22",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "ATL",
+      "teamID": "2",
+      "defTD": "2",
+      "defensiveInterceptions": "2",
+      "sacks": "3",
+      "ydsAllowed": "234",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "7",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "234",
+      "rushingAttempts": "13",
+      "rushingYards": "45",
+      "fumblesLost": "1",
+      "penalties": "10-85",
+      "totalPlays": "55",
+      "possession": "25:32",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "22-39",
+      "passingFirstDowns": "11",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "3-21",
+      "thirdDownEfficiency": "3-9",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.3",
+      "redZoneScoredAndAttempted": "1-2",
+      "teamID": "24",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "3",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "14",
+      "passTD": "1",
+      "team": "NYG",
+      "blockedXP": "0",
+      "teamAbv": "NYG",
+      "firstDownsFromPenalties": "0",
+      "fourthDownEfficiency": "0-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "189",
+      "yardsPerRush": "3.5",
+      "snapCounts": {
+        "totalSpecialTeams": "24",
+        "totalOffensive": "59",
+        "totalDefensive": "67"
+      },
+      "turnovers": "3",
+      "yardsPerPass": "4.5"
+    },
+    "home": {
+      "totalYards": "329",
+      "rushingAttempts": "38",
+      "rushingYards": "127",
+      "fumblesLost": "0",
+      "penalties": "3-30",
+      "totalPlays": "65",
+      "possession": "34:28",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "18-27",
+      "passingFirstDowns": "10",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "0-0",
+      "thirdDownEfficiency": "8-14",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.1",
+      "redZoneScoredAndAttempted": "2-4",
+      "teamID": "2",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "2",
+      "totalDrives": "9",
+      "rushingFirstDowns": "11",
+      "blockedFG": "0",
+      "rushTD": "2",
+      "twoPointConversions": "0",
+      "firstDowns": "22",
+      "passTD": "0",
+      "team": "ATL",
+      "blockedXP": "0",
+      "teamAbv": "ATL",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "202",
+      "yardsPerRush": "3.3",
+      "snapCounts": {
+        "totalSpecialTeams": "24",
+        "totalOffensive": "67",
+        "totalDefensive": "59"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "7.5"
+    }
+  },
+  "gameDate": "20241222",
+  "scoringPlays": [
+    {
+      "score": "Tyrone Tracy Jr. 2 Yd pass from Drew Lock (Graham Gano Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "0",
+      "awayScore": "7",
+      "teamID": "24",
+      "scoreDetails": "14 plays, 70 yards, 8:12",
+      "scoreType": "TD",
+      "scoreTime": "14:53",
+      "team": "NYG",
+      "playerIDs": [
+        "3924327",
+        "4360516",
+        "12460"
+      ]
+    },
+    {
+      "score": "Riley Patterson 52 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "7",
+      "teamID": "2",
+      "scoreDetails": "8 plays, 36 yards, 4:17",
+      "scoreType": "FG",
+      "scoreTime": "10:36",
+      "team": "ATL",
+      "playerIDs": [
+        "4243371"
+      ]
+    },
+    {
+      "score": "Jessie Bates III 55 Yd Interception Return (Riley Patterson Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "10",
+      "awayScore": "7",
+      "teamID": "2",
+      "scoreDetails": "5 plays, 22 yards, 2:40",
+      "scoreType": "TD",
+      "scoreTime": "7:56",
+      "team": "ATL",
+      "playerIDs": [
+        "3919512",
+        "4243371"
+      ]
+    },
+    {
+      "score": "Bijan Robinson 4 Yd Rush (Riley Patterson Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "17",
+      "awayScore": "7",
+      "teamID": "2",
+      "scoreDetails": "9 plays, 86 yards, 3:26",
+      "scoreType": "TD",
+      "scoreTime": "1:43",
+      "team": "ATL",
+      "playerIDs": [
+        "4430807",
+        "4243371"
+      ]
+    },
+    {
+      "score": "Matthew Judon 27 Yd Interception Return (Riley Patterson Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "24",
+      "awayScore": "7",
+      "teamID": "2",
+      "scoreDetails": "2 plays, 3 yards, 0:40",
+      "scoreType": "TD",
+      "scoreTime": "14:20",
+      "team": "ATL",
+      "playerIDs": [
+        "3961466",
+        "4243371"
+      ]
+    },
+    {
+      "score": "Bijan Robinson 2 Yd Rush (Riley Patterson Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "31",
+      "awayScore": "7",
+      "teamID": "2",
+      "scoreDetails": "12 plays, 69 yards, 6:17",
+      "scoreType": "TD",
+      "scoreTime": "7:14",
+      "team": "ATL",
+      "playerIDs": [
+        "4430807",
+        "4243371"
+      ]
+    },
+    {
+      "score": "Riley Patterson 37 Yd Field Goal",
+      "scorePeriod": "Q4",
+      "homeScore": "34",
+      "awayScore": "7",
+      "teamID": "2",
+      "scoreDetails": "15 plays, 69 yards, 10:04",
+      "scoreType": "FG",
+      "scoreTime": "10:47",
+      "team": "ATL",
+      "playerIDs": [
+        "4243371"
+      ]
+    }
+  ],
+  "network": "FOX",
+  "teamIDHome": "2",
+  "homeResult": "W",
+  "away": "NYG",
+  "gameWeek": "Week 16",
+  "attendance": "70,404",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "0",
+      "Q2": "7",
+      "Q3": "0",
+      "Q4": "0",
+      "teamID": "24",
+      "currentlyInPossession": "False",
+      "totalPts": "7",
+      "teamAbv": "NYG"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "17",
+      "Q3": "14",
+      "Q4": "3",
+      "teamID": "2",
+      "currentlyInPossession": "False",
+      "totalPts": "34",
+      "teamAbv": "ATL"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Atlanta, GA",
+  "home": "ATL",
+  "playerStats": {
+    "12460": {
+      "gameID": "20241222_NYG@ATL",
+      "scoringPlays": [
+        {
+          "score": "Tyrone Tracy Jr. 2 Yd pass from Drew Lock (Graham Gano Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "24",
+          "scoreDetails": "14 plays, 70 yards, 8:12",
+          "scoreType": "TD",
+          "scoreTime": "14:53",
+          "team": "NYG",
+          "playerIDs": [
+            "3924327",
+            "4360516",
+            "12460"
+          ]
+        }
+      ],
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "0",
+        "fgMade": "0",
+        "fgAttempts": "0",
+        "xpMade": "1",
+        "fgPct": "0.0",
+        "kickingPts": "1",
+        "xpAttempts": "1",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "12460",
+      "longName": "Graham Gano"
+    },
+    "15718": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "15718",
+      "longName": "Greg Van Roten"
+    },
+    "16713": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.93",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "62",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "16713",
+      "longName": "Jake Matthews"
+    },
+    "17304": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "17304",
+      "longName": "Casey Kreiter"
+    },
+    "2531358": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.27",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.54",
+        "offSnap": "16",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "2531358",
+      "longName": "Chris Manhertz"
+    },
+    "2575453": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.51"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2575453",
+      "longName": "Rakeem Nunez-Roches"
+    },
+    "2576492": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.49"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2576492",
+      "longName": "Grady Jarrett"
+    },
+    "2969860": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "59",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2969860",
+      "longName": "Justin Simmons"
+    },
+    "2969924": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.32"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2969924",
+      "longName": "Eddie Goldman"
+    },
+    "2973014": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "2973014",
+      "longName": "Storm Norton"
+    },
+    "2977680": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "88",
+        "punts": "2",
+        "puntAvg": "44.0",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "46"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "2977680",
+      "longName": "Bradley Pinion"
+    },
+    "3047876": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3047876",
+      "longName": "KhaDarel Hodge"
+    },
+    "3052170": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.19"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3052170",
+      "longName": "Kevin King"
+    },
+    "3052926": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3052926",
+      "longName": "Demone Harris"
+    },
+    "3056354": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3056354",
+      "longName": "Antonio Hamilton Sr."
+    },
+    "3115303": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3115303",
+      "longName": "Jermaine Eluemunor"
+    },
+    "3116431": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "22",
+        "stSnapPct": "0.92",
+        "offSnap": "0",
+        "defSnapPct": "0.43"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3116431",
+      "longName": "Ty Summers"
+    },
+    "3116726": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3116726",
+      "longName": "Kentavius Street"
+    },
+    "3120303": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.09",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.88",
+        "offSnap": "6",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3120303",
+      "longName": "Ross Dwelley"
+    },
+    "3120347": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.78"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3120347",
+      "longName": "Adoree' Jackson"
+    },
+    "3124890": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.76"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3124890",
+      "longName": "Kaden Elliss"
+    },
+    "3126179": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.96",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3126179",
+      "longName": "Matthew Adams"
+    },
+    "3127304": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3127304",
+      "longName": "Kaleb McGary"
+    },
+    "3128715": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3128715",
+      "longName": "Lorenzo Carter"
+    },
+    "3672833": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.93",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "62",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3672833",
+      "longName": "Chris Lindstrom"
+    },
+    "3728262": {
+      "gameID": "20241222_NYG@ATL",
+      "Rushing": {
+        "rushAvg": "8.0",
+        "rushYds": "8",
+        "carries": "1",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "4",
+        "recYds": "19",
+        "recAvg": "6.3"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.91",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3728262",
+      "longName": "Ray-Ray McCloud III"
+    },
+    "3895841": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.92"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "3895841",
+      "longName": "Mike Hughes"
+    },
+    "3915528": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3915528",
+      "longName": "Liam McCullough"
+    },
+    "3916945": {
+      "gameID": "20241222_NYG@ATL",
+      "Rushing": {
+        "rushAvg": "6.0",
+        "rushYds": "6",
+        "carries": "1",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "21",
+        "targets": "2",
+        "recYds": "21",
+        "recAvg": "21.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.85",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "50",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3916945",
+      "longName": "Darius Slayton"
+    },
+    "3919512": {
+      "gameID": "20241222_NYG@ATL",
+      "scoringPlays": [
+        {
+          "score": "Jessie Bates III 55 Yd Interception Return (Riley Patterson Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "10",
+          "awayScore": "7",
+          "teamID": "2",
+          "scoreDetails": "5 plays, 22 yards, 2:40",
+          "scoreType": "TD",
+          "scoreTime": "7:56",
+          "team": "ATL",
+          "playerIDs": [
+            "3919512",
+            "4243371"
+          ]
+        }
+      ],
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.76"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "55",
+        "interceptionTDs": "1",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "3919512",
+      "longName": "Jessie Bates III"
+    },
+    "3924327": {
+      "gameID": "20241222_NYG@ATL",
+      "Rushing": {
+        "rushAvg": "1.0",
+        "rushYds": "1",
+        "carries": "1",
+        "longRush": "1",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "8.2",
+        "rtg": "58.7",
+        "sacked": "3-21",
+        "passAttempts": "39",
+        "passAvg": "5.4",
+        "passTD": "1",
+        "passYds": "210",
+        "int": "2",
+        "passCompletions": "22"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tyrone Tracy Jr. 2 Yd pass from Drew Lock (Graham Gano Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "24",
+          "scoreDetails": "14 plays, 70 yards, 8:12",
+          "scoreType": "TD",
+          "scoreTime": "14:53",
+          "team": "NYG",
+          "playerIDs": [
+            "3924327",
+            "4360516",
+            "12460"
+          ]
+        }
+      ],
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3924327",
+      "longName": "Drew Lock"
+    },
+    "3936185": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "210",
+        "punts": "5",
+        "puntAvg": "42.0",
+        "puntsin20": "3",
+        "puntTouchBacks": "0",
+        "puntLong": "51"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3936185",
+      "longName": "Jamie Gillan"
+    },
+    "3961466": {
+      "gameID": "20241222_NYG@ATL",
+      "scoringPlays": [
+        {
+          "score": "Matthew Judon 27 Yd Interception Return (Riley Patterson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "24",
+          "awayScore": "7",
+          "teamID": "2",
+          "scoreDetails": "2 plays, 3 yards, 0:40",
+          "scoreType": "TD",
+          "scoreTime": "14:20",
+          "team": "ATL",
+          "playerIDs": [
+            "3961466",
+            "4243371"
+          ]
+        }
+      ],
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.42"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "27",
+        "interceptionTDs": "1",
+        "sacks": "1",
+        "passDeflections": "1"
+      },
+      "playerID": "3961466",
+      "longName": "Matthew Judon"
+    },
+    "4002046": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.34"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4002046",
+      "longName": "David Onyemata"
+    },
+    "4035020": {
+      "gameID": "20241222_NYG@ATL",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "2",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.51",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.46",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4035020",
+      "longName": "Charlie Woerner"
+    },
+    "4035462": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4035462",
+      "longName": "Isaiah Simmons"
+    },
+    "4035631": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.66"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035631",
+      "longName": "Brian Burns"
+    },
+    "4036444": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4036444",
+      "longName": "Ryan Neuzil"
+    },
+    "4037239": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.33"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037239",
+      "longName": "Boogie Basham"
+    },
+    "4037520": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "23",
+        "stSnapPct": "0.96",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037520",
+      "longName": "Tomon Fox"
+    },
+    "4039170": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039170",
+      "longName": "Elijah Garcia"
+    },
+    "4040655": {
+      "gameID": "20241222_NYG@ATL",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "22",
+        "targets": "6",
+        "recYds": "82",
+        "recAvg": "16.4"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.90",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4040655",
+      "longName": "Darnell Mooney"
+    },
+    "4040761": {
+      "gameID": "20241222_NYG@ATL",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "12",
+        "carries": "4",
+        "longRush": "5",
+        "rushTD": "0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.22",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4040761",
+      "longName": "Devin Singletary"
+    },
+    "4042119": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "17",
+        "stSnapPct": "0.71",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4042119",
+      "longName": "Richie Grant"
+    },
+    "4048259": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.71",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "6",
+        "puntReturnAvg": "6.0",
+        "puntReturnLong": "6",
+        "puntReturnTD": "0"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4048259",
+      "longName": "Avery Williams"
+    },
+    "4239995": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.76"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4239995",
+      "longName": "A.J. Terrell"
+    },
+    "4240042": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240042",
+      "longName": "Cory Durden"
+    },
+    "4240573": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.02",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "6",
+        "puntReturnAvg": "6.0",
+        "puntReturnLong": "6",
+        "puntReturnTD": "0"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4240573",
+      "longName": "Ihmir Smith-Marsette"
+    },
+    "4240677": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "31",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240677",
+      "longName": "Jordon Riley"
+    },
+    "4240706": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.82"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240706",
+      "longName": "Jason Pinnock"
+    },
+    "4240771": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4240771",
+      "longName": "John Michael Schmitz Jr."
+    },
+    "4242247": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4242247",
+      "longName": "Tyre Phillips"
+    },
+    "4242553": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.93",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "62",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4242553",
+      "longName": "Drew Dalman"
+    },
+    "4243181": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243181",
+      "longName": "Nate Landman"
+    },
+    "4243371": {
+      "gameID": "20241222_NYG@ATL",
+      "scoringPlays": [
+        {
+          "score": "Riley Patterson 52 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "2",
+          "scoreDetails": "8 plays, 36 yards, 4:17",
+          "scoreType": "FG",
+          "scoreTime": "10:36",
+          "team": "ATL",
+          "playerIDs": [
+            "4243371"
+          ]
+        },
+        {
+          "score": "Jessie Bates III 55 Yd Interception Return (Riley Patterson Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "10",
+          "awayScore": "7",
+          "teamID": "2",
+          "scoreDetails": "5 plays, 22 yards, 2:40",
+          "scoreType": "TD",
+          "scoreTime": "7:56",
+          "team": "ATL",
+          "playerIDs": [
+            "3919512",
+            "4243371"
+          ]
+        },
+        {
+          "score": "Bijan Robinson 4 Yd Rush (Riley Patterson Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "17",
+          "awayScore": "7",
+          "teamID": "2",
+          "scoreDetails": "9 plays, 86 yards, 3:26",
+          "scoreType": "TD",
+          "scoreTime": "1:43",
+          "team": "ATL",
+          "playerIDs": [
+            "4430807",
+            "4243371"
+          ]
+        },
+        {
+          "score": "Matthew Judon 27 Yd Interception Return (Riley Patterson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "24",
+          "awayScore": "7",
+          "teamID": "2",
+          "scoreDetails": "2 plays, 3 yards, 0:40",
+          "scoreType": "TD",
+          "scoreTime": "14:20",
+          "team": "ATL",
+          "playerIDs": [
+            "3961466",
+            "4243371"
+          ]
+        },
+        {
+          "score": "Bijan Robinson 2 Yd Rush (Riley Patterson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "31",
+          "awayScore": "7",
+          "teamID": "2",
+          "scoreDetails": "12 plays, 69 yards, 6:17",
+          "scoreType": "TD",
+          "scoreTime": "7:14",
+          "team": "ATL",
+          "playerIDs": [
+            "4430807",
+            "4243371"
+          ]
+        },
+        {
+          "score": "Riley Patterson 37 Yd Field Goal",
+          "scorePeriod": "Q4",
+          "homeScore": "34",
+          "awayScore": "7",
+          "teamID": "2",
+          "scoreDetails": "15 plays, 69 yards, 10:04",
+          "scoreType": "FG",
+          "scoreTime": "10:47",
+          "team": "ATL",
+          "playerIDs": [
+            "4243371"
+          ]
+        }
+      ],
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "52",
+        "fgMade": "2",
+        "fgAttempts": "3",
+        "xpMade": "4",
+        "fgPct": "66.7",
+        "kickingPts": "10",
+        "xpAttempts": "4",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4243371",
+      "longName": "Riley Patterson"
+    },
+    "4243457": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "17",
+        "stSnapPct": "0.71",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243457",
+      "longName": "DeAngelo Malone"
+    },
+    "4257591": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "5",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4257591",
+      "longName": "Arnold Ebiketie"
+    },
+    "4258237": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.33"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4258237",
+      "longName": "Raheem Layne"
+    },
+    "4360248": {
+      "gameID": "20241222_NYG@ATL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "7",
+        "targets": "2",
+        "recYds": "7",
+        "recAvg": "7.0"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.45",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4360248",
+      "longName": "Kyle Pitts"
+    },
+    "4360423": {
+      "gameID": "20241222_NYG@ATL",
+      "Rushing": {
+        "rushAvg": "0.8",
+        "rushYds": "3",
+        "carries": "4",
+        "longRush": "5",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "46.5",
+        "rtg": "73.4",
+        "sacked": "0-0",
+        "passAttempts": "27",
+        "passAvg": "7.5",
+        "passTD": "0",
+        "passYds": "202",
+        "int": "1",
+        "passCompletions": "18"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4360423",
+      "longName": "Michael Penix Jr."
+    },
+    "4360516": {
+      "gameID": "20241222_NYG@ATL",
+      "Rushing": {
+        "rushAvg": "3.7",
+        "rushYds": "26",
+        "carries": "7",
+        "longRush": "5",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "16",
+        "targets": "4",
+        "recYds": "43",
+        "recAvg": "10.8"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tyrone Tracy Jr. 2 Yd pass from Drew Lock (Graham Gano Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "24",
+          "scoreDetails": "14 plays, 70 yards, 8:12",
+          "scoreType": "TD",
+          "scoreTime": "14:53",
+          "team": "NYG",
+          "playerIDs": [
+            "3924327",
+            "4360516",
+            "12460"
+          ]
+        }
+      ],
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4360516",
+      "longName": "Tyrone Tracy Jr."
+    },
+    "4361516": {
+      "gameID": "20241222_NYG@ATL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "2",
+        "recYds": "5",
+        "recAvg": "5.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.66",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.54",
+        "offSnap": "39",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4361516",
+      "longName": "Daniel Bellinger"
+    },
+    "4361748": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.46",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4361748",
+      "longName": "Anthony Johnson Jr."
+    },
+    "4362227": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.96",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4362227",
+      "longName": "Bryce Ford-Wheaton"
+    },
+    "4367209": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4367209",
+      "longName": "Greg Dulcich"
+    },
+    "4369886": {
+      "gameID": "20241222_NYG@ATL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "17",
+        "targets": "1",
+        "recYds": "17",
+        "recAvg": "17.0"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.37",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "25",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4369886",
+      "longName": "Chris Blair"
+    },
+    "4371961": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.45"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4371961",
+      "longName": "Micah McFadden"
+    },
+    "4373280": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4373280",
+      "longName": "Joshua Ezeudu"
+    },
+    "4373626": {
+      "gameID": "20241222_NYG@ATL",
+      "Rushing": {
+        "rushAvg": "2.0",
+        "rushYds": "22",
+        "carries": "11",
+        "longRush": "12",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "1",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.27",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.67",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4373626",
+      "longName": "Tyler Allgeier"
+    },
+    "4383405": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4383405",
+      "longName": "Jake Kubas"
+    },
+    "4401823": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.64"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4401823",
+      "longName": "Dee Alford"
+    },
+    "4426326": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.66"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426326",
+      "longName": "Kayvon Thibodeaux"
+    },
+    "4426412": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4426412",
+      "longName": "Zach Harrison"
+    },
+    "4426502": {
+      "gameID": "20241222_NYG@ATL",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "19",
+        "targets": "8",
+        "recYds": "59",
+        "recAvg": "11.8"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.73",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "49",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426502",
+      "longName": "Drake London"
+    },
+    "4426686": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "14",
+        "stSnapPct": "0.58",
+        "offSnap": "0",
+        "defSnapPct": "0.90"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4426686",
+      "longName": "Dane Belton"
+    },
+    "4428072": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "66",
+        "stSnap": "14",
+        "stSnapPct": "0.58",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "11",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428072",
+      "longName": "Darius Muasau"
+    },
+    "4428328": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.61"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4428328",
+      "longName": "Deonte Banks"
+    },
+    "4428872": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "17",
+        "stSnapPct": "0.71",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428872",
+      "longName": "JD Bertrand"
+    },
+    "4429067": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "14",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.24"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4429067",
+      "longName": "Clark Phillips III"
+    },
+    "4429392": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.48"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429392",
+      "longName": "Elijah Chatman"
+    },
+    "4429607": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.61"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "26",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4429607",
+      "longName": "Cor'Dale Flott"
+    },
+    "4430271": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430271",
+      "longName": "Ruke Orhorhoro"
+    },
+    "4430807": {
+      "gameID": "20241222_NYG@ATL",
+      "Rushing": {
+        "rushAvg": "4.3",
+        "rushYds": "94",
+        "carries": "22",
+        "longRush": "14",
+        "rushTD": "2"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "2",
+        "recYds": "9",
+        "recAvg": "4.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Bijan Robinson 4 Yd Rush (Riley Patterson Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "17",
+          "awayScore": "7",
+          "teamID": "2",
+          "scoreDetails": "9 plays, 86 yards, 3:26",
+          "scoreType": "TD",
+          "scoreTime": "1:43",
+          "team": "ATL",
+          "playerIDs": [
+            "4430807",
+            "4243371"
+          ]
+        },
+        {
+          "score": "Bijan Robinson 2 Yd Rush (Riley Patterson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "31",
+          "awayScore": "7",
+          "teamID": "2",
+          "scoreDetails": "12 plays, 69 yards, 6:17",
+          "scoreType": "TD",
+          "scoreTime": "7:14",
+          "team": "ATL",
+          "playerIDs": [
+            "4430807",
+            "4243371"
+          ]
+        }
+      ],
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.75",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "50",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4430807",
+      "longName": "Bijan Robinson"
+    },
+    "4431321": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4431321",
+      "longName": "Dru Phillips"
+    },
+    "4567134": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4567134",
+      "longName": "Evan Neal"
+    },
+    "4568510": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4568510",
+      "longName": "Matthew Bergeron"
+    },
+    "4569587": {
+      "gameID": "20241222_NYG@ATL",
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "0",
+        "longRec": "15",
+        "targets": "12",
+        "recYds": "62",
+        "recAvg": "8.9"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.93",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4569587",
+      "longName": "Wan'Dale Robinson"
+    },
+    "4570561": {
+      "gameID": "20241222_NYG@ATL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "2",
+        "targets": "1",
+        "recYds": "2",
+        "recAvg": "2.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.15",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "9",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "37",
+        "kickReturnAvg": "37.0",
+        "kickReturnLong": "37"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4570561",
+      "longName": "Eric Gray"
+    },
+    "4595348": {
+      "gameID": "20241222_NYG@ATL",
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "0",
+        "longRec": "21",
+        "targets": "14",
+        "recYds": "68",
+        "recAvg": "9.7"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.90",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4595348",
+      "longName": "Malik Nabers"
+    },
+    "4682831": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4682831",
+      "longName": "Kyle Hinton"
+    },
+    "4689674": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.96",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4689674",
+      "longName": "Art Green"
+    },
+    "4689989": {
+      "gameID": "20241222_NYG@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "17",
+        "stSnapPct": "0.71",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4689989",
+      "longName": "Natrone Brooks"
+    },
+    "4692590": {
+      "gameID": "20241222_NYG@ATL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "2",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.20",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4692590",
+      "longName": "Jalin Hyatt"
+    }
+  },
+  "arenaCapacity": "75,000",
+  "arena": "Mercedes-Benz Stadium",
+  "homePts": "34",
+  "awayResult": "L",
+  "teamIDAway": "24",
+  "Referees": "Pat Turner, Mearl Robinson, Don Willard, Grantis Bell, Thomas Eaton, Tra Blake, James Carter II",
+  "gameClock": "",
+  "awayPts": "7",
+  "gameID": "20241222_NYG@ATL",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

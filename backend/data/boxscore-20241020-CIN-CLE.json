@@ -1,0 +1,2818 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "CIN",
+      "teamID": "7",
+      "defTD": "1",
+      "defensiveInterceptions": "2",
+      "sacks": "4",
+      "ydsAllowed": "336",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "14",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "CLE",
+      "teamID": "8",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "3",
+      "ydsAllowed": "223",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "15",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "223",
+      "rushingAttempts": "25",
+      "rushingYards": "59",
+      "fumblesLost": "0",
+      "penalties": "3-37",
+      "totalPlays": "53",
+      "possession": "25:31",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "15-25",
+      "passingFirstDowns": "8",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "3-17",
+      "thirdDownEfficiency": "2-13",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.2",
+      "redZoneScoredAndAttempted": "1-1",
+      "teamID": "7",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "1",
+      "totalDrives": "14",
+      "rushingFirstDowns": "3",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "12",
+      "passTD": "2",
+      "team": "CIN",
+      "blockedXP": "0",
+      "teamAbv": "CIN",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "0-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "164",
+      "yardsPerRush": "2.4",
+      "snapCounts": {
+        "totalSpecialTeams": "28",
+        "totalOffensive": "55",
+        "totalDefensive": "84"
+      },
+      "turnovers": "0",
+      "yardsPerPass": "5.9"
+    },
+    "home": {
+      "totalYards": "336",
+      "rushingAttempts": "21",
+      "rushingYards": "77",
+      "fumblesLost": "0",
+      "penalties": "10-80",
+      "totalPlays": "77",
+      "possession": "34:29",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "31-52",
+      "passingFirstDowns": "12",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "4-18",
+      "thirdDownEfficiency": "8-19",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.4",
+      "redZoneScoredAndAttempted": "2-2",
+      "teamID": "8",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "14",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "1",
+      "firstDowns": "18",
+      "passTD": "1",
+      "team": "CLE",
+      "blockedXP": "0",
+      "teamAbv": "CLE",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "1-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "259",
+      "yardsPerRush": "3.7",
+      "snapCounts": {
+        "totalSpecialTeams": "28",
+        "totalOffensive": "84",
+        "totalDefensive": "55"
+      },
+      "turnovers": "2",
+      "yardsPerPass": "4.6"
+    }
+  },
+  "gameDate": "20241020",
+  "scoringPlays": [
+    {
+      "score": "Charlie Jones 100 Yd Kickoff Return (Evan McPherson Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "7",
+      "teamID": "7",
+      "scoreDetails": "0 plays, 0 yards, 0:12",
+      "scoreType": "TD",
+      "scoreTime": "14:48",
+      "team": "CIN",
+      "playerIDs": [
+        "4257188",
+        "4360234"
+      ]
+    },
+    {
+      "score": "Nick Chubb 1 Yd Run (Dustin Hopkins PAT failed)",
+      "scorePeriod": "Q2",
+      "homeScore": "6",
+      "awayScore": "7",
+      "teamID": "8",
+      "scoreDetails": "12 plays, 78 yards, 4:29",
+      "scoreType": "TD",
+      "scoreTime": "0:56",
+      "team": "CLE",
+      "playerIDs": [
+        "3128720",
+        "15965"
+      ]
+    },
+    {
+      "score": "Ja'Marr Chase 18 Yd pass from Joe Burrow (Evan McPherson Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "6",
+      "awayScore": "14",
+      "teamID": "7",
+      "scoreDetails": "5 plays, 65 yards, 2:53",
+      "scoreType": "TD",
+      "scoreTime": "7:56",
+      "team": "CIN",
+      "playerIDs": [
+        "3915511",
+        "4362628",
+        "4360234"
+      ]
+    },
+    {
+      "score": "Tee Higgins 25 Yd pass from Joe Burrow (Evan McPherson Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "6",
+      "awayScore": "21",
+      "teamID": "7",
+      "scoreDetails": "4 plays, 50 yards, 1:55",
+      "scoreType": "TD",
+      "scoreTime": "1:30",
+      "team": "CIN",
+      "playerIDs": [
+        "3915511",
+        "4239993",
+        "4360234"
+      ]
+    },
+    {
+      "score": "David Njoku 8 Yd pass from Jameis Winston (Jameis Winston Pass to Cedric Tillman for Two-Point Conversion)",
+      "scorePeriod": "Q4",
+      "homeScore": "14",
+      "awayScore": "21",
+      "teamID": "8",
+      "scoreDetails": "12 plays, 60 yards, 2:16",
+      "scoreType": "TD",
+      "scoreTime": "1:27",
+      "team": "CLE",
+      "playerIDs": [
+        "2969939",
+        "4369863",
+        "3123076"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "8",
+  "homeResult": "L",
+  "away": "CIN",
+  "gameWeek": "Week 7",
+  "attendance": "68,143",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "7",
+      "Q2": "0",
+      "Q3": "14",
+      "Q4": "0",
+      "teamID": "7",
+      "currentlyInPossession": "False",
+      "totalPts": "21",
+      "teamAbv": "CIN"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "6",
+      "Q3": "0",
+      "Q4": "8",
+      "teamID": "8",
+      "currentlyInPossession": "False",
+      "totalPts": "14",
+      "teamAbv": "CLE"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Cleveland, OH",
+  "home": "CLE",
+  "playerStats": {
+    "15222": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "15",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.67"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "15222",
+      "longName": "Rodney McLeod Jr."
+    },
+    "15965": {
+      "gameID": "20241020_CIN@CLE",
+      "scoringPlays": [
+        {
+          "score": "Nick Chubb 1 Yd Run (Dustin Hopkins PAT failed)",
+          "scorePeriod": "Q2",
+          "homeScore": "6",
+          "awayScore": "7",
+          "teamID": "8",
+          "scoreDetails": "12 plays, 78 yards, 4:29",
+          "scoreType": "TD",
+          "scoreTime": "0:56",
+          "team": "CLE",
+          "playerIDs": [
+            "3128720",
+            "15965"
+          ]
+        }
+      ],
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "0",
+        "fgMade": "0",
+        "fgAttempts": "1",
+        "xpMade": "0",
+        "fgPct": "0.0",
+        "kickingPts": "0",
+        "xpAttempts": "1",
+        "fgMissed": "1",
+        "xpMissed": "1"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "15965",
+      "longName": "Dustin Hopkins"
+    },
+    "16740": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "84",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "16740",
+      "longName": "Joel Bitonio"
+    },
+    "16837": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "16837",
+      "longName": "Shelby Harris"
+    },
+    "2514270": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.60"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2514270",
+      "longName": "Jordan Hicks"
+    },
+    "2576188": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "2576188",
+      "longName": "Ted Karras"
+    },
+    "2969939": {
+      "gameID": "20241020_CIN@CLE",
+      "Passing": {
+        "qbr": "72.2",
+        "rtg": "95.6",
+        "sacked": "1-2",
+        "passAttempts": "11",
+        "passAvg": "6.1",
+        "passTD": "1",
+        "passYds": "67",
+        "int": "0",
+        "passingTwoPointConversion": "1",
+        "passCompletions": "5"
+      },
+      "scoringPlays": [
+        {
+          "score": "David Njoku 8 Yd pass from Jameis Winston (Jameis Winston Pass to Cedric Tillman for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "14",
+          "awayScore": "21",
+          "teamID": "8",
+          "scoreDetails": "12 plays, 60 yards, 2:16",
+          "scoreType": "TD",
+          "scoreTime": "1:27",
+          "team": "CLE",
+          "playerIDs": [
+            "2969939",
+            "4369863",
+            "3123076"
+          ]
+        }
+      ],
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.15",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "2969939",
+      "longName": "Jameis Winston"
+    },
+    "2970204": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.60"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "2970204",
+      "longName": "Sheldon Rankins"
+    },
+    "2972304": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "2972304",
+      "longName": "Germain Ifedi"
+    },
+    "2976213": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "84",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "2976213",
+      "longName": "Michael Dunn"
+    },
+    "2979534": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.68",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "2979534",
+      "longName": "Jack Conklin"
+    },
+    "2979860": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2979860",
+      "longName": "Dalvin Tomlinson"
+    },
+    "2980383": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "68",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.81"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2980383",
+      "longName": "Mike Hilton"
+    },
+    "3042738": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "84",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3042738",
+      "longName": "Ethan Pocic"
+    },
+    "3043168": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.55"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3043168",
+      "longName": "Za'Darius Smith"
+    },
+    "3045220": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "5",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "3045220",
+      "longName": "Maurice Hurst II"
+    },
+    "3046704": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.25",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.50",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3046704",
+      "longName": "Geoff Swaim"
+    },
+    "3050481": {
+      "gameID": "20241020_CIN@CLE",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.09",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.75",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3050481",
+      "longName": "Tanner Hudson"
+    },
+    "3050916": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.79",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3050916",
+      "longName": "Mike Ford Jr."
+    },
+    "3051388": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.83"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3051388",
+      "longName": "Vonn Bell"
+    },
+    "3052667": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "10",
+        "stSnapPct": "0.36",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3052667",
+      "longName": "Ogbo Okoronkwo"
+    },
+    "3052743": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "59",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.70"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "5",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "1"
+      },
+      "playerID": "3052743",
+      "longName": "Trey Hendrickson"
+    },
+    "3059021": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3059021",
+      "longName": "Alex Cappa"
+    },
+    "3115308": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "23",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3115308",
+      "longName": "Tony Brown II"
+    },
+    "3116164": {
+      "gameID": "20241020_CIN@CLE",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "2",
+        "targets": "1",
+        "recYds": "2",
+        "recAvg": "2.0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.31",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "17",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3116164",
+      "longName": "Mike Gesicki"
+    },
+    "3116370": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.33",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3116370",
+      "longName": "Orlando Brown Jr."
+    },
+    "3116724": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "82",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "13",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "10",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3116724",
+      "longName": "Germaine Pratt"
+    },
+    "3116748": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "63",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.75"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3116748",
+      "longName": "B.J. Hill"
+    },
+    "3121416": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "3",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "1",
+        "passDeflections": "1"
+      },
+      "playerID": "3121416",
+      "longName": "Sam Hubbard"
+    },
+    "3122132": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.80"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3122132",
+      "longName": "Myles Garrett"
+    },
+    "3122840": {
+      "gameID": "20241020_CIN@CLE",
+      "Rushing": {
+        "rushAvg": "0.0",
+        "rushYds": "0",
+        "carries": "2",
+        "longRush": "2",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "37.7",
+        "rtg": "98.0",
+        "sacked": "2-13",
+        "passAttempts": "17",
+        "passAvg": "7.5",
+        "passTD": "0",
+        "passYds": "128",
+        "int": "0",
+        "passCompletions": "15"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.39",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "33",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3122840",
+      "longName": "Deshaun Watson"
+    },
+    "3123076": {
+      "gameID": "20241020_CIN@CLE",
+      "Receiving": {
+        "receptions": "10",
+        "recTD": "1",
+        "longRec": "15",
+        "targets": "14",
+        "recYds": "76",
+        "recAvg": "7.6"
+      },
+      "scoringPlays": [
+        {
+          "score": "David Njoku 8 Yd pass from Jameis Winston (Jameis Winston Pass to Cedric Tillman for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "14",
+          "awayScore": "21",
+          "teamID": "8",
+          "scoreDetails": "12 plays, 60 yards, 2:16",
+          "scoreType": "TD",
+          "scoreTime": "1:27",
+          "team": "CLE",
+          "playerIDs": [
+            "2969939",
+            "4369863",
+            "3123076"
+          ]
+        }
+      ],
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.82",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "69",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3123076",
+      "longName": "David Njoku"
+    },
+    "3125116": {
+      "gameID": "20241020_CIN@CLE",
+      "Rushing": {
+        "rushAvg": "2.5",
+        "rushYds": "5",
+        "carries": "2",
+        "longRush": "5",
+        "rushTD": "0"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.13",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "31",
+        "kickReturnAvg": "15.5",
+        "kickReturnLong": "24"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3125116",
+      "longName": "D'Onta Foreman"
+    },
+    "3127310": {
+      "gameID": "20241020_CIN@CLE",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.51",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.54",
+        "offSnap": "28",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3127310",
+      "longName": "Drew Sample"
+    },
+    "3128452": {
+      "gameID": "20241020_CIN@CLE",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "21",
+        "targets": "4",
+        "recYds": "42",
+        "recAvg": "10.5"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.21",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.50",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3128452",
+      "longName": "Jordan Akins"
+    },
+    "3128720": {
+      "gameID": "20241020_CIN@CLE",
+      "Rushing": {
+        "rushAvg": "2.0",
+        "rushYds": "22",
+        "carries": "11",
+        "longRush": "5",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "3",
+        "recYds": "10",
+        "recAvg": "10.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Nick Chubb 1 Yd Run (Dustin Hopkins PAT failed)",
+          "scorePeriod": "Q2",
+          "homeScore": "6",
+          "awayScore": "7",
+          "teamID": "8",
+          "scoreDetails": "12 plays, 78 yards, 4:29",
+          "scoreType": "TD",
+          "scoreTime": "0:56",
+          "team": "CLE",
+          "playerIDs": [
+            "3128720",
+            "15965"
+          ]
+        }
+      ],
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.36",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "3128720",
+      "longName": "Nick Chubb"
+    },
+    "3707061": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.67",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3707061",
+      "longName": "Cody Ford"
+    },
+    "3913293": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3913293",
+      "longName": "Rex Sunahara"
+    },
+    "3915511": {
+      "gameID": "20241020_CIN@CLE",
+      "Rushing": {
+        "rushAvg": "-1.0",
+        "rushYds": "-3",
+        "carries": "3",
+        "longRush": "-1",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "35.6",
+        "rtg": "108.9",
+        "sacked": "3-17",
+        "passAttempts": "25",
+        "passAvg": "7.2",
+        "passTD": "2",
+        "passYds": "181",
+        "int": "0",
+        "passCompletions": "15"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ja'Marr Chase 18 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "14",
+          "teamID": "7",
+          "scoreDetails": "5 plays, 65 yards, 2:53",
+          "scoreType": "TD",
+          "scoreTime": "7:56",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4362628",
+            "4360234"
+          ]
+        },
+        {
+          "score": "Tee Higgins 25 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "21",
+          "teamID": "7",
+          "scoreDetails": "4 plays, 50 yards, 1:55",
+          "scoreType": "TD",
+          "scoreTime": "1:30",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4239993",
+            "4360234"
+          ]
+        }
+      ],
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "3915511",
+      "longName": "Joe Burrow"
+    },
+    "3915535": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "3915535",
+      "longName": "Denzel Ward"
+    },
+    "3917142": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "22",
+        "stSnapPct": "0.79",
+        "offSnap": "0",
+        "defSnapPct": "0.21"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3917142",
+      "longName": "Akeem Davis-Gaither"
+    },
+    "3917909": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.49"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3917909",
+      "longName": "Juan Thornhill"
+    },
+    "3918330": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "84",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3918330",
+      "longName": "Logan Wilson"
+    },
+    "4035222": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4035222",
+      "longName": "Trayveon Williams"
+    },
+    "4035676": {
+      "gameID": "20241020_CIN@CLE",
+      "Rushing": {
+        "rushAvg": "1.2",
+        "rushYds": "7",
+        "carries": "6",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "19",
+        "targets": "3",
+        "recYds": "33",
+        "recAvg": "11.0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.49",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4035676",
+      "longName": "Zack Moss"
+    },
+    "4036261": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "8",
+        "stSnap": "6",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.15"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036261",
+      "longName": "Devin Bush"
+    },
+    "4036507": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "21",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036507",
+      "longName": "Joe Bachie"
+    },
+    "4039396": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "355",
+        "punts": "7",
+        "puntAvg": "50.7",
+        "puntsin20": "3",
+        "puntTouchBacks": "0",
+        "puntLong": "58"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4039396",
+      "longName": "Corey Bojorquez"
+    },
+    "4040950": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4040950",
+      "longName": "Cordell Volson"
+    },
+    "4046525": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "22",
+        "stSnapPct": "0.79",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4046525",
+      "longName": "Khaleke Hudson"
+    },
+    "4239993": {
+      "gameID": "20241020_CIN@CLE",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "25",
+        "targets": "8",
+        "recYds": "82",
+        "recAvg": "20.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tee Higgins 25 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "21",
+          "teamID": "7",
+          "scoreDetails": "4 plays, 50 yards, 1:55",
+          "scoreType": "TD",
+          "scoreTime": "1:30",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4239993",
+            "4360234"
+          ]
+        }
+      ],
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.82",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "45",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4239993",
+      "longName": "Tee Higgins"
+    },
+    "4240575": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "74",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.88"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "49",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4240575",
+      "longName": "Geno Stone"
+    },
+    "4240719": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4240719",
+      "longName": "Cal Adomitis"
+    },
+    "4241463": {
+      "gameID": "20241020_CIN@CLE",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "18",
+        "targets": "6",
+        "recYds": "18",
+        "recAvg": "18.0"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.95",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "80",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4241463",
+      "longName": "Jerry Jeudy"
+    },
+    "4241482": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "84",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4241482",
+      "longName": "Jedrick Wills Jr."
+    },
+    "4242208": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "7",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242208",
+      "longName": "Grant Delpit"
+    },
+    "4243830": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.13",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "5",
+        "puntReturnYds": "43",
+        "puntReturnAvg": "8.6",
+        "puntReturnLong": "14",
+        "puntReturnTD": "0"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4243830",
+      "longName": "Jaelon Darden"
+    },
+    "4249836": {
+      "gameID": "20241020_CIN@CLE",
+      "Rushing": {
+        "rushAvg": "2.0",
+        "rushYds": "6",
+        "carries": "3",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "3",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.50",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.32",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4249836",
+      "longName": "Pierre Strong Jr."
+    },
+    "4251125": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "3",
+        "stSnap": "24",
+        "stSnapPct": "0.86",
+        "offSnap": "3",
+        "defSnapPct": "0.05"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4251125",
+      "longName": "Winston Reid"
+    },
+    "4257188": {
+      "gameID": "20241020_CIN@CLE",
+      "scoringPlays": [
+        {
+          "score": "Charlie Jones 100 Yd Kickoff Return (Evan McPherson Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "7",
+          "scoreDetails": "0 plays, 0 yards, 0:12",
+          "scoreType": "TD",
+          "scoreTime": "14:48",
+          "team": "CIN",
+          "playerIDs": [
+            "4257188",
+            "4360234"
+          ]
+        }
+      ],
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.36",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "1",
+        "kickReturnYds": "100",
+        "kickReturnAvg": "100.0",
+        "kickReturnLong": "100"
+      },
+      "Punting": {
+        "puntReturns": "4",
+        "puntReturnYds": "39",
+        "puntReturnAvg": "9.8",
+        "puntReturnLong": "23",
+        "puntReturnTD": "0"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4257188",
+      "longName": "Charlie Jones"
+    },
+    "4257240": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.79",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4257240",
+      "longName": "Tycen Anderson"
+    },
+    "4258599": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "6",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4258599",
+      "longName": "Jeremiah Owusu-Koramoah"
+    },
+    "4360234": {
+      "gameID": "20241020_CIN@CLE",
+      "scoringPlays": [
+        {
+          "score": "Charlie Jones 100 Yd Kickoff Return (Evan McPherson Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "7",
+          "scoreDetails": "0 plays, 0 yards, 0:12",
+          "scoreType": "TD",
+          "scoreTime": "14:48",
+          "team": "CIN",
+          "playerIDs": [
+            "4257188",
+            "4360234"
+          ]
+        },
+        {
+          "score": "Ja'Marr Chase 18 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "14",
+          "teamID": "7",
+          "scoreDetails": "5 plays, 65 yards, 2:53",
+          "scoreType": "TD",
+          "scoreTime": "7:56",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4362628",
+            "4360234"
+          ]
+        },
+        {
+          "score": "Tee Higgins 25 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "21",
+          "teamID": "7",
+          "scoreDetails": "4 plays, 50 yards, 1:55",
+          "scoreType": "TD",
+          "scoreTime": "1:30",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4239993",
+            "4360234"
+          ]
+        }
+      ],
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "0",
+        "fgMade": "0",
+        "fgAttempts": "1",
+        "xpMade": "3",
+        "fgPct": "0.0",
+        "kickingPts": "3",
+        "xpAttempts": "3",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4360234",
+      "longName": "Evan McPherson"
+    },
+    "4361196": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "80",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361196",
+      "longName": "Cam Taylor-Britt"
+    },
+    "4361266": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.75"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361266",
+      "longName": "Greg Newsome II"
+    },
+    "4361787": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4361787",
+      "longName": "Trey Hill"
+    },
+    "4362094": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362094",
+      "longName": "Joseph Ossai"
+    },
+    "4362238": {
+      "gameID": "20241020_CIN@CLE",
+      "Rushing": {
+        "rushAvg": "2.9",
+        "rushYds": "44",
+        "carries": "15",
+        "longRush": "22",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "2",
+        "recYds": "9",
+        "recAvg": "4.5"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.58",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4362238",
+      "longName": "Chase Brown"
+    },
+    "4362502": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "13",
+        "stSnapPct": "0.47",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4362502",
+      "longName": "DJ Ivey"
+    },
+    "4362628": {
+      "gameID": "20241020_CIN@CLE",
+      "Rushing": {
+        "rushAvg": "11.0",
+        "rushYds": "11",
+        "carries": "1",
+        "longRush": "11",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "1",
+        "longRec": "18",
+        "targets": "6",
+        "recYds": "55",
+        "recAvg": "11.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ja'Marr Chase 18 Yd pass from Joe Burrow (Evan McPherson Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "14",
+          "teamID": "7",
+          "scoreDetails": "5 plays, 65 yards, 2:53",
+          "scoreType": "TD",
+          "scoreTime": "7:56",
+          "team": "CIN",
+          "playerIDs": [
+            "3915511",
+            "4362628",
+            "4360234"
+          ]
+        }
+      ],
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.87",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "48",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4362628",
+      "longName": "Ja'Marr Chase"
+    },
+    "4365319": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "20",
+        "stSnapPct": "0.72",
+        "offSnap": "0",
+        "defSnapPct": "0.07"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4365319",
+      "longName": "Josh Newton"
+    },
+    "4367178": {
+      "gameID": "20241020_CIN@CLE",
+      "Rushing": {
+        "rushAvg": "14.7",
+        "rushYds": "44",
+        "carries": "3",
+        "longRush": "34",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "13.7",
+        "rtg": "19.8",
+        "sacked": "1-3",
+        "passAttempts": "24",
+        "passAvg": "3.4",
+        "passTD": "0",
+        "passYds": "82",
+        "int": "2",
+        "passCompletions": "11"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.45",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "38",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4367178",
+      "longName": "Dorian Thompson-Robinson"
+    },
+    "4368003": {
+      "gameID": "20241020_CIN@CLE",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.71",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "39",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4368003",
+      "longName": "Andrei Iosivas"
+    },
+    "4369863": {
+      "gameID": "20241020_CIN@CLE",
+      "Receiving": {
+        "receptions": "8",
+        "recTD": "0",
+        "recAvg": "10.1",
+        "receivingTwoPointConversion": "1",
+        "longRec": "25",
+        "targets": "12",
+        "recYds": "81"
+      },
+      "scoringPlays": [
+        {
+          "score": "David Njoku 8 Yd pass from Jameis Winston (Jameis Winston Pass to Cedric Tillman for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "14",
+          "awayScore": "21",
+          "teamID": "8",
+          "scoreDetails": "12 plays, 60 yards, 2:16",
+          "scoreType": "TD",
+          "scoreTime": "1:27",
+          "team": "CLE",
+          "playerIDs": [
+            "2969939",
+            "4369863",
+            "3123076"
+          ]
+        }
+      ],
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.82",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "69",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4369863",
+      "longName": "Cedric Tillman"
+    },
+    "4372414": {
+      "gameID": "20241020_CIN@CLE",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "6",
+        "recYds": "41",
+        "recAvg": "6.8"
+      },
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.64",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4372414",
+      "longName": "Elijah Moore"
+    },
+    "4427637": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.32",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4427637",
+      "longName": "Dawand Jones"
+    },
+    "4427834": {
+      "gameID": "20241020_CIN@CLE",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.51",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.21",
+        "offSnap": "28",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4427834",
+      "longName": "Erick All Jr."
+    },
+    "4427963": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.35"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4427963",
+      "longName": "Isaiah McGuire"
+    },
+    "4428125": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.79",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428125",
+      "longName": "Maema Njongmeta"
+    },
+    "4428678": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.08",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4428678",
+      "longName": "Jamari Thrash"
+    },
+    "4428985": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4428985",
+      "longName": "Myles Murphy"
+    },
+    "4429033": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4429033",
+      "longName": "Jermaine Burton"
+    },
+    "4429568": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4429568",
+      "longName": "Martin Emerson Jr."
+    },
+    "4431571": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4431571",
+      "longName": "Amarius Mims"
+    },
+    "4432301": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.38"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4432301",
+      "longName": "Kris Jenkins Jr."
+    },
+    "4433963": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.06",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4433963",
+      "longName": "Zak Zinter"
+    },
+    "4567098": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "21",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.23"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4567098",
+      "longName": "Jordan Battle"
+    },
+    "4567403": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "20",
+        "stSnapPct": "0.72",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4567403",
+      "longName": "Mohamoud Diabate"
+    },
+    "4568986": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.14",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4568986",
+      "longName": "Matt Lee"
+    },
+    "4569607": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "11",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.13"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4569607",
+      "longName": "Cameron Mitchell"
+    },
+    "4572036": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "79",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.94"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4572036",
+      "longName": "DJ Turner II"
+    },
+    "4600415": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "7",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4600415",
+      "longName": "Mike Hall Jr."
+    },
+    "4608386": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "8",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.90",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "CLE",
+      "teamAbv": "CLE",
+      "playerID": "4608386",
+      "longName": "D'Anthony Bell"
+    },
+    "4608820": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "354",
+        "punts": "8",
+        "puntAvg": "44.3",
+        "puntsin20": "4",
+        "puntTouchBacks": "0",
+        "puntLong": "58"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4608820",
+      "longName": "Ryan Rehkow"
+    },
+    "4692680": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.26"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4692680",
+      "longName": "McKinnley Jackson"
+    },
+    "4874448": {
+      "gameID": "20241020_CIN@CLE",
+      "teamID": "7",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "12",
+        "stSnapPct": "0.43",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "CIN",
+      "teamAbv": "CIN",
+      "playerID": "4874448",
+      "longName": "Daijahn Anthony"
+    }
+  },
+  "arenaCapacity": "",
+  "arena": "Huntington Bank Field",
+  "homePts": "14",
+  "awayResult": "W",
+  "teamIDAway": "7",
+  "Referees": "Barry Anderson, Ronald Torbert, Keith Washington, Ryan Dickson, Tony Josselyn, Brian Bolinger, Frank LeBlanc",
+  "gameClock": "",
+  "awayPts": "21",
+  "gameID": "20241020_CIN@CLE",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

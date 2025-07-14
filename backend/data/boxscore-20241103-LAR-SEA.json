@@ -1,0 +1,2875 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "LAR",
+      "teamID": "19",
+      "defTD": "1",
+      "defensiveInterceptions": "3",
+      "sacks": "7",
+      "ydsAllowed": "424",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "20",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "SEA",
+      "teamID": "29",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "0",
+      "ydsAllowed": "366",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "20",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "366",
+      "rushingAttempts": "24",
+      "rushingYards": "68",
+      "fumblesLost": "0",
+      "penalties": "8-83",
+      "totalPlays": "68",
+      "possession": "32:10",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "25-44",
+      "passingFirstDowns": "13",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "0-0",
+      "thirdDownEfficiency": "3-13",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.4",
+      "redZoneScoredAndAttempted": "1-3",
+      "teamID": "19",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "1",
+      "totalDrives": "14",
+      "rushingFirstDowns": "4",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "22",
+      "passTD": "2",
+      "team": "LAR",
+      "blockedXP": "1",
+      "teamAbv": "LAR",
+      "firstDownsFromPenalties": "5",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "298",
+      "yardsPerRush": "2.8",
+      "snapCounts": {
+        "totalSpecialTeams": "32",
+        "totalOffensive": "77",
+        "totalDefensive": "80"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "6.8"
+    },
+    "home": {
+      "totalYards": "424",
+      "rushingAttempts": "33",
+      "rushingYards": "107",
+      "fumblesLost": "0",
+      "penalties": "12-95",
+      "totalPlays": "74",
+      "possession": "32:53",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "21-34",
+      "passingFirstDowns": "14",
+      "interceptionsThrown": "3",
+      "sacksAndYardsLost": "7-46",
+      "thirdDownEfficiency": "4-15",
+      "blockedPunt": "1",
+      "yardsPerPlay": "5.7",
+      "redZoneScoredAndAttempted": "1-4",
+      "teamID": "29",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "15",
+      "rushingFirstDowns": "4",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "20",
+      "passTD": "3",
+      "team": "SEA",
+      "blockedXP": "0",
+      "teamAbv": "SEA",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "2-3",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "317",
+      "yardsPerRush": "3.2",
+      "snapCounts": {
+        "totalSpecialTeams": "32",
+        "totalOffensive": "80",
+        "totalDefensive": "77"
+      },
+      "turnovers": "3",
+      "yardsPerPass": "7.7"
+    }
+  },
+  "gameDate": "20241103",
+  "scoringPlays": [
+    {
+      "score": "Joshua Karty 38 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "0",
+      "awayScore": "3",
+      "teamID": "19",
+      "scoreDetails": "11 plays, 43 yards, 5:54",
+      "scoreType": "FG",
+      "scoreTime": "3:31",
+      "team": "LAR",
+      "playerIDs": [
+        "4566192"
+      ]
+    },
+    {
+      "score": "Tyler Lockett 30 Yd pass from Geno Smith (Jason Myers PAT blocked)",
+      "scorePeriod": "Q2",
+      "homeScore": "6",
+      "awayScore": "3",
+      "teamID": "29",
+      "scoreDetails": "9 plays, 70 yards, 2:40",
+      "scoreType": "TD",
+      "scoreTime": "0:51",
+      "team": "SEA",
+      "playerIDs": [
+        "15864",
+        "2577327",
+        "2473037"
+      ]
+    },
+    {
+      "score": "Jaxon Smith-Njigba 24 Yd pass from Geno Smith (Jason Myers Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "13",
+      "awayScore": "3",
+      "teamID": "29",
+      "scoreDetails": "3 plays, 60 yards, 0:22",
+      "scoreType": "TD",
+      "scoreTime": "0:05",
+      "team": "SEA",
+      "playerIDs": [
+        "15864",
+        "4430878",
+        "2473037"
+      ]
+    },
+    {
+      "score": "Demarcus Robinson 1 Yd pass from Matthew Stafford (Joshua Karty Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "13",
+      "awayScore": "10",
+      "teamID": "19",
+      "scoreDetails": "11 plays, 75 yards, 6:32",
+      "scoreType": "TD",
+      "scoreTime": "8:28",
+      "team": "LAR",
+      "playerIDs": [
+        "12483",
+        "3043116",
+        "4566192"
+      ]
+    },
+    {
+      "score": "Joshua Karty 21 Yd Field Goal  ",
+      "scorePeriod": "Q3",
+      "homeScore": "13",
+      "awayScore": "13",
+      "teamID": "19",
+      "scoreDetails": "12 plays, 62 yards, 5:39",
+      "scoreType": "FG",
+      "scoreTime": "0:27",
+      "team": "LAR",
+      "playerIDs": [
+        "4566192"
+      ]
+    },
+    {
+      "score": "Kamren Kinchens 103 Yd Interception Return (Joshua Karty Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "13",
+      "awayScore": "20",
+      "teamID": "19",
+      "scoreDetails": "8 plays, 63 yards, 4:28",
+      "scoreType": "TD",
+      "scoreTime": "10:59",
+      "team": "LAR",
+      "playerIDs": [
+        "4596363",
+        "4566192"
+      ]
+    },
+    {
+      "score": "Jaxon Smith-Njigba 14 Yd pass from Geno Smith (Jason Myers Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "20",
+      "awayScore": "20",
+      "teamID": "29",
+      "scoreDetails": "8 plays, 73 yards, 1:03",
+      "scoreType": "TD",
+      "scoreTime": "0:51",
+      "team": "SEA",
+      "playerIDs": [
+        "15864",
+        "4430878",
+        "2473037"
+      ]
+    },
+    {
+      "score": "Demarcus Robinson 39 Yd pass from Matthew Stafford  ",
+      "scorePeriod": "OT",
+      "homeScore": "20",
+      "awayScore": "26",
+      "teamID": "19",
+      "scoreDetails": "4 plays, 83 yards, 2:22",
+      "scoreType": "TD",
+      "scoreTime": "4:57",
+      "team": "LAR",
+      "playerIDs": [
+        "12483",
+        "3043116"
+      ]
+    }
+  ],
+  "network": "FOX",
+  "teamIDHome": "29",
+  "homeResult": "L",
+  "away": "LAR",
+  "gameWeek": "Week 9",
+  "attendance": "68,632",
+  "lineScore": {
+    "period": "Final/OT",
+    "gameClock": "",
+    "away": {
+      "Q1": "0",
+      "Q2": "3",
+      "Q3": "10",
+      "Q4": "7",
+      "OT": "6",
+      "teamID": "19",
+      "currentlyInPossession": "False",
+      "totalPts": "26",
+      "teamAbv": "LAR"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "13",
+      "Q3": "0",
+      "Q4": "7",
+      "OT": "0",
+      "teamID": "29",
+      "currentlyInPossession": "False",
+      "totalPts": "20",
+      "teamAbv": "SEA"
+    }
+  },
+  "currentPeriod": "Final/OT",
+  "gameLocation": "Seattle, WA",
+  "home": "SEA",
+  "playerStats": {
+    "12483": {
+      "gameID": "20241103_LAR@SEA",
+      "Rushing": {
+        "rushAvg": "0.0",
+        "rushYds": "0",
+        "carries": "1",
+        "longRush": "0",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "64.1",
+        "rtg": "83.3",
+        "sacked": "0-0",
+        "passAttempts": "44",
+        "passAvg": "6.8",
+        "passTD": "2",
+        "passYds": "298",
+        "int": "1",
+        "passCompletions": "25"
+      },
+      "scoringPlays": [
+        {
+          "score": "Demarcus Robinson 1 Yd pass from Matthew Stafford (Joshua Karty Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "13",
+          "awayScore": "10",
+          "teamID": "19",
+          "scoreDetails": "11 plays, 75 yards, 6:32",
+          "scoreType": "TD",
+          "scoreTime": "8:28",
+          "team": "LAR",
+          "playerIDs": [
+            "12483",
+            "3043116",
+            "4566192"
+          ]
+        },
+        {
+          "score": "Demarcus Robinson 39 Yd pass from Matthew Stafford  ",
+          "scorePeriod": "OT",
+          "homeScore": "20",
+          "awayScore": "26",
+          "teamID": "19",
+          "scoreDetails": "4 plays, 83 yards, 2:22",
+          "scoreType": "TD",
+          "scoreTime": "4:57",
+          "team": "LAR",
+          "playerIDs": [
+            "12483",
+            "3043116"
+          ]
+        }
+      ],
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "77",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "12483",
+      "longName": "Matthew Stafford"
+    },
+    "15841": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.32"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "15841",
+      "longName": "Johnathan Hankins"
+    },
+    "15864": {
+      "gameID": "20241103_LAR@SEA",
+      "Rushing": {
+        "rushAvg": "2.7",
+        "rushYds": "16",
+        "carries": "6",
+        "longRush": "11",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "21.3",
+        "rtg": "90.7",
+        "sacked": "7-46",
+        "passAttempts": "34",
+        "passAvg": "10.7",
+        "passTD": "3",
+        "passYds": "363",
+        "int": "3",
+        "passCompletions": "21"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tyler Lockett 30 Yd pass from Geno Smith (Jason Myers PAT blocked)",
+          "scorePeriod": "Q2",
+          "homeScore": "6",
+          "awayScore": "3",
+          "teamID": "29",
+          "scoreDetails": "9 plays, 70 yards, 2:40",
+          "scoreType": "TD",
+          "scoreTime": "0:51",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "2577327",
+            "2473037"
+          ]
+        },
+        {
+          "score": "Jaxon Smith-Njigba 24 Yd pass from Geno Smith (Jason Myers Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "13",
+          "awayScore": "3",
+          "teamID": "29",
+          "scoreDetails": "3 plays, 60 yards, 0:22",
+          "scoreType": "TD",
+          "scoreTime": "0:05",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "4430878",
+            "2473037"
+          ]
+        },
+        {
+          "score": "Jaxon Smith-Njigba 14 Yd pass from Geno Smith (Jason Myers Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "20",
+          "teamID": "29",
+          "scoreDetails": "8 plays, 73 yards, 1:03",
+          "scoreType": "TD",
+          "scoreTime": "0:51",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "4430878",
+            "2473037"
+          ]
+        }
+      ],
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "80",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "15864",
+      "longName": "Geno Smith"
+    },
+    "2310331": {
+      "gameID": "20241103_LAR@SEA",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "24",
+        "targets": "5",
+        "recYds": "38",
+        "recAvg": "12.7"
+      },
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.38",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "2310331",
+      "longName": "Tyler Johnson"
+    },
+    "2473037": {
+      "gameID": "20241103_LAR@SEA",
+      "scoringPlays": [
+        {
+          "score": "Tyler Lockett 30 Yd pass from Geno Smith (Jason Myers PAT blocked)",
+          "scorePeriod": "Q2",
+          "homeScore": "6",
+          "awayScore": "3",
+          "teamID": "29",
+          "scoreDetails": "9 plays, 70 yards, 2:40",
+          "scoreType": "TD",
+          "scoreTime": "0:51",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "2577327",
+            "2473037"
+          ]
+        },
+        {
+          "score": "Jaxon Smith-Njigba 24 Yd pass from Geno Smith (Jason Myers Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "13",
+          "awayScore": "3",
+          "teamID": "29",
+          "scoreDetails": "3 plays, 60 yards, 0:22",
+          "scoreType": "TD",
+          "scoreTime": "0:05",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "4430878",
+            "2473037"
+          ]
+        },
+        {
+          "score": "Jaxon Smith-Njigba 14 Yd pass from Geno Smith (Jason Myers Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "20",
+          "teamID": "29",
+          "scoreDetails": "8 plays, 73 yards, 1:03",
+          "scoreType": "TD",
+          "scoreTime": "0:51",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "4430878",
+            "2473037"
+          ]
+        }
+      ],
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "0",
+        "fgMade": "0",
+        "fgAttempts": "0",
+        "xpMade": "2",
+        "fgPct": "0.0",
+        "kickingPts": "2",
+        "xpAttempts": "3",
+        "fgMissed": "0",
+        "xpMissed": "1"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "2473037",
+      "longName": "Jason Myers"
+    },
+    "2512477": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "80",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "2512477",
+      "longName": "Laken Tomlinson"
+    },
+    "2515613": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.75",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.06",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "2515613",
+      "longName": "Rob Havenstein"
+    },
+    "2574891": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.34"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2574891",
+      "longName": "Roy Robertson-Harris"
+    },
+    "2577327": {
+      "gameID": "20241103_LAR@SEA",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "1",
+        "longRec": "30",
+        "targets": "4",
+        "recYds": "63",
+        "recAvg": "21.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tyler Lockett 30 Yd pass from Geno Smith (Jason Myers PAT blocked)",
+          "scorePeriod": "Q2",
+          "homeScore": "6",
+          "awayScore": "3",
+          "teamID": "29",
+          "scoreDetails": "9 plays, 70 yards, 2:40",
+          "scoreType": "TD",
+          "scoreTime": "0:51",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "2577327",
+            "2473037"
+          ]
+        }
+      ],
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.89",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "2577327",
+      "longName": "Tyler Lockett"
+    },
+    "2583951": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.21",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "17",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "2583951",
+      "longName": "George Fant"
+    },
+    "2971281": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.09",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.19",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "2971281",
+      "longName": "Pharaoh Brown"
+    },
+    "2971622": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.75"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2971622",
+      "longName": "Leonard Williams"
+    },
+    "2977187": {
+      "gameID": "20241103_LAR@SEA",
+      "Receiving": {
+        "receptions": "11",
+        "recTD": "0",
+        "longRec": "23",
+        "targets": "14",
+        "recYds": "104",
+        "recAvg": "9.5"
+      },
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.92",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "2977187",
+      "longName": "Cooper Kupp"
+    },
+    "3043116": {
+      "gameID": "20241103_LAR@SEA",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "2",
+        "longRec": "39",
+        "targets": "9",
+        "recYds": "94",
+        "recAvg": "15.7"
+      },
+      "scoringPlays": [
+        {
+          "score": "Demarcus Robinson 1 Yd pass from Matthew Stafford (Joshua Karty Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "13",
+          "awayScore": "10",
+          "teamID": "19",
+          "scoreDetails": "11 plays, 75 yards, 6:32",
+          "scoreType": "TD",
+          "scoreTime": "8:28",
+          "team": "LAR",
+          "playerIDs": [
+            "12483",
+            "3043116",
+            "4566192"
+          ]
+        },
+        {
+          "score": "Demarcus Robinson 39 Yd pass from Matthew Stafford  ",
+          "scorePeriod": "OT",
+          "homeScore": "20",
+          "awayScore": "26",
+          "teamID": "19",
+          "scoreDetails": "4 plays, 83 yards, 2:22",
+          "scoreType": "TD",
+          "scoreTime": "4:57",
+          "team": "LAR",
+          "playerIDs": [
+            "12483",
+            "3043116"
+          ]
+        }
+      ],
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.70",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "3043116",
+      "longName": "Demarcus Robinson"
+    },
+    "3115312": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "43",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "0",
+        "defSnapPct": "0.56"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3115312",
+      "longName": "Jarran Reed"
+    },
+    "3122630": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "2",
+        "stSnapPct": "0.06",
+        "offSnap": "0",
+        "defSnapPct": "0.84"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3122630",
+      "longName": "Ahkello Witherspoon"
+    },
+    "3821577": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "80",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3821577",
+      "longName": "Connor Williams"
+    },
+    "3909013": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "78",
+        "stSnap": "14",
+        "stSnapPct": "0.44",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "11",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3909013",
+      "longName": "Christian Rozeboom"
+    },
+    "3915525": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915525",
+      "longName": "Dre'Mont Jones"
+    },
+    "3917599": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "77",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "3917599",
+      "longName": "Kevin Dotson"
+    },
+    "3929851": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "330",
+        "punts": "7",
+        "puntAvg": "47.1",
+        "puntsin20": "2",
+        "puntTouchBacks": "0",
+        "puntLong": "62"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "3929851",
+      "longName": "Michael Dickson"
+    },
+    "4032481": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "6",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4032481",
+      "longName": "Jonah Williams"
+    },
+    "4033234": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "10",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.48"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4033234",
+      "longName": "Michael Hoecht"
+    },
+    "4035232": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "77",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4035232",
+      "longName": "Tyrel Dodson"
+    },
+    "4035463": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "16",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.13"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035463",
+      "longName": "K'Von Wallace"
+    },
+    "4036135": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "77",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4036135",
+      "longName": "Alaric Jackson"
+    },
+    "4046675": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "77",
+        "stSnap": "6",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4046675",
+      "longName": "Julian Love"
+    },
+    "4239094": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "77",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4239094",
+      "longName": "Coby Bryant"
+    },
+    "4239833": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "78",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4239833",
+      "longName": "Darious Williams"
+    },
+    "4239944": {
+      "gameID": "20241103_LAR@SEA",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "1",
+        "recYds": "4",
+        "recAvg": "4.0"
+      },
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.63",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4239944",
+      "longName": "Hunter Long"
+    },
+    "4240754": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.68"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240754",
+      "longName": "Boye Mafe"
+    },
+    "4241250": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "25",
+        "stSnapPct": "0.78",
+        "offSnap": "0",
+        "defSnapPct": "0.09"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4241250",
+      "longName": "Jacob Hummel"
+    },
+    "4241373": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.16",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4241373",
+      "longName": "Tre Brown"
+    },
+    "4241983": {
+      "gameID": "20241103_LAR@SEA",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "28",
+        "targets": "3",
+        "recYds": "44",
+        "recAvg": "22.0"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.44",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.34",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4241983",
+      "longName": "Cody White"
+    },
+    "4242154": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.50"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4242154",
+      "longName": "Kamren Curl"
+    },
+    "4242347": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4242347",
+      "longName": "Logan Bruss"
+    },
+    "4242557": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.42",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4242557",
+      "longName": "Colby Parkinson"
+    },
+    "4243003": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.69",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4243003",
+      "longName": "Ronnie Rivers"
+    },
+    "4243160": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.56",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "32",
+        "kickReturnAvg": "32.0",
+        "kickReturnLong": "32"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243160",
+      "longName": "Laviska Shenault Jr."
+    },
+    "4243176": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.11",
+        "defSnap": "0",
+        "stSnap": "28",
+        "stSnapPct": "0.88",
+        "offSnap": "9",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243176",
+      "longName": "Brady Russell"
+    },
+    "4243545": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4243545",
+      "longName": "Alex Ward"
+    },
+    "4245185": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "77",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4245185",
+      "longName": "Riq Woolen"
+    },
+    "4249128": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "80",
+        "stSnap": "6",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4249128",
+      "longName": "Quentin Lake"
+    },
+    "4250621": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "59",
+        "stSnap": "6",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4250621",
+      "longName": "Kobie Turner"
+    },
+    "4258198": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.53",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4258198",
+      "longName": "Josh Ross"
+    },
+    "4259606": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4259606",
+      "longName": "Chris Stoll"
+    },
+    "4360405": {
+      "gameID": "20241103_LAR@SEA",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.53",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.78",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4360405",
+      "longName": "Jake Bobo"
+    },
+    "4360773": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "25",
+        "stSnapPct": "0.78",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4360773",
+      "longName": "Nick Hampton"
+    },
+    "4360797": {
+      "gameID": "20241103_LAR@SEA",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "16",
+        "targets": "3",
+        "recYds": "16",
+        "recAvg": "16.0"
+      },
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4360797",
+      "longName": "Tutu Atwell"
+    },
+    "4360859": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.06",
+        "offSnap": "77",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4360859",
+      "longName": "Justin Dedich"
+    },
+    "4362245": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "0",
+        "defSnapPct": "0.61"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "4362245",
+      "longName": "Braden Fiske"
+    },
+    "4362294": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.13"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4362294",
+      "longName": "Desjuan Johnson"
+    },
+    "4362851": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "77",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4362851",
+      "longName": "Ernest Jones IV"
+    },
+    "4368113": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "24",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "0.09"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4368113",
+      "longName": "Charles Woods"
+    },
+    "4370807": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4370807",
+      "longName": "Olu Oluwatimi"
+    },
+    "4372020": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "8",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.64"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4372020",
+      "longName": "Josh Jobe"
+    },
+    "4372518": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4372518",
+      "longName": "Bobby Brown III"
+    },
+    "4383409": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4383409",
+      "longName": "Jalen Sundell"
+    },
+    "4384549": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "79",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4384549",
+      "longName": "Cobie Durant"
+    },
+    "4386544": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.59",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "20",
+        "kickReturnAvg": "20.0",
+        "kickReturnLong": "20"
+      },
+      "Punting": {
+        "puntReturns": "4",
+        "puntReturnYds": "17",
+        "puntReturnAvg": "4.3",
+        "puntReturnLong": "8",
+        "puntReturnTD": "0"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4386544",
+      "longName": "Xavier Smith"
+    },
+    "4401805": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.08",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.19",
+        "offSnap": "6",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4401805",
+      "longName": "Dareke Young"
+    },
+    "4426376": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "80",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4426376",
+      "longName": "Charles Cross"
+    },
+    "4426385": {
+      "gameID": "20241103_LAR@SEA",
+      "Rushing": {
+        "rushAvg": "4.0",
+        "rushYds": "8",
+        "carries": "2",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "24",
+        "targets": "3",
+        "recYds": "25",
+        "recAvg": "12.5"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.25",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4426385",
+      "longName": "Zach Charbonnet"
+    },
+    "4426512": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.25",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4426512",
+      "longName": "Warren McClendon Jr."
+    },
+    "4426515": {
+      "gameID": "20241103_LAR@SEA",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "4",
+        "recYds": "11",
+        "recAvg": "11.0"
+      },
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.35",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426515",
+      "longName": "Puka Nacua"
+    },
+    "4426553": {
+      "gameID": "20241103_LAR@SEA",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "3",
+        "recYds": "5",
+        "recAvg": "5.0"
+      },
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.55",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.19",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4426553",
+      "longName": "Davis Allen"
+    },
+    "4427120": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "20",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.70"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4427120",
+      "longName": "Jaylen McCollough"
+    },
+    "4427391": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.28",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4427391",
+      "longName": "Kenny McIntosh"
+    },
+    "4428098": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.44",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4428098",
+      "longName": "Elias Neal"
+    },
+    "4428550": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "25",
+        "stSnapPct": "0.78",
+        "offSnap": "0",
+        "defSnapPct": "0.06"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428550",
+      "longName": "Omar Speights"
+    },
+    "4428659": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.78",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428659",
+      "longName": "Drake Thomas"
+    },
+    "4429096": {
+      "gameID": "20241103_LAR@SEA",
+      "Rushing": {
+        "rushAvg": "-1.0",
+        "rushYds": "-1",
+        "carries": "1",
+        "longRush": "-1",
+        "rushTD": "0"
+      },
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.63",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "49",
+        "kickReturnAvg": "24.5",
+        "kickReturnLong": "25"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429096",
+      "longName": "Blake Corum"
+    },
+    "4429211": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "80",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4429211",
+      "longName": "Anthony Bradford"
+    },
+    "4430737": {
+      "gameID": "20241103_LAR@SEA",
+      "Rushing": {
+        "rushAvg": "3.1",
+        "rushYds": "69",
+        "carries": "22",
+        "longRush": "9",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "26",
+        "targets": "3",
+        "recYds": "26",
+        "recAvg": "26.0"
+      },
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.99",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "76",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4430737",
+      "longName": "Kyren Williams"
+    },
+    "4430878": {
+      "gameID": "20241103_LAR@SEA",
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "2",
+        "longRec": "46",
+        "targets": "13",
+        "recYds": "180",
+        "recAvg": "25.7"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jaxon Smith-Njigba 24 Yd pass from Geno Smith (Jason Myers Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "13",
+          "awayScore": "3",
+          "teamID": "29",
+          "scoreDetails": "3 plays, 60 yards, 0:22",
+          "scoreType": "TD",
+          "scoreTime": "0:05",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "4430878",
+            "2473037"
+          ]
+        },
+        {
+          "score": "Jaxon Smith-Njigba 14 Yd pass from Geno Smith (Jason Myers Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "20",
+          "teamID": "29",
+          "scoreDetails": "8 plays, 73 yards, 1:03",
+          "scoreType": "TD",
+          "scoreTime": "0:51",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "4430878",
+            "2473037"
+          ]
+        }
+      ],
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.89",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430878",
+      "longName": "Jaxon Smith-Njigba"
+    },
+    "4566192": {
+      "gameID": "20241103_LAR@SEA",
+      "scoringPlays": [
+        {
+          "score": "Joshua Karty 38 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "0",
+          "awayScore": "3",
+          "teamID": "19",
+          "scoreDetails": "11 plays, 43 yards, 5:54",
+          "scoreType": "FG",
+          "scoreTime": "3:31",
+          "team": "LAR",
+          "playerIDs": [
+            "4566192"
+          ]
+        },
+        {
+          "score": "Demarcus Robinson 1 Yd pass from Matthew Stafford (Joshua Karty Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "13",
+          "awayScore": "10",
+          "teamID": "19",
+          "scoreDetails": "11 plays, 75 yards, 6:32",
+          "scoreType": "TD",
+          "scoreTime": "8:28",
+          "team": "LAR",
+          "playerIDs": [
+            "12483",
+            "3043116",
+            "4566192"
+          ]
+        },
+        {
+          "score": "Joshua Karty 21 Yd Field Goal  ",
+          "scorePeriod": "Q3",
+          "homeScore": "13",
+          "awayScore": "13",
+          "teamID": "19",
+          "scoreDetails": "12 plays, 62 yards, 5:39",
+          "scoreType": "FG",
+          "scoreTime": "0:27",
+          "team": "LAR",
+          "playerIDs": [
+            "4566192"
+          ]
+        },
+        {
+          "score": "Kamren Kinchens 103 Yd Interception Return (Joshua Karty Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "13",
+          "awayScore": "20",
+          "teamID": "19",
+          "scoreDetails": "8 plays, 63 yards, 4:28",
+          "scoreType": "TD",
+          "scoreTime": "10:59",
+          "team": "LAR",
+          "playerIDs": [
+            "4596363",
+            "4566192"
+          ]
+        }
+      ],
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "38",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "2",
+        "fgPct": "100.0",
+        "kickingPts": "8",
+        "xpAttempts": "2",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4566192",
+      "longName": "Joshua Karty"
+    },
+    "4567048": {
+      "gameID": "20241103_LAR@SEA",
+      "Rushing": {
+        "rushAvg": "3.3",
+        "rushYds": "83",
+        "carries": "25",
+        "longRush": "10",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "18",
+        "targets": "3",
+        "recYds": "24",
+        "recAvg": "8.0"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.76",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4567048",
+      "longName": "Kenneth Walker III"
+    },
+    "4567175": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "77",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4567175",
+      "longName": "Beaux Limmer"
+    },
+    "4567226": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4567226",
+      "longName": "Derick Hall"
+    },
+    "4568217": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.25"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4568217",
+      "longName": "Tyler Davis"
+    },
+    "4569130": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "281",
+        "punts": "7",
+        "puntAvg": "40.1",
+        "puntsin20": "3",
+        "puntTouchBacks": "0",
+        "puntLong": "53"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "playerID": "4569130",
+      "longName": "Ty Zentner"
+    },
+    "4570040": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.55"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4570040",
+      "longName": "Byron Murphy II"
+    },
+    "4570084": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.59",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4570084",
+      "longName": "Jerrick Reed II"
+    },
+    "4572055": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.69",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4572055",
+      "longName": "Mike Morris"
+    },
+    "4572371": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "10",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4572371",
+      "longName": "Josh Wallace"
+    },
+    "4575431": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "77",
+        "stSnap": "7",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4575431",
+      "longName": "Devon Witherspoon"
+    },
+    "4576297": {
+      "gameID": "20241103_LAR@SEA",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "7",
+        "recYds": "27",
+        "recAvg": "6.8"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.91",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "73",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4576297",
+      "longName": "AJ Barner"
+    },
+    "4578085": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "69",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.86"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "2",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "1"
+      },
+      "playerID": "4578085",
+      "longName": "Jared Verse"
+    },
+    "4596363": {
+      "gameID": "20241103_LAR@SEA",
+      "scoringPlays": [
+        {
+          "score": "Kamren Kinchens 103 Yd Interception Return (Joshua Karty Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "13",
+          "awayScore": "20",
+          "teamID": "19",
+          "scoreDetails": "8 plays, 63 yards, 4:28",
+          "scoreType": "TD",
+          "scoreTime": "10:59",
+          "team": "LAR",
+          "playerIDs": [
+            "4596363",
+            "4566192"
+          ]
+        }
+      ],
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "11",
+        "stSnapPct": "0.34",
+        "offSnap": "0",
+        "defSnapPct": "0.51"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "fumblesLost": "0",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "1",
+        "soloTackles": "3",
+        "qbHits": "0",
+        "interceptionTDs": "1",
+        "passDeflections": "2",
+        "totalTackles": "3",
+        "tfl": "0",
+        "defensiveInterceptions": "2",
+        "defensiveInterceptionsYards": "103",
+        "sacks": "0"
+      },
+      "playerID": "4596363",
+      "longName": "Kamren Kinchens"
+    },
+    "4686540": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.47",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4686540",
+      "longName": "Tyrice Knight"
+    },
+    "4875196": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "19",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.81"
+      },
+      "team": "LAR",
+      "teamAbv": "LAR",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4875196",
+      "longName": "Byron Young"
+    },
+    "5081362": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "13",
+        "puntReturnAvg": "6.5",
+        "puntReturnLong": "11",
+        "puntReturnTD": "0"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "5081362",
+      "longName": "Dee Williams"
+    },
+    "5209093": {
+      "gameID": "20241103_LAR@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.79",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "5209093",
+      "longName": "Michael Jerrell"
+    }
+  },
+  "arenaCapacity": "68,740",
+  "arena": "Lumen Field",
+  "homePts": "20",
+  "awayResult": "W",
+  "teamIDAway": "19",
+  "Referees": "Greg Wilson, Clay Martin, Jerod Phillips, Dave Hawkshaw, Alonzo Ramsey III, James Carter II, Brian Perry",
+  "gameClock": "",
+  "awayPts": "26",
+  "gameID": "20241103_LAR@SEA",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

@@ -48,12 +48,14 @@ export interface SeasonAverages {
 export interface Player {
   name: string;
   slug: string;
-  position: 'QB' | 'RB' | 'WR' | 'TE';
+  position: 'QB' | 'RB' | 'WR' | 'TE' | 'PK';
   team: string;
+  espn_headshot?: string;
   game_log: GameLog[];
   season_averages: SeasonAverages;
   total_games: number;
   scrape_timestamp: string;
+  has_data?: boolean; // Optional flag to indicate if player has game log data
 }
 
 export interface LeagueData {

@@ -1,0 +1,2713 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "LAC",
+      "teamID": "18",
+      "defTD": "1",
+      "defensiveInterceptions": "4",
+      "sacks": "1",
+      "ydsAllowed": "350",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "13",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "ATL",
+      "teamID": "2",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "5",
+      "ydsAllowed": "187",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "11",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "187",
+      "rushingAttempts": "17",
+      "rushingYards": "56",
+      "fumblesLost": "1",
+      "penalties": "7-33",
+      "totalPlays": "46",
+      "possession": "24:05",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "17-24",
+      "passingFirstDowns": "5",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "5-19",
+      "thirdDownEfficiency": "3-11",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.1",
+      "redZoneScoredAndAttempted": "0-2",
+      "teamID": "18",
+      "defensiveInterceptions": "4",
+      "defensiveOrSpecialTeamsTds": "1",
+      "totalDrives": "10",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "1",
+      "firstDowns": "10",
+      "passTD": "0",
+      "team": "LAC",
+      "blockedXP": "0",
+      "teamAbv": "LAC",
+      "firstDownsFromPenalties": "0",
+      "fourthDownEfficiency": "0-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "131",
+      "yardsPerRush": "3.3",
+      "snapCounts": {
+        "totalSpecialTeams": "22",
+        "totalOffensive": "46",
+        "totalDefensive": "81"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "4.5"
+    },
+    "home": {
+      "totalYards": "350",
+      "rushingAttempts": "37",
+      "rushingYards": "116",
+      "fumblesLost": "0",
+      "penalties": "2-10",
+      "totalPlays": "77",
+      "possession": "35:55",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "24-39",
+      "passingFirstDowns": "13",
+      "interceptionsThrown": "4",
+      "sacksAndYardsLost": "1-11",
+      "thirdDownEfficiency": "3-14",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.5",
+      "redZoneScoredAndAttempted": "1-4",
+      "teamID": "2",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "10",
+      "rushingFirstDowns": "7",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "24",
+      "passTD": "0",
+      "team": "ATL",
+      "blockedXP": "0",
+      "teamAbv": "ATL",
+      "firstDownsFromPenalties": "4",
+      "fourthDownEfficiency": "2-4",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "234",
+      "yardsPerRush": "3.1",
+      "snapCounts": {
+        "totalSpecialTeams": "22",
+        "totalOffensive": "81",
+        "totalDefensive": "46"
+      },
+      "turnovers": "4",
+      "yardsPerPass": "5.9"
+    }
+  },
+  "gameDate": "20241201",
+  "scoringPlays": [
+    {
+      "score": "Bijan Robinson 2 Yd Rush (Younghoe Koo Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "7",
+      "awayScore": "0",
+      "teamID": "2",
+      "scoreDetails": "5 plays, 29 yards, 3:01",
+      "scoreType": "TD",
+      "scoreTime": "3:59",
+      "team": "ATL",
+      "playerIDs": [
+        "4430807",
+        "3049899"
+      ]
+    },
+    {
+      "score": "Cameron Dicker 45 Yd Field Goal",
+      "scorePeriod": "Q1",
+      "homeScore": "7",
+      "awayScore": "3",
+      "teamID": "18",
+      "scoreDetails": "5 plays, 43 yards, 2:20",
+      "scoreType": "FG",
+      "scoreTime": "1:39",
+      "team": "LAC",
+      "playerIDs": [
+        "4362081"
+      ]
+    },
+    {
+      "score": "Cameron Dicker 51 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "7",
+      "awayScore": "6",
+      "teamID": "18",
+      "scoreDetails": "7 plays, 33 yards, 3:44",
+      "scoreType": "FG",
+      "scoreTime": "11:08",
+      "team": "LAC",
+      "playerIDs": [
+        "4362081"
+      ]
+    },
+    {
+      "score": "Cameron Dicker 34 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "7",
+      "awayScore": "9",
+      "teamID": "18",
+      "scoreDetails": "16 plays, 63 yards, 7:55",
+      "scoreType": "FG",
+      "scoreTime": "0:58",
+      "team": "LAC",
+      "playerIDs": [
+        "4362081"
+      ]
+    },
+    {
+      "score": "Younghoe Koo 41 Yd Field Goal",
+      "scorePeriod": "Q3",
+      "homeScore": "10",
+      "awayScore": "9",
+      "teamID": "2",
+      "scoreDetails": "11 plays, 66 yards, 5:58",
+      "scoreType": "FG",
+      "scoreTime": "7:23",
+      "team": "ATL",
+      "playerIDs": [
+        "3049899"
+      ]
+    },
+    {
+      "score": "Tarheeb Still 61 Yd Interception Return (Justin Herbert Pass to Joshua Palmer for Two-Point Conversion)",
+      "scorePeriod": "Q3",
+      "homeScore": "10",
+      "awayScore": "17",
+      "teamID": "18",
+      "scoreDetails": "9 plays, 29 yards, 3:39",
+      "scoreType": "TD",
+      "scoreTime": "1:39",
+      "team": "LAC",
+      "playerIDs": [
+        "4038941",
+        "4242433",
+        "4432571"
+      ]
+    },
+    {
+      "score": "Younghoe Koo 26 Yd Field Goal",
+      "scorePeriod": "Q3",
+      "homeScore": "13",
+      "awayScore": "17",
+      "teamID": "2",
+      "scoreDetails": "6 plays, 62 yards, 1:36",
+      "scoreType": "FG",
+      "scoreTime": "0:03",
+      "team": "ATL",
+      "playerIDs": [
+        "3049899"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "2",
+  "homeResult": "L",
+  "away": "LAC",
+  "gameWeek": "Week 13",
+  "attendance": "72,139",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "3",
+      "Q2": "6",
+      "Q3": "8",
+      "Q4": "0",
+      "teamID": "18",
+      "currentlyInPossession": "False",
+      "totalPts": "17",
+      "teamAbv": "LAC"
+    },
+    "home": {
+      "Q1": "7",
+      "Q2": "0",
+      "Q3": "6",
+      "Q4": "0",
+      "teamID": "2",
+      "currentlyInPossession": "False",
+      "totalPts": "13",
+      "teamAbv": "ATL"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Atlanta, GA",
+  "home": "ATL",
+  "playerStats": {
+    "14880": {
+      "gameID": "20241201_LAC@ATL",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "3",
+        "carries": "1",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "34.4",
+        "rtg": "40.0",
+        "sacked": "1-11",
+        "passAttempts": "39",
+        "passAvg": "6.3",
+        "passTD": "0",
+        "passYds": "245",
+        "int": "4",
+        "passCompletions": "24"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "81",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "14880",
+      "longName": "Kirk Cousins"
+    },
+    "15151": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "15151",
+      "longName": "Josh Harris"
+    },
+    "16195": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.67"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "16195",
+      "longName": "Tony Jefferson"
+    },
+    "16710": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.70"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "16710",
+      "longName": "Khalil Mack"
+    },
+    "16713": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "81",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "16713",
+      "longName": "Jake Matthews"
+    },
+    "2576492": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.78"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2576492",
+      "longName": "Grady Jarrett"
+    },
+    "2576702": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2576702",
+      "longName": "Bud Dupree"
+    },
+    "2969860": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "2969860",
+      "longName": "Justin Simmons"
+    },
+    "2969924": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2969924",
+      "longName": "Eddie Goldman"
+    },
+    "2973014": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "2973014",
+      "longName": "Storm Norton"
+    },
+    "2977680": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.45",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "82",
+        "punts": "2",
+        "puntAvg": "41.0",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "43"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "2977680",
+      "longName": "Bradley Pinion"
+    },
+    "2980110": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.26"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "2980110",
+      "longName": "Marcus Maye"
+    },
+    "3047876": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.45",
+        "offSnap": "6",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3047876",
+      "longName": "KhaDarel Hodge"
+    },
+    "3049899": {
+      "gameID": "20241201_LAC@ATL",
+      "scoringPlays": [
+        {
+          "score": "Bijan Robinson 2 Yd Rush (Younghoe Koo Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "2",
+          "scoreDetails": "5 plays, 29 yards, 3:01",
+          "scoreType": "TD",
+          "scoreTime": "3:59",
+          "team": "ATL",
+          "playerIDs": [
+            "4430807",
+            "3049899"
+          ]
+        },
+        {
+          "score": "Younghoe Koo 41 Yd Field Goal",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "9",
+          "teamID": "2",
+          "scoreDetails": "11 plays, 66 yards, 5:58",
+          "scoreType": "FG",
+          "scoreTime": "7:23",
+          "team": "ATL",
+          "playerIDs": [
+            "3049899"
+          ]
+        },
+        {
+          "score": "Younghoe Koo 26 Yd Field Goal",
+          "scorePeriod": "Q3",
+          "homeScore": "13",
+          "awayScore": "17",
+          "teamID": "2",
+          "scoreDetails": "6 plays, 62 yards, 1:36",
+          "scoreType": "FG",
+          "scoreTime": "0:03",
+          "team": "ATL",
+          "playerIDs": [
+            "3049899"
+          ]
+        }
+      ],
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "41",
+        "fgMade": "2",
+        "fgAttempts": "3",
+        "xpMade": "1",
+        "fgPct": "66.7",
+        "kickingPts": "7",
+        "xpAttempts": "1",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3049899",
+      "longName": "Younghoe Koo"
+    },
+    "3051389": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "59",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3051389",
+      "longName": "Joey Bosa"
+    },
+    "3051926": {
+      "gameID": "20241201_LAC@ATL",
+      "Rushing": {
+        "rushAvg": "5.3",
+        "rushYds": "32",
+        "carries": "6",
+        "longRush": "12",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "1",
+        "targets": "1",
+        "recYds": "1",
+        "recAvg": "1.0"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.52",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "3051926",
+      "longName": "Gus Edwards"
+    },
+    "3052170": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "11",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.13"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3052170",
+      "longName": "Kevin King"
+    },
+    "3052926": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.52"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3052926",
+      "longName": "Demone Harris"
+    },
+    "3054842": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "46",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "3054842",
+      "longName": "Bradley Bozeman"
+    },
+    "3056354": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3056354",
+      "longName": "Antonio Hamilton Sr."
+    },
+    "3059620": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3059620",
+      "longName": "Morgan Fox"
+    },
+    "3115394": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "3115394",
+      "longName": "DJ Chark Jr."
+    },
+    "3116726": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.26"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3116726",
+      "longName": "Kentavius Street"
+    },
+    "3120303": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.32",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3120303",
+      "longName": "Ross Dwelley"
+    },
+    "3124890": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "1"
+      },
+      "playerID": "3124890",
+      "longName": "Kaden Elliss"
+    },
+    "3125114": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.57"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3125114",
+      "longName": "Poona Ford"
+    },
+    "3126368": {
+      "gameID": "20241201_LAC@ATL",
+      "Passing": {
+        "qbr": "--",
+        "rtg": "79.2",
+        "sacked": "0-0",
+        "passAttempts": "1",
+        "passAvg": "3.0",
+        "passTD": "0",
+        "passYds": "3",
+        "int": "0",
+        "passCompletions": "1"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "146",
+        "punts": "3",
+        "puntAvg": "48.7",
+        "puntsin20": "2",
+        "puntTouchBacks": "0",
+        "puntLong": "52"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "3126368",
+      "longName": "JK Scott"
+    },
+    "3127292": {
+      "gameID": "20241201_LAC@ATL",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "3127292",
+      "longName": "Will Dissly"
+    },
+    "3127304": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "81",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3127304",
+      "longName": "Kaleb McGary"
+    },
+    "3128303": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3128303",
+      "longName": "Josh Woods"
+    },
+    "3128715": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3128715",
+      "longName": "Lorenzo Carter"
+    },
+    "3129307": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "3129307",
+      "longName": "Sam Mustipher"
+    },
+    "3672833": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "81",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3672833",
+      "longName": "Chris Lindstrom"
+    },
+    "3691739": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "80",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "2",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3691739",
+      "longName": "Derwin James Jr."
+    },
+    "3728262": {
+      "gameID": "20241201_LAC@ATL",
+      "Rushing": {
+        "rushAvg": "-2.0",
+        "rushYds": "-2",
+        "carries": "1",
+        "longRush": "-2",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "60",
+        "targets": "6",
+        "recYds": "95",
+        "recAvg": "23.8"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.95",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "77",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3728262",
+      "longName": "Ray-Ray McCloud III"
+    },
+    "3915528": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "3915528",
+      "longName": "Liam McCullough"
+    },
+    "3919512": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3919512",
+      "longName": "Jessie Bates III"
+    },
+    "3961466": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.52"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3961466",
+      "longName": "Matthew Judon"
+    },
+    "4002046": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4002046",
+      "longName": "David Onyemata"
+    },
+    "4034835": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.45",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4034835",
+      "longName": "Dicaprio Bootle"
+    },
+    "4035020": {
+      "gameID": "20241201_LAC@ATL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "1",
+        "recYds": "5",
+        "recAvg": "5.0"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.58",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.68",
+        "offSnap": "47",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4035020",
+      "longName": "Charlie Woerner"
+    },
+    "4035433": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "76",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.94"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4035433",
+      "longName": "Kristian Fulton"
+    },
+    "4036141": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "19",
+        "stSnapPct": "0.86",
+        "offSnap": "0",
+        "defSnapPct": "0.04"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036141",
+      "longName": "Nick Niemann"
+    },
+    "4036444": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4036444",
+      "longName": "Ryan Neuzil"
+    },
+    "4037468": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037468",
+      "longName": "Shaq Quarterman"
+    },
+    "4038941": {
+      "gameID": "20241201_LAC@ATL",
+      "Rushing": {
+        "rushAvg": "0.2",
+        "rushYds": "1",
+        "carries": "5",
+        "longRush": "2",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "26.4",
+        "rtg": "86.7",
+        "sacked": "5-19",
+        "passAttempts": "23",
+        "passAvg": "6.4",
+        "passTD": "0",
+        "passYds": "147",
+        "int": "0",
+        "passingTwoPointConversion": "1",
+        "passCompletions": "16"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tarheeb Still 61 Yd Interception Return (Justin Herbert Pass to Joshua Palmer for Two-Point Conversion)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "17",
+          "teamID": "18",
+          "scoreDetails": "9 plays, 29 yards, 3:39",
+          "scoreType": "TD",
+          "scoreTime": "1:39",
+          "team": "LAC",
+          "playerIDs": [
+            "4038941",
+            "4242433",
+            "4432571"
+          ]
+        }
+      ],
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "46",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4038941",
+      "longName": "Justin Herbert"
+    },
+    "4038946": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "62",
+        "stSnap": "13",
+        "stSnapPct": "0.59",
+        "offSnap": "0",
+        "defSnapPct": "0.77"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "14",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4038946",
+      "longName": "Troy Dye"
+    },
+    "4040655": {
+      "gameID": "20241201_LAC@ATL",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "6",
+        "recYds": "20",
+        "recAvg": "6.7"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.94",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "76",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4040655",
+      "longName": "Darnell Mooney"
+    },
+    "4042119": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.82",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4042119",
+      "longName": "Richie Grant"
+    },
+    "4048259": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.82",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "10",
+        "puntReturnAvg": "5.0",
+        "puntReturnLong": "10",
+        "puntReturnTD": "0"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4048259",
+      "longName": "Avery Williams"
+    },
+    "4239995": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4239995",
+      "longName": "A.J. Terrell"
+    },
+    "4240434": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "15",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.32"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240434",
+      "longName": "Ja'Sir Taylor"
+    },
+    "4241597": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "78",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.96"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241597",
+      "longName": "Daiyan Henley"
+    },
+    "4241802": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.28",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4241802",
+      "longName": "Jalen Reagor"
+    },
+    "4242283": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "46",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4242283",
+      "longName": "Rashawn Slater"
+    },
+    "4242433": {
+      "gameID": "20241201_LAC@ATL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "recAvg": "11.0",
+        "receivingTwoPointConversion": "1",
+        "longRec": "11",
+        "targets": "1",
+        "recYds": "11"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tarheeb Still 61 Yd Interception Return (Justin Herbert Pass to Joshua Palmer for Two-Point Conversion)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "17",
+          "teamID": "18",
+          "scoreDetails": "9 plays, 29 yards, 3:39",
+          "scoreType": "TD",
+          "scoreTime": "1:39",
+          "team": "LAC",
+          "playerIDs": [
+            "4038941",
+            "4242433",
+            "4432571"
+          ]
+        }
+      ],
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4242433",
+      "longName": "Joshua Palmer"
+    },
+    "4242553": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "81",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4242553",
+      "longName": "Drew Dalman"
+    },
+    "4242555": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4242555",
+      "longName": "Foster Sarell"
+    },
+    "4242558": {
+      "gameID": "20241201_LAC@ATL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "1",
+        "targets": "1",
+        "recYds": "1",
+        "recAvg": "1.0"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.43",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.41",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4242558",
+      "longName": "Tucker Fisk"
+    },
+    "4243181": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "17",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243181",
+      "longName": "Nate Landman"
+    },
+    "4243328": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "81",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4243328",
+      "longName": "Elijah Molden"
+    },
+    "4243457": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "18",
+        "stSnapPct": "0.82",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4243457",
+      "longName": "DeAngelo Malone"
+    },
+    "4247347": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "46",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4247347",
+      "longName": "Zion Johnson"
+    },
+    "4247807": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.35"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4247807",
+      "longName": "Troy Andersen"
+    },
+    "4250764": {
+      "gameID": "20241201_LAC@ATL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "3",
+        "targets": "2",
+        "recYds": "3",
+        "recAvg": "3.0"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.15",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.41",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4250764",
+      "longName": "Stone Smartt"
+    },
+    "4257591": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.41"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "4257591",
+      "longName": "Arnold Ebiketie"
+    },
+    "4360248": {
+      "gameID": "20241201_LAC@ATL",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "2",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.41",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "33",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4360248",
+      "longName": "Kyle Pitts"
+    },
+    "4362081": {
+      "gameID": "20241201_LAC@ATL",
+      "scoringPlays": [
+        {
+          "score": "Cameron Dicker 45 Yd Field Goal",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "3",
+          "teamID": "18",
+          "scoreDetails": "5 plays, 43 yards, 2:20",
+          "scoreType": "FG",
+          "scoreTime": "1:39",
+          "team": "LAC",
+          "playerIDs": [
+            "4362081"
+          ]
+        },
+        {
+          "score": "Cameron Dicker 51 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "6",
+          "teamID": "18",
+          "scoreDetails": "7 plays, 33 yards, 3:44",
+          "scoreType": "FG",
+          "scoreTime": "11:08",
+          "team": "LAC",
+          "playerIDs": [
+            "4362081"
+          ]
+        },
+        {
+          "score": "Cameron Dicker 34 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "9",
+          "teamID": "18",
+          "scoreDetails": "16 plays, 63 yards, 7:55",
+          "scoreType": "FG",
+          "scoreTime": "0:58",
+          "team": "LAC",
+          "playerIDs": [
+            "4362081"
+          ]
+        }
+      ],
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.36",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "51",
+        "fgMade": "3",
+        "fgAttempts": "3",
+        "xpMade": "0",
+        "fgPct": "100.0",
+        "kickingPts": "9",
+        "xpAttempts": "0",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4362081",
+      "longName": "Cameron Dicker"
+    },
+    "4362477": {
+      "gameID": "20241201_LAC@ATL",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "3",
+        "carries": "1",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "3",
+        "targets": "1",
+        "recYds": "3",
+        "recAvg": "3.0"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.26",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4362477",
+      "longName": "Derius Davis"
+    },
+    "4367210": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.43"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4367210",
+      "longName": "Otito Ogbonnia"
+    },
+    "4372071": {
+      "gameID": "20241201_LAC@ATL",
+      "Rushing": {
+        "rushAvg": "0.0",
+        "rushYds": "0",
+        "carries": "1",
+        "longRush": "0",
+        "rushTD": "0"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.15",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.59",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4372071",
+      "longName": "Hassan Haskins"
+    },
+    "4373626": {
+      "gameID": "20241201_LAC@ATL",
+      "Rushing": {
+        "rushAvg": "2.0",
+        "rushYds": "16",
+        "carries": "8",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "1",
+        "recYds": "6",
+        "recAvg": "6.0"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.68",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4373626",
+      "longName": "Tyler Allgeier"
+    },
+    "4373684": {
+      "gameID": "20241201_LAC@ATL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "2",
+        "targets": "1",
+        "recYds": "2",
+        "recAvg": "2.0"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.33",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.36",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4373684",
+      "longName": "Scott Matlock"
+    },
+    "4374269": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4374269",
+      "longName": "Teair Tart"
+    },
+    "4379412": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4379412",
+      "longName": "Jamaree Salyer"
+    },
+    "4401823": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.63"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4401823",
+      "longName": "Dee Alford"
+    },
+    "4411189": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.96",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4411189",
+      "longName": "Trey Pipkins III"
+    },
+    "4426412": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "7",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.24"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426412",
+      "longName": "Zach Harrison"
+    },
+    "4426502": {
+      "gameID": "20241201_LAC@ATL",
+      "Rushing": {
+        "rushAvg": "-3.0",
+        "rushYds": "-3",
+        "carries": "1",
+        "longRush": "-3",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "9",
+        "recTD": "0",
+        "longRec": "17",
+        "targets": "16",
+        "recYds": "86",
+        "recAvg": "9.6"
+      },
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.99",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "80",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4426502",
+      "longName": "Drake London"
+    },
+    "4427090": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.22"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4427090",
+      "longName": "Brandon Dorlus"
+    },
+    "4428796": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4428796",
+      "longName": "Casey Washington"
+    },
+    "4429025": {
+      "gameID": "20241201_LAC@ATL",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "4",
+        "recYds": "12",
+        "recAvg": "6.0"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.67",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "31",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4429025",
+      "longName": "Quentin Johnston"
+    },
+    "4429067": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "Defense": {
+        "totalTackles": "4",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4429067",
+      "longName": "Clark Phillips III"
+    },
+    "4430807": {
+      "gameID": "20241201_LAC@ATL",
+      "Rushing": {
+        "rushAvg": "3.9",
+        "rushYds": "102",
+        "carries": "26",
+        "longRush": "15",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "6",
+        "recYds": "33",
+        "recAvg": "5.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Bijan Robinson 2 Yd Rush (Younghoe Koo Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "2",
+          "scoreDetails": "5 plays, 29 yards, 3:01",
+          "scoreType": "TD",
+          "scoreTime": "3:59",
+          "team": "ATL",
+          "playerIDs": [
+            "4430807",
+            "3049899"
+          ]
+        }
+      ],
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.75",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4430807",
+      "longName": "Bijan Robinson"
+    },
+    "4430968": {
+      "gameID": "20241201_LAC@ATL",
+      "Rushing": {
+        "rushAvg": "5.0",
+        "rushYds": "20",
+        "carries": "4",
+        "longRush": "16",
+        "rushTD": "0"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.26",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4430968",
+      "longName": "Kimani Vidal"
+    },
+    "4431442": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "19",
+        "stSnapPct": "0.86",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4431442",
+      "longName": "Tuli Tuipulotu"
+    },
+    "4432571": {
+      "gameID": "20241201_LAC@ATL",
+      "scoringPlays": [
+        {
+          "score": "Tarheeb Still 61 Yd Interception Return (Justin Herbert Pass to Joshua Palmer for Two-Point Conversion)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "17",
+          "teamID": "18",
+          "scoreDetails": "9 plays, 29 yards, 3:39",
+          "scoreType": "TD",
+          "scoreTime": "1:39",
+          "team": "LAC",
+          "playerIDs": [
+            "4038941",
+            "4242433",
+            "4432571"
+          ]
+        }
+      ],
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "72",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.89"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "2",
+        "defensiveInterceptionsYards": "66",
+        "interceptionTDs": "1",
+        "sacks": "0",
+        "passDeflections": "3"
+      },
+      "playerID": "4432571",
+      "longName": "Tarheeb Still"
+    },
+    "4567138": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4567138",
+      "longName": "Justin Eboigbe"
+    },
+    "4568510": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "81",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4568510",
+      "longName": "Matthew Bergeron"
+    },
+    "4612826": {
+      "gameID": "20241201_LAC@ATL",
+      "Receiving": {
+        "receptions": "9",
+        "recTD": "0",
+        "longRec": "48",
+        "targets": "12",
+        "recYds": "117",
+        "recAvg": "13.0"
+      },
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4612826",
+      "longName": "Ladd McConkey"
+    },
+    "4682831": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4682831",
+      "longName": "Kyle Hinton"
+    },
+    "4683487": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "46",
+        "defSnapPct": "0.00"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "playerID": "4683487",
+      "longName": "Joe Alt"
+    },
+    "4689989": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "2",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.59",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "ATL",
+      "teamAbv": "ATL",
+      "playerID": "4689989",
+      "longName": "Natrone Brooks"
+    },
+    "4690171": {
+      "gameID": "20241201_LAC@ATL",
+      "teamID": "18",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "14",
+        "stSnap": "16",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.17"
+      },
+      "team": "LAC",
+      "teamAbv": "LAC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4690171",
+      "longName": "Deane Leonard"
+    }
+  },
+  "arenaCapacity": "75,000",
+  "arena": "Mercedes-Benz Stadium",
+  "homePts": "13",
+  "awayResult": "W",
+  "teamIDAway": "18",
+  "Referees": "Clete Blakeman, James Coleman, Dana McKenzie, Julian Mapp, Jonah Monroe, Scott Campbell, Karina Tovar",
+  "gameClock": "",
+  "awayPts": "17",
+  "gameID": "20241201_LAC@ATL",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

@@ -1,0 +1,2662 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "DET",
+      "teamID": "11",
+      "defTD": "1",
+      "defensiveInterceptions": "1",
+      "sacks": "0",
+      "ydsAllowed": "411",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "14",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "GB",
+      "teamID": "12",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "1",
+      "ydsAllowed": "261",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "18",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "261",
+      "rushingAttempts": "32",
+      "rushingYards": "124",
+      "fumblesLost": "0",
+      "penalties": "5-51",
+      "totalPlays": "55",
+      "possession": "31:11",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "18-22",
+      "passingFirstDowns": "8",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "1-8",
+      "thirdDownEfficiency": "4-12",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.7",
+      "redZoneScoredAndAttempted": "2-4",
+      "teamID": "11",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "1",
+      "totalDrives": "8",
+      "rushingFirstDowns": "8",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "17",
+      "passTD": "1",
+      "team": "DET",
+      "blockedXP": "0",
+      "teamAbv": "DET",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "2-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "137",
+      "yardsPerRush": "3.9",
+      "snapCounts": {
+        "totalSpecialTeams": "22",
+        "totalOffensive": "57",
+        "totalDefensive": "65"
+      },
+      "turnovers": "0",
+      "yardsPerPass": "6.0"
+    },
+    "home": {
+      "totalYards": "411",
+      "rushingAttempts": "23",
+      "rushingYards": "138",
+      "fumblesLost": "0",
+      "penalties": "10-67",
+      "totalPlays": "62",
+      "possession": "28:49",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "23-39",
+      "passingFirstDowns": "10",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "0-0",
+      "thirdDownEfficiency": "3-12",
+      "blockedPunt": "0",
+      "yardsPerPlay": "6.6",
+      "redZoneScoredAndAttempted": "1-4",
+      "teamID": "12",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "9",
+      "rushingFirstDowns": "7",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "1",
+      "firstDowns": "20",
+      "passTD": "0",
+      "team": "GB",
+      "blockedXP": "0",
+      "teamAbv": "GB",
+      "firstDownsFromPenalties": "3",
+      "fourthDownEfficiency": "2-3",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "273",
+      "yardsPerRush": "6.0",
+      "snapCounts": {
+        "totalSpecialTeams": "22",
+        "totalOffensive": "65",
+        "totalDefensive": "57"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "7.0"
+    }
+  },
+  "gameDate": "20241103",
+  "scoringPlays": [
+    {
+      "score": "Brandon McManus 30 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "0",
+      "teamID": "12",
+      "scoreDetails": "14 plays, 63 yards, 7:54",
+      "scoreType": "FG",
+      "scoreTime": "7:06",
+      "team": "GB",
+      "playerIDs": [
+        "16339"
+      ]
+    },
+    {
+      "score": "Amon-Ra St. Brown 3 Yd pass from Jared Goff (Jake Bates Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "7",
+      "teamID": "11",
+      "scoreDetails": "13 plays, 70 yards, 7:10",
+      "scoreType": "TD",
+      "scoreTime": "14:56",
+      "team": "DET",
+      "playerIDs": [
+        "3046779",
+        "4374302",
+        "4689936"
+      ]
+    },
+    {
+      "score": "Jake Bates 27 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "10",
+      "teamID": "11",
+      "scoreDetails": "10 plays, 55 yards, 4:25",
+      "scoreType": "FG",
+      "scoreTime": "0:58",
+      "team": "DET",
+      "playerIDs": [
+        "4689936"
+      ]
+    },
+    {
+      "score": "Kerby Joseph 27 Yd Interception Return (Jake Bates Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "17",
+      "teamID": "11",
+      "scoreDetails": "2 plays, 8 yards, 0:26",
+      "scoreType": "TD",
+      "scoreTime": "0:32",
+      "team": "DET",
+      "playerIDs": [
+        "4360383",
+        "4689936"
+      ]
+    },
+    {
+      "score": "Jahmyr Gibbs 15 Yd Run (Jake Bates Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "3",
+      "awayScore": "24",
+      "teamID": "11",
+      "scoreDetails": "9 plays, 71 yards, 5:28",
+      "scoreType": "TD",
+      "scoreTime": "9:32",
+      "team": "DET",
+      "playerIDs": [
+        "4429795",
+        "4689936"
+      ]
+    },
+    {
+      "score": "Brandon McManus 38 Yd Field Goal  ",
+      "scorePeriod": "Q3",
+      "homeScore": "6",
+      "awayScore": "24",
+      "teamID": "12",
+      "scoreDetails": "10 plays, 55 yards, 5:09",
+      "scoreType": "FG",
+      "scoreTime": "0:48",
+      "team": "GB",
+      "playerIDs": [
+        "16339"
+      ]
+    },
+    {
+      "score": "Emanuel Wilson 2 Yd Run (Jordan Love Pass to Christian Watson for Two-Point Conversion)",
+      "scorePeriod": "Q4",
+      "homeScore": "14",
+      "awayScore": "24",
+      "teamID": "12",
+      "scoreDetails": "9 plays, 55 yards, 2:33",
+      "scoreType": "TD",
+      "scoreTime": "3:49",
+      "team": "GB",
+      "playerIDs": [
+        "4036378",
+        "4887558",
+        "4248528"
+      ]
+    }
+  ],
+  "network": "FOX",
+  "teamIDHome": "12",
+  "homeResult": "L",
+  "away": "DET",
+  "gameWeek": "Week 9",
+  "attendance": "78,330",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "0",
+      "Q2": "17",
+      "Q3": "7",
+      "Q4": "0",
+      "teamID": "11",
+      "currentlyInPossession": "False",
+      "totalPts": "24",
+      "teamAbv": "DET"
+    },
+    "home": {
+      "Q1": "3",
+      "Q2": "0",
+      "Q3": "3",
+      "Q4": "8",
+      "teamID": "12",
+      "currentlyInPossession": "False",
+      "totalPts": "14",
+      "teamAbv": "GB"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Green Bay, WI",
+  "home": "GB",
+  "playerStats": {
+    "14931": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "14931",
+      "longName": "Kevin Zeitler"
+    },
+    "16339": {
+      "gameID": "20241103_DET@GB",
+      "scoringPlays": [
+        {
+          "score": "Brandon McManus 30 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "0",
+          "teamID": "12",
+          "scoreDetails": "14 plays, 63 yards, 7:54",
+          "scoreType": "FG",
+          "scoreTime": "7:06",
+          "team": "GB",
+          "playerIDs": [
+            "16339"
+          ]
+        },
+        {
+          "score": "Brandon McManus 38 Yd Field Goal  ",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "24",
+          "teamID": "12",
+          "scoreDetails": "10 plays, 55 yards, 5:09",
+          "scoreType": "FG",
+          "scoreTime": "0:48",
+          "team": "GB",
+          "playerIDs": [
+            "16339"
+          ]
+        }
+      ],
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "38",
+        "fgMade": "2",
+        "fgAttempts": "3",
+        "xpMade": "0",
+        "fgPct": "67.0",
+        "kickingPts": "6",
+        "xpAttempts": "0",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "16339",
+      "longName": "Brandon McManus"
+    },
+    "16799": {
+      "gameID": "20241103_DET@GB",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "2",
+        "targets": "1",
+        "recYds": "2",
+        "recAvg": "2.0"
+      },
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "16799",
+      "longName": "Allen Robinson"
+    },
+    "2576245": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "2576245",
+      "longName": "Graham Glasgow"
+    },
+    "2577446": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2577446",
+      "longName": "Preston Smith"
+    },
+    "2973405": {
+      "gameID": "20241103_DET@GB",
+      "Rushing": {
+        "rushAvg": "-12.0",
+        "rushYds": "-12",
+        "carries": "1",
+        "longRush": "-12",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "1",
+        "recYds": "12",
+        "recAvg": "12.0"
+      },
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.39",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "22",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "2973405",
+      "longName": "Kalif Raymond"
+    },
+    "2976292": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "2976292",
+      "longName": "Taylor Decker"
+    },
+    "2977670": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "0.49"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "2977670",
+      "longName": "DJ Reader"
+    },
+    "2980206": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "11",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.17"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "2980206",
+      "longName": "Pat O'Connor"
+    },
+    "3043107": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3043107",
+      "longName": "Alex Anzalone"
+    },
+    "3044729": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "23",
+        "stSnap": "16",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.35"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3044729",
+      "longName": "Jalen Reeves-Maybin"
+    },
+    "3046435": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "3046435",
+      "longName": "Dan Skipper"
+    },
+    "3046779": {
+      "gameID": "20241103_DET@GB",
+      "Rushing": {
+        "rushAvg": "-0.7",
+        "rushYds": "-2",
+        "carries": "3",
+        "longRush": "0",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "88.9",
+        "rtg": "109.3",
+        "sacked": "1-8",
+        "passAttempts": "22",
+        "passAvg": "6.6",
+        "passTD": "1",
+        "passYds": "145",
+        "int": "0",
+        "passCompletions": "18"
+      },
+      "scoringPlays": [
+        {
+          "score": "Amon-Ra St. Brown 3 Yd pass from Jared Goff (Jake Bates Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "11",
+          "scoreDetails": "13 plays, 70 yards, 7:10",
+          "scoreType": "TD",
+          "scoreTime": "14:56",
+          "team": "DET",
+          "playerIDs": [
+            "3046779",
+            "4374302",
+            "4689936"
+          ]
+        }
+      ],
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "3046779",
+      "longName": "Jared Goff"
+    },
+    "3051942": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "0.51"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "3051942",
+      "longName": "Al-Quadin Muhammad"
+    },
+    "3056916": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "15",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3056916",
+      "longName": "Eric Wilson"
+    },
+    "3115485": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "65",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "3115485",
+      "longName": "Elgton Jenkins"
+    },
+    "3122752": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.65"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "3122752",
+      "longName": "Kenny Clark"
+    },
+    "3128689": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "3128689",
+      "longName": "Frank Ragnow"
+    },
+    "3134353": {
+      "gameID": "20241103_DET@GB",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "2",
+        "recYds": "12",
+        "recAvg": "6.0"
+      },
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.77",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "3134353",
+      "longName": "Tim Patrick"
+    },
+    "3140643": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "17",
+        "stSnapPct": "0.77",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "3140643",
+      "longName": "Ben Niemann"
+    },
+    "3149687": {
+      "gameID": "20241103_DET@GB",
+      "Rushing": {
+        "rushAvg": "6.5",
+        "rushYds": "13",
+        "carries": "2",
+        "longRush": "9",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "4",
+        "recYds": "28",
+        "recAvg": "9.3"
+      },
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.26",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "17",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "3149687",
+      "longName": "Chris Brooks"
+    },
+    "3821571": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "65",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "3821571",
+      "longName": "Jordan Morgan"
+    },
+    "3916370": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.36",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "199",
+        "punts": "4",
+        "puntAvg": "49.8",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "60"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "3916370",
+      "longName": "Jack Fox"
+    },
+    "3916923": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "62",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "0",
+        "defSnapPct": "0.95"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "3916923",
+      "longName": "Carlton Davis III"
+    },
+    "3932335": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "3932335",
+      "longName": "Zayne Anderson"
+    },
+    "4027919": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.77",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "30",
+        "kickReturnAvg": "30.0",
+        "kickReturnLong": "30"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4027919",
+      "longName": "Khalil Dorsey"
+    },
+    "4035538": {
+      "gameID": "20241103_DET@GB",
+      "Rushing": {
+        "rushAvg": "4.3",
+        "rushYds": "73",
+        "carries": "17",
+        "longRush": "12",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "14",
+        "targets": "3",
+        "recYds": "23",
+        "recAvg": "7.7"
+      },
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.56",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4035538",
+      "longName": "David Montgomery"
+    },
+    "4036378": {
+      "gameID": "20241103_DET@GB",
+      "Rushing": {
+        "rushAvg": "0.0",
+        "rushYds": "0",
+        "carries": "3",
+        "longRush": "0",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "32.2",
+        "rtg": "69.7",
+        "sacked": "0-0",
+        "passAttempts": "39",
+        "passAvg": "7.0",
+        "passTD": "0",
+        "passYds": "273",
+        "int": "1",
+        "passingTwoPointConversion": "1",
+        "passCompletions": "23"
+      },
+      "scoringPlays": [
+        {
+          "score": "Emanuel Wilson 2 Yd Run (Jordan Love Pass to Christian Watson for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "14",
+          "awayScore": "24",
+          "teamID": "12",
+          "scoreDetails": "9 plays, 55 yards, 2:33",
+          "scoreType": "TD",
+          "scoreTime": "3:49",
+          "team": "GB",
+          "playerIDs": [
+            "4036378",
+            "4887558",
+            "4248528"
+          ]
+        }
+      ],
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "65",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "3",
+        "fumblesRecovered": "2"
+      },
+      "playerID": "4036378",
+      "longName": "Jordan Love"
+    },
+    "4036651": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "9",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4036651",
+      "longName": "Kindle Vildor"
+    },
+    "4039020": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.75"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039020",
+      "longName": "Levi Onwuzurike"
+    },
+    "4040842": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4040842",
+      "longName": "Kayode Awosika"
+    },
+    "4046523": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.63"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4046523",
+      "longName": "Rashan Gary"
+    },
+    "4047365": {
+      "gameID": "20241103_DET@GB",
+      "Rushing": {
+        "rushAvg": "7.3",
+        "rushYds": "95",
+        "carries": "13",
+        "longRush": "37",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "3",
+        "recYds": "13",
+        "recAvg": "6.5"
+      },
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.55",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "36",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4047365",
+      "longName": "Josh Jacobs"
+    },
+    "4051353": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4051353",
+      "longName": "Michael Niese"
+    },
+    "4239694": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.43"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4239694",
+      "longName": "Amik Robertson"
+    },
+    "4239947": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.33"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4239947",
+      "longName": "Isaiah McDuffie"
+    },
+    "4240435": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "65",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4240435",
+      "longName": "Zach Tom"
+    },
+    "4240608": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "9",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.55"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240608",
+      "longName": "James Houston"
+    },
+    "4240612": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "31",
+        "stSnap": "7",
+        "stSnapPct": "0.32",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240612",
+      "longName": "T.J. Slaton"
+    },
+    "4240615": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4240615",
+      "longName": "Kadeem Telfort"
+    },
+    "4241404": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "8",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.12"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4241404",
+      "longName": "Isaiah Thomas"
+    },
+    "4241470": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "8",
+        "stSnapPct": "0.36",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241470",
+      "longName": "Xavier McKinney"
+    },
+    "4242392": {
+      "gameID": "20241103_DET@GB",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "1",
+        "targets": "1",
+        "recYds": "1",
+        "recAvg": "1.0"
+      },
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.60",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.36",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4242392",
+      "longName": "Brock Wright"
+    },
+    "4242996": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "12",
+        "stSnapPct": "0.55",
+        "offSnap": "0",
+        "defSnapPct": "0.09"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4242996",
+      "longName": "Arron Mosby"
+    },
+    "4248528": {
+      "gameID": "20241103_DET@GB",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "recAvg": "12.3",
+        "receivingTwoPointConversion": "1",
+        "longRec": "19",
+        "targets": "7",
+        "recYds": "37"
+      },
+      "scoringPlays": [
+        {
+          "score": "Emanuel Wilson 2 Yd Run (Jordan Love Pass to Christian Watson for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "14",
+          "awayScore": "24",
+          "teamID": "12",
+          "scoreDetails": "9 plays, 55 yards, 2:33",
+          "scoreType": "TD",
+          "scoreTime": "3:49",
+          "team": "GB",
+          "playerIDs": [
+            "4036378",
+            "4887558",
+            "4248528"
+          ]
+        }
+      ],
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.57",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4248528",
+      "longName": "Christian Watson"
+    },
+    "4248789": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "84",
+        "punts": "2",
+        "puntAvg": "42.0",
+        "puntsin20": "2",
+        "puntTouchBacks": "0",
+        "puntLong": "51"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4248789",
+      "longName": "Daniel Whelan"
+    },
+    "4259305": {
+      "gameID": "20241103_DET@GB",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "19",
+        "targets": "2",
+        "recYds": "19",
+        "recAvg": "19.0"
+      },
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.17",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4259305",
+      "longName": "Bo Melton"
+    },
+    "4259493": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "10",
+        "stSnapPct": "0.45",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "53",
+        "kickReturnAvg": "26.5",
+        "kickReturnLong": "29"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4259493",
+      "longName": "Keisean Nixon"
+    },
+    "4259561": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.65"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4259561",
+      "longName": "Eric Stokes"
+    },
+    "4360383": {
+      "gameID": "20241103_DET@GB",
+      "scoringPlays": [
+        {
+          "score": "Kerby Joseph 27 Yd Interception Return (Jake Bates Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "17",
+          "teamID": "11",
+          "scoreDetails": "2 plays, 8 yards, 0:26",
+          "scoreType": "TD",
+          "scoreTime": "0:32",
+          "team": "DET",
+          "playerIDs": [
+            "4360383",
+            "4689936"
+          ]
+        }
+      ],
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "27",
+        "interceptionTDs": "1",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4360383",
+      "longName": "Kerby Joseph"
+    },
+    "4361429": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "65",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4361429",
+      "longName": "Rasheed Walker"
+    },
+    "4361432": {
+      "gameID": "20241103_DET@GB",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "5",
+        "recYds": "28",
+        "recAvg": "7.0"
+      },
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.83",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4361432",
+      "longName": "Romeo Doubs"
+    },
+    "4361662": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.83"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361662",
+      "longName": "Alim McNeill"
+    },
+    "4361791": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361791",
+      "longName": "Devonte Wyatt"
+    },
+    "4362249": {
+      "gameID": "20241103_DET@GB",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "41",
+        "targets": "6",
+        "recYds": "113",
+        "recAvg": "22.6"
+      },
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.68",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "7",
+        "puntReturnAvg": "3.5",
+        "puntReturnLong": "7",
+        "puntReturnTD": "0"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4362249",
+      "longName": "Jayden Reed"
+    },
+    "4362840": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "10",
+        "stSnapPct": "0.45",
+        "offSnap": "0",
+        "defSnapPct": "0.39"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362840",
+      "longName": "Kingsley Enagbare"
+    },
+    "4367835": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.15"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4367835",
+      "longName": "Chris Smith"
+    },
+    "4373030": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.18",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4373030",
+      "longName": "Ben Sims"
+    },
+    "4373423": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "8",
+        "stSnapPct": "0.36",
+        "offSnap": "0",
+        "defSnapPct": "0.26"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4373423",
+      "longName": "Karl Brooks"
+    },
+    "4373825": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4373825",
+      "longName": "Penei Sewell"
+    },
+    "4374037": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4374037",
+      "longName": "Kitan Oladapo"
+    },
+    "4374302": {
+      "gameID": "20241103_DET@GB",
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "1",
+        "longRec": "26",
+        "targets": "7",
+        "recYds": "56",
+        "recAvg": "8.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Amon-Ra St. Brown 3 Yd pass from Jared Goff (Jake Bates Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "11",
+          "scoreDetails": "13 plays, 70 yards, 7:10",
+          "scoreType": "TD",
+          "scoreTime": "14:56",
+          "team": "DET",
+          "playerIDs": [
+            "3046779",
+            "4374302",
+            "4689936"
+          ]
+        }
+      ],
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.93",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4374302",
+      "longName": "Amon-Ra St. Brown"
+    },
+    "4379401": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.02",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4379401",
+      "longName": "John FitzPatrick"
+    },
+    "4379416": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "12",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4379416",
+      "longName": "Quay Walker"
+    },
+    "4411769": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4411769",
+      "longName": "Corey Ballentine"
+    },
+    "4421446": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.41",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4421446",
+      "longName": "Craig Reynolds"
+    },
+    "4422336": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4422336",
+      "longName": "Matt Orzech"
+    },
+    "4426411": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "65",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4426411",
+      "longName": "Sean Rhyan"
+    },
+    "4427356": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4427356",
+      "longName": "Kamal Hadden"
+    },
+    "4428037": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4428037",
+      "longName": "Jacob Monk"
+    },
+    "4428850": {
+      "gameID": "20241103_DET@GB",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "3",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.54",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4428850",
+      "longName": "Dontayvion Wicks"
+    },
+    "4429795": {
+      "gameID": "20241103_DET@GB",
+      "Rushing": {
+        "rushAvg": "5.9",
+        "rushYds": "65",
+        "carries": "11",
+        "longRush": "18",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "2",
+        "recYds": "11",
+        "recAvg": "11.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jahmyr Gibbs 15 Yd Run (Jake Bates Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "3",
+          "awayScore": "24",
+          "teamID": "11",
+          "scoreDetails": "9 plays, 71 yards, 5:28",
+          "scoreType": "TD",
+          "scoreTime": "9:32",
+          "team": "DET",
+          "playerIDs": [
+            "4429795",
+            "4689936"
+          ]
+        }
+      ],
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.39",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "22",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4429795",
+      "longName": "Jahmyr Gibbs"
+    },
+    "4430027": {
+      "gameID": "20241103_DET@GB",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "19",
+        "targets": "3",
+        "recYds": "28",
+        "recAvg": "14.0"
+      },
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.84",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.05",
+        "offSnap": "48",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4430027",
+      "longName": "Sam LaPorta"
+    },
+    "4430438": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.67"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430438",
+      "longName": "Edgerrin Cooper"
+    },
+    "4430965": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "0",
+        "defSnapPct": "0.61"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430965",
+      "longName": "Carrington Valentine"
+    },
+    "4566092": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "8",
+        "stSnap": "6",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.12"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4566092",
+      "longName": "Ennis Rakestraw Jr."
+    },
+    "4567224": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "4",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "0.19"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4567224",
+      "longName": "Colby Wooden"
+    },
+    "4567406": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.59",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4567406",
+      "longName": "Ty'Ron Hopper"
+    },
+    "4569371": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.14",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "36",
+        "kickReturnAvg": "36.0",
+        "kickReturnLong": "36"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4569371",
+      "longName": "Isaiah Williams"
+    },
+    "4569465": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "11",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.92"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "13",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4569465",
+      "longName": "Jack Campbell"
+    },
+    "4569604": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.63"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4569604",
+      "longName": "Brandon Joseph"
+    },
+    "4571755": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.36",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4571755",
+      "longName": "Hogan Hatten"
+    },
+    "4572680": {
+      "gameID": "20241103_DET@GB",
+      "Rushing": {
+        "rushAvg": "2.0",
+        "rushYds": "2",
+        "carries": "1",
+        "longRush": "2",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "6",
+        "recYds": "34",
+        "recAvg": "8.5"
+      },
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.23",
+        "offSnap": "65",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "playerID": "4572680",
+      "longName": "Tucker Kraft"
+    },
+    "4592837": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "2",
+        "stSnapPct": "0.09",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4592837",
+      "longName": "Terrion Arnold"
+    },
+    "4608362": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.16",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.59",
+        "offSnap": "9",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4608362",
+      "longName": "Shane Zylstra"
+    },
+    "4686533": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4686533",
+      "longName": "Abraham Beauplan"
+    },
+    "4686906": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "16",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.42"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4686906",
+      "longName": "Lukas Van Ness"
+    },
+    "4688930": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "12",
+        "stSnapPct": "0.55",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4688930",
+      "longName": "Javon Bullard"
+    },
+    "4689936": {
+      "gameID": "20241103_DET@GB",
+      "scoringPlays": [
+        {
+          "score": "Amon-Ra St. Brown 3 Yd pass from Jared Goff (Jake Bates Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "7",
+          "teamID": "11",
+          "scoreDetails": "13 plays, 70 yards, 7:10",
+          "scoreType": "TD",
+          "scoreTime": "14:56",
+          "team": "DET",
+          "playerIDs": [
+            "3046779",
+            "4374302",
+            "4689936"
+          ]
+        },
+        {
+          "score": "Jake Bates 27 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "10",
+          "teamID": "11",
+          "scoreDetails": "10 plays, 55 yards, 4:25",
+          "scoreType": "FG",
+          "scoreTime": "0:58",
+          "team": "DET",
+          "playerIDs": [
+            "4689936"
+          ]
+        },
+        {
+          "score": "Kerby Joseph 27 Yd Interception Return (Jake Bates Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "17",
+          "teamID": "11",
+          "scoreDetails": "2 plays, 8 yards, 0:26",
+          "scoreType": "TD",
+          "scoreTime": "0:32",
+          "team": "DET",
+          "playerIDs": [
+            "4360383",
+            "4689936"
+          ]
+        },
+        {
+          "score": "Jahmyr Gibbs 15 Yd Run (Jake Bates Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "3",
+          "awayScore": "24",
+          "teamID": "11",
+          "scoreDetails": "9 plays, 71 yards, 5:28",
+          "scoreType": "TD",
+          "scoreTime": "9:32",
+          "team": "DET",
+          "playerIDs": [
+            "4429795",
+            "4689936"
+          ]
+        }
+      ],
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "27",
+        "fgMade": "1",
+        "fgAttempts": "1",
+        "xpMade": "3",
+        "fgPct": "100.0",
+        "kickingPts": "6",
+        "xpAttempts": "3",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4689936",
+      "longName": "Jake Bates"
+    },
+    "4692025": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4692025",
+      "longName": "Brian Branch"
+    },
+    "4887558": {
+      "gameID": "20241103_DET@GB",
+      "Rushing": {
+        "rushAvg": "7.0",
+        "rushYds": "28",
+        "carries": "4",
+        "longRush": "19",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "1",
+        "targets": "1",
+        "recYds": "1",
+        "recAvg": "1.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Emanuel Wilson 2 Yd Run (Jordan Love Pass to Christian Watson for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "14",
+          "awayScore": "24",
+          "teamID": "12",
+          "scoreDetails": "9 plays, 55 yards, 2:33",
+          "scoreType": "TD",
+          "scoreTime": "3:49",
+          "team": "GB",
+          "playerIDs": [
+            "4036378",
+            "4887558",
+            "4248528"
+          ]
+        }
+      ],
+      "teamID": "12",
+      "snapCounts": {
+        "offSnapPct": "0.20",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "GB",
+      "teamAbv": "GB",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4887558",
+      "longName": "Emanuel Wilson"
+    },
+    "4917439": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "playerID": "4917439",
+      "longName": "Loren Strickland"
+    },
+    "5144894": {
+      "gameID": "20241103_DET@GB",
+      "teamID": "11",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "16",
+        "stSnapPct": "0.73",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "DET",
+      "teamAbv": "DET",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "5144894",
+      "longName": "Trevor Nowaske"
+    }
+  },
+  "arenaCapacity": "81,041",
+  "arena": "Lambeau Field",
+  "homePts": "14",
+  "awayResult": "W",
+  "teamIDAway": "11",
+  "Referees": "Clete Blakeman, James Coleman, Dana McKenzie, Julian Mapp, Jonah Monroe, Scott Campbell, Karina Tovar",
+  "gameClock": "",
+  "awayPts": "24",
+  "gameID": "20241103_DET@GB",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

@@ -1,0 +1,2843 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "HOU",
+      "teamID": "13",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "1",
+      "ydsAllowed": "375",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "27",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "KC",
+      "teamID": "16",
+      "defTD": "0",
+      "defensiveInterceptions": "2",
+      "sacks": "2",
+      "ydsAllowed": "311",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "19",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "311",
+      "rushingAttempts": "17",
+      "rushingYards": "84",
+      "fumblesLost": "0",
+      "penalties": "6-45",
+      "totalPlays": "58",
+      "possession": "26:08",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "23-39",
+      "passingFirstDowns": "14",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "2-17",
+      "thirdDownEfficiency": "7-13",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.4",
+      "redZoneScoredAndAttempted": "1-3",
+      "teamID": "13",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "9",
+      "rushingFirstDowns": "6",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "20",
+      "passTD": "2",
+      "team": "HOU",
+      "blockedXP": "0",
+      "teamAbv": "HOU",
+      "firstDownsFromPenalties": "0",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "227",
+      "yardsPerRush": "4.9",
+      "snapCounts": {
+        "totalSpecialTeams": "24",
+        "totalOffensive": "59",
+        "totalDefensive": "74"
+      },
+      "turnovers": "2",
+      "yardsPerPass": "5.5"
+    },
+    "home": {
+      "totalYards": "375",
+      "rushingAttempts": "28",
+      "rushingYards": "124",
+      "fumblesLost": "0",
+      "penalties": "2-20",
+      "totalPlays": "70",
+      "possession": "33:52",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "28-41",
+      "passingFirstDowns": "14",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "1-9",
+      "thirdDownEfficiency": "7-13",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.4",
+      "redZoneScoredAndAttempted": "3-5",
+      "teamID": "16",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "9",
+      "rushingFirstDowns": "8",
+      "blockedFG": "0",
+      "rushTD": "2",
+      "twoPointConversions": "0",
+      "firstDowns": "25",
+      "passTD": "1",
+      "team": "KC",
+      "blockedXP": "0",
+      "teamAbv": "KC",
+      "firstDownsFromPenalties": "3",
+      "fourthDownEfficiency": "1-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "251",
+      "yardsPerRush": "4.4",
+      "snapCounts": {
+        "totalSpecialTeams": "24",
+        "totalOffensive": "74",
+        "totalDefensive": "59"
+      },
+      "turnovers": "0",
+      "yardsPerPass": "6.0"
+    }
+  },
+  "gameDate": "20241221",
+  "scoringPlays": [
+    {
+      "score": "Patrick Mahomes 15 Yd Rush (Harrison Butker Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "7",
+      "awayScore": "0",
+      "teamID": "16",
+      "scoreDetails": "11 plays, 66 yards, 6:26",
+      "scoreType": "TD",
+      "scoreTime": "6:31",
+      "team": "KC",
+      "playerIDs": [
+        "3139477",
+        "3055899"
+      ]
+    },
+    {
+      "score": "Ka'imi Fairbairn 33 Yd Field Goal",
+      "scorePeriod": "Q1",
+      "homeScore": "7",
+      "awayScore": "3",
+      "teamID": "13",
+      "scoreDetails": "7 plays, 55 yards, 3:23",
+      "scoreType": "FG",
+      "scoreTime": "3:08",
+      "team": "HOU",
+      "playerIDs": [
+        "2971573"
+      ]
+    },
+    {
+      "score": "Dalton Schultz 10 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "7",
+      "awayScore": "10",
+      "teamID": "13",
+      "scoreDetails": "13 plays, 82 yards, 6:05",
+      "scoreType": "TD",
+      "scoreTime": "10:09",
+      "team": "HOU",
+      "playerIDs": [
+        "4432577",
+        "3117256",
+        "2971573"
+      ]
+    },
+    {
+      "score": "Kareem Hunt 3 Yd Rush (Harrison Butker Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "14",
+      "awayScore": "10",
+      "teamID": "16",
+      "scoreDetails": "13 plays, 82 yards, 5:31",
+      "scoreType": "TD",
+      "scoreTime": "4:38",
+      "team": "KC",
+      "playerIDs": [
+        "3059915",
+        "3055899"
+      ]
+    },
+    {
+      "score": "Harrison Butker 44 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "17",
+      "awayScore": "10",
+      "teamID": "16",
+      "scoreDetails": "5 plays, 39 yards, 0:33",
+      "scoreType": "FG",
+      "scoreTime": "0:19",
+      "team": "KC",
+      "playerIDs": [
+        "3055899"
+      ]
+    },
+    {
+      "score": "Tank Dell 30 Yd pass from C.J. Stroud (Ka'imi Fairbairn PAT Failed)",
+      "scorePeriod": "Q3",
+      "homeScore": "17",
+      "awayScore": "16",
+      "teamID": "13",
+      "scoreDetails": "4 plays, 50 yards, 1:36",
+      "scoreType": "TD",
+      "scoreTime": "11:40",
+      "team": "HOU",
+      "playerIDs": [
+        "4432577",
+        "4366031",
+        "2971573"
+      ]
+    },
+    {
+      "score": "Xavier Worthy 8 Yd pass from Patrick Mahomes (Harrison Butker Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "24",
+      "awayScore": "16",
+      "teamID": "16",
+      "scoreDetails": "10 plays, 80 yards, 5:44",
+      "scoreType": "TD",
+      "scoreTime": "2:42",
+      "team": "KC",
+      "playerIDs": [
+        "3139477",
+        "4683062",
+        "3055899"
+      ]
+    },
+    {
+      "score": "Ka'imi Fairbairn 38 Yd Field Goal",
+      "scorePeriod": "Q4",
+      "homeScore": "24",
+      "awayScore": "19",
+      "teamID": "13",
+      "scoreDetails": "14 plays, 50 yards, 5:51",
+      "scoreType": "FG",
+      "scoreTime": "11:51",
+      "team": "HOU",
+      "playerIDs": [
+        "2971573"
+      ]
+    },
+    {
+      "score": "Harrison Butker 27 Yd Field Goal",
+      "scorePeriod": "Q4",
+      "homeScore": "27",
+      "awayScore": "19",
+      "teamID": "16",
+      "scoreDetails": "14 plays, 60 yards, 6:33",
+      "scoreType": "FG",
+      "scoreTime": "5:18",
+      "team": "KC",
+      "playerIDs": [
+        "3055899"
+      ]
+    }
+  ],
+  "network": "NBC/Peacock",
+  "teamIDHome": "16",
+  "homeResult": "W",
+  "away": "HOU",
+  "gameWeek": "Week 16",
+  "attendance": "73,600",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "3",
+      "Q2": "7",
+      "Q3": "6",
+      "Q4": "3",
+      "teamID": "13",
+      "currentlyInPossession": "False",
+      "totalPts": "19",
+      "teamAbv": "HOU"
+    },
+    "home": {
+      "Q1": "7",
+      "Q2": "10",
+      "Q3": "7",
+      "Q4": "3",
+      "teamID": "16",
+      "currentlyInPossession": "False",
+      "totalPts": "27",
+      "teamAbv": "KC"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Kansas City, MO",
+  "home": "KC",
+  "playerStats": {
+    "13729": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "13729",
+      "longName": "Jon Weeks"
+    },
+    "15795": {
+      "gameID": "20241221_HOU@KC",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "15",
+        "targets": "4",
+        "recYds": "37",
+        "recAvg": "9.3"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.49",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "36",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "15795",
+      "longName": "DeAndre Hopkins"
+    },
+    "15847": {
+      "gameID": "20241221_HOU@KC",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "14",
+        "targets": "7",
+        "recYds": "30",
+        "recAvg": "6.0"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.88",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "65",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "15847",
+      "longName": "Travis Kelce"
+    },
+    "15880": {
+      "gameID": "20241221_HOU@KC",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "17",
+        "targets": "6",
+        "recYds": "19",
+        "recAvg": "6.3"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.58",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "31",
+        "kickReturnAvg": "31.0",
+        "kickReturnLong": "31"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "15880",
+      "longName": "Robert Woods"
+    },
+    "16665": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "16665",
+      "longName": "James Winchester"
+    },
+    "16717": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.35"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "16717",
+      "longName": "Jimmie Ward"
+    },
+    "17230": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "17230",
+      "longName": "Mike Pennel Jr."
+    },
+    "17447": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.49"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "17447",
+      "longName": "Denico Autry"
+    },
+    "2576917": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "2576917",
+      "longName": "Shaq Mason"
+    },
+    "2577773": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "2577773",
+      "longName": "Joe Thuney"
+    },
+    "2969921": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.55"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2969921",
+      "longName": "Mario Edwards Jr."
+    },
+    "2969944": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "2969944",
+      "longName": "Deon Bush"
+    },
+    "2970716": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "73",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2970716",
+      "longName": "Eric Murray"
+    },
+    "2971573": {
+      "gameID": "20241221_HOU@KC",
+      "scoringPlays": [
+        {
+          "score": "Ka'imi Fairbairn 33 Yd Field Goal",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "3",
+          "teamID": "13",
+          "scoreDetails": "7 plays, 55 yards, 3:23",
+          "scoreType": "FG",
+          "scoreTime": "3:08",
+          "team": "HOU",
+          "playerIDs": [
+            "2971573"
+          ]
+        },
+        {
+          "score": "Dalton Schultz 10 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "10",
+          "teamID": "13",
+          "scoreDetails": "13 plays, 82 yards, 6:05",
+          "scoreType": "TD",
+          "scoreTime": "10:09",
+          "team": "HOU",
+          "playerIDs": [
+            "4432577",
+            "3117256",
+            "2971573"
+          ]
+        },
+        {
+          "score": "Tank Dell 30 Yd pass from C.J. Stroud (Ka'imi Fairbairn PAT Failed)",
+          "scorePeriod": "Q3",
+          "homeScore": "17",
+          "awayScore": "16",
+          "teamID": "13",
+          "scoreDetails": "4 plays, 50 yards, 1:36",
+          "scoreType": "TD",
+          "scoreTime": "11:40",
+          "team": "HOU",
+          "playerIDs": [
+            "4432577",
+            "4366031",
+            "2971573"
+          ]
+        },
+        {
+          "score": "Ka'imi Fairbairn 38 Yd Field Goal",
+          "scorePeriod": "Q4",
+          "homeScore": "24",
+          "awayScore": "19",
+          "teamID": "13",
+          "scoreDetails": "14 plays, 50 yards, 5:51",
+          "scoreType": "FG",
+          "scoreTime": "11:51",
+          "team": "HOU",
+          "playerIDs": [
+            "2971573"
+          ]
+        }
+      ],
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "38",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "1",
+        "fgPct": "100.0",
+        "kickingPts": "7",
+        "xpAttempts": "2",
+        "fgMissed": "0",
+        "xpMissed": "1"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "2971573",
+      "longName": "Ka'imi Fairbairn"
+    },
+    "2976560": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2976560",
+      "longName": "Danielle Hunter"
+    },
+    "2983509": {
+      "gameID": "20241221_HOU@KC",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "2",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.27",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "16",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2983509",
+      "longName": "Dare Ogunbowale"
+    },
+    "3044859": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.75"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "4",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3044859",
+      "longName": "Chris Jones"
+    },
+    "3049698": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.11",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3049698",
+      "longName": "Anthony Firkser"
+    },
+    "3051890": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3051890",
+      "longName": "Laremy Tunsil"
+    },
+    "3055899": {
+      "gameID": "20241221_HOU@KC",
+      "scoringPlays": [
+        {
+          "score": "Patrick Mahomes 15 Yd Rush (Harrison Butker Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "16",
+          "scoreDetails": "11 plays, 66 yards, 6:26",
+          "scoreType": "TD",
+          "scoreTime": "6:31",
+          "team": "KC",
+          "playerIDs": [
+            "3139477",
+            "3055899"
+          ]
+        },
+        {
+          "score": "Kareem Hunt 3 Yd Rush (Harrison Butker Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "14",
+          "awayScore": "10",
+          "teamID": "16",
+          "scoreDetails": "13 plays, 82 yards, 5:31",
+          "scoreType": "TD",
+          "scoreTime": "4:38",
+          "team": "KC",
+          "playerIDs": [
+            "3059915",
+            "3055899"
+          ]
+        },
+        {
+          "score": "Harrison Butker 44 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "17",
+          "awayScore": "10",
+          "teamID": "16",
+          "scoreDetails": "5 plays, 39 yards, 0:33",
+          "scoreType": "FG",
+          "scoreTime": "0:19",
+          "team": "KC",
+          "playerIDs": [
+            "3055899"
+          ]
+        },
+        {
+          "score": "Xavier Worthy 8 Yd pass from Patrick Mahomes (Harrison Butker Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "24",
+          "awayScore": "16",
+          "teamID": "16",
+          "scoreDetails": "10 plays, 80 yards, 5:44",
+          "scoreType": "TD",
+          "scoreTime": "2:42",
+          "team": "KC",
+          "playerIDs": [
+            "3139477",
+            "4683062",
+            "3055899"
+          ]
+        },
+        {
+          "score": "Harrison Butker 27 Yd Field Goal",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "19",
+          "teamID": "16",
+          "scoreDetails": "14 plays, 60 yards, 6:33",
+          "scoreType": "FG",
+          "scoreTime": "5:18",
+          "team": "KC",
+          "playerIDs": [
+            "3055899"
+          ]
+        }
+      ],
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.46",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "44",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "3",
+        "fgPct": "100.0",
+        "kickingPts": "9",
+        "xpAttempts": "3",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "3055899",
+      "longName": "Harrison Butker"
+    },
+    "3059880": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "20",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.09"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3059880",
+      "longName": "Neville Hewitt"
+    },
+    "3059915": {
+      "gameID": "20241221_HOU@KC",
+      "Rushing": {
+        "rushAvg": "5.0",
+        "rushYds": "55",
+        "carries": "11",
+        "longRush": "20",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "17",
+        "targets": "3",
+        "recYds": "24",
+        "recAvg": "12.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Kareem Hunt 3 Yd Rush (Harrison Butker Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "14",
+          "awayScore": "10",
+          "teamID": "16",
+          "scoreDetails": "13 plays, 82 yards, 5:31",
+          "scoreType": "TD",
+          "scoreTime": "4:38",
+          "team": "KC",
+          "playerIDs": [
+            "3059915",
+            "3055899"
+          ]
+        }
+      ],
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.43",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "3059915",
+      "longName": "Kareem Hunt"
+    },
+    "3115336": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.26"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3115336",
+      "longName": "Derek Barnett"
+    },
+    "3116385": {
+      "gameID": "20241221_HOU@KC",
+      "Rushing": {
+        "rushAvg": "4.1",
+        "rushYds": "57",
+        "carries": "14",
+        "longRush": "22",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "14",
+        "targets": "2",
+        "recYds": "14",
+        "recAvg": "14.0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.66",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "39",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3116385",
+      "longName": "Joe Mixon"
+    },
+    "3116389": {
+      "gameID": "20241221_HOU@KC",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "36",
+        "targets": "3",
+        "recYds": "50",
+        "recAvg": "16.7"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.46",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "3116389",
+      "longName": "Samaje Perine"
+    },
+    "3116679": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "20",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3116679",
+      "longName": "M.J. Stewart"
+    },
+    "3117256": {
+      "gameID": "20241221_HOU@KC",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "1",
+        "longRec": "24",
+        "targets": "8",
+        "recYds": "45",
+        "recAvg": "9.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Dalton Schultz 10 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "10",
+          "teamID": "13",
+          "scoreDetails": "13 plays, 82 yards, 6:05",
+          "scoreType": "TD",
+          "scoreTime": "10:09",
+          "team": "HOU",
+          "playerIDs": [
+            "4432577",
+            "3117256",
+            "2971573"
+          ]
+        }
+      ],
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.81",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "48",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3117256",
+      "longName": "Dalton Schultz"
+    },
+    "3118892": {
+      "gameID": "20241221_HOU@KC",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.53",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "39",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "3118892",
+      "longName": "Justin Watson"
+    },
+    "3120348": {
+      "gameID": "20241221_HOU@KC",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.36",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "3120348",
+      "longName": "JuJu Smith-Schuster"
+    },
+    "3122930": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.19"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "3122930",
+      "longName": "Derrick Nnadi"
+    },
+    "3125107": {
+      "gameID": "20241221_HOU@KC",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.20",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3125107",
+      "longName": "Andrew Beck"
+    },
+    "3129310": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.85"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3129310",
+      "longName": "Drue Tranquill"
+    },
+    "3131498": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3131498",
+      "longName": "Tytus Howard"
+    },
+    "3139477": {
+      "gameID": "20241221_HOU@KC",
+      "Rushing": {
+        "rushAvg": "6.6",
+        "rushYds": "33",
+        "carries": "5",
+        "longRush": "15",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "85.3",
+        "rtg": "93.5",
+        "sacked": "1-9",
+        "passAttempts": "41",
+        "passAvg": "6.3",
+        "passTD": "1",
+        "passYds": "260",
+        "int": "0",
+        "passCompletions": "28"
+      },
+      "scoringPlays": [
+        {
+          "score": "Patrick Mahomes 15 Yd Rush (Harrison Butker Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "16",
+          "scoreDetails": "11 plays, 66 yards, 6:26",
+          "scoreType": "TD",
+          "scoreTime": "6:31",
+          "team": "KC",
+          "playerIDs": [
+            "3139477",
+            "3055899"
+          ]
+        },
+        {
+          "score": "Xavier Worthy 8 Yd pass from Patrick Mahomes (Harrison Butker Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "24",
+          "awayScore": "16",
+          "teamID": "16",
+          "scoreDetails": "10 plays, 80 yards, 5:44",
+          "scoreType": "TD",
+          "scoreTime": "2:42",
+          "team": "KC",
+          "playerIDs": [
+            "3139477",
+            "4683062",
+            "3055899"
+          ]
+        }
+      ],
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "3139477",
+      "longName": "Patrick Mahomes"
+    },
+    "3915398": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "105",
+        "punts": "2",
+        "puntAvg": "52.5",
+        "puntsin20": "0",
+        "puntTouchBacks": "1",
+        "puntLong": "57"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3915398",
+      "longName": "Tommy Townsend"
+    },
+    "3915487": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.61"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915487",
+      "longName": "Mike Danna"
+    },
+    "3929845": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3929845",
+      "longName": "Kris Boyd"
+    },
+    "3929865": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.61"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3929865",
+      "longName": "Charles Omenihu"
+    },
+    "3929956": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.61"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3929956",
+      "longName": "Tim Settle Jr."
+    },
+    "3931399": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "3931399",
+      "longName": "Justin Reid"
+    },
+    "4033812": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4033812",
+      "longName": "Jake Hansen"
+    },
+    "4034961": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.73",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4034961",
+      "longName": "Jawaan Taylor"
+    },
+    "4036834": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4036834",
+      "longName": "Zach Thomas"
+    },
+    "4039010": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.07"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039010",
+      "longName": "Myles Bryant"
+    },
+    "4040980": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.31",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4040980",
+      "longName": "Irv Smith Jr."
+    },
+    "4043039": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4043039",
+      "longName": "Mike Caliendo"
+    },
+    "4043625": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4043625",
+      "longName": "Nazeeh Johnson"
+    },
+    "4058925": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4058925",
+      "longName": "Tershawn Wharton"
+    },
+    "4240472": {
+      "gameID": "20241221_HOU@KC",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "1",
+        "recYds": "10",
+        "recAvg": "10.0"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.49",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.54",
+        "offSnap": "36",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240472",
+      "longName": "Noah Gray"
+    },
+    "4240528": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240528",
+      "longName": "Del'Shawn Phillips"
+    },
+    "4240548": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.93",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4240548",
+      "longName": "Kendrick Green"
+    },
+    "4241372": {
+      "gameID": "20241221_HOU@KC",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "20",
+        "targets": "8",
+        "recYds": "45",
+        "recAvg": "9.0"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.27",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4241372",
+      "longName": "Hollywood Brown"
+    },
+    "4241385": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4241385",
+      "longName": "Creed Humphrey"
+    },
+    "4241984": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.51"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241984",
+      "longName": "Jeff Okudah"
+    },
+    "4242459": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "74",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4242459",
+      "longName": "Trey Smith"
+    },
+    "4243332": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "10",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.17"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243332",
+      "longName": "Keith Taylor Jr."
+    },
+    "4247726": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.64"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4247726",
+      "longName": "Bryan Cook"
+    },
+    "4249766": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4249766",
+      "longName": "Jack Cochrane"
+    },
+    "4258173": {
+      "gameID": "20241221_HOU@KC",
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "0",
+        "longRec": "30",
+        "targets": "10",
+        "recYds": "60",
+        "recAvg": "8.6"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.85",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "50",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4258173",
+      "longName": "Nico Collins"
+    },
+    "4258594": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "23",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4258594",
+      "longName": "Kurt Hinish"
+    },
+    "4360238": {
+      "gameID": "20241221_HOU@KC",
+      "Rushing": {
+        "rushAvg": "4.0",
+        "rushYds": "4",
+        "carries": "1",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.07",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4360238",
+      "longName": "Dameon Pierce"
+    },
+    "4361366": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "28",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.38"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361366",
+      "longName": "Tommy Togiai"
+    },
+    "4361496": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "90",
+        "punts": "2",
+        "puntAvg": "45.0",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "49"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4361496",
+      "longName": "Matt Araiza"
+    },
+    "4361529": {
+      "gameID": "20241221_HOU@KC",
+      "Rushing": {
+        "rushAvg": "2.9",
+        "rushYds": "26",
+        "carries": "9",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "-1",
+        "targets": "2",
+        "recYds": "-1",
+        "recAvg": "-1.0"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.35",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4361529",
+      "longName": "Isiah Pacheco"
+    },
+    "4362759": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362759",
+      "longName": "Nick Bolton"
+    },
+    "4366031": {
+      "gameID": "20241221_HOU@KC",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "1",
+        "longRec": "30",
+        "targets": "7",
+        "recYds": "98",
+        "recAvg": "16.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Tank Dell 30 Yd pass from C.J. Stroud (Ka'imi Fairbairn PAT Failed)",
+          "scorePeriod": "Q3",
+          "homeScore": "17",
+          "awayScore": "16",
+          "teamID": "13",
+          "scoreDetails": "4 plays, 50 yards, 1:36",
+          "scoreType": "TD",
+          "scoreTime": "11:40",
+          "team": "HOU",
+          "playerIDs": [
+            "4432577",
+            "4366031",
+            "2971573"
+          ]
+        }
+      ],
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.51",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "12",
+        "puntReturnAvg": "12.0",
+        "puntReturnLong": "12",
+        "puntReturnTD": "0"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4366031",
+      "longName": "Tank Dell"
+    },
+    "4367645": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4367645",
+      "longName": "Hunter Nourzad"
+    },
+    "4371959": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4371959",
+      "longName": "Cam Jones"
+    },
+    "4372716": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "5",
+        "kickReturnTD": "0",
+        "kickReturnYds": "129",
+        "kickReturnAvg": "25.8",
+        "kickReturnLong": "36"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "9",
+        "puntReturnAvg": "9.0",
+        "puntReturnLong": "9",
+        "puntReturnTD": "0"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4372716",
+      "longName": "Nikko Remigio"
+    },
+    "4372774": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4372774",
+      "longName": "Jarrett Patterson"
+    },
+    "4374066": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.07"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4374066",
+      "longName": "Dylan Horton"
+    },
+    "4426327": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4426327",
+      "longName": "Kenyon Green"
+    },
+    "4426350": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "72",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426350",
+      "longName": "Henry To'oTo'o"
+    },
+    "4426405": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "59",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4426405",
+      "longName": "Trent McDuffie"
+    },
+    "4426434": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "74",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4426434",
+      "longName": "Derek Stingley Jr."
+    },
+    "4426659": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "51",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.86"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "4",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4426659",
+      "longName": "George Karlaftis"
+    },
+    "4426901": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "19",
+        "stSnapPct": "0.79",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426901",
+      "longName": "Leo Chenal"
+    },
+    "4427479": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4427479",
+      "longName": "Jamal Hill"
+    },
+    "4428383": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "14",
+        "stSnapPct": "0.58",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428383",
+      "longName": "Christian Roland-Wallace"
+    },
+    "4430681": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4430681",
+      "longName": "Jared Wayne"
+    },
+    "4431517": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "74",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4431517",
+      "longName": "Calen Bullock"
+    },
+    "4431595": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4431595",
+      "longName": "Kingsley Suamataia"
+    },
+    "4432577": {
+      "gameID": "20241221_HOU@KC",
+      "Rushing": {
+        "rushAvg": "11.5",
+        "rushYds": "23",
+        "carries": "2",
+        "longRush": "12",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "65.6",
+        "rtg": "73.0",
+        "sacked": "2-17",
+        "passAttempts": "39",
+        "passAvg": "6.3",
+        "passTD": "2",
+        "passYds": "244",
+        "int": "2",
+        "passCompletions": "23"
+      },
+      "scoringPlays": [
+        {
+          "score": "Dalton Schultz 10 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "10",
+          "teamID": "13",
+          "scoreDetails": "13 plays, 82 yards, 6:05",
+          "scoreType": "TD",
+          "scoreTime": "10:09",
+          "team": "HOU",
+          "playerIDs": [
+            "4432577",
+            "3117256",
+            "2971573"
+          ]
+        },
+        {
+          "score": "Tank Dell 30 Yd pass from C.J. Stroud (Ka'imi Fairbairn PAT Failed)",
+          "scorePeriod": "Q3",
+          "homeScore": "17",
+          "awayScore": "16",
+          "teamID": "13",
+          "scoreDetails": "4 plays, 50 yards, 1:36",
+          "scoreType": "TD",
+          "scoreTime": "11:40",
+          "team": "HOU",
+          "playerIDs": [
+            "4432577",
+            "4366031",
+            "2971573"
+          ]
+        }
+      ],
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4432577",
+      "longName": "C.J. Stroud"
+    },
+    "4432699": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.97",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4432699",
+      "longName": "Blake Fisher"
+    },
+    "4567099": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "72",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4567099",
+      "longName": "Christian Harris"
+    },
+    "4570577": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.27",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4570577",
+      "longName": "Wanya Morris"
+    },
+    "4602699": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "73",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4602699",
+      "longName": "Kamari Lassiter"
+    },
+    "4612387": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.10"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4612387",
+      "longName": "Felix Anudike-Uzomah"
+    },
+    "4683062": {
+      "gameID": "20241221_HOU@KC",
+      "Rushing": {
+        "rushAvg": "3.3",
+        "rushYds": "10",
+        "carries": "3",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "1",
+        "longRec": "19",
+        "targets": "11",
+        "recYds": "65",
+        "recAvg": "9.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Xavier Worthy 8 Yd pass from Patrick Mahomes (Harrison Butker Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "24",
+          "awayScore": "16",
+          "teamID": "16",
+          "scoreDetails": "10 plays, 80 yards, 5:44",
+          "scoreType": "TD",
+          "scoreTime": "2:42",
+          "team": "KC",
+          "playerIDs": [
+            "3139477",
+            "4683062",
+            "3055899"
+          ]
+        }
+      ],
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.80",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4683062",
+      "longName": "Xavier Worthy"
+    },
+    "4685232": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "3",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4685232",
+      "longName": "Jaden Hicks"
+    },
+    "4685724": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.66"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4685724",
+      "longName": "Will Anderson Jr."
+    },
+    "4686422": {
+      "gameID": "20241221_HOU@KC",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "1",
+        "recYds": "8",
+        "recAvg": "8.0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.58",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.54",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4686422",
+      "longName": "Xavier Hutchinson"
+    },
+    "4714365": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.08",
+        "defSnap": "0",
+        "stSnap": "13",
+        "stSnapPct": "0.54",
+        "offSnap": "6",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4714365",
+      "longName": "Carson Steele"
+    },
+    "4917635": {
+      "gameID": "20241221_HOU@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "1"
+      },
+      "playerID": "4917635",
+      "longName": "Joshua Williams"
+    }
+  },
+  "arenaCapacity": "73,426",
+  "arena": "GEHA Field at Arrowhead Stadium",
+  "homePts": "27",
+  "awayResult": "L",
+  "teamIDAway": "13",
+  "Referees": "Carl Cheffers, Tim Podraza, Martin Hankins, Eugene Hall, Mike Carr, Nathan Jones, Brandon Cruse",
+  "gameClock": "",
+  "awayPts": "19",
+  "gameID": "20241221_HOU@KC",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

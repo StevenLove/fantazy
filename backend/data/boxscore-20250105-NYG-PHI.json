@@ -1,0 +1,2488 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "NYG",
+      "teamID": "24",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "2",
+      "ydsAllowed": "303",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "20",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "PHI",
+      "teamID": "27",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "0",
+      "ydsAllowed": "238",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "13",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "238",
+      "rushingAttempts": "25",
+      "rushingYards": "100",
+      "fumblesLost": "0",
+      "penalties": "6-40",
+      "totalPlays": "54",
+      "possession": "30:12",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "22-29",
+      "passingFirstDowns": "4",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "0-0",
+      "thirdDownEfficiency": "4-14",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.4",
+      "redZoneScoredAndAttempted": "0-1",
+      "teamID": "24",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "9",
+      "rushingFirstDowns": "6",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "10",
+      "passTD": "1",
+      "team": "NYG",
+      "blockedXP": "0",
+      "teamAbv": "NYG",
+      "firstDownsFromPenalties": "0",
+      "fourthDownEfficiency": "2-4",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "138",
+      "yardsPerRush": "4.0",
+      "snapCounts": {
+        "totalSpecialTeams": "24",
+        "totalOffensive": "53",
+        "totalDefensive": "68"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "4.8"
+    },
+    "home": {
+      "totalYards": "303",
+      "rushingAttempts": "25",
+      "rushingYards": "51",
+      "fumblesLost": "0",
+      "penalties": "1-0",
+      "totalPlays": "68",
+      "possession": "29:48",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "27-41",
+      "passingFirstDowns": "15",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "2-17",
+      "thirdDownEfficiency": "3-14",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.5",
+      "redZoneScoredAndAttempted": "2-4",
+      "teamID": "27",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "10",
+      "rushingFirstDowns": "3",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "21",
+      "passTD": "2",
+      "team": "PHI",
+      "blockedXP": "0",
+      "teamAbv": "PHI",
+      "firstDownsFromPenalties": "3",
+      "fourthDownEfficiency": "1-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "252",
+      "yardsPerRush": "2.0",
+      "snapCounts": {
+        "totalSpecialTeams": "24",
+        "totalOffensive": "68",
+        "totalDefensive": "53"
+      },
+      "turnovers": "0",
+      "yardsPerPass": "5.9"
+    }
+  },
+  "gameDate": "20250105",
+  "scoringPlays": [
+    {
+      "score": "Ainias Smith 15 Yd pass from Tanner McKee (Jake Elliott Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "7",
+      "awayScore": "0",
+      "teamID": "27",
+      "scoreDetails": "4 plays, 51 yards, 2:01",
+      "scoreType": "TD",
+      "scoreTime": "6:51",
+      "team": "PHI",
+      "playerIDs": [
+        "4685201",
+        "4428532",
+        "3050478"
+      ]
+    },
+    {
+      "score": "Jake Elliott 24 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "10",
+      "awayScore": "0",
+      "teamID": "27",
+      "scoreDetails": "13 plays, 59 yards, 5:07",
+      "scoreType": "FG",
+      "scoreTime": "1:44",
+      "team": "PHI",
+      "playerIDs": [
+        "3050478"
+      ]
+    },
+    {
+      "score": "Graham Gano 25 Yd Field Goal",
+      "scorePeriod": "Q3",
+      "homeScore": "10",
+      "awayScore": "3",
+      "teamID": "24",
+      "scoreDetails": "10 plays, 58 yards, 5:47",
+      "scoreType": "FG",
+      "scoreTime": "7:34",
+      "team": "NYG",
+      "playerIDs": [
+        "12460"
+      ]
+    },
+    {
+      "score": "E.J. Jenkins 7 Yd pass from Tanner McKee (Jake Elliott Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "17",
+      "awayScore": "3",
+      "teamID": "27",
+      "scoreDetails": "7 plays, 61 yards, 3:52",
+      "scoreType": "TD",
+      "scoreTime": "14:55",
+      "team": "PHI",
+      "playerIDs": [
+        "4685201",
+        "4248557",
+        "3050478"
+      ]
+    },
+    {
+      "score": "Malik Nabers 45 Yd pass from Drew Lock (Graham Gano Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "17",
+      "awayScore": "10",
+      "teamID": "24",
+      "scoreDetails": "8 plays, 70 yards, 4:23",
+      "scoreType": "TD",
+      "scoreTime": "10:32",
+      "team": "NYG",
+      "playerIDs": [
+        "3924327",
+        "4595348",
+        "12460"
+      ]
+    },
+    {
+      "score": "Graham Gano 53 Yd Field Goal",
+      "scorePeriod": "Q4",
+      "homeScore": "17",
+      "awayScore": "13",
+      "teamID": "24",
+      "scoreDetails": "4 plays, 3 yards, 1:32",
+      "scoreType": "FG",
+      "scoreTime": "7:21",
+      "team": "NYG",
+      "playerIDs": [
+        "12460"
+      ]
+    },
+    {
+      "score": "Jake Elliott 32 Yd Field Goal",
+      "scorePeriod": "Q4",
+      "homeScore": "20",
+      "awayScore": "13",
+      "teamID": "27",
+      "scoreDetails": "16 plays, 56 yards, 6:34",
+      "scoreType": "FG",
+      "scoreTime": "0:47",
+      "team": "PHI",
+      "playerIDs": [
+        "3050478"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "27",
+  "homeResult": "W",
+  "away": "NYG",
+  "gameWeek": "Week 18",
+  "attendance": "69,879",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "0",
+      "Q2": "0",
+      "Q3": "3",
+      "Q4": "10",
+      "teamID": "24",
+      "currentlyInPossession": "False",
+      "totalPts": "13",
+      "teamAbv": "NYG"
+    },
+    "home": {
+      "Q1": "7",
+      "Q2": "3",
+      "Q3": "0",
+      "Q4": "10",
+      "teamID": "27",
+      "currentlyInPossession": "False",
+      "totalPts": "20",
+      "teamAbv": "PHI"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Philadelphia, PA",
+  "home": "PHI",
+  "playerStats": {
+    "12460": {
+      "gameID": "20250105_NYG@PHI",
+      "scoringPlays": [
+        {
+          "score": "Graham Gano 25 Yd Field Goal",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "3",
+          "teamID": "24",
+          "scoreDetails": "10 plays, 58 yards, 5:47",
+          "scoreType": "FG",
+          "scoreTime": "7:34",
+          "team": "NYG",
+          "playerIDs": [
+            "12460"
+          ]
+        },
+        {
+          "score": "Malik Nabers 45 Yd pass from Drew Lock (Graham Gano Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "10",
+          "teamID": "24",
+          "scoreDetails": "8 plays, 70 yards, 4:23",
+          "scoreType": "TD",
+          "scoreTime": "10:32",
+          "team": "NYG",
+          "playerIDs": [
+            "3924327",
+            "4595348",
+            "12460"
+          ]
+        },
+        {
+          "score": "Graham Gano 53 Yd Field Goal",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "13",
+          "teamID": "24",
+          "scoreDetails": "4 plays, 3 yards, 1:32",
+          "scoreType": "FG",
+          "scoreTime": "7:21",
+          "team": "NYG",
+          "playerIDs": [
+            "12460"
+          ]
+        }
+      ],
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "53",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "1",
+        "fgPct": "100.0",
+        "kickingPts": "7",
+        "xpAttempts": "1",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "12460",
+      "longName": "Graham Gano"
+    },
+    "15718": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "15718",
+      "longName": "Greg Van Roten"
+    },
+    "16076": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "16076",
+      "longName": "Chris Hubbard"
+    },
+    "17304": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "17304",
+      "longName": "Casey Kreiter"
+    },
+    "2531358": {
+      "gameID": "20250105_NYG@PHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "16",
+        "targets": "1",
+        "recYds": "16",
+        "recAvg": "16.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.49",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "2531358",
+      "longName": "Chris Manhertz"
+    },
+    "2565971": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "2565971",
+      "longName": "Rick Lovato"
+    },
+    "2575453": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.51"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2575453",
+      "longName": "Rakeem Nunez-Roches"
+    },
+    "3049339": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.47",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "25",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3049339",
+      "longName": "Aaron Stinnie"
+    },
+    "3050478": {
+      "gameID": "20250105_NYG@PHI",
+      "scoringPlays": [
+        {
+          "score": "Ainias Smith 15 Yd pass from Tanner McKee (Jake Elliott Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "27",
+          "scoreDetails": "4 plays, 51 yards, 2:01",
+          "scoreType": "TD",
+          "scoreTime": "6:51",
+          "team": "PHI",
+          "playerIDs": [
+            "4685201",
+            "4428532",
+            "3050478"
+          ]
+        },
+        {
+          "score": "Jake Elliott 24 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "10",
+          "awayScore": "0",
+          "teamID": "27",
+          "scoreDetails": "13 plays, 59 yards, 5:07",
+          "scoreType": "FG",
+          "scoreTime": "1:44",
+          "team": "PHI",
+          "playerIDs": [
+            "3050478"
+          ]
+        },
+        {
+          "score": "E.J. Jenkins 7 Yd pass from Tanner McKee (Jake Elliott Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "3",
+          "teamID": "27",
+          "scoreDetails": "7 plays, 61 yards, 3:52",
+          "scoreType": "TD",
+          "scoreTime": "14:55",
+          "team": "PHI",
+          "playerIDs": [
+            "4685201",
+            "4248557",
+            "3050478"
+          ]
+        },
+        {
+          "score": "Jake Elliott 32 Yd Field Goal",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "13",
+          "teamID": "27",
+          "scoreDetails": "16 plays, 56 yards, 6:34",
+          "scoreType": "FG",
+          "scoreTime": "0:47",
+          "team": "PHI",
+          "playerIDs": [
+            "3050478"
+          ]
+        }
+      ],
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "32",
+        "fgMade": "2",
+        "fgAttempts": "3",
+        "xpMade": "2",
+        "fgPct": "66.7",
+        "kickingPts": "8",
+        "xpAttempts": "2",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3050478",
+      "longName": "Jake Elliott"
+    },
+    "3051746": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "17",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "2",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3051746",
+      "longName": "Oren Burks"
+    },
+    "3051852": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.77"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3051852",
+      "longName": "Charles Harris"
+    },
+    "3115303": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3115303",
+      "longName": "Jermaine Eluemunor"
+    },
+    "3116096": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3116096",
+      "longName": "Nick Gates"
+    },
+    "3116431": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "17",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.25"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3116431",
+      "longName": "Ty Summers"
+    },
+    "3120347": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3120347",
+      "longName": "Adoree' Jackson"
+    },
+    "3121023": {
+      "gameID": "20250105_NYG@PHI",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "17",
+        "targets": "6",
+        "recYds": "55",
+        "recAvg": "13.8"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3121023",
+      "longName": "Dallas Goedert"
+    },
+    "3123938": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "52",
+        "stSnap": "10",
+        "stSnapPct": "0.42",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3123938",
+      "longName": "Avonte Maddox"
+    },
+    "3126179": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.88",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3126179",
+      "longName": "Matthew Adams"
+    },
+    "3915106": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3915106",
+      "longName": "Fred Johnson"
+    },
+    "3916945": {
+      "gameID": "20250105_NYG@PHI",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.91",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "48",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3916945",
+      "longName": "Darius Slayton"
+    },
+    "3924327": {
+      "gameID": "20250105_NYG@PHI",
+      "Rushing": {
+        "rushAvg": "1.5",
+        "rushYds": "3",
+        "carries": "2",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "36.2",
+        "rtg": "82.3",
+        "sacked": "0-0",
+        "passAttempts": "29",
+        "passAvg": "4.8",
+        "passTD": "1",
+        "passYds": "138",
+        "int": "1",
+        "passCompletions": "22"
+      },
+      "scoringPlays": [
+        {
+          "score": "Malik Nabers 45 Yd pass from Drew Lock (Graham Gano Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "10",
+          "teamID": "24",
+          "scoreDetails": "8 plays, 70 yards, 4:23",
+          "scoreType": "TD",
+          "scoreTime": "10:32",
+          "team": "NYG",
+          "playerIDs": [
+            "3924327",
+            "4595348",
+            "12460"
+          ]
+        }
+      ],
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "3924327",
+      "longName": "Drew Lock"
+    },
+    "3932668": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "3932668",
+      "longName": "Jack Driscoll"
+    },
+    "3936185": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "120",
+        "punts": "3",
+        "puntAvg": "40.0",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "43"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3936185",
+      "longName": "Jamie Gillan"
+    },
+    "4035239": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.42",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "140",
+        "punts": "3",
+        "puntAvg": "46.7",
+        "puntsin20": "2",
+        "puntTouchBacks": "0",
+        "puntLong": "59"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4035239",
+      "longName": "Braden Mann"
+    },
+    "4035462": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "13",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.19"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035462",
+      "longName": "Isaiah Simmons"
+    },
+    "4035631": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4035631",
+      "longName": "Brian Burns"
+    },
+    "4037239": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037239",
+      "longName": "Boogie Basham"
+    },
+    "4037520": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "21",
+        "stSnapPct": "0.88",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4037520",
+      "longName": "Tomon Fox"
+    },
+    "4038544": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4038544",
+      "longName": "Austin Schlottmann"
+    },
+    "4039170": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.57"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039170",
+      "longName": "Elijah Garcia"
+    },
+    "4039375": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039375",
+      "longName": "Bryce Huff"
+    },
+    "4040761": {
+      "gameID": "20250105_NYG@PHI",
+      "Rushing": {
+        "rushAvg": "3.1",
+        "rushYds": "22",
+        "carries": "7",
+        "longRush": "5",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "-5",
+        "targets": "1",
+        "recYds": "-5",
+        "recAvg": "-5.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "16",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4040761",
+      "longName": "Devin Singletary"
+    },
+    "4044540": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.79"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "75",
+        "kickReturnAvg": "37.5",
+        "kickReturnLong": "51"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4044540",
+      "longName": "Isaiah Rodgers"
+    },
+    "4239699": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4239699",
+      "longName": "Milton Williams"
+    },
+    "4240042": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "0",
+        "defSnapPct": "0.29"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4240042",
+      "longName": "Cory Durden"
+    },
+    "4240573": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "25",
+        "puntReturnAvg": "12.5",
+        "puntReturnLong": "25",
+        "puntReturnTD": "0"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4240573",
+      "longName": "Ihmir Smith-Marsette"
+    },
+    "4240677": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240677",
+      "longName": "Jordon Riley"
+    },
+    "4240706": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.85"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240706",
+      "longName": "Jason Pinnock"
+    },
+    "4241374": {
+      "gameID": "20250105_NYG@PHI",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "7",
+        "targets": "4",
+        "recYds": "10",
+        "recAvg": "5.0"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "23",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241374",
+      "longName": "Grant Calcaterra"
+    },
+    "4242247": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4242247",
+      "longName": "Tyre Phillips"
+    },
+    "4248557": {
+      "gameID": "20250105_NYG@PHI",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "1",
+        "longRec": "7",
+        "targets": "1",
+        "recYds": "7",
+        "recAvg": "7.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "E.J. Jenkins 7 Yd pass from Tanner McKee (Jake Elliott Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "3",
+          "teamID": "27",
+          "scoreDetails": "7 plays, 61 yards, 3:52",
+          "scoreType": "TD",
+          "scoreTime": "14:55",
+          "team": "PHI",
+          "playerIDs": [
+            "4685201",
+            "4248557",
+            "3050478"
+          ]
+        }
+      ],
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.75",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4248557",
+      "longName": "E.J. Jenkins"
+    },
+    "4250393": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "18",
+        "stSnapPct": "0.75",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4250393",
+      "longName": "Tristin McCollum"
+    },
+    "4360386": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "17",
+        "stSnapPct": "0.71",
+        "offSnap": "0",
+        "defSnapPct": "0.79"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "21",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4360386",
+      "longName": "Sydney Brown"
+    },
+    "4360516": {
+      "gameID": "20250105_NYG@PHI",
+      "Rushing": {
+        "rushAvg": "4.2",
+        "rushYds": "59",
+        "carries": "14",
+        "longRush": "16",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "2",
+        "recYds": "7",
+        "recAvg": "3.5"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.60",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4360516",
+      "longName": "Tyrone Tracy Jr."
+    },
+    "4360749": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360749",
+      "longName": "Thomas Booker IV"
+    },
+    "4361348": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361348",
+      "longName": "Dallas Gant"
+    },
+    "4361409": {
+      "gameID": "20250105_NYG@PHI",
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "0",
+        "longRec": "19",
+        "targets": "11",
+        "recYds": "94",
+        "recAvg": "13.4"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.94",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "64",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4361409",
+      "longName": "Jahan Dotson"
+    },
+    "4361516": {
+      "gameID": "20250105_NYG@PHI",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "2",
+        "recYds": "9",
+        "recAvg": "4.5"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.58",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "31",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4361516",
+      "longName": "Daniel Bellinger"
+    },
+    "4361748": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.26"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4361748",
+      "longName": "Anthony Johnson Jr."
+    },
+    "4361779": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.38"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4361779",
+      "longName": "Divaad Wilson"
+    },
+    "4362116": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "6",
+        "stSnapPct": "0.25",
+        "offSnap": "0",
+        "defSnapPct": "0.83"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362116",
+      "longName": "Moro Ojomo"
+    },
+    "4362227": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.88",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4362227",
+      "longName": "Bryce Ford-Wheaton"
+    },
+    "4362280": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "13",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "11",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362280",
+      "longName": "Dyontae Johnson"
+    },
+    "4362611": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4362611",
+      "longName": "Darian Kinnard"
+    },
+    "4362805": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.59",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "40",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4362805",
+      "longName": "Tyler Steen"
+    },
+    "4367209": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4367209",
+      "longName": "Greg Dulcich"
+    },
+    "4371733": {
+      "gameID": "20250105_NYG@PHI",
+      "Rushing": {
+        "rushAvg": "1.3",
+        "rushYds": "14",
+        "carries": "11",
+        "longRush": "5",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "4",
+        "recYds": "9",
+        "recAvg": "4.5"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.49",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "33",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4371733",
+      "longName": "Kenneth Gainwell"
+    },
+    "4373280": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.53",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "28",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4373280",
+      "longName": "Joshua Ezeudu"
+    },
+    "4381558": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "8",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4381558",
+      "longName": "Jordan Davis"
+    },
+    "4383405": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4383405",
+      "longName": "Jake Kubas"
+    },
+    "4426326": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "1.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4426326",
+      "longName": "Kayvon Thibodeaux"
+    },
+    "4426686": {
+      "gameID": "20250105_NYG@PHI",
+      "Rushing": {
+        "rushAvg": "10.0",
+        "rushYds": "10",
+        "carries": "1",
+        "longRush": "10",
+        "rushTD": "0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "13",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.88"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426686",
+      "longName": "Dane Belton"
+    },
+    "4427140": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.52",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.21",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4427140",
+      "longName": "Trevor Keegan"
+    },
+    "4428072": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "68",
+        "stSnap": "9",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428072",
+      "longName": "Darius Muasau"
+    },
+    "4428328": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.65"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4428328",
+      "longName": "Deonte Banks"
+    },
+    "4428532": {
+      "gameID": "20250105_NYG@PHI",
+      "Rushing": {
+        "rushAvg": "4.0",
+        "rushYds": "4",
+        "carries": "1",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "15",
+        "targets": "6",
+        "recYds": "35",
+        "recAvg": "8.8"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ainias Smith 15 Yd pass from Tanner McKee (Jake Elliott Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "27",
+          "scoreDetails": "4 plays, 51 yards, 2:01",
+          "scoreType": "TD",
+          "scoreTime": "6:51",
+          "team": "PHI",
+          "playerIDs": [
+            "4685201",
+            "4428532",
+            "3050478"
+          ]
+        }
+      ],
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.69",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "47",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "17",
+        "kickReturnAvg": "17.0",
+        "kickReturnLong": "17"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4428532",
+      "longName": "Ainias Smith"
+    },
+    "4428992": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "13",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4428992",
+      "longName": "Kelee Ringo"
+    },
+    "4429011": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.21"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429011",
+      "longName": "Eli Ricks"
+    },
+    "4429392": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "4",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429392",
+      "longName": "Elijah Chatman"
+    },
+    "4429607": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.57"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429607",
+      "longName": "Cor'Dale Flott"
+    },
+    "4431321": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "47",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.69"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4431321",
+      "longName": "Dru Phillips"
+    },
+    "4431545": {
+      "gameID": "20250105_NYG@PHI",
+      "Rushing": {
+        "rushAvg": "3.2",
+        "rushYds": "32",
+        "carries": "10",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "4",
+        "recYds": "35",
+        "recAvg": "8.8"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.53",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.13",
+        "offSnap": "36",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4431545",
+      "longName": "Will Shipley"
+    },
+    "4432777": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "16",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "totalTackles": "11",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4432777",
+      "longName": "Jeremiah Trotter Jr."
+    },
+    "4569587": {
+      "gameID": "20250105_NYG@PHI",
+      "Receiving": {
+        "receptions": "10",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "11",
+        "recYds": "43",
+        "recAvg": "4.3"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.74",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "39",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4569587",
+      "longName": "Wan'Dale Robinson"
+    },
+    "4570561": {
+      "gameID": "20250105_NYG@PHI",
+      "Rushing": {
+        "rushAvg": "6.0",
+        "rushYds": "6",
+        "carries": "1",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "1",
+        "recYds": "4",
+        "recAvg": "4.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.11",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.29",
+        "offSnap": "6",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4570561",
+      "longName": "Eric Gray"
+    },
+    "4571162": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.34"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4571162",
+      "longName": "Jalyx Hunt"
+    },
+    "4595348": {
+      "gameID": "20250105_NYG@PHI",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "1",
+        "longRec": "45",
+        "targets": "8",
+        "recYds": "64",
+        "recAvg": "12.8"
+      },
+      "scoringPlays": [
+        {
+          "score": "Malik Nabers 45 Yd pass from Drew Lock (Graham Gano Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "10",
+          "teamID": "24",
+          "scoreDetails": "8 plays, 70 yards, 4:23",
+          "scoreType": "TD",
+          "scoreTime": "10:32",
+          "team": "NYG",
+          "playerIDs": [
+            "3924327",
+            "4595348",
+            "12460"
+          ]
+        }
+      ],
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.70",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4595348",
+      "longName": "Malik Nabers"
+    },
+    "4685201": {
+      "gameID": "20250105_NYG@PHI",
+      "Rushing": {
+        "rushAvg": "0.3",
+        "rushYds": "1",
+        "carries": "3",
+        "longRush": "2",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "65.4",
+        "rtg": "100.6",
+        "sacked": "2-17",
+        "passAttempts": "41",
+        "passAvg": "6.6",
+        "passTD": "2",
+        "passYds": "269",
+        "int": "0",
+        "passCompletions": "27"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ainias Smith 15 Yd pass from Tanner McKee (Jake Elliott Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "27",
+          "scoreDetails": "4 plays, 51 yards, 2:01",
+          "scoreType": "TD",
+          "scoreTime": "6:51",
+          "team": "PHI",
+          "playerIDs": [
+            "4685201",
+            "4428532",
+            "3050478"
+          ]
+        },
+        {
+          "score": "E.J. Jenkins 7 Yd pass from Tanner McKee (Jake Elliott Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "17",
+          "awayScore": "3",
+          "teamID": "27",
+          "scoreDetails": "7 plays, 61 yards, 3:52",
+          "scoreType": "TD",
+          "scoreTime": "14:55",
+          "team": "PHI",
+          "playerIDs": [
+            "4685201",
+            "4248557",
+            "3050478"
+          ]
+        }
+      ],
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "68",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4685201",
+      "longName": "Tanner McKee"
+    },
+    "4686104": {
+      "gameID": "20250105_NYG@PHI",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "5",
+        "recYds": "24",
+        "recAvg": "8.0"
+      },
+      "teamID": "27",
+      "snapCounts": {
+        "offSnapPct": "0.96",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.50",
+        "offSnap": "65",
+        "defSnapPct": "0.00"
+      },
+      "team": "PHI",
+      "teamAbv": "PHI",
+      "playerID": "4686104",
+      "longName": "Johnny Wilson"
+    },
+    "4689674": {
+      "gameID": "20250105_NYG@PHI",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.88",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4689674",
+      "longName": "Art Green"
+    },
+    "4692590": {
+      "gameID": "20250105_NYG@PHI",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4692590",
+      "longName": "Jalin Hyatt"
+    }
+  },
+  "arenaCapacity": "69,879",
+  "arena": "Lincoln Financial Field",
+  "homePts": "20",
+  "awayResult": "L",
+  "teamIDAway": "24",
+  "Referees": "Barry Anderson, Ronald Torbert, Keith Washington, Ryan Dickson, Tony Josselyn, Brian Bolinger, Frank LeBlanc",
+  "gameClock": "",
+  "awayPts": "13",
+  "gameID": "20250105_NYG@PHI",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

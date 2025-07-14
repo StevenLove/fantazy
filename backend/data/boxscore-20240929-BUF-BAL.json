@@ -1,0 +1,2783 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "BUF",
+      "teamID": "4",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "1",
+      "ydsAllowed": "427",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "29",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "BAL",
+      "teamID": "3",
+      "defTD": "1",
+      "defensiveInterceptions": "0",
+      "sacks": "3",
+      "ydsAllowed": "236",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "10",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "236",
+      "rushingAttempts": "23",
+      "rushingYards": "81",
+      "fumblesLost": "1",
+      "penalties": "4-38",
+      "totalPlays": "57",
+      "possession": "28:57",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "17-31",
+      "passingFirstDowns": "6",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "3-27",
+      "thirdDownEfficiency": "3-13",
+      "blockedPunt": "0",
+      "yardsPerPlay": "4.1",
+      "redZoneScoredAndAttempted": "1-2",
+      "teamID": "4",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "12",
+      "passTD": "0",
+      "team": "BUF",
+      "blockedXP": "0",
+      "teamAbv": "BUF",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "1-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "155",
+      "yardsPerRush": "3.5",
+      "snapCounts": {
+        "totalSpecialTeams": "27",
+        "totalOffensive": "59",
+        "totalDefensive": "57"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "4.6"
+    },
+    "home": {
+      "totalYards": "427",
+      "rushingAttempts": "34",
+      "rushingYards": "271",
+      "fumblesLost": "1",
+      "penalties": "8-79",
+      "totalPlays": "54",
+      "possession": "31:03",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "14-19",
+      "passingFirstDowns": "9",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "1-1",
+      "thirdDownEfficiency": "5-9",
+      "blockedPunt": "0",
+      "yardsPerPlay": "7.9",
+      "redZoneScoredAndAttempted": "4-4",
+      "teamID": "3",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "11",
+      "blockedFG": "0",
+      "rushTD": "2",
+      "twoPointConversions": "0",
+      "firstDowns": "22",
+      "passTD": "2",
+      "team": "BAL",
+      "blockedXP": "0",
+      "teamAbv": "BAL",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "156",
+      "yardsPerRush": "8.0",
+      "snapCounts": {
+        "totalSpecialTeams": "27",
+        "totalOffensive": "57",
+        "totalDefensive": "59"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "7.8"
+    }
+  },
+  "gameDate": "20240929",
+  "scoringPlays": [
+    {
+      "score": "Derrick Henry 87 Yd Run (Justin Tucker Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "7",
+      "awayScore": "0",
+      "teamID": "3",
+      "scoreDetails": "1 play, 87 yards, 0:12",
+      "scoreType": "TD",
+      "scoreTime": "10:50",
+      "team": "BAL",
+      "playerIDs": [
+        "3043078",
+        "15683"
+      ]
+    },
+    {
+      "score": "Tyler Bass 50 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "7",
+      "awayScore": "3",
+      "teamID": "4",
+      "scoreDetails": "11 plays, 38 yards, 6:16",
+      "scoreType": "FG",
+      "scoreTime": "4:34",
+      "team": "BUF",
+      "playerIDs": [
+        "3917232"
+      ]
+    },
+    {
+      "score": "Derrick Henry 5 Yd pass from Lamar Jackson (Justin Tucker Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "14",
+      "awayScore": "3",
+      "teamID": "3",
+      "scoreDetails": "9 plays, 70 yards, 4:39",
+      "scoreType": "TD",
+      "scoreTime": "14:55",
+      "team": "BAL",
+      "playerIDs": [
+        "3916387",
+        "3043078",
+        "15683"
+      ]
+    },
+    {
+      "score": "Justice Hill 19 Yd pass from Lamar Jackson (Justin Tucker Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "21",
+      "awayScore": "3",
+      "teamID": "3",
+      "scoreDetails": "10 plays, 81 yards, 5:16",
+      "scoreType": "TD",
+      "scoreTime": "7:34",
+      "team": "BAL",
+      "playerIDs": [
+        "3916387",
+        "4038441",
+        "15683"
+      ]
+    },
+    {
+      "score": "Ty Johnson 3 Yd Run (Tyler Bass Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "21",
+      "awayScore": "10",
+      "teamID": "4",
+      "scoreDetails": "4 plays, 60 yards, 2:27",
+      "scoreType": "TD",
+      "scoreTime": "11:26",
+      "team": "BUF",
+      "playerIDs": [
+        "3915411",
+        "3917232"
+      ]
+    },
+    {
+      "score": "Lamar Jackson 9 Yd Run (Justin Tucker Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "28",
+      "awayScore": "10",
+      "teamID": "3",
+      "scoreDetails": "6 plays, 59 yards, 3:35",
+      "scoreType": "TD",
+      "scoreTime": "2:45",
+      "team": "BAL",
+      "playerIDs": [
+        "3916387",
+        "15683"
+      ]
+    },
+    {
+      "score": "Patrick Ricard Fumble Recovery in End Zone (Justin Tucker Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "35",
+      "awayScore": "10",
+      "teamID": "3",
+      "scoreDetails": "6 plays, 62 yards, 3:32",
+      "scoreType": "TD",
+      "scoreTime": "11:23",
+      "team": "BAL",
+      "playerIDs": [
+        "2975417",
+        "15683"
+      ]
+    }
+  ],
+  "network": "NBC/Peacock",
+  "teamIDHome": "3",
+  "homeResult": "W",
+  "away": "BUF",
+  "gameWeek": "Week 4",
+  "attendance": "70,636",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "3",
+      "Q2": "0",
+      "Q3": "7",
+      "Q4": "0",
+      "teamID": "4",
+      "currentlyInPossession": "False",
+      "totalPts": "10",
+      "teamAbv": "BUF"
+    },
+    "home": {
+      "Q1": "7",
+      "Q2": "14",
+      "Q3": "7",
+      "Q4": "7",
+      "teamID": "3",
+      "currentlyInPossession": "False",
+      "totalPts": "35",
+      "teamAbv": "BAL"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Baltimore, MD",
+  "home": "BAL",
+  "playerStats": {
+    "11394": {
+      "gameID": "20240929_BUF@BAL",
+      "Passing": {
+        "qbr": "0.6",
+        "rtg": "79.2",
+        "sacked": "0-0",
+        "passAttempts": "1",
+        "passAvg": "1.0",
+        "passTD": "0",
+        "passYds": "1",
+        "int": "0",
+        "passCompletions": "1"
+      },
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "11394",
+      "longName": "Josh Johnson"
+    },
+    "13976": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "9",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.16"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "13976",
+      "longName": "Von Miller"
+    },
+    "15683": {
+      "gameID": "20240929_BUF@BAL",
+      "scoringPlays": [
+        {
+          "score": "Derrick Henry 87 Yd Run (Justin Tucker Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "3",
+          "scoreDetails": "1 play, 87 yards, 0:12",
+          "scoreType": "TD",
+          "scoreTime": "10:50",
+          "team": "BAL",
+          "playerIDs": [
+            "3043078",
+            "15683"
+          ]
+        },
+        {
+          "score": "Derrick Henry 5 Yd pass from Lamar Jackson (Justin Tucker Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "14",
+          "awayScore": "3",
+          "teamID": "3",
+          "scoreDetails": "9 plays, 70 yards, 4:39",
+          "scoreType": "TD",
+          "scoreTime": "14:55",
+          "team": "BAL",
+          "playerIDs": [
+            "3916387",
+            "3043078",
+            "15683"
+          ]
+        },
+        {
+          "score": "Justice Hill 19 Yd pass from Lamar Jackson (Justin Tucker Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "21",
+          "awayScore": "3",
+          "teamID": "3",
+          "scoreDetails": "10 plays, 81 yards, 5:16",
+          "scoreType": "TD",
+          "scoreTime": "7:34",
+          "team": "BAL",
+          "playerIDs": [
+            "3916387",
+            "4038441",
+            "15683"
+          ]
+        },
+        {
+          "score": "Lamar Jackson 9 Yd Run (Justin Tucker Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "28",
+          "awayScore": "10",
+          "teamID": "3",
+          "scoreDetails": "6 plays, 59 yards, 3:35",
+          "scoreType": "TD",
+          "scoreTime": "2:45",
+          "team": "BAL",
+          "playerIDs": [
+            "3916387",
+            "15683"
+          ]
+        },
+        {
+          "score": "Patrick Ricard Fumble Recovery in End Zone (Justin Tucker Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "35",
+          "awayScore": "10",
+          "teamID": "3",
+          "scoreDetails": "6 plays, 62 yards, 3:32",
+          "scoreType": "TD",
+          "scoreTime": "11:23",
+          "team": "BAL",
+          "playerIDs": [
+            "2975417",
+            "15683"
+          ]
+        }
+      ],
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "0",
+        "fgMade": "0",
+        "fgAttempts": "0",
+        "xpMade": "5",
+        "fgPct": "0.0",
+        "kickingPts": "5",
+        "xpAttempts": "5",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "15683",
+      "longName": "Justin Tucker"
+    },
+    "15928": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "289",
+        "punts": "6",
+        "puntAvg": "48.2",
+        "puntsin20": "2",
+        "puntTouchBacks": "1",
+        "puntLong": "59"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "15928",
+      "longName": "Sam Martin"
+    },
+    "16772": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "3",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "16772",
+      "longName": "Kyle Van Noy"
+    },
+    "16831": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.42"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "16831",
+      "longName": "Brent Urban"
+    },
+    "16910": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.63"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "16910",
+      "longName": "DaQuan Jones"
+    },
+    "2971618": {
+      "gameID": "20240929_BUF@BAL",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "3",
+        "recYds": "10",
+        "recAvg": "5.0"
+      },
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.51",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "2971618",
+      "longName": "Nelson Agholor"
+    },
+    "2975417": {
+      "gameID": "20240929_BUF@BAL",
+      "scoringPlays": [
+        {
+          "score": "Patrick Ricard Fumble Recovery in End Zone (Justin Tucker Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "35",
+          "awayScore": "10",
+          "teamID": "3",
+          "scoreDetails": "6 plays, 62 yards, 3:32",
+          "scoreType": "TD",
+          "scoreTime": "11:23",
+          "team": "BAL",
+          "playerIDs": [
+            "2975417",
+            "15683"
+          ]
+        }
+      ],
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.61",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "defTD": "1",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "2975417",
+      "longName": "Patrick Ricard"
+    },
+    "2976549": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "2976549",
+      "longName": "Reid Ferguson"
+    },
+    "2979591": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.12"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "2979591",
+      "longName": "Austin Johnson"
+    },
+    "2980153": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "2980153",
+      "longName": "Ronnie Stanley"
+    },
+    "2991662": {
+      "gameID": "20240929_BUF@BAL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "6",
+        "recYds": "5",
+        "recAvg": "5.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.61",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.41",
+        "offSnap": "36",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "2991662",
+      "longName": "Mack Hollins"
+    },
+    "3039707": {
+      "gameID": "20240929_BUF@BAL",
+      "Passing": {
+        "qbr": "3.1",
+        "rtg": "56.2",
+        "sacked": "0-0",
+        "passAttempts": "2",
+        "passAvg": "1.0",
+        "passTD": "0",
+        "passYds": "2",
+        "int": "0",
+        "passCompletions": "1"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3039707",
+      "longName": "Mitchell Trubisky"
+    },
+    "3042476": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3042476",
+      "longName": "Dawuane Smoot"
+    },
+    "3043078": {
+      "gameID": "20240929_BUF@BAL",
+      "Rushing": {
+        "rushAvg": "8.3",
+        "rushYds": "199",
+        "carries": "24",
+        "longRush": "87",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "1",
+        "longRec": "5",
+        "targets": "3",
+        "recYds": "10",
+        "recAvg": "3.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Derrick Henry 87 Yd Run (Justin Tucker Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "3",
+          "scoreDetails": "1 play, 87 yards, 0:12",
+          "scoreType": "TD",
+          "scoreTime": "10:50",
+          "team": "BAL",
+          "playerIDs": [
+            "3043078",
+            "15683"
+          ]
+        },
+        {
+          "score": "Derrick Henry 5 Yd pass from Lamar Jackson (Justin Tucker Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "14",
+          "awayScore": "3",
+          "teamID": "3",
+          "scoreDetails": "9 plays, 70 yards, 4:39",
+          "scoreType": "TD",
+          "scoreTime": "14:55",
+          "team": "BAL",
+          "playerIDs": [
+            "3916387",
+            "3043078",
+            "15683"
+          ]
+        }
+      ],
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.65",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3043078",
+      "longName": "Derrick Henry"
+    },
+    "3051324": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.86",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3051324",
+      "longName": "Dion Dawkins"
+    },
+    "3051738": {
+      "gameID": "20240929_BUF@BAL",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.42",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "25",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3051738",
+      "longName": "Marquez Valdes-Scantling"
+    },
+    "3054847": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.34"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3054847",
+      "longName": "Eddie Jackson"
+    },
+    "3060403": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "3060403",
+      "longName": "Chris Board"
+    },
+    "3116365": {
+      "gameID": "20240929_BUF@BAL",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.46",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "3116365",
+      "longName": "Mark Andrews"
+    },
+    "3121427": {
+      "gameID": "20240929_BUF@BAL",
+      "Rushing": {
+        "rushAvg": "7.0",
+        "rushYds": "7",
+        "carries": "1",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "2",
+        "recYds": "8",
+        "recAvg": "4.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.37",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "22",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3121427",
+      "longName": "Curtis Samuel"
+    },
+    "3122882": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.92"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3122882",
+      "longName": "Marcus Williams"
+    },
+    "3126356": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.81"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3126356",
+      "longName": "Marlon Humphrey"
+    },
+    "3863820": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "3863820",
+      "longName": "Patrick Mekari"
+    },
+    "3914630": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "3914630",
+      "longName": "Josh Jones"
+    },
+    "3915184": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.34",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "3915184",
+      "longName": "Nick Moore"
+    },
+    "3915189": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.92"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915189",
+      "longName": "Roquan Smith"
+    },
+    "3915411": {
+      "gameID": "20240929_BUF@BAL",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "3",
+        "carries": "1",
+        "longRush": "3",
+        "rushTD": "1"
+      },
+      "scoringPlays": [
+        {
+          "score": "Ty Johnson 3 Yd Run (Tyler Bass Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "21",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "4 plays, 60 yards, 2:27",
+          "scoreType": "TD",
+          "scoreTime": "11:26",
+          "team": "BUF",
+          "playerIDs": [
+            "3915411",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.44",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915411",
+      "longName": "Ty Johnson"
+    },
+    "3915837": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "6",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.44"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915837",
+      "longName": "Broderick Washington"
+    },
+    "3916387": {
+      "gameID": "20240929_BUF@BAL",
+      "Rushing": {
+        "rushAvg": "9.0",
+        "rushYds": "54",
+        "carries": "6",
+        "longRush": "19",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "57.3",
+        "rtg": "135.4",
+        "sacked": "1-1",
+        "passAttempts": "18",
+        "passAvg": "8.7",
+        "passTD": "2",
+        "passYds": "156",
+        "int": "0",
+        "passCompletions": "13"
+      },
+      "scoringPlays": [
+        {
+          "score": "Derrick Henry 5 Yd pass from Lamar Jackson (Justin Tucker Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "14",
+          "awayScore": "3",
+          "teamID": "3",
+          "scoreDetails": "9 plays, 70 yards, 4:39",
+          "scoreType": "TD",
+          "scoreTime": "14:55",
+          "team": "BAL",
+          "playerIDs": [
+            "3916387",
+            "3043078",
+            "15683"
+          ]
+        },
+        {
+          "score": "Justice Hill 19 Yd pass from Lamar Jackson (Justin Tucker Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "21",
+          "awayScore": "3",
+          "teamID": "3",
+          "scoreDetails": "10 plays, 81 yards, 5:16",
+          "scoreType": "TD",
+          "scoreTime": "7:34",
+          "team": "BAL",
+          "playerIDs": [
+            "3916387",
+            "4038441",
+            "15683"
+          ]
+        },
+        {
+          "score": "Lamar Jackson 9 Yd Run (Justin Tucker Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "28",
+          "awayScore": "10",
+          "teamID": "3",
+          "scoreDetails": "6 plays, 59 yards, 3:35",
+          "scoreType": "TD",
+          "scoreTime": "2:45",
+          "team": "BAL",
+          "playerIDs": [
+            "3916387",
+            "15683"
+          ]
+        }
+      ],
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.95",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3916387",
+      "longName": "Lamar Jackson"
+    },
+    "3916577": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "8",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3916577",
+      "longName": "Cam Lewis"
+    },
+    "3917232": {
+      "gameID": "20240929_BUF@BAL",
+      "scoringPlays": [
+        {
+          "score": "Tyler Bass 50 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "3",
+          "teamID": "4",
+          "scoreDetails": "11 plays, 38 yards, 6:16",
+          "scoreType": "FG",
+          "scoreTime": "4:34",
+          "team": "BUF",
+          "playerIDs": [
+            "3917232"
+          ]
+        },
+        {
+          "score": "Ty Johnson 3 Yd Run (Tyler Bass Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "21",
+          "awayScore": "10",
+          "teamID": "4",
+          "scoreDetails": "4 plays, 60 yards, 2:27",
+          "scoreType": "TD",
+          "scoreTime": "11:26",
+          "team": "BUF",
+          "playerIDs": [
+            "3915411",
+            "3917232"
+          ]
+        }
+      ],
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.22",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "50",
+        "fgMade": "1",
+        "fgAttempts": "2",
+        "xpMade": "1",
+        "fgPct": "50.0",
+        "kickingPts": "4",
+        "xpAttempts": "1",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3917232",
+      "longName": "Tyler Bass"
+    },
+    "3917660": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.86",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3917660",
+      "longName": "David Edwards"
+    },
+    "3918298": {
+      "gameID": "20240929_BUF@BAL",
+      "Rushing": {
+        "rushAvg": "4.2",
+        "rushYds": "21",
+        "carries": "5",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "28.9",
+        "rtg": "73.9",
+        "sacked": "3-27",
+        "passAttempts": "29",
+        "passAvg": "6.2",
+        "passTD": "0",
+        "passYds": "180",
+        "int": "0",
+        "passCompletions": "16"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.86",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3918298",
+      "longName": "Josh Allen"
+    },
+    "3930086": {
+      "gameID": "20240929_BUF@BAL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.46",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "27",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "3930086",
+      "longName": "Dawson Knox"
+    },
+    "3931408": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "18",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3931408",
+      "longName": "Casey Toohill"
+    },
+    "3943270": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "53",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.93"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3943270",
+      "longName": "Rasul Douglas"
+    },
+    "4030899": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4030899",
+      "longName": "Spencer Brown"
+    },
+    "4033748": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.73",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4033748",
+      "longName": "Connor McGovern"
+    },
+    "4035002": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.02",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4035002",
+      "longName": "Ben Cleveland"
+    },
+    "4035245": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035245",
+      "longName": "Nnamdi Madubuike"
+    },
+    "4035824": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.92"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035824",
+      "longName": "Brandon Stephens"
+    },
+    "4036060": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4036060",
+      "longName": "Damar Hamlin"
+    },
+    "4038441": {
+      "gameID": "20240929_BUF@BAL",
+      "Rushing": {
+        "rushAvg": "4.5",
+        "rushYds": "18",
+        "carries": "4",
+        "longRush": "11",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "1",
+        "longRec": "19",
+        "targets": "6",
+        "recYds": "78",
+        "recAvg": "13.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Justice Hill 19 Yd pass from Lamar Jackson (Justin Tucker Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "21",
+          "awayScore": "3",
+          "teamID": "3",
+          "scoreDetails": "10 plays, 81 yards, 5:16",
+          "scoreType": "TD",
+          "scoreTime": "7:34",
+          "team": "BAL",
+          "playerIDs": [
+            "3916387",
+            "4038441",
+            "15683"
+          ]
+        }
+      ],
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.35",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4038441",
+      "longName": "Justice Hill"
+    },
+    "4039007": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039007",
+      "longName": "Taylor Rapp"
+    },
+    "4039303": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4039303",
+      "longName": "Ed Oliver"
+    },
+    "4039505": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.08",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.81",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039505",
+      "longName": "Reggie Gilliam"
+    },
+    "4040615": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "8",
+        "stSnap": "22",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.14"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4040615",
+      "longName": "Malik Harrison"
+    },
+    "4232830": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "16",
+        "stSnap": "19",
+        "stSnapPct": "0.70",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4232830",
+      "longName": "Nicholas Morrow"
+    },
+    "4239140": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4239140",
+      "longName": "Ryan Van Demark"
+    },
+    "4239997": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.96"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "6",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4239997",
+      "longName": "Baylon Spector"
+    },
+    "4240059": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "22",
+        "stSnapPct": "0.81",
+        "offSnap": "0",
+        "defSnapPct": "0.12"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240059",
+      "longName": "Ja'Marcus Ingram"
+    },
+    "4240585": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.42"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240585",
+      "longName": "AJ Epenesa"
+    },
+    "4241263": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.33",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.83",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4241263",
+      "longName": "Charlie Kolar"
+    },
+    "4241424": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.18",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.64",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4241424",
+      "longName": "Tylan Wallace"
+    },
+    "4244049": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.81",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4244049",
+      "longName": "Quintin Morris"
+    },
+    "4258198": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "17",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4258198",
+      "longName": "Josh Ross"
+    },
+    "4260224": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.34",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "177",
+        "punts": "4",
+        "puntAvg": "44.3",
+        "puntsin20": "3",
+        "puntTouchBacks": "0",
+        "puntLong": "54"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4260224",
+      "longName": "Jordan Stout"
+    },
+    "4360499": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4360499",
+      "longName": "Tyler Linderbaum"
+    },
+    "4360939": {
+      "gameID": "20240929_BUF@BAL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "23",
+        "targets": "1",
+        "recYds": "23",
+        "recAvg": "23.0"
+      },
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.65",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4360939",
+      "longName": "Rashod Bateman"
+    },
+    "4360964": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4360964",
+      "longName": "Daniel Faalele"
+    },
+    "4361050": {
+      "gameID": "20240929_BUF@BAL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "26",
+        "targets": "2",
+        "recYds": "26",
+        "recAvg": "26.0"
+      },
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.54",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "31",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4361050",
+      "longName": "Isaiah Likely"
+    },
+    "4361422": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.54"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4361422",
+      "longName": "Odafe Oweh"
+    },
+    "4362139": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "10",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.69"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362139",
+      "longName": "Travis Jones"
+    },
+    "4362492": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "15",
+        "stSnapPct": "0.57",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362492",
+      "longName": "Ar'Darius Washington"
+    },
+    "4362506": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362506",
+      "longName": "Greg Rousseau"
+    },
+    "4366349": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "19",
+        "stSnapPct": "0.70",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4366349",
+      "longName": "Joe Andreessen"
+    },
+    "4367203": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.32",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.33",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4367203",
+      "longName": "Alec Anderson"
+    },
+    "4373678": {
+      "gameID": "20240929_BUF@BAL",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "52",
+        "targets": "5",
+        "recYds": "62",
+        "recAvg": "15.5"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.59",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "35",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4373678",
+      "longName": "Khalil Shakir"
+    },
+    "4379399": {
+      "gameID": "20240929_BUF@BAL",
+      "Rushing": {
+        "rushAvg": "4.3",
+        "rushYds": "39",
+        "carries": "9",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "1",
+        "recYds": "9",
+        "recAvg": "9.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.56",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "33",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4379399",
+      "longName": "James Cook"
+    },
+    "4379778": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.98"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4379778",
+      "longName": "Christian Benford"
+    },
+    "4385690": {
+      "gameID": "20240929_BUF@BAL",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "25",
+        "targets": "7",
+        "recYds": "47",
+        "recAvg": "9.4"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4385690",
+      "longName": "Dalton Kincaid"
+    },
+    "4411193": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.02",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.34",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "3",
+        "puntReturnYds": "34",
+        "puntReturnAvg": "11.3",
+        "puntReturnLong": "15",
+        "puntReturnTD": "0"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4411193",
+      "longName": "Deonte Harty"
+    },
+    "4426372": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "14",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.24"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426372",
+      "longName": "Adisa Isaac"
+    },
+    "4426507": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426507",
+      "longName": "David Ojabo"
+    },
+    "4426883": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426883",
+      "longName": "DeWayne Carter"
+    },
+    "4428548": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "15",
+        "stSnapPct": "0.56",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428548",
+      "longName": "Javon Solomon"
+    },
+    "4428696": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4428696",
+      "longName": "O'Cyrus Torrence"
+    },
+    "4429501": {
+      "gameID": "20240929_BUF@BAL",
+      "Rushing": {
+        "rushAvg": "1.6",
+        "rushYds": "11",
+        "carries": "7",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.17",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4429501",
+      "longName": "Ray Davis"
+    },
+    "4429615": {
+      "gameID": "20240929_BUF@BAL",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "2",
+        "recYds": "10",
+        "recAvg": "10.0"
+      },
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.68",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "39",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4429615",
+      "longName": "Zay Flowers"
+    },
+    "4430118": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "22",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.08"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4430118",
+      "longName": "Sanoussi Kane"
+    },
+    "4430815": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4430815",
+      "longName": "Sedrick Van Pran-Granger"
+    },
+    "4430831": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "10",
+        "stSnapPct": "0.38",
+        "offSnap": "0",
+        "defSnapPct": "0.63"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430831",
+      "longName": "Trenton Simpson"
+    },
+    "4430876": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "57",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4430876",
+      "longName": "Roger Rosengarten"
+    },
+    "4567399": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "3",
+        "stSnap": "10",
+        "stSnapPct": "0.37",
+        "offSnap": "0",
+        "defSnapPct": "0.05"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4567399",
+      "longName": "Kaiir Elam"
+    },
+    "4568624": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "8",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.86"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "12",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "5",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4568624",
+      "longName": "Dorian Williams"
+    },
+    "4575483": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "22",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.08"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4575483",
+      "longName": "T.J. Tampa"
+    },
+    "4575517": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.92"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "7",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4575517",
+      "longName": "Kyle Hamilton"
+    },
+    "4576069": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.37",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "6",
+        "puntReturnAvg": "3.0",
+        "puntReturnLong": "6",
+        "puntReturnTD": "0"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4576069",
+      "longName": "Brandon Codrington"
+    },
+    "4601278": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "51",
+        "stSnap": "17",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.86"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4601278",
+      "longName": "Nate Wiggins"
+    },
+    "4635008": {
+      "gameID": "20240929_BUF@BAL",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "24",
+        "targets": "4",
+        "recYds": "51",
+        "recAvg": "17.0"
+      },
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.73",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "playerID": "4635008",
+      "longName": "Keon Coleman"
+    },
+    "4676004": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "4",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "16",
+        "stSnapPct": "0.59",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "BUF",
+      "teamAbv": "BUF",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4676004",
+      "longName": "Cole Bishop"
+    },
+    "4690179": {
+      "gameID": "20240929_BUF@BAL",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "23",
+        "stSnapPct": "0.87",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4690179",
+      "longName": "Tavius Robinson"
+    }
+  },
+  "arenaCapacity": "70,745",
+  "arena": "M&amp;T Bank Stadium",
+  "homePts": "35",
+  "awayResult": "L",
+  "teamIDAway": "4",
+  "Referees": "Derick Bowers, Greg Meyer, Tab Slaughter, Dale Shaw, John Jenkins, Alan Eck, Derek Anderson",
+  "gameClock": "",
+  "awayPts": "10",
+  "gameID": "20240929_BUF@BAL",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

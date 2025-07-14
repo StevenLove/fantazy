@@ -1,0 +1,2833 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "DEN",
+      "teamID": "10",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "2",
+      "ydsAllowed": "304",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "26",
+      "safeties": "2"
+    },
+    "home": {
+      "teamAbv": "SEA",
+      "teamID": "29",
+      "defTD": "0",
+      "defensiveInterceptions": "2",
+      "sacks": "2",
+      "ydsAllowed": "231",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "20",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "231",
+      "rushingAttempts": "25",
+      "rushingYards": "99",
+      "fumblesLost": "1",
+      "penalties": "8-60",
+      "totalPlays": "69",
+      "possession": "31:14",
+      "safeties": "2",
+      "passCompletionsAndAttempts": "26-42",
+      "passingFirstDowns": "6",
+      "interceptionsThrown": "2",
+      "sacksAndYardsLost": "2-6",
+      "thirdDownEfficiency": "5-18",
+      "blockedPunt": "0",
+      "yardsPerPlay": "3.3",
+      "redZoneScoredAndAttempted": "1-4",
+      "teamID": "10",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "15",
+      "rushingFirstDowns": "7",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "13",
+      "passTD": "0",
+      "team": "DEN",
+      "blockedXP": "0",
+      "teamAbv": "DEN",
+      "firstDownsFromPenalties": "0",
+      "fourthDownEfficiency": "1-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "132",
+      "yardsPerRush": "4.0",
+      "snapCounts": {
+        "totalSpecialTeams": "33",
+        "totalOffensive": "69",
+        "totalDefensive": "67"
+      },
+      "turnovers": "3",
+      "yardsPerPass": "3.0"
+    },
+    "home": {
+      "totalYards": "304",
+      "rushingAttempts": "33",
+      "rushingYards": "146",
+      "fumblesLost": "1",
+      "penalties": "6-41",
+      "totalPlays": "60",
+      "possession": "28:46",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "18-25",
+      "passingFirstDowns": "11",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "2-13",
+      "thirdDownEfficiency": "4-12",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.1",
+      "redZoneScoredAndAttempted": "0-1",
+      "teamID": "29",
+      "defensiveInterceptions": "2",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "15",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "2",
+      "twoPointConversions": "0",
+      "firstDowns": "19",
+      "passTD": "1",
+      "team": "SEA",
+      "blockedXP": "0",
+      "teamAbv": "SEA",
+      "firstDownsFromPenalties": "3",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "158",
+      "yardsPerRush": "4.4",
+      "snapCounts": {
+        "totalSpecialTeams": "33",
+        "totalOffensive": "67",
+        "totalDefensive": "69"
+      },
+      "turnovers": "2",
+      "yardsPerPass": "5.9"
+    }
+  },
+  "gameDate": "20240908",
+  "scoringPlays": [
+    {
+      "score": "Wil Lutz 35 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "3",
+      "teamID": "10",
+      "scoreDetails": "4 plays, 3 yards, 1:36",
+      "scoreType": "FG",
+      "scoreTime": "12:36",
+      "team": "DEN",
+      "playerIDs": [
+        "2985659"
+      ]
+    },
+    {
+      "score": "Jason Myers 50 Yd Field Goal  ",
+      "scorePeriod": "Q1",
+      "homeScore": "3",
+      "awayScore": "3",
+      "teamID": "29",
+      "scoreDetails": "7 plays, 46 yards, 2:57",
+      "scoreType": "FG",
+      "scoreTime": "2:41",
+      "team": "SEA",
+      "playerIDs": [
+        "2473037"
+      ]
+    },
+    {
+      "score": "Team Safety ",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "5",
+      "teamID": "10",
+      "scoreDetails": "0 plays, -1 yard, 0:06",
+      "scoreType": "SF",
+      "scoreTime": "11:22",
+      "team": "DEN",
+      "playerIDs": []
+    },
+    {
+      "score": "Wil Lutz 30 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "8",
+      "teamID": "10",
+      "scoreDetails": "4 plays, -2 yards, 1:30",
+      "scoreType": "FG",
+      "scoreTime": "8:45",
+      "team": "DEN",
+      "playerIDs": [
+        "2985659"
+      ]
+    },
+    {
+      "score": "Geno Smith 34 Yd Run (Two-Point Pass Conversion Failed)",
+      "scorePeriod": "Q2",
+      "homeScore": "9",
+      "awayScore": "8",
+      "teamID": "29",
+      "scoreDetails": "5 plays, 70 yards, 2:50",
+      "scoreType": "TD",
+      "scoreTime": "5:55",
+      "team": "SEA",
+      "playerIDs": [
+        "15864"
+      ]
+    },
+    {
+      "score": "Zach Allen Safety ",
+      "scorePeriod": "Q2",
+      "homeScore": "9",
+      "awayScore": "10",
+      "teamID": "10",
+      "scoreDetails": "1 play, -1 yard, 0:12",
+      "scoreType": "SF",
+      "scoreTime": "4:24",
+      "team": "DEN",
+      "playerIDs": [
+        "3915282"
+      ]
+    },
+    {
+      "score": "Wil Lutz 45 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "9",
+      "awayScore": "13",
+      "teamID": "10",
+      "scoreDetails": "5 plays, 26 yards, 0:29",
+      "scoreType": "FG",
+      "scoreTime": "0:02",
+      "team": "DEN",
+      "playerIDs": [
+        "2985659"
+      ]
+    },
+    {
+      "score": "Kenneth Walker III 23 Yd Run (Jason Myers Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "16",
+      "awayScore": "13",
+      "teamID": "29",
+      "scoreDetails": "6 plays, 61 yards, 2:47",
+      "scoreType": "TD",
+      "scoreTime": "10:44",
+      "team": "SEA",
+      "playerIDs": [
+        "4567048",
+        "2473037"
+      ]
+    },
+    {
+      "score": "Jason Myers 28 Yd Field Goal  ",
+      "scorePeriod": "Q3",
+      "homeScore": "19",
+      "awayScore": "13",
+      "teamID": "29",
+      "scoreDetails": "10 plays, 37 yards, 3:54",
+      "scoreType": "FG",
+      "scoreTime": "4:09",
+      "team": "SEA",
+      "playerIDs": [
+        "2473037"
+      ]
+    },
+    {
+      "score": "Zach Charbonnet 30 Yd pass from Geno Smith (Jason Myers Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "26",
+      "awayScore": "13",
+      "teamID": "29",
+      "scoreDetails": "6 plays, 80 yards, 2:43",
+      "scoreType": "TD",
+      "scoreTime": "14:54",
+      "team": "SEA",
+      "playerIDs": [
+        "15864",
+        "4426385",
+        "2473037"
+      ]
+    },
+    {
+      "score": "Bo Nix 4 Yd Run (Wil Lutz Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "26",
+      "awayScore": "20",
+      "teamID": "10",
+      "scoreDetails": "7 plays, 54 yards, 2:19",
+      "scoreType": "TD",
+      "scoreTime": "2:09",
+      "team": "DEN",
+      "playerIDs": [
+        "4426338",
+        "2985659"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "29",
+  "homeResult": "W",
+  "away": "DEN",
+  "gameWeek": "Week 1",
+  "attendance": "68,714",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "3",
+      "Q2": "10",
+      "Q3": "0",
+      "Q4": "7",
+      "teamID": "10",
+      "currentlyInPossession": "False",
+      "totalPts": "20",
+      "teamAbv": "DEN"
+    },
+    "home": {
+      "Q1": "3",
+      "Q2": "6",
+      "Q3": "10",
+      "Q4": "7",
+      "teamID": "29",
+      "currentlyInPossession": "False",
+      "totalPts": "26",
+      "teamAbv": "SEA"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Seattle, WA",
+  "home": "SEA",
+  "playerStats": {
+    "15841": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "17",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.25"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "15841",
+      "longName": "Johnathan Hankins"
+    },
+    "15864": {
+      "gameID": "20240908_DEN@SEA",
+      "Rushing": {
+        "rushAvg": "7.5",
+        "rushYds": "30",
+        "carries": "4",
+        "longRush": "34",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "79.2",
+        "rtg": "87.2",
+        "sacked": "2-13",
+        "passAttempts": "25",
+        "passAvg": "6.8",
+        "passTD": "1",
+        "passYds": "171",
+        "int": "1",
+        "passCompletions": "18"
+      },
+      "scoringPlays": [
+        {
+          "score": "Geno Smith 34 Yd Run (Two-Point Pass Conversion Failed)",
+          "scorePeriod": "Q2",
+          "homeScore": "9",
+          "awayScore": "8",
+          "teamID": "29",
+          "scoreDetails": "5 plays, 70 yards, 2:50",
+          "scoreType": "TD",
+          "scoreTime": "5:55",
+          "team": "SEA",
+          "playerIDs": [
+            "15864"
+          ]
+        },
+        {
+          "score": "Zach Charbonnet 30 Yd pass from Geno Smith (Jason Myers Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "26",
+          "awayScore": "13",
+          "teamID": "29",
+          "scoreDetails": "6 plays, 80 yards, 2:43",
+          "scoreType": "TD",
+          "scoreTime": "14:54",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "4426385",
+            "2473037"
+          ]
+        }
+      ],
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "15864",
+      "longName": "Geno Smith"
+    },
+    "2473037": {
+      "gameID": "20240908_DEN@SEA",
+      "scoringPlays": [
+        {
+          "score": "Jason Myers 50 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "3",
+          "awayScore": "3",
+          "teamID": "29",
+          "scoreDetails": "7 plays, 46 yards, 2:57",
+          "scoreType": "FG",
+          "scoreTime": "2:41",
+          "team": "SEA",
+          "playerIDs": [
+            "2473037"
+          ]
+        },
+        {
+          "score": "Kenneth Walker III 23 Yd Run (Jason Myers Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "16",
+          "awayScore": "13",
+          "teamID": "29",
+          "scoreDetails": "6 plays, 61 yards, 2:47",
+          "scoreType": "TD",
+          "scoreTime": "10:44",
+          "team": "SEA",
+          "playerIDs": [
+            "4567048",
+            "2473037"
+          ]
+        },
+        {
+          "score": "Jason Myers 28 Yd Field Goal  ",
+          "scorePeriod": "Q3",
+          "homeScore": "19",
+          "awayScore": "13",
+          "teamID": "29",
+          "scoreDetails": "10 plays, 37 yards, 3:54",
+          "scoreType": "FG",
+          "scoreTime": "4:09",
+          "team": "SEA",
+          "playerIDs": [
+            "2473037"
+          ]
+        },
+        {
+          "score": "Zach Charbonnet 30 Yd pass from Geno Smith (Jason Myers Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "26",
+          "awayScore": "13",
+          "teamID": "29",
+          "scoreDetails": "6 plays, 80 yards, 2:43",
+          "scoreType": "TD",
+          "scoreTime": "14:54",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "4426385",
+            "2473037"
+          ]
+        }
+      ],
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "50",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "2",
+        "fgPct": "100.0",
+        "kickingPts": "8",
+        "xpAttempts": "2",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "2473037",
+      "longName": "Jason Myers"
+    },
+    "2512477": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "2512477",
+      "longName": "Laken Tomlinson"
+    },
+    "2515270": {
+      "gameID": "20240908_DEN@SEA",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "3",
+        "targets": "1",
+        "recYds": "3",
+        "recAvg": "3.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "26",
+        "stSnapPct": "0.76",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2515270",
+      "longName": "Michael Burton"
+    },
+    "2577327": {
+      "gameID": "20240908_DEN@SEA",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "19",
+        "targets": "7",
+        "recYds": "77",
+        "recAvg": "12.8"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.54",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "36",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "2577327",
+      "longName": "Tyler Lockett"
+    },
+    "2577619": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "389",
+        "punts": "8",
+        "puntAvg": "48.6",
+        "puntsin20": "4",
+        "puntTouchBacks": "1",
+        "puntLong": "65"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2577619",
+      "longName": "Riley Dixon"
+    },
+    "2583951": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "13",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "2583951",
+      "longName": "George Fant"
+    },
+    "2612151": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "21",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "2612151",
+      "longName": "Alex Singleton"
+    },
+    "2969961": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "69",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2969961",
+      "longName": "Rayshawn Jenkins"
+    },
+    "2971622": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.65"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "4",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2971622",
+      "longName": "Leonard Williams"
+    },
+    "2985659": {
+      "gameID": "20240908_DEN@SEA",
+      "scoringPlays": [
+        {
+          "score": "Wil Lutz 35 Yd Field Goal  ",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "3",
+          "teamID": "10",
+          "scoreDetails": "4 plays, 3 yards, 1:36",
+          "scoreType": "FG",
+          "scoreTime": "12:36",
+          "team": "DEN",
+          "playerIDs": [
+            "2985659"
+          ]
+        },
+        {
+          "score": "Wil Lutz 30 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "8",
+          "teamID": "10",
+          "scoreDetails": "4 plays, -2 yards, 1:30",
+          "scoreType": "FG",
+          "scoreTime": "8:45",
+          "team": "DEN",
+          "playerIDs": [
+            "2985659"
+          ]
+        },
+        {
+          "score": "Wil Lutz 45 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "9",
+          "awayScore": "13",
+          "teamID": "10",
+          "scoreDetails": "5 plays, 26 yards, 0:29",
+          "scoreType": "FG",
+          "scoreTime": "0:02",
+          "team": "DEN",
+          "playerIDs": [
+            "2985659"
+          ]
+        },
+        {
+          "score": "Bo Nix 4 Yd Run (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "26",
+          "awayScore": "20",
+          "teamID": "10",
+          "scoreDetails": "7 plays, 54 yards, 2:19",
+          "scoreType": "TD",
+          "scoreTime": "2:09",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "45",
+        "fgMade": "3",
+        "fgAttempts": "3",
+        "xpMade": "1",
+        "fgPct": "100.0",
+        "kickingPts": "10",
+        "xpAttempts": "1",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "2985659",
+      "longName": "Wil Lutz"
+    },
+    "3052885": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "69",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3052885",
+      "longName": "Mike McGlinchey"
+    },
+    "3115306": {
+      "gameID": "20240908_DEN@SEA",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "25",
+        "targets": "8",
+        "recYds": "45",
+        "recAvg": "9.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.80",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "55",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3115306",
+      "longName": "Josh Reynolds"
+    },
+    "3115312": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "43",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.62"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "3115312",
+      "longName": "Jarran Reed"
+    },
+    "3120464": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "34",
+        "stSnap": "3",
+        "stSnapPct": "0.09",
+        "offSnap": "0",
+        "defSnapPct": "0.51"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3120464",
+      "longName": "John Franklin-Myers"
+    },
+    "3128429": {
+      "gameID": "20240908_DEN@SEA",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "17",
+        "targets": "12",
+        "recYds": "38",
+        "recAvg": "9.5"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.91",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3128429",
+      "longName": "Courtland Sutton"
+    },
+    "3133440": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "2",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.03"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3133440",
+      "longName": "Levi Wallace"
+    },
+    "3134448": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "30",
+        "stSnapPct": "0.88",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3134448",
+      "longName": "Tremon Smith"
+    },
+    "3139166": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3139166",
+      "longName": "Mitchell Fraboni"
+    },
+    "3821577": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "3821577",
+      "longName": "Connor Williams"
+    },
+    "3894915": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.55"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3894915",
+      "longName": "D.J. Jones"
+    },
+    "3911853": {
+      "gameID": "20240908_DEN@SEA",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.35",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.24",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "3911853",
+      "longName": "Adam Trautman"
+    },
+    "3915282": {
+      "gameID": "20240908_DEN@SEA",
+      "scoringPlays": [
+        {
+          "score": "Zach Allen Safety ",
+          "scorePeriod": "Q2",
+          "homeScore": "9",
+          "awayScore": "10",
+          "teamID": "10",
+          "scoreDetails": "1 play, -1 yard, 0:12",
+          "scoreType": "SF",
+          "scoreTime": "4:24",
+          "team": "DEN",
+          "playerIDs": [
+            "3915282"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915282",
+      "longName": "Zach Allen"
+    },
+    "3915507": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "68",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "5",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915507",
+      "longName": "Jerome Baker"
+    },
+    "3915525": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915525",
+      "longName": "Dre'Mont Jones"
+    },
+    "3917016": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "2",
+        "stSnap": "2",
+        "stSnapPct": "0.06",
+        "offSnap": "0",
+        "defSnapPct": "0.03"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "3917016",
+      "longName": "Trevis Gipson"
+    },
+    "3919548": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "30",
+        "stSnapPct": "0.88",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3919548",
+      "longName": "Justin Strnad"
+    },
+    "3921936": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.26",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "3921936",
+      "longName": "Matt Peart"
+    },
+    "3926229": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "7",
+        "stSnapPct": "0.21",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3926229",
+      "longName": "Cody Barton"
+    },
+    "3929850": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "65",
+        "stSnap": "8",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3929850",
+      "longName": "P.J. Locke"
+    },
+    "3929851": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "241",
+        "punts": "5",
+        "puntAvg": "48.2",
+        "puntsin20": "0",
+        "puntTouchBacks": "0",
+        "puntLong": "52"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "3929851",
+      "longName": "Michael Dickson"
+    },
+    "4034962": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.81",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4034962",
+      "longName": "Stone Forsythe"
+    },
+    "4035232": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "69",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "9",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4035232",
+      "longName": "Tyrel Dodson"
+    },
+    "4035463": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "17",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.17"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035463",
+      "longName": "K'Von Wallace"
+    },
+    "4035662": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.78",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4035662",
+      "longName": "Garett Bolles"
+    },
+    "4036131": {
+      "gameID": "20240908_DEN@SEA",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "4",
+        "recYds": "11",
+        "recAvg": "5.5"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.75",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "50",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4036131",
+      "longName": "Noah Fant"
+    },
+    "4036153": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "18",
+        "stSnapPct": "0.53",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036153",
+      "longName": "Kristian Welch"
+    },
+    "4037559": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "14",
+        "stSnap": "18",
+        "stSnapPct": "0.53",
+        "offSnap": "0",
+        "defSnapPct": "0.21"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4037559",
+      "longName": "Devon Key"
+    },
+    "4037650": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "69",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4037650",
+      "longName": "Ben Powers"
+    },
+    "4039018": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "69",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4039018",
+      "longName": "Luke Wattenberg"
+    },
+    "4039057": {
+      "gameID": "20240908_DEN@SEA",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4039057",
+      "longName": "Lil'Jordan Humphrey"
+    },
+    "4039059": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.69"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039059",
+      "longName": "Brandon Jones"
+    },
+    "4039064": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.45"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039064",
+      "longName": "Malcolm Roach"
+    },
+    "4040608": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "47",
+        "stSnap": "9",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.70"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "4",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "4040608",
+      "longName": "Jonathon Cooper"
+    },
+    "4046675": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "69",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "12",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "10",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4046675",
+      "longName": "Julian Love"
+    },
+    "4047650": {
+      "gameID": "20240908_DEN@SEA",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "4",
+        "recYds": "29",
+        "recAvg": "9.7"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.88",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4047650",
+      "longName": "DK Metcalf"
+    },
+    "4239094": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "21",
+        "stSnapPct": "0.62",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4239094",
+      "longName": "Coby Bryant"
+    },
+    "4240551": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4240551",
+      "longName": "Alex Palczewski"
+    },
+    "4240754": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "2",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4240754",
+      "longName": "Boye Mafe"
+    },
+    "4241373": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "8",
+        "stSnapPct": "0.24",
+        "offSnap": "0",
+        "defSnapPct": "0.67"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4241373",
+      "longName": "Tre Brown"
+    },
+    "4241987": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.69"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241987",
+      "longName": "Baron Browning"
+    },
+    "4242503": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4242503",
+      "longName": "Alex Forsyth"
+    },
+    "4243160": {
+      "gameID": "20240908_DEN@SEA",
+      "Rushing": {
+        "rushAvg": "1.0",
+        "rushYds": "1",
+        "carries": "1",
+        "longRush": "1",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.10",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.71",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "3",
+        "kickReturnTD": "0",
+        "kickReturnYds": "74",
+        "kickReturnAvg": "24.7",
+        "kickReturnLong": "31"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243160",
+      "longName": "Laviska Shenault Jr."
+    },
+    "4243176": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.06",
+        "defSnap": "0",
+        "stSnap": "30",
+        "stSnapPct": "0.88",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243176",
+      "longName": "Brady Russell"
+    },
+    "4243244": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243244",
+      "longName": "Marquise Blair"
+    },
+    "4245185": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "69",
+        "stSnap": "6",
+        "stSnapPct": "0.18",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "4",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4245185",
+      "longName": "Riq Woolen"
+    },
+    "4259606": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4259606",
+      "longName": "Chris Stoll"
+    },
+    "4261090": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.22"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4261090",
+      "longName": "Jordan Jackson"
+    },
+    "4360259": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "23",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.34"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360259",
+      "longName": "Nik Bonitto"
+    },
+    "4360405": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.30",
+        "defSnap": "0",
+        "stSnap": "26",
+        "stSnapPct": "0.76",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4360405",
+      "longName": "Jake Bobo"
+    },
+    "4361579": {
+      "gameID": "20240908_DEN@SEA",
+      "Rushing": {
+        "rushAvg": "2.9",
+        "rushYds": "23",
+        "carries": "8",
+        "longRush": "9",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "2",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.52",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "36",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4361579",
+      "longName": "Javonte Williams"
+    },
+    "4362135": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4362135",
+      "longName": "Christian Haynes"
+    },
+    "4367209": {
+      "gameID": "20240908_DEN@SEA",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "7",
+        "targets": "3",
+        "recYds": "12",
+        "recAvg": "6.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.67",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "46",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4367209",
+      "longName": "Greg Dulcich"
+    },
+    "4370807": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4370807",
+      "longName": "Olu Oluwatimi"
+    },
+    "4372012": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4372012",
+      "longName": "Pat Surtain II"
+    },
+    "4372418": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4372418",
+      "longName": "Keidron Smith"
+    },
+    "4382401": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "9",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "12",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4382401",
+      "longName": "Riley Moss"
+    },
+    "4383440": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.20",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.74",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4383440",
+      "longName": "Nate Adkins"
+    },
+    "4401805": {
+      "gameID": "20240908_DEN@SEA",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.10",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.71",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4401805",
+      "longName": "Dareke Young"
+    },
+    "4426338": {
+      "gameID": "20240908_DEN@SEA",
+      "Rushing": {
+        "rushAvg": "7.0",
+        "rushYds": "35",
+        "carries": "5",
+        "longRush": "23",
+        "rushTD": "1"
+      },
+      "Passing": {
+        "qbr": "35.4",
+        "rtg": "47.5",
+        "sacked": "2-6",
+        "passAttempts": "42",
+        "passAvg": "3.3",
+        "passTD": "0",
+        "passYds": "138",
+        "int": "2",
+        "passCompletions": "26"
+      },
+      "scoringPlays": [
+        {
+          "score": "Bo Nix 4 Yd Run (Wil Lutz Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "26",
+          "awayScore": "20",
+          "teamID": "10",
+          "scoreDetails": "7 plays, 54 yards, 2:19",
+          "scoreType": "TD",
+          "scoreTime": "2:09",
+          "team": "DEN",
+          "playerIDs": [
+            "4426338",
+            "2985659"
+          ]
+        }
+      ],
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "69",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4426338",
+      "longName": "Bo Nix"
+    },
+    "4426376": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4426376",
+      "longName": "Charles Cross"
+    },
+    "4426385": {
+      "gameID": "20240908_DEN@SEA",
+      "Rushing": {
+        "rushAvg": "1.5",
+        "rushYds": "12",
+        "carries": "8",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "30",
+        "targets": "3",
+        "recYds": "29",
+        "recAvg": "14.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Zach Charbonnet 30 Yd pass from Geno Smith (Jason Myers Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "26",
+          "awayScore": "13",
+          "teamID": "29",
+          "scoreDetails": "6 plays, 80 yards, 2:43",
+          "scoreType": "TD",
+          "scoreTime": "14:54",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "4426385",
+            "2473037"
+          ]
+        }
+      ],
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.34",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "23",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426385",
+      "longName": "Zach Charbonnet"
+    },
+    "4427391": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4427391",
+      "longName": "Kenny McIntosh"
+    },
+    "4428503": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "30",
+        "stSnapPct": "0.88",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "1",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428503",
+      "longName": "JL Skinner"
+    },
+    "4428659": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.29",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428659",
+      "longName": "Drake Thomas"
+    },
+    "4429211": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.99",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "66",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4429211",
+      "longName": "Anthony Bradford"
+    },
+    "4430878": {
+      "gameID": "20240908_DEN@SEA",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "2",
+        "recYds": "19",
+        "recAvg": "9.5"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.79",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430878",
+      "longName": "Jaxon Smith-Njigba"
+    },
+    "4567048": {
+      "gameID": "20240908_DEN@SEA",
+      "Rushing": {
+        "rushAvg": "5.2",
+        "rushYds": "103",
+        "carries": "20",
+        "longRush": "23",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "3",
+        "recYds": "6",
+        "recAvg": "3.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Kenneth Walker III 23 Yd Run (Jason Myers Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "16",
+          "awayScore": "13",
+          "teamID": "29",
+          "scoreDetails": "6 plays, 61 yards, 2:47",
+          "scoreType": "TD",
+          "scoreTime": "10:44",
+          "team": "SEA",
+          "playerIDs": [
+            "4567048",
+            "2473037"
+          ]
+        }
+      ],
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.66",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4567048",
+      "longName": "Kenneth Walker III"
+    },
+    "4567222": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4567222",
+      "longName": "Nehemiah Pritchett"
+    },
+    "4567226": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "31",
+        "stSnap": "23",
+        "stSnapPct": "0.68",
+        "offSnap": "0",
+        "defSnapPct": "0.45"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4567226",
+      "longName": "Derick Hall"
+    },
+    "4567462": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.72"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4567462",
+      "longName": "Ja'Quan McMillian"
+    },
+    "4569559": {
+      "gameID": "20240908_DEN@SEA",
+      "Receiving": {
+        "receptions": "8",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "8",
+        "recYds": "39",
+        "recAvg": "4.9"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.49",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4569559",
+      "longName": "Devaughn Vele"
+    },
+    "4569682": {
+      "gameID": "20240908_DEN@SEA",
+      "Rushing": {
+        "rushAvg": "7.0",
+        "rushYds": "14",
+        "carries": "2",
+        "longRush": "12",
+        "rushTD": "0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.04",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.26",
+        "offSnap": "3",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4569682",
+      "longName": "Audric Estime"
+    },
+    "4570040": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "2",
+        "stSnapPct": "0.06",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4570040",
+      "longName": "Byron Murphy II"
+    },
+    "4572055": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "9",
+        "stSnap": "21",
+        "stSnapPct": "0.62",
+        "offSnap": "0",
+        "defSnapPct": "0.13"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4572055",
+      "longName": "Mike Morris"
+    },
+    "4575431": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "69",
+        "stSnap": "5",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4575431",
+      "longName": "Devon Witherspoon"
+    },
+    "4576297": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.48",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.26",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4576297",
+      "longName": "AJ Barner"
+    },
+    "4608138": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.12",
+        "offSnap": "69",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4608138",
+      "longName": "Quinn Meinerz"
+    },
+    "4686472": {
+      "gameID": "20240908_DEN@SEA",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.17",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.41",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "3",
+        "kickReturnTD": "0",
+        "kickReturnYds": "69",
+        "kickReturnAvg": "23.0",
+        "kickReturnLong": "26"
+      },
+      "Punting": {
+        "puntReturns": "5",
+        "puntReturnYds": "47",
+        "puntReturnAvg": "9.4",
+        "puntReturnLong": "18",
+        "puntReturnTD": "0"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4686472",
+      "longName": "Marvin Mims Jr."
+    },
+    "4686540": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.35",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4686540",
+      "longName": "Tyrice Knight"
+    },
+    "4687592": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "29",
+        "stSnapPct": "0.85",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "playerID": "4687592",
+      "longName": "Jonah Elliss"
+    },
+    "4722893": {
+      "gameID": "20240908_DEN@SEA",
+      "Rushing": {
+        "rushAvg": "2.7",
+        "rushYds": "27",
+        "carries": "10",
+        "longRush": "15",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "3",
+        "targets": "5",
+        "recYds": "1",
+        "recAvg": "0.2"
+      },
+      "teamID": "10",
+      "snapCounts": {
+        "offSnapPct": "0.35",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "24",
+        "defSnapPct": "0.00"
+      },
+      "team": "DEN",
+      "teamAbv": "DEN",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4722893",
+      "longName": "Jaleel McLaughlin"
+    },
+    "5081362": {
+      "gameID": "20240908_DEN@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.62",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "0",
+        "puntReturnAvg": "0.0",
+        "puntReturnLong": "0",
+        "puntReturnTD": "0"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "5081362",
+      "longName": "Dee Williams"
+    }
+  },
+  "arenaCapacity": "68,740",
+  "arena": "Lumen Field",
+  "homePts": "26",
+  "awayResult": "L",
+  "teamIDAway": "10",
+  "gameClock": "",
+  "awayPts": "20",
+  "gameID": "20240908_DEN@SEA",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

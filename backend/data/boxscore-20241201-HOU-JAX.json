@@ -1,0 +1,2772 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "HOU",
+      "teamID": "13",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "0",
+      "ydsAllowed": "373",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "20",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "JAX",
+      "teamID": "15",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "2",
+      "ydsAllowed": "326",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "23",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "326",
+      "rushingAttempts": "25",
+      "rushingYards": "108",
+      "fumblesLost": "0",
+      "penalties": "3-15",
+      "totalPlays": "61",
+      "possession": "32:17",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "22-34",
+      "passingFirstDowns": "10",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "2-24",
+      "thirdDownEfficiency": "5-13",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.3",
+      "redZoneScoredAndAttempted": "1-3",
+      "teamID": "13",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "11",
+      "rushingFirstDowns": "9",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "20",
+      "passTD": "1",
+      "team": "HOU",
+      "blockedXP": "0",
+      "teamAbv": "HOU",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "1-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "218",
+      "yardsPerRush": "4.3",
+      "snapCounts": {
+        "totalSpecialTeams": "27",
+        "totalOffensive": "63",
+        "totalDefensive": "70"
+      },
+      "turnovers": "0",
+      "yardsPerPass": "6.1"
+    },
+    "home": {
+      "totalYards": "373",
+      "rushingAttempts": "25",
+      "rushingYards": "97",
+      "fumblesLost": "0",
+      "penalties": "4-30",
+      "totalPlays": "67",
+      "possession": "27:43",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "24-42",
+      "passingFirstDowns": "13",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "0-0",
+      "thirdDownEfficiency": "5-15",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.6",
+      "redZoneScoredAndAttempted": "2-4",
+      "teamID": "15",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "10",
+      "rushingFirstDowns": "5",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "1",
+      "firstDowns": "19",
+      "passTD": "2",
+      "team": "JAX",
+      "blockedXP": "0",
+      "teamAbv": "JAX",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "2-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "276",
+      "yardsPerRush": "3.9",
+      "snapCounts": {
+        "totalSpecialTeams": "27",
+        "totalOffensive": "70",
+        "totalDefensive": "63"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "6.6"
+    }
+  },
+  "gameDate": "20241201",
+  "scoringPlays": [
+    {
+      "score": "Ka'imi Fairbairn 53 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "0",
+      "awayScore": "3",
+      "teamID": "13",
+      "scoreDetails": "5 plays, 40 yards, 2:06",
+      "scoreType": "FG",
+      "scoreTime": "14:51",
+      "team": "HOU",
+      "playerIDs": [
+        "2971573"
+      ]
+    },
+    {
+      "score": "Ka'imi Fairbairn 30 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "0",
+      "awayScore": "6",
+      "teamID": "13",
+      "scoreDetails": "11 plays, 33 yards, 6:51",
+      "scoreType": "FG",
+      "scoreTime": "6:26",
+      "team": "HOU",
+      "playerIDs": [
+        "2971573"
+      ]
+    },
+    {
+      "score": "Cam Little 33 Yd Field Goal",
+      "scorePeriod": "Q2",
+      "homeScore": "3",
+      "awayScore": "6",
+      "teamID": "15",
+      "scoreDetails": "14 plays, 53 yards, 6:18",
+      "scoreType": "FG",
+      "scoreTime": "0:08",
+      "team": "JAX",
+      "playerIDs": [
+        "4686361"
+      ]
+    },
+    {
+      "score": "Cam Little 30 Yd Field Goal",
+      "scorePeriod": "Q3",
+      "homeScore": "6",
+      "awayScore": "6",
+      "teamID": "15",
+      "scoreDetails": "9 plays, 68 yards, 3:24",
+      "scoreType": "FG",
+      "scoreTime": "10:06",
+      "team": "JAX",
+      "playerIDs": [
+        "4686361"
+      ]
+    },
+    {
+      "score": "Joe Mixon 7 Yd Rush (Ka'imi Fairbairn Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "6",
+      "awayScore": "13",
+      "teamID": "13",
+      "scoreDetails": "5 plays, 70 yards, 2:02",
+      "scoreType": "TD",
+      "scoreTime": "8:04",
+      "team": "HOU",
+      "playerIDs": [
+        "3116385",
+        "2971573"
+      ]
+    },
+    {
+      "score": "Ka'imi Fairbairn 28 Yd Field Goal",
+      "scorePeriod": "Q3",
+      "homeScore": "6",
+      "awayScore": "16",
+      "teamID": "13",
+      "scoreDetails": "10 plays, 41 yards, 4:56",
+      "scoreType": "FG",
+      "scoreTime": "1:16",
+      "team": "HOU",
+      "playerIDs": [
+        "2971573"
+      ]
+    },
+    {
+      "score": "Dalton Schultz 22 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "6",
+      "awayScore": "23",
+      "teamID": "13",
+      "scoreDetails": "5 plays, 55 yards, 1:46",
+      "scoreType": "TD",
+      "scoreTime": "12:11",
+      "team": "HOU",
+      "playerIDs": [
+        "4432577",
+        "3117256",
+        "2971573"
+      ]
+    },
+    {
+      "score": "Parker Washington 22 Yd pass from Mac Jones (Two-Point Pass Conversion Failed)",
+      "scorePeriod": "Q4",
+      "homeScore": "12",
+      "awayScore": "23",
+      "teamID": "15",
+      "scoreDetails": "12 plays, 72 yards, 4:22",
+      "scoreType": "TD",
+      "scoreTime": "7:49",
+      "team": "JAX",
+      "playerIDs": [
+        "4241464",
+        "4432620"
+      ]
+    },
+    {
+      "score": "Brian Thomas Jr. 6 Yd pass from Mac Jones (Mac Jones Pass to Parker Washington for Two-Point Conversion)",
+      "scorePeriod": "Q4",
+      "homeScore": "20",
+      "awayScore": "23",
+      "teamID": "15",
+      "scoreDetails": "10 plays, 84 yards, 2:26",
+      "scoreType": "TD",
+      "scoreTime": "3:31",
+      "team": "JAX",
+      "playerIDs": [
+        "4241464",
+        "4432773",
+        "4432620"
+      ]
+    }
+  ],
+  "network": "FOX",
+  "teamIDHome": "15",
+  "homeResult": "L",
+  "away": "HOU",
+  "gameWeek": "Week 13",
+  "attendance": "62,588",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "0",
+      "Q2": "6",
+      "Q3": "10",
+      "Q4": "7",
+      "teamID": "13",
+      "currentlyInPossession": "False",
+      "totalPts": "23",
+      "teamAbv": "HOU"
+    },
+    "home": {
+      "Q1": "0",
+      "Q2": "3",
+      "Q3": "3",
+      "Q4": "14",
+      "teamID": "15",
+      "currentlyInPossession": "False",
+      "totalPts": "20",
+      "teamAbv": "JAX"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Jacksonville, FL",
+  "home": "JAX",
+  "playerStats": {
+    "13729": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "13729",
+      "longName": "Jon Weeks"
+    },
+    "15880": {
+      "gameID": "20241201_HOU@JAX",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.33",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.30",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "13",
+        "puntReturnAvg": "6.5",
+        "puntReturnLong": "10",
+        "puntReturnTD": "0"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "15880",
+      "longName": "Robert Woods"
+    },
+    "16717": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.81"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "16717",
+      "longName": "Jimmie Ward"
+    },
+    "17447": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.39"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "17447",
+      "longName": "Denico Autry"
+    },
+    "2511708": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "2511708",
+      "longName": "Brandon Scherff"
+    },
+    "2514122": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "2514122",
+      "longName": "Mitch Morse"
+    },
+    "2576917": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "2576917",
+      "longName": "Shaq Mason"
+    },
+    "2969920": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "47",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.75"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "2969920",
+      "longName": "Ronald Darby"
+    },
+    "2969921": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "42",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.60"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "2969921",
+      "longName": "Mario Edwards Jr."
+    },
+    "2970716": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "51",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.73"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "2970716",
+      "longName": "Eric Murray"
+    },
+    "2971275": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.48"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "2971275",
+      "longName": "Arik Armstead"
+    },
+    "2971573": {
+      "gameID": "20241201_HOU@JAX",
+      "scoringPlays": [
+        {
+          "score": "Ka'imi Fairbairn 53 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "0",
+          "awayScore": "3",
+          "teamID": "13",
+          "scoreDetails": "5 plays, 40 yards, 2:06",
+          "scoreType": "FG",
+          "scoreTime": "14:51",
+          "team": "HOU",
+          "playerIDs": [
+            "2971573"
+          ]
+        },
+        {
+          "score": "Ka'imi Fairbairn 30 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "0",
+          "awayScore": "6",
+          "teamID": "13",
+          "scoreDetails": "11 plays, 33 yards, 6:51",
+          "scoreType": "FG",
+          "scoreTime": "6:26",
+          "team": "HOU",
+          "playerIDs": [
+            "2971573"
+          ]
+        },
+        {
+          "score": "Joe Mixon 7 Yd Rush (Ka'imi Fairbairn Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "13",
+          "teamID": "13",
+          "scoreDetails": "5 plays, 70 yards, 2:02",
+          "scoreType": "TD",
+          "scoreTime": "8:04",
+          "team": "HOU",
+          "playerIDs": [
+            "3116385",
+            "2971573"
+          ]
+        },
+        {
+          "score": "Ka'imi Fairbairn 28 Yd Field Goal",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "16",
+          "teamID": "13",
+          "scoreDetails": "10 plays, 41 yards, 4:56",
+          "scoreType": "FG",
+          "scoreTime": "1:16",
+          "team": "HOU",
+          "playerIDs": [
+            "2971573"
+          ]
+        },
+        {
+          "score": "Dalton Schultz 22 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "6",
+          "awayScore": "23",
+          "teamID": "13",
+          "scoreDetails": "5 plays, 55 yards, 1:46",
+          "scoreType": "TD",
+          "scoreTime": "12:11",
+          "team": "HOU",
+          "playerIDs": [
+            "4432577",
+            "3117256",
+            "2971573"
+          ]
+        }
+      ],
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.41",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "53",
+        "fgMade": "3",
+        "fgAttempts": "3",
+        "xpMade": "2",
+        "fgPct": "100.0",
+        "kickingPts": "11",
+        "xpAttempts": "2",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "2971573",
+      "longName": "Ka'imi Fairbairn"
+    },
+    "2976560": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.71"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2976560",
+      "longName": "Danielle Hunter"
+    },
+    "2983509": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.52",
+        "offSnap": "9",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "2983509",
+      "longName": "Dare Ogunbowale"
+    },
+    "3050073": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.90"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "3050073",
+      "longName": "Foyesade Oluokun"
+    },
+    "3051876": {
+      "gameID": "20241201_HOU@JAX",
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "0",
+        "longRec": "16",
+        "targets": "9",
+        "recYds": "41",
+        "recAvg": "5.9"
+      },
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.71",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "50",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "3051876",
+      "longName": "Evan Engram"
+    },
+    "3051890": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3051890",
+      "longName": "Laremy Tunsil"
+    },
+    "3059880": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "14",
+        "stSnapPct": "0.52",
+        "offSnap": "0",
+        "defSnapPct": "0.70"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3059880",
+      "longName": "Neville Hewitt"
+    },
+    "3115336": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3115336",
+      "longName": "Derek Barnett"
+    },
+    "3115480": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "191",
+        "punts": "4",
+        "puntAvg": "47.8",
+        "puntsin20": "2",
+        "puntTouchBacks": "0",
+        "puntLong": "64"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "3115480",
+      "longName": "Logan Cooke"
+    },
+    "3116135": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "3116135",
+      "longName": "Blake Hance"
+    },
+    "3116385": {
+      "gameID": "20241201_HOU@JAX",
+      "Rushing": {
+        "rushAvg": "5.1",
+        "rushYds": "101",
+        "carries": "20",
+        "longRush": "30",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "9",
+        "targets": "6",
+        "recYds": "18",
+        "recAvg": "4.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Joe Mixon 7 Yd Rush (Ka'imi Fairbairn Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "13",
+          "teamID": "13",
+          "scoreDetails": "5 plays, 70 yards, 2:02",
+          "scoreType": "TD",
+          "scoreTime": "8:04",
+          "team": "HOU",
+          "playerIDs": [
+            "3116385",
+            "2971573"
+          ]
+        }
+      ],
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.75",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "47",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3116385",
+      "longName": "Joe Mixon"
+    },
+    "3116679": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "22",
+        "stSnapPct": "0.81",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3116679",
+      "longName": "M.J. Stewart"
+    },
+    "3117256": {
+      "gameID": "20241201_HOU@JAX",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "1",
+        "longRec": "22",
+        "targets": "7",
+        "recYds": "61",
+        "recAvg": "12.2"
+      },
+      "scoringPlays": [
+        {
+          "score": "Dalton Schultz 22 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "6",
+          "awayScore": "23",
+          "teamID": "13",
+          "scoreDetails": "5 plays, 55 yards, 1:46",
+          "scoreType": "TD",
+          "scoreTime": "12:11",
+          "team": "HOU",
+          "playerIDs": [
+            "4432577",
+            "3117256",
+            "2971573"
+          ]
+        }
+      ],
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.68",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3117256",
+      "longName": "Dalton Schultz"
+    },
+    "3131498": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3131498",
+      "longName": "Tytus Howard"
+    },
+    "3892689": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.38"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "3892689",
+      "longName": "Jeremiah Ledbetter"
+    },
+    "3914151": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.56",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "3914151",
+      "longName": "Josiah Deguara"
+    },
+    "3915239": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "55",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.87"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3915239",
+      "longName": "Josh Hines-Allen"
+    },
+    "3915398": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "202",
+        "punts": "4",
+        "puntAvg": "50.5",
+        "puntsin20": "2",
+        "puntTouchBacks": "1",
+        "puntLong": "63"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3915398",
+      "longName": "Tommy Townsend"
+    },
+    "3915419": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.92"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915419",
+      "longName": "Darnell Savage"
+    },
+    "3915520": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "31",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.49"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915520",
+      "longName": "DaVon Hamilton"
+    },
+    "3918331": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "19",
+        "stSnapPct": "0.70",
+        "offSnap": "0",
+        "defSnapPct": "0.06"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "3918331",
+      "longName": "Andrew Wingard"
+    },
+    "3919117": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.27"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3919117",
+      "longName": "Azeez Al-Shaair"
+    },
+    "3928931": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.26",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3928931",
+      "longName": "Ross Matiscik"
+    },
+    "3929845": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.81",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "3929845",
+      "longName": "Kris Boyd"
+    },
+    "3929956": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.57"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3929956",
+      "longName": "Tim Settle Jr."
+    },
+    "4033812": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.81",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4033812",
+      "longName": "Jake Hansen"
+    },
+    "4035048": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4035048",
+      "longName": "Luke Fortner"
+    },
+    "4035434": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.09"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035434",
+      "longName": "Devin White"
+    },
+    "4035505": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.89",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035505",
+      "longName": "Daniel Thomas"
+    },
+    "4035791": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4035791",
+      "longName": "Cole Van Lanen"
+    },
+    "4036834": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4036834",
+      "longName": "Zach Thomas"
+    },
+    "4039010": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "15",
+        "stSnapPct": "0.56",
+        "offSnap": "0",
+        "defSnapPct": "0.10"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4039010",
+      "longName": "Myles Bryant"
+    },
+    "4039050": {
+      "gameID": "20241201_HOU@JAX",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "18",
+        "targets": "4",
+        "recYds": "23",
+        "recAvg": "11.5"
+      },
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.57",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.37",
+        "offSnap": "40",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "3",
+        "kickReturnTD": "0",
+        "kickReturnYds": "68",
+        "kickReturnAvg": "22.7",
+        "kickReturnLong": "25"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "5",
+        "puntReturnAvg": "5.0",
+        "puntReturnLong": "5",
+        "puntReturnTD": "0"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4039050",
+      "longName": "Devin Duvernay"
+    },
+    "4040612": {
+      "gameID": "20241201_HOU@JAX",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.29",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.37",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4040612",
+      "longName": "Luke Farrell"
+    },
+    "4040980": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.27",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "17",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4040980",
+      "longName": "Irv Smith Jr."
+    },
+    "4048231": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4048231",
+      "longName": "Ezra Cleveland"
+    },
+    "4051069": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.89",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4051069",
+      "longName": "Caleb Johnson"
+    },
+    "4239996": {
+      "gameID": "20241201_HOU@JAX",
+      "Rushing": {
+        "rushAvg": "3.5",
+        "rushYds": "46",
+        "carries": "13",
+        "longRush": "9",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "5",
+        "targets": "3",
+        "recYds": "12",
+        "recAvg": "4.0"
+      },
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.53",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4239996",
+      "longName": "Travis Etienne Jr."
+    },
+    "4240528": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "22",
+        "stSnapPct": "0.81",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4240528",
+      "longName": "Del'Shawn Phillips"
+    },
+    "4240548": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4240548",
+      "longName": "Kendrick Green"
+    },
+    "4240610": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "29",
+        "stSnap": "15",
+        "stSnapPct": "0.56",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240610",
+      "longName": "Ventrell Miller"
+    },
+    "4241464": {
+      "gameID": "20241201_HOU@JAX",
+      "Rushing": {
+        "rushAvg": "2.0",
+        "rushYds": "6",
+        "carries": "3",
+        "longRush": "5",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "56.0",
+        "rtg": "105.6",
+        "sacked": "0-0",
+        "passAttempts": "32",
+        "passAvg": "7.3",
+        "passTD": "2",
+        "passYds": "235",
+        "int": "0",
+        "passingTwoPointConversion": "1",
+        "passCompletions": "20"
+      },
+      "scoringPlays": [
+        {
+          "score": "Parker Washington 22 Yd pass from Mac Jones (Two-Point Pass Conversion Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "12",
+          "awayScore": "23",
+          "teamID": "15",
+          "scoreDetails": "12 plays, 72 yards, 4:22",
+          "scoreType": "TD",
+          "scoreTime": "7:49",
+          "team": "JAX",
+          "playerIDs": [
+            "4241464",
+            "4432620"
+          ]
+        },
+        {
+          "score": "Brian Thomas Jr. 6 Yd pass from Mac Jones (Mac Jones Pass to Parker Washington for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "23",
+          "teamID": "15",
+          "scoreDetails": "10 plays, 84 yards, 2:26",
+          "scoreType": "TD",
+          "scoreTime": "3:31",
+          "team": "JAX",
+          "playerIDs": [
+            "4241464",
+            "4432773",
+            "4432620"
+          ]
+        }
+      ],
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.73",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4241464",
+      "longName": "Mac Jones"
+    },
+    "4241588": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.10",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4241588",
+      "longName": "Elijah Cooks"
+    },
+    "4241984": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "4",
+        "stSnap": "16",
+        "stSnapPct": "0.59",
+        "offSnap": "0",
+        "defSnapPct": "0.06"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241984",
+      "longName": "Jeff Okudah"
+    },
+    "4242149": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "14",
+        "stSnapPct": "0.52",
+        "offSnap": "0",
+        "defSnapPct": "0.70"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4242149",
+      "longName": "Montaric Brown"
+    },
+    "4242554": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4242554",
+      "longName": "Walker Little"
+    },
+    "4243256": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.71"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4243256",
+      "longName": "Devin Lloyd"
+    },
+    "4245131": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.26",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.70",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "20",
+        "kickReturnAvg": "20.0",
+        "kickReturnLong": "20"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4245131",
+      "longName": "Tim Jones"
+    },
+    "4258173": {
+      "gameID": "20241201_HOU@JAX",
+      "Receiving": {
+        "receptions": "8",
+        "recTD": "0",
+        "longRec": "40",
+        "targets": "11",
+        "recYds": "119",
+        "recAvg": "14.9"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.70",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "44",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4258173",
+      "longName": "Nico Collins"
+    },
+    "4258594": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.30"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4258594",
+      "longName": "Kurt Hinish"
+    },
+    "4360238": {
+      "gameID": "20241201_HOU@JAX",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "1",
+        "targets": "1",
+        "recYds": "1",
+        "recAvg": "1.0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.11",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "7",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4360238",
+      "longName": "Dameon Pierce"
+    },
+    "4360310": {
+      "gameID": "20241201_HOU@JAX",
+      "Rushing": {
+        "rushAvg": "6.0",
+        "rushYds": "6",
+        "carries": "1",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "15.5",
+        "rtg": "12.9",
+        "sacked": "0-0",
+        "passAttempts": "10",
+        "passAvg": "4.1",
+        "passTD": "0",
+        "passYds": "41",
+        "int": "1",
+        "passCompletions": "4"
+      },
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.27",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4360310",
+      "longName": "Trevor Lawrence"
+    },
+    "4361366": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361366",
+      "longName": "Tommy Togiai"
+    },
+    "4361425": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4361425",
+      "longName": "Juice Scruggs"
+    },
+    "4361707": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "24",
+        "stSnapPct": "0.89",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4361707",
+      "longName": "Chad Muma"
+    },
+    "4361861": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "0",
+        "defSnapPct": "0.38"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4361861",
+      "longName": "Tyler Lacy"
+    },
+    "4361939": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "51",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.81"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361939",
+      "longName": "Andre Cisco"
+    },
+    "4365303": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "13",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.21"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4365303",
+      "longName": "Myles Cole"
+    },
+    "4366031": {
+      "gameID": "20241201_HOU@JAX",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "23",
+        "targets": "4",
+        "recYds": "23",
+        "recAvg": "23.0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.68",
+        "defSnap": "0",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "14",
+        "puntReturnAvg": "14.0",
+        "puntReturnLong": "14",
+        "puntReturnTD": "0"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4366031",
+      "longName": "Tank Dell"
+    },
+    "4372774": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4372774",
+      "longName": "Jarrett Patterson"
+    },
+    "4374066": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "6",
+        "stSnap": "15",
+        "stSnapPct": "0.56",
+        "offSnap": "0",
+        "defSnapPct": "0.09"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4374066",
+      "longName": "Dylan Horton"
+    },
+    "4379397": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "35",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.56"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4379397",
+      "longName": "Tyson Campbell"
+    },
+    "4426349": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "51",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.81"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4426349",
+      "longName": "Travon Walker"
+    },
+    "4426350": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "68",
+        "stSnap": "4",
+        "stSnapPct": "0.15",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426350",
+      "longName": "Henry To'oTo'o"
+    },
+    "4426434": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "31",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "3"
+      },
+      "playerID": "4426434",
+      "longName": "Derek Stingley Jr."
+    },
+    "4426448": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.30"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4426448",
+      "longName": "Jarrian Jones"
+    },
+    "4426496": {
+      "gameID": "20241201_HOU@JAX",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "4",
+        "targets": "1",
+        "recYds": "4",
+        "recAvg": "4.0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.59",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.74",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426496",
+      "longName": "Cade Stover"
+    },
+    "4429013": {
+      "gameID": "20241201_HOU@JAX",
+      "Rushing": {
+        "rushAvg": "4.0",
+        "rushYds": "28",
+        "carries": "7",
+        "longRush": "19",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "7",
+        "targets": "1",
+        "recYds": "7",
+        "recAvg": "7.0"
+      },
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.46",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "32",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429013",
+      "longName": "Tank Bigsby"
+    },
+    "4429168": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "37",
+        "stSnap": "14",
+        "stSnapPct": "0.52",
+        "offSnap": "0",
+        "defSnapPct": "0.59"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429168",
+      "longName": "Antonio Johnson"
+    },
+    "4430539": {
+      "gameID": "20241201_HOU@JAX",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "14",
+        "targets": "2",
+        "recYds": "14",
+        "recAvg": "14.0"
+      },
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.41",
+        "defSnap": "0",
+        "stSnap": "18",
+        "stSnapPct": "0.67",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4430539",
+      "longName": "Brenton Strange"
+    },
+    "4430681": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.25",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.56",
+        "offSnap": "16",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4430681",
+      "longName": "Jared Wayne"
+    },
+    "4431517": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4431517",
+      "longName": "Calen Bullock"
+    },
+    "4431567": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "39",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.62"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4431567",
+      "longName": "Maason Smith"
+    },
+    "4432577": {
+      "gameID": "20241201_HOU@JAX",
+      "Rushing": {
+        "rushAvg": "1.4",
+        "rushYds": "7",
+        "carries": "5",
+        "longRush": "6",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "54.4",
+        "rtg": "95.5",
+        "sacked": "2-24",
+        "passAttempts": "34",
+        "passAvg": "7.1",
+        "passTD": "1",
+        "passYds": "242",
+        "int": "0",
+        "passCompletions": "22"
+      },
+      "scoringPlays": [
+        {
+          "score": "Dalton Schultz 22 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "6",
+          "awayScore": "23",
+          "teamID": "13",
+          "scoreDetails": "5 plays, 55 yards, 1:46",
+          "scoreType": "TD",
+          "scoreTime": "12:11",
+          "team": "HOU",
+          "playerIDs": [
+            "4432577",
+            "3117256",
+            "2971573"
+          ]
+        }
+      ],
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "63",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4432577",
+      "longName": "C.J. Stroud"
+    },
+    "4432620": {
+      "gameID": "20241201_HOU@JAX",
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "1",
+        "recAvg": "17.2",
+        "receivingTwoPointConversion": "1",
+        "longRec": "30",
+        "targets": "12",
+        "recYds": "103"
+      },
+      "scoringPlays": [
+        {
+          "score": "Parker Washington 22 Yd pass from Mac Jones (Two-Point Pass Conversion Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "12",
+          "awayScore": "23",
+          "teamID": "15",
+          "scoreDetails": "12 plays, 72 yards, 4:22",
+          "scoreType": "TD",
+          "scoreTime": "7:49",
+          "team": "JAX",
+          "playerIDs": [
+            "4241464",
+            "4432620"
+          ]
+        },
+        {
+          "score": "Brian Thomas Jr. 6 Yd pass from Mac Jones (Mac Jones Pass to Parker Washington for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "23",
+          "teamID": "15",
+          "scoreDetails": "10 plays, 84 yards, 2:26",
+          "scoreType": "TD",
+          "scoreTime": "3:31",
+          "team": "JAX",
+          "playerIDs": [
+            "4241464",
+            "4432773",
+            "4432620"
+          ]
+        }
+      ],
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.80",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "56",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4432620",
+      "longName": "Parker Washington"
+    },
+    "4432699": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4432699",
+      "longName": "Blake Fisher"
+    },
+    "4432773": {
+      "gameID": "20241201_HOU@JAX",
+      "Rushing": {
+        "rushAvg": "11.0",
+        "rushYds": "11",
+        "carries": "1",
+        "longRush": "11",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "56",
+        "targets": "10",
+        "recYds": "76",
+        "recAvg": "19.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Brian Thomas Jr. 6 Yd pass from Mac Jones (Mac Jones Pass to Parker Washington for Two-Point Conversion)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "23",
+          "teamID": "15",
+          "scoreDetails": "10 plays, 84 yards, 2:26",
+          "scoreType": "TD",
+          "scoreTime": "3:31",
+          "team": "JAX",
+          "playerIDs": [
+            "4241464",
+            "4432773",
+            "4432620"
+          ]
+        }
+      ],
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.87",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "61",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4432773",
+      "longName": "Brian Thomas Jr."
+    },
+    "4567095": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.37",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4567095",
+      "longName": "Keilan Robinson"
+    },
+    "4567096": {
+      "gameID": "20241201_HOU@JAX",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "2",
+        "recYds": "16",
+        "recAvg": "8.0"
+      },
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.49",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "31",
+        "defSnapPct": "0.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "playerID": "4567096",
+      "longName": "John Metchie III"
+    },
+    "4602699": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "8",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4602699",
+      "longName": "Kamari Lassiter"
+    },
+    "4685724": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "13",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.63"
+      },
+      "team": "HOU",
+      "teamAbv": "HOU",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4685724",
+      "longName": "Will Anderson Jr."
+    },
+    "4686361": {
+      "gameID": "20241201_HOU@JAX",
+      "scoringPlays": [
+        {
+          "score": "Cam Little 33 Yd Field Goal",
+          "scorePeriod": "Q2",
+          "homeScore": "3",
+          "awayScore": "6",
+          "teamID": "15",
+          "scoreDetails": "14 plays, 53 yards, 6:18",
+          "scoreType": "FG",
+          "scoreTime": "0:08",
+          "team": "JAX",
+          "playerIDs": [
+            "4686361"
+          ]
+        },
+        {
+          "score": "Cam Little 30 Yd Field Goal",
+          "scorePeriod": "Q3",
+          "homeScore": "6",
+          "awayScore": "6",
+          "teamID": "15",
+          "scoreDetails": "9 plays, 68 yards, 3:24",
+          "scoreType": "FG",
+          "scoreTime": "10:06",
+          "team": "JAX",
+          "playerIDs": [
+            "4686361"
+          ]
+        }
+      ],
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "33",
+        "fgMade": "2",
+        "fgAttempts": "3",
+        "xpMade": "0",
+        "fgPct": "66.7",
+        "kickingPts": "6",
+        "xpAttempts": "0",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4686361",
+      "longName": "Cam Little"
+    },
+    "4692525": {
+      "gameID": "20241201_HOU@JAX",
+      "teamID": "15",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.11",
+        "offSnap": "70",
+        "defSnapPct": "0.00"
+      },
+      "team": "JAX",
+      "teamAbv": "JAX",
+      "playerID": "4692525",
+      "longName": "Anton Harrison"
+    }
+  },
+  "arenaCapacity": "67,858",
+  "arena": "EverBank Stadium",
+  "homePts": "20",
+  "awayResult": "W",
+  "teamIDAway": "13",
+  "Referees": "Tom Stephan, Paul King, Brad Freeman, Jabir Walker, Land Clark, Dominique Pender, Daniel Gallagher",
+  "gameClock": "",
+  "awayPts": "23",
+  "gameID": "20241201_HOU@JAX",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

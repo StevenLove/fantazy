@@ -1,0 +1,2828 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "NYG",
+      "teamID": "24",
+      "defTD": "1",
+      "defensiveInterceptions": "0",
+      "sacks": "7",
+      "ydsAllowed": "333",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "14",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "SEA",
+      "teamID": "29",
+      "defTD": "1",
+      "defensiveInterceptions": "0",
+      "sacks": "3",
+      "ydsAllowed": "420",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "23",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "420",
+      "rushingAttempts": "34",
+      "rushingYards": "175",
+      "fumblesLost": "1",
+      "penalties": "2-20",
+      "totalPlays": "71",
+      "possession": "37:22",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "23-34",
+      "passingFirstDowns": "14",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "3-12",
+      "thirdDownEfficiency": "7-16",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.9",
+      "redZoneScoredAndAttempted": "1-4",
+      "teamID": "24",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "1",
+      "totalDrives": "12",
+      "rushingFirstDowns": "8",
+      "blockedFG": "1",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "24",
+      "passTD": "2",
+      "team": "NYG",
+      "blockedXP": "0",
+      "teamAbv": "NYG",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "0-1",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "245",
+      "yardsPerRush": "5.1",
+      "snapCounts": {
+        "totalSpecialTeams": "30",
+        "totalOffensive": "72",
+        "totalDefensive": "58"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "6.6"
+    },
+    "home": {
+      "totalYards": "333",
+      "rushingAttempts": "11",
+      "rushingYards": "102",
+      "fumblesLost": "1",
+      "penalties": "6-30",
+      "totalPlays": "58",
+      "possession": "22:38",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "28-40",
+      "passingFirstDowns": "14",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "7-53",
+      "thirdDownEfficiency": "3-11",
+      "blockedPunt": "0",
+      "yardsPerPlay": "5.7",
+      "redZoneScoredAndAttempted": "1-1",
+      "teamID": "29",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "1",
+      "totalDrives": "11",
+      "rushingFirstDowns": "3",
+      "blockedFG": "0",
+      "rushTD": "0",
+      "twoPointConversions": "0",
+      "firstDowns": "17",
+      "passTD": "1",
+      "team": "SEA",
+      "blockedXP": "0",
+      "teamAbv": "SEA",
+      "firstDownsFromPenalties": "0",
+      "fourthDownEfficiency": "0-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "231",
+      "yardsPerRush": "9.3",
+      "snapCounts": {
+        "totalSpecialTeams": "30",
+        "totalOffensive": "58",
+        "totalDefensive": "72"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "4.9"
+    }
+  },
+  "gameDate": "20241006",
+  "scoringPlays": [
+    {
+      "score": "Rayshawn Jenkins 102 Yd Fumble Return (Jason Myers Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "7",
+      "awayScore": "0",
+      "teamID": "29",
+      "scoreDetails": "16 plays, 79 yards, 10:01",
+      "scoreType": "TD",
+      "scoreTime": "2:14",
+      "team": "SEA",
+      "playerIDs": [
+        "2969961",
+        "2473037"
+      ]
+    },
+    {
+      "score": "Wan'Dale Robinson 7 Yd pass from Daniel Jones (Greg Joseph Kick)",
+      "scorePeriod": "Q2",
+      "homeScore": "7",
+      "awayScore": "7",
+      "teamID": "24",
+      "scoreDetails": "8 plays, 81 yards, 4:26",
+      "scoreType": "TD",
+      "scoreTime": "9:09",
+      "team": "NYG",
+      "playerIDs": [
+        "3917792",
+        "4569587",
+        "3975763"
+      ]
+    },
+    {
+      "score": "Greg Joseph 38 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "7",
+      "awayScore": "10",
+      "teamID": "24",
+      "scoreDetails": "12 plays, 58 yards, 5:12",
+      "scoreType": "FG",
+      "scoreTime": "0:22",
+      "team": "NYG",
+      "playerIDs": [
+        "3975763"
+      ]
+    },
+    {
+      "score": "Jason Myers 43 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "10",
+      "awayScore": "10",
+      "teamID": "29",
+      "scoreDetails": "3 plays, 45 yards, 0:20",
+      "scoreType": "FG",
+      "scoreTime": "0:02",
+      "team": "SEA",
+      "playerIDs": [
+        "2473037"
+      ]
+    },
+    {
+      "score": "Darius Slayton 30 Yd pass from Daniel Jones (Greg Joseph Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "10",
+      "awayScore": "17",
+      "teamID": "24",
+      "scoreDetails": "4 plays, 77 yards, 1:30",
+      "scoreType": "TD",
+      "scoreTime": "10:41",
+      "team": "NYG",
+      "playerIDs": [
+        "3917792",
+        "3916945",
+        "3975763"
+      ]
+    },
+    {
+      "score": "Jason Myers 48 Yd Field Goal  ",
+      "scorePeriod": "Q3",
+      "homeScore": "13",
+      "awayScore": "17",
+      "teamID": "29",
+      "scoreDetails": "8 plays, 41 yards, 4:08",
+      "scoreType": "FG",
+      "scoreTime": "6:33",
+      "team": "SEA",
+      "playerIDs": [
+        "2473037"
+      ]
+    },
+    {
+      "score": "Greg Joseph 31 Yd Field Goal  ",
+      "scorePeriod": "Q3",
+      "homeScore": "13",
+      "awayScore": "20",
+      "teamID": "24",
+      "scoreDetails": "11 plays, 60 yards, 5:47",
+      "scoreType": "FG",
+      "scoreTime": "0:46",
+      "team": "NYG",
+      "playerIDs": [
+        "3975763"
+      ]
+    },
+    {
+      "score": "Greg Joseph 24 Yd Field Goal  ",
+      "scorePeriod": "Q4",
+      "homeScore": "13",
+      "awayScore": "23",
+      "teamID": "24",
+      "scoreDetails": "6 plays, 21 yards, 2:15",
+      "scoreType": "FG",
+      "scoreTime": "11:54",
+      "team": "NYG",
+      "playerIDs": [
+        "3975763"
+      ]
+    },
+    {
+      "score": "Jaxon Smith-Njigba 5 Yd pass from Geno Smith (Jason Myers Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "20",
+      "awayScore": "23",
+      "teamID": "29",
+      "scoreDetails": "14 plays, 95 yards, 3:44",
+      "scoreType": "TD",
+      "scoreTime": "2:09",
+      "team": "SEA",
+      "playerIDs": [
+        "15864",
+        "4430878",
+        "2473037"
+      ]
+    },
+    {
+      "score": "Bryce Ford-Wheaton 60 Yd Return of Blocked Field Goal (Two-Point Run Conversion Failed)",
+      "scorePeriod": "Q4",
+      "homeScore": "20",
+      "awayScore": "29",
+      "teamID": "24",
+      "scoreDetails": "5 plays, 38 yards, 0:45",
+      "scoreType": "TD",
+      "scoreTime": "0:55",
+      "team": "NYG",
+      "playerIDs": [
+        "4362227"
+      ]
+    }
+  ],
+  "network": "CBS",
+  "teamIDHome": "29",
+  "homeResult": "L",
+  "away": "NYG",
+  "gameWeek": "Week 5",
+  "attendance": "68,306",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "0",
+      "Q2": "10",
+      "Q3": "10",
+      "Q4": "9",
+      "teamID": "24",
+      "currentlyInPossession": "False",
+      "totalPts": "29",
+      "teamAbv": "NYG"
+    },
+    "home": {
+      "Q1": "7",
+      "Q2": "3",
+      "Q3": "3",
+      "Q4": "7",
+      "teamID": "29",
+      "currentlyInPossession": "False",
+      "totalPts": "20",
+      "teamAbv": "SEA"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Seattle, WA",
+  "home": "SEA",
+  "playerStats": {
+    "15718": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "72",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "15718",
+      "longName": "Greg Van Roten"
+    },
+    "15841": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "41",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.57"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "15841",
+      "longName": "Johnathan Hankins"
+    },
+    "15864": {
+      "gameID": "20241006_NYG@SEA",
+      "Rushing": {
+        "rushAvg": "18.0",
+        "rushYds": "72",
+        "carries": "4",
+        "longRush": "32",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "50.4",
+        "rtg": "98.3",
+        "sacked": "7-53",
+        "passAttempts": "40",
+        "passAvg": "7.1",
+        "passTD": "1",
+        "passYds": "284",
+        "int": "0",
+        "passCompletions": "28"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jaxon Smith-Njigba 5 Yd pass from Geno Smith (Jason Myers Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "23",
+          "teamID": "29",
+          "scoreDetails": "14 plays, 95 yards, 3:44",
+          "scoreType": "TD",
+          "scoreTime": "2:09",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "4430878",
+            "2473037"
+          ]
+        }
+      ],
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "15864",
+      "longName": "Geno Smith"
+    },
+    "17304": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "17304",
+      "longName": "Casey Kreiter"
+    },
+    "2473037": {
+      "gameID": "20241006_NYG@SEA",
+      "scoringPlays": [
+        {
+          "score": "Rayshawn Jenkins 102 Yd Fumble Return (Jason Myers Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "29",
+          "scoreDetails": "16 plays, 79 yards, 10:01",
+          "scoreType": "TD",
+          "scoreTime": "2:14",
+          "team": "SEA",
+          "playerIDs": [
+            "2969961",
+            "2473037"
+          ]
+        },
+        {
+          "score": "Jason Myers 43 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "10",
+          "awayScore": "10",
+          "teamID": "29",
+          "scoreDetails": "3 plays, 45 yards, 0:20",
+          "scoreType": "FG",
+          "scoreTime": "0:02",
+          "team": "SEA",
+          "playerIDs": [
+            "2473037"
+          ]
+        },
+        {
+          "score": "Jason Myers 48 Yd Field Goal  ",
+          "scorePeriod": "Q3",
+          "homeScore": "13",
+          "awayScore": "17",
+          "teamID": "29",
+          "scoreDetails": "8 plays, 41 yards, 4:08",
+          "scoreType": "FG",
+          "scoreTime": "6:33",
+          "team": "SEA",
+          "playerIDs": [
+            "2473037"
+          ]
+        },
+        {
+          "score": "Jaxon Smith-Njigba 5 Yd pass from Geno Smith (Jason Myers Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "23",
+          "teamID": "29",
+          "scoreDetails": "14 plays, 95 yards, 3:44",
+          "scoreType": "TD",
+          "scoreTime": "2:09",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "4430878",
+            "2473037"
+          ]
+        }
+      ],
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.33",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "48",
+        "fgMade": "2",
+        "fgAttempts": "3",
+        "xpMade": "2",
+        "fgPct": "67.0",
+        "kickingPts": "8",
+        "xpAttempts": "2",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "2473037",
+      "longName": "Jason Myers"
+    },
+    "2512477": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "2512477",
+      "longName": "Laken Tomlinson"
+    },
+    "2531358": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.26",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "2531358",
+      "longName": "Chris Manhertz"
+    },
+    "2575453": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "30",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.52"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "1"
+      },
+      "playerID": "2575453",
+      "longName": "Rakeem Nunez-Roches"
+    },
+    "2577327": {
+      "gameID": "20241006_NYG@SEA",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "33",
+        "targets": "6",
+        "recYds": "75",
+        "recAvg": "18.8"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.84",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "49",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "2577327",
+      "longName": "Tyler Lockett"
+    },
+    "2969961": {
+      "gameID": "20241006_NYG@SEA",
+      "scoringPlays": [
+        {
+          "score": "Rayshawn Jenkins 102 Yd Fumble Return (Jason Myers Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "0",
+          "teamID": "29",
+          "scoreDetails": "16 plays, 79 yards, 10:01",
+          "scoreType": "TD",
+          "scoreTime": "2:14",
+          "team": "SEA",
+          "playerIDs": [
+            "2969961",
+            "2473037"
+          ]
+        }
+      ],
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "72",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "5",
+        "fumblesLost": "0",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2969961",
+      "longName": "Rayshawn Jenkins"
+    },
+    "2971281": {
+      "gameID": "20241006_NYG@SEA",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "7",
+        "targets": "1",
+        "recYds": "7",
+        "recAvg": "7.0"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.14",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2971281",
+      "longName": "Pharaoh Brown"
+    },
+    "2971622": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.68"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2971622",
+      "longName": "Leonard Williams"
+    },
+    "3049339": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3049339",
+      "longName": "Aaron Stinnie"
+    },
+    "3115303": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "72",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3115303",
+      "longName": "Jermaine Eluemunor"
+    },
+    "3115312": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "50",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.69"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3115312",
+      "longName": "Jarran Reed"
+    },
+    "3116431": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "19",
+        "stSnapPct": "0.63",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3116431",
+      "longName": "Ty Summers"
+    },
+    "3117253": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3117253",
+      "longName": "Bobby Okereke"
+    },
+    "3120347": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3120347",
+      "longName": "Adoree' Jackson"
+    },
+    "3120358": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3120358",
+      "longName": "Uchenna Nwosu"
+    },
+    "3126179": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3126179",
+      "longName": "Matthew Adams"
+    },
+    "3821577": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "3821577",
+      "longName": "Connor Williams"
+    },
+    "3915507": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "72",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "14",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "8",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3915507",
+      "longName": "Jerome Baker"
+    },
+    "3915525": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "60",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.83"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915525",
+      "longName": "Dre'Mont Jones"
+    },
+    "3916945": {
+      "gameID": "20241006_NYG@SEA",
+      "Receiving": {
+        "receptions": "8",
+        "recTD": "1",
+        "longRec": "41",
+        "targets": "11",
+        "recYds": "122",
+        "recAvg": "15.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Darius Slayton 30 Yd pass from Daniel Jones (Greg Joseph Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "17",
+          "teamID": "24",
+          "scoreDetails": "4 plays, 77 yards, 1:30",
+          "scoreType": "TD",
+          "scoreTime": "10:41",
+          "team": "NYG",
+          "playerIDs": [
+            "3917792",
+            "3916945",
+            "3975763"
+          ]
+        }
+      ],
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.90",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "65",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3916945",
+      "longName": "Darius Slayton"
+    },
+    "3917016": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "11",
+        "stSnap": "1",
+        "stSnapPct": "0.03",
+        "offSnap": "0",
+        "defSnapPct": "0.15"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "3917016",
+      "longName": "Trevis Gipson"
+    },
+    "3917792": {
+      "gameID": "20241006_NYG@SEA",
+      "Rushing": {
+        "rushAvg": "3.5",
+        "rushYds": "38",
+        "carries": "11",
+        "longRush": "11",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "70.1",
+        "rtg": "109.6",
+        "sacked": "3-12",
+        "passAttempts": "34",
+        "passAvg": "7.6",
+        "passTD": "2",
+        "passYds": "257",
+        "int": "0",
+        "passCompletions": "23"
+      },
+      "scoringPlays": [
+        {
+          "score": "Wan'Dale Robinson 7 Yd pass from Daniel Jones (Greg Joseph Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "7",
+          "teamID": "24",
+          "scoreDetails": "8 plays, 81 yards, 4:26",
+          "scoreType": "TD",
+          "scoreTime": "9:09",
+          "team": "NYG",
+          "playerIDs": [
+            "3917792",
+            "4569587",
+            "3975763"
+          ]
+        },
+        {
+          "score": "Darius Slayton 30 Yd pass from Daniel Jones (Greg Joseph Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "17",
+          "teamID": "24",
+          "scoreDetails": "4 plays, 77 yards, 1:30",
+          "scoreType": "TD",
+          "scoreTime": "10:41",
+          "team": "NYG",
+          "playerIDs": [
+            "3917792",
+            "3916945",
+            "3975763"
+          ]
+        }
+      ],
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "72",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3917792",
+      "longName": "Daniel Jones"
+    },
+    "3929851": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "193",
+        "punts": "4",
+        "puntAvg": "48.3",
+        "puntsin20": "2",
+        "puntTouchBacks": "1",
+        "puntLong": "55"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "3929851",
+      "longName": "Michael Dickson"
+    },
+    "3929936": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "72",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3929936",
+      "longName": "Jon Runyan"
+    },
+    "3936185": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "186",
+        "punts": "4",
+        "puntAvg": "46.5",
+        "puntsin20": "1",
+        "puntTouchBacks": "0",
+        "puntLong": "59"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3936185",
+      "longName": "Jamie Gillan"
+    },
+    "3975763": {
+      "gameID": "20241006_NYG@SEA",
+      "scoringPlays": [
+        {
+          "score": "Wan'Dale Robinson 7 Yd pass from Daniel Jones (Greg Joseph Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "7",
+          "teamID": "24",
+          "scoreDetails": "8 plays, 81 yards, 4:26",
+          "scoreType": "TD",
+          "scoreTime": "9:09",
+          "team": "NYG",
+          "playerIDs": [
+            "3917792",
+            "4569587",
+            "3975763"
+          ]
+        },
+        {
+          "score": "Greg Joseph 38 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "10",
+          "teamID": "24",
+          "scoreDetails": "12 plays, 58 yards, 5:12",
+          "scoreType": "FG",
+          "scoreTime": "0:22",
+          "team": "NYG",
+          "playerIDs": [
+            "3975763"
+          ]
+        },
+        {
+          "score": "Darius Slayton 30 Yd pass from Daniel Jones (Greg Joseph Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "10",
+          "awayScore": "17",
+          "teamID": "24",
+          "scoreDetails": "4 plays, 77 yards, 1:30",
+          "scoreType": "TD",
+          "scoreTime": "10:41",
+          "team": "NYG",
+          "playerIDs": [
+            "3917792",
+            "3916945",
+            "3975763"
+          ]
+        },
+        {
+          "score": "Greg Joseph 31 Yd Field Goal  ",
+          "scorePeriod": "Q3",
+          "homeScore": "13",
+          "awayScore": "20",
+          "teamID": "24",
+          "scoreDetails": "11 plays, 60 yards, 5:47",
+          "scoreType": "FG",
+          "scoreTime": "0:46",
+          "team": "NYG",
+          "playerIDs": [
+            "3975763"
+          ]
+        },
+        {
+          "score": "Greg Joseph 24 Yd Field Goal  ",
+          "scorePeriod": "Q4",
+          "homeScore": "13",
+          "awayScore": "23",
+          "teamID": "24",
+          "scoreDetails": "6 plays, 21 yards, 2:15",
+          "scoreType": "FG",
+          "scoreTime": "11:54",
+          "team": "NYG",
+          "playerIDs": [
+            "3975763"
+          ]
+        }
+      ],
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "38",
+        "fgMade": "3",
+        "fgAttempts": "3",
+        "xpMade": "2",
+        "fgPct": "100.0",
+        "kickingPts": "11",
+        "xpAttempts": "2",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "3975763",
+      "longName": "Greg Joseph"
+    },
+    "4034962": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4034962",
+      "longName": "Stone Forsythe"
+    },
+    "4035232": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "72",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4035232",
+      "longName": "Tyrel Dodson"
+    },
+    "4035462": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.37",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035462",
+      "longName": "Isaiah Simmons"
+    },
+    "4035463": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "7",
+        "stSnap": "20",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.10"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4035463",
+      "longName": "K'Von Wallace"
+    },
+    "4035483": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "44",
+        "stSnap": "2",
+        "stSnapPct": "0.07",
+        "offSnap": "0",
+        "defSnapPct": "0.76"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "4",
+        "defensiveInterceptions": "0",
+        "sacks": "3",
+        "passDeflections": "0"
+      },
+      "playerID": "4035483",
+      "longName": "Dexter Lawrence II"
+    },
+    "4035631": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "47",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.81"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "2"
+      },
+      "playerID": "4035631",
+      "longName": "Brian Burns"
+    },
+    "4036131": {
+      "gameID": "20241006_NYG@SEA",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "12",
+        "targets": "3",
+        "recYds": "24",
+        "recAvg": "8.0"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.69",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "40",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4036131",
+      "longName": "Noah Fant"
+    },
+    "4036169": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "36",
+        "stSnap": "20",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.62"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4036169",
+      "longName": "Nick McCloud"
+    },
+    "4039164": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.21"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4039164",
+      "longName": "Myles Adams"
+    },
+    "4046675": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "71",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.99"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "10",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4046675",
+      "longName": "Julian Love"
+    },
+    "4047650": {
+      "gameID": "20241006_NYG@SEA",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "0",
+        "longRec": "22",
+        "targets": "7",
+        "recYds": "55",
+        "recAvg": "13.8"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4047650",
+      "longName": "DK Metcalf"
+    },
+    "4239094": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "19",
+        "stSnapPct": "0.64",
+        "offSnap": "0",
+        "defSnapPct": "0.01"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4239094",
+      "longName": "Coby Bryant"
+    },
+    "4240573": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "24",
+        "kickReturnAvg": "24.0",
+        "kickReturnLong": "24"
+      },
+      "Punting": {
+        "puntReturns": "2",
+        "puntReturnYds": "6",
+        "puntReturnAvg": "3.0",
+        "puntReturnLong": "8",
+        "puntReturnTD": "0"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4240573",
+      "longName": "Ihmir Smith-Marsette"
+    },
+    "4240677": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "3",
+        "stSnapPct": "0.10",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4240677",
+      "longName": "Jordon Riley"
+    },
+    "4240706": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4240706",
+      "longName": "Jason Pinnock"
+    },
+    "4240771": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "72",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4240771",
+      "longName": "John Michael Schmitz Jr."
+    },
+    "4241373": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "6",
+        "stSnapPct": "0.20",
+        "offSnap": "0",
+        "defSnapPct": "0.85"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4241373",
+      "longName": "Tre Brown"
+    },
+    "4242540": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.35",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "25",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4242540",
+      "longName": "Isaiah Hodgins"
+    },
+    "4242899": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "19",
+        "stSnap": "11",
+        "stSnapPct": "0.37",
+        "offSnap": "0",
+        "defSnapPct": "0.33"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "2",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "2",
+        "passDeflections": "0"
+      },
+      "playerID": "4242899",
+      "longName": "D.J. Davidson"
+    },
+    "4243160": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.09",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.53",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "61",
+        "kickReturnAvg": "30.5",
+        "kickReturnLong": "32"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4243160",
+      "longName": "Laviska Shenault Jr."
+    },
+    "4243176": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.67",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243176",
+      "longName": "Brady Russell"
+    },
+    "4243916": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "1",
+        "stSnap": "25",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.02"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4243916",
+      "longName": "Patrick Johnson"
+    },
+    "4245185": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "49",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.68"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4245185",
+      "longName": "Riq Woolen"
+    },
+    "4247276": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4247276",
+      "longName": "McClendon Curtis"
+    },
+    "4259566": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "72",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "fumblesLost": "0",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1"
+      },
+      "playerID": "4259566",
+      "longName": "Andrew Thomas"
+    },
+    "4259606": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4259606",
+      "longName": "Chris Stoll"
+    },
+    "4360405": {
+      "gameID": "20241006_NYG@SEA",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "3",
+        "targets": "1",
+        "recYds": "3",
+        "recAvg": "3.0"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.67",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4360405",
+      "longName": "Jake Bobo"
+    },
+    "4360516": {
+      "gameID": "20241006_NYG@SEA",
+      "Rushing": {
+        "rushAvg": "7.2",
+        "rushYds": "129",
+        "carries": "18",
+        "longRush": "27",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "1",
+        "targets": "2",
+        "recYds": "1",
+        "recAvg": "1.0"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "45",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4360516",
+      "longName": "Tyrone Tracy Jr."
+    },
+    "4361516": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "14",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4361516",
+      "longName": "Daniel Bellinger"
+    },
+    "4362135": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.31",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "18",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4362135",
+      "longName": "Christian Haynes"
+    },
+    "4362227": {
+      "gameID": "20241006_NYG@SEA",
+      "scoringPlays": [
+        {
+          "score": "Bryce Ford-Wheaton 60 Yd Return of Blocked Field Goal (Two-Point Run Conversion Failed)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "29",
+          "teamID": "24",
+          "scoreDetails": "5 plays, 38 yards, 0:45",
+          "scoreType": "TD",
+          "scoreTime": "0:55",
+          "team": "NYG",
+          "playerIDs": [
+            "4362227"
+          ]
+        }
+      ],
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "25",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "1",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362227",
+      "longName": "Bryce Ford-Wheaton"
+    },
+    "4367510": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.01",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "1",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4367510",
+      "longName": "Dante Miller"
+    },
+    "4371961": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "26",
+        "stSnap": "12",
+        "stSnapPct": "0.40",
+        "offSnap": "0",
+        "defSnapPct": "0.45"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4371961",
+      "longName": "Micah McFadden"
+    },
+    "4373280": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.03",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "2",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4373280",
+      "longName": "Joshua Ezeudu"
+    },
+    "4379409": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "21",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.36"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4379409",
+      "longName": "Azeez Ojulari"
+    },
+    "4383409": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4383409",
+      "longName": "Jalen Sundell"
+    },
+    "4401805": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4401805",
+      "longName": "Dareke Young"
+    },
+    "4426326": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "47",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.81"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4426326",
+      "longName": "Kayvon Thibodeaux"
+    },
+    "4426376": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "58",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4426376",
+      "longName": "Charles Cross"
+    },
+    "4426385": {
+      "gameID": "20241006_NYG@SEA",
+      "Rushing": {
+        "rushAvg": "5.5",
+        "rushYds": "11",
+        "carries": "2",
+        "longRush": "9",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "8",
+        "targets": "5",
+        "recYds": "19",
+        "recAvg": "6.3"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.36",
+        "defSnap": "0",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "21",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4426385",
+      "longName": "Zach Charbonnet"
+    },
+    "4426686": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "27",
+        "stSnap": "25",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.47"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426686",
+      "longName": "Dane Belton"
+    },
+    "4427391": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.30",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4427391",
+      "longName": "Kenny McIntosh"
+    },
+    "4428072": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "25",
+        "stSnapPct": "0.83",
+        "offSnap": "0",
+        "defSnapPct": "0.09"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4428072",
+      "longName": "Darius Muasau"
+    },
+    "4428328": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "58",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "3"
+      },
+      "playerID": "4428328",
+      "longName": "Deonte Banks"
+    },
+    "4428659": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.67",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428659",
+      "longName": "Drake Thomas"
+    },
+    "4429148": {
+      "gameID": "20241006_NYG@SEA",
+      "Receiving": {
+        "receptions": "5",
+        "recTD": "0",
+        "longRec": "22",
+        "targets": "5",
+        "recYds": "48",
+        "recAvg": "9.6"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.78",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "56",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4429148",
+      "longName": "Theo Johnson"
+    },
+    "4429211": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.69",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "40",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4429211",
+      "longName": "Anthony Bradford"
+    },
+    "4429392": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "24",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.41"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4429392",
+      "longName": "Elijah Chatman"
+    },
+    "4429607": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "31",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.53"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4429607",
+      "longName": "Cor'Dale Flott"
+    },
+    "4430261": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "56",
+        "stSnap": "11",
+        "stSnapPct": "0.37",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "9",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "7",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4430261",
+      "longName": "Tyler Nubin"
+    },
+    "4430878": {
+      "gameID": "20241006_NYG@SEA",
+      "Receiving": {
+        "receptions": "4",
+        "recTD": "1",
+        "longRec": "15",
+        "targets": "7",
+        "recYds": "31",
+        "recAvg": "7.8"
+      },
+      "scoringPlays": [
+        {
+          "score": "Jaxon Smith-Njigba 5 Yd pass from Geno Smith (Jason Myers Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "23",
+          "teamID": "29",
+          "scoreDetails": "14 plays, 95 yards, 3:44",
+          "scoreType": "TD",
+          "scoreTime": "2:09",
+          "team": "SEA",
+          "playerIDs": [
+            "15864",
+            "4430878",
+            "2473037"
+          ]
+        }
+      ],
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.88",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "51",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4430878",
+      "longName": "Jaxon Smith-Njigba"
+    },
+    "4431321": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "23",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4431321",
+      "longName": "Dru Phillips"
+    },
+    "4567048": {
+      "gameID": "20241006_NYG@SEA",
+      "Rushing": {
+        "rushAvg": "3.8",
+        "rushYds": "19",
+        "carries": "5",
+        "longRush": "7",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "0",
+        "longRec": "17",
+        "targets": "8",
+        "recYds": "57",
+        "recAvg": "8.1"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.67",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "39",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4567048",
+      "longName": "Kenneth Walker III"
+    },
+    "4567222": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "12",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "0",
+        "defSnapPct": "0.17"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4567222",
+      "longName": "Nehemiah Pritchett"
+    },
+    "4567226": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.64"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4567226",
+      "longName": "Derick Hall"
+    },
+    "4569587": {
+      "gameID": "20241006_NYG@SEA",
+      "Rushing": {
+        "rushAvg": "4.0",
+        "rushYds": "4",
+        "carries": "1",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "1",
+        "longRec": "9",
+        "targets": "9",
+        "recYds": "36",
+        "recAvg": "6.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Wan'Dale Robinson 7 Yd pass from Daniel Jones (Greg Joseph Kick)",
+          "scorePeriod": "Q2",
+          "homeScore": "7",
+          "awayScore": "7",
+          "teamID": "24",
+          "scoreDetails": "8 plays, 81 yards, 4:26",
+          "scoreType": "TD",
+          "scoreTime": "9:09",
+          "team": "NYG",
+          "playerIDs": [
+            "3917792",
+            "4569587",
+            "3975763"
+          ]
+        }
+      ],
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.82",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4569587",
+      "longName": "Wan'Dale Robinson"
+    },
+    "4570561": {
+      "gameID": "20241006_NYG@SEA",
+      "Rushing": {
+        "rushAvg": "1.0",
+        "rushYds": "4",
+        "carries": "4",
+        "longRush": "2",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "19",
+        "targets": "4",
+        "recYds": "50",
+        "recAvg": "16.7"
+      },
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.36",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.17",
+        "offSnap": "26",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "2",
+        "kickReturnTD": "0",
+        "kickReturnYds": "44",
+        "kickReturnAvg": "22.0",
+        "kickReturnLong": "25"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "4570561",
+      "longName": "Eric Gray"
+    },
+    "4572055": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "13",
+        "stSnap": "26",
+        "stSnapPct": "0.87",
+        "offSnap": "0",
+        "defSnapPct": "0.18"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4572055",
+      "longName": "Mike Morris"
+    },
+    "4575431": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "70",
+        "stSnap": "4",
+        "stSnapPct": "0.13",
+        "offSnap": "0",
+        "defSnapPct": "0.97"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4575431",
+      "longName": "Devon Witherspoon"
+    },
+    "4576297": {
+      "gameID": "20241006_NYG@SEA",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "1",
+        "recYds": "13",
+        "recAvg": "13.0"
+      },
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.26",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.40",
+        "offSnap": "15",
+        "defSnapPct": "0.00"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "4576297",
+      "longName": "AJ Barner"
+    },
+    "4692590": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "24",
+      "snapCounts": {
+        "offSnapPct": "0.67",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "48",
+        "defSnapPct": "0.00"
+      },
+      "team": "NYG",
+      "teamAbv": "NYG",
+      "playerID": "4692590",
+      "longName": "Jalin Hyatt"
+    },
+    "5081362": {
+      "gameID": "20241006_NYG@SEA",
+      "teamID": "29",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.37",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "24",
+        "kickReturnAvg": "24.0",
+        "kickReturnLong": "24"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "7",
+        "puntReturnAvg": "7.0",
+        "puntReturnLong": "7",
+        "puntReturnTD": "0"
+      },
+      "team": "SEA",
+      "teamAbv": "SEA",
+      "playerID": "5081362",
+      "longName": "Dee Williams"
+    }
+  },
+  "arenaCapacity": "68,740",
+  "arena": "Lumen Field",
+  "homePts": "20",
+  "awayResult": "W",
+  "teamIDAway": "24",
+  "gameClock": "",
+  "awayPts": "29",
+  "gameID": "20241006_NYG@SEA",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}

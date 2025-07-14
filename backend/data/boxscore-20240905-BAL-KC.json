@@ -1,0 +1,2722 @@
+{
+  "gameStatus": "Completed",
+  "DST": {
+    "away": {
+      "teamAbv": "BAL",
+      "teamID": "3",
+      "defTD": "0",
+      "defensiveInterceptions": "1",
+      "sacks": "2",
+      "ydsAllowed": "353",
+      "fumblesRecovered": "0",
+      "ptsAllowed": "27",
+      "safeties": "0"
+    },
+    "home": {
+      "teamAbv": "KC",
+      "teamID": "16",
+      "defTD": "0",
+      "defensiveInterceptions": "0",
+      "sacks": "1",
+      "ydsAllowed": "452",
+      "fumblesRecovered": "1",
+      "ptsAllowed": "20",
+      "safeties": "0"
+    }
+  },
+  "teamStats": {
+    "away": {
+      "totalYards": "452",
+      "rushingAttempts": "32",
+      "rushingYards": "185",
+      "fumblesLost": "1",
+      "penalties": "7-64",
+      "totalPlays": "74",
+      "possession": "33:43",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "26-41",
+      "passingFirstDowns": "11",
+      "interceptionsThrown": "0",
+      "sacksAndYardsLost": "1-6",
+      "thirdDownEfficiency": "7-14",
+      "blockedPunt": "0",
+      "yardsPerPlay": "6.1",
+      "redZoneScoredAndAttempted": "1-4",
+      "teamID": "3",
+      "defensiveInterceptions": "1",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "10",
+      "rushingFirstDowns": "13",
+      "blockedFG": "0",
+      "rushTD": "1",
+      "twoPointConversions": "0",
+      "firstDowns": "25",
+      "passTD": "1",
+      "team": "BAL",
+      "blockedXP": "0",
+      "teamAbv": "BAL",
+      "firstDownsFromPenalties": "1",
+      "fourthDownEfficiency": "1-2",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "267",
+      "yardsPerRush": "5.8",
+      "snapCounts": {
+        "totalSpecialTeams": "26",
+        "totalOffensive": "80",
+        "totalDefensive": "54"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "6.4"
+    },
+    "home": {
+      "totalYards": "353",
+      "rushingAttempts": "20",
+      "rushingYards": "72",
+      "fumblesLost": "0",
+      "penalties": "6-45",
+      "totalPlays": "50",
+      "possession": "26:17",
+      "safeties": "0",
+      "passCompletionsAndAttempts": "20-28",
+      "passingFirstDowns": "15",
+      "interceptionsThrown": "1",
+      "sacksAndYardsLost": "2-10",
+      "thirdDownEfficiency": "4-9",
+      "blockedPunt": "0",
+      "yardsPerPlay": "7.1",
+      "redZoneScoredAndAttempted": "1-3",
+      "teamID": "16",
+      "defensiveInterceptions": "0",
+      "defensiveOrSpecialTeamsTds": "0",
+      "totalDrives": "10",
+      "rushingFirstDowns": "4",
+      "blockedFG": "0",
+      "rushTD": "2",
+      "twoPointConversions": "0",
+      "firstDowns": "21",
+      "passTD": "1",
+      "team": "KC",
+      "blockedXP": "0",
+      "teamAbv": "KC",
+      "firstDownsFromPenalties": "2",
+      "fourthDownEfficiency": "0-0",
+      "defensiveTwoPointConversionReturns": "0",
+      "passingYards": "281",
+      "yardsPerRush": "3.6",
+      "snapCounts": {
+        "totalSpecialTeams": "26",
+        "totalOffensive": "54",
+        "totalDefensive": "80"
+      },
+      "turnovers": "1",
+      "yardsPerPass": "9.4"
+    }
+  },
+  "gameDate": "20240905",
+  "scoringPlays": [
+    {
+      "score": "Derrick Henry 5 Yd Run (Justin Tucker Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "0",
+      "awayScore": "7",
+      "teamID": "3",
+      "scoreDetails": "11 plays, 70 yards, 6:46",
+      "scoreType": "TD",
+      "scoreTime": "8:14",
+      "team": "BAL",
+      "playerIDs": [
+        "3043078",
+        "15683"
+      ]
+    },
+    {
+      "score": "Xavier Worthy 21 Yd Run (Harrison Butker Kick)",
+      "scorePeriod": "Q1",
+      "homeScore": "7",
+      "awayScore": "7",
+      "teamID": "16",
+      "scoreDetails": "5 plays, 67 yards, 2:19",
+      "scoreType": "TD",
+      "scoreTime": "5:55",
+      "team": "KC",
+      "playerIDs": [
+        "4683062",
+        "3055899"
+      ]
+    },
+    {
+      "score": "Harrison Butker 32 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "10",
+      "awayScore": "7",
+      "teamID": "16",
+      "scoreDetails": "4 plays, 1 yard, 1:07",
+      "scoreType": "FG",
+      "scoreTime": "13:37",
+      "team": "KC",
+      "playerIDs": [
+        "3055899"
+      ]
+    },
+    {
+      "score": "Harrison Butker 31 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "13",
+      "awayScore": "7",
+      "teamID": "16",
+      "scoreDetails": "8 plays, 38 yards, 3:55",
+      "scoreType": "FG",
+      "scoreTime": "5:44",
+      "team": "KC",
+      "playerIDs": [
+        "3055899"
+      ]
+    },
+    {
+      "score": "Justin Tucker 25 Yd Field Goal  ",
+      "scorePeriod": "Q2",
+      "homeScore": "13",
+      "awayScore": "10",
+      "teamID": "3",
+      "scoreDetails": "10 plays, 44 yards, 1:41",
+      "scoreType": "FG",
+      "scoreTime": "0:03",
+      "team": "BAL",
+      "playerIDs": [
+        "15683"
+      ]
+    },
+    {
+      "score": "Isiah Pacheco 1 Yd Run (Harrison Butker Kick)",
+      "scorePeriod": "Q3",
+      "homeScore": "20",
+      "awayScore": "10",
+      "teamID": "16",
+      "scoreDetails": "6 plays, 81 yards, 3:32",
+      "scoreType": "TD",
+      "scoreTime": "11:28",
+      "team": "KC",
+      "playerIDs": [
+        "4361529",
+        "3055899"
+      ]
+    },
+    {
+      "score": "Isaiah Likely 49 Yd pass from Lamar Jackson (Justin Tucker Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "20",
+      "awayScore": "17",
+      "teamID": "3",
+      "scoreDetails": "7 plays, 80 yards, 3:50",
+      "scoreType": "TD",
+      "scoreTime": "14:47",
+      "team": "BAL",
+      "playerIDs": [
+        "3916387",
+        "4361050",
+        "15683"
+      ]
+    },
+    {
+      "score": "Xavier Worthy 35 Yd pass from Patrick Mahomes (Harrison Butker Kick)",
+      "scorePeriod": "Q4",
+      "homeScore": "27",
+      "awayScore": "17",
+      "teamID": "16",
+      "scoreDetails": "8 plays, 70 yards, 4:22",
+      "scoreType": "TD",
+      "scoreTime": "10:25",
+      "team": "KC",
+      "playerIDs": [
+        "3139477",
+        "4683062",
+        "3055899"
+      ]
+    },
+    {
+      "score": "Justin Tucker 32 Yd Field Goal  ",
+      "scorePeriod": "Q4",
+      "homeScore": "27",
+      "awayScore": "20",
+      "teamID": "3",
+      "scoreDetails": "13 plays, 56 yards, 5:31",
+      "scoreType": "FG",
+      "scoreTime": "4:54",
+      "team": "BAL",
+      "playerIDs": [
+        "15683"
+      ]
+    }
+  ],
+  "network": "NBC/Peacock",
+  "teamIDHome": "16",
+  "homeResult": "W",
+  "away": "BAL",
+  "gameWeek": "Week 1",
+  "attendance": "73,611",
+  "lineScore": {
+    "period": "Final",
+    "gameClock": "",
+    "away": {
+      "Q1": "7",
+      "Q2": "3",
+      "Q3": "0",
+      "Q4": "10",
+      "teamID": "3",
+      "currentlyInPossession": "False",
+      "totalPts": "20",
+      "teamAbv": "BAL"
+    },
+    "home": {
+      "Q1": "7",
+      "Q2": "6",
+      "Q3": "7",
+      "Q4": "7",
+      "teamID": "16",
+      "currentlyInPossession": "False",
+      "totalPts": "27",
+      "teamAbv": "KC"
+    }
+  },
+  "currentPeriod": "Final",
+  "gameLocation": "Kansas City, MO",
+  "home": "KC",
+  "playerStats": {
+    "15683": {
+      "gameID": "20240905_BAL@KC",
+      "scoringPlays": [
+        {
+          "score": "Derrick Henry 5 Yd Run (Justin Tucker Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "3",
+          "scoreDetails": "11 plays, 70 yards, 6:46",
+          "scoreType": "TD",
+          "scoreTime": "8:14",
+          "team": "BAL",
+          "playerIDs": [
+            "3043078",
+            "15683"
+          ]
+        },
+        {
+          "score": "Justin Tucker 25 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "13",
+          "awayScore": "10",
+          "teamID": "3",
+          "scoreDetails": "10 plays, 44 yards, 1:41",
+          "scoreType": "FG",
+          "scoreTime": "0:03",
+          "team": "BAL",
+          "playerIDs": [
+            "15683"
+          ]
+        },
+        {
+          "score": "Isaiah Likely 49 Yd pass from Lamar Jackson (Justin Tucker Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "17",
+          "teamID": "3",
+          "scoreDetails": "7 plays, 80 yards, 3:50",
+          "scoreType": "TD",
+          "scoreTime": "14:47",
+          "team": "BAL",
+          "playerIDs": [
+            "3916387",
+            "4361050",
+            "15683"
+          ]
+        },
+        {
+          "score": "Justin Tucker 32 Yd Field Goal  ",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "20",
+          "teamID": "3",
+          "scoreDetails": "13 plays, 56 yards, 5:31",
+          "scoreType": "FG",
+          "scoreTime": "4:54",
+          "team": "BAL",
+          "playerIDs": [
+            "15683"
+          ]
+        }
+      ],
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "10",
+        "stSnapPct": "0.39",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "32",
+        "fgMade": "2",
+        "fgAttempts": "3",
+        "xpMade": "2",
+        "fgPct": "67.0",
+        "kickingPts": "8",
+        "xpAttempts": "2",
+        "fgMissed": "1",
+        "xpMissed": "0"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "15683",
+      "longName": "Justin Tucker"
+    },
+    "15847": {
+      "gameID": "20240905_BAL@KC",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "23",
+        "targets": "4",
+        "recYds": "34",
+        "recAvg": "11.3"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.89",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "48",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "15847",
+      "longName": "Travis Kelce"
+    },
+    "16665": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "16665",
+      "longName": "James Winchester"
+    },
+    "16772": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "16772",
+      "longName": "Kyle Van Noy"
+    },
+    "17230": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "23",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.29"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "17230",
+      "longName": "Mike Pennel Jr."
+    },
+    "2577773": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "2577773",
+      "longName": "Joe Thuney"
+    },
+    "2971618": {
+      "gameID": "20240905_BAL@KC",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "6",
+        "targets": "1",
+        "recYds": "6",
+        "recAvg": "6.0"
+      },
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.38",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "30",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "2971618",
+      "longName": "Nelson Agholor"
+    },
+    "2972144": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "20",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.37"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "2972144",
+      "longName": "Michael Pierce"
+    },
+    "2975417": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.24",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "19",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "2975417",
+      "longName": "Patrick Ricard"
+    },
+    "2980153": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "80",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "2980153",
+      "longName": "Ronnie Stanley"
+    },
+    "3043078": {
+      "gameID": "20240905_BAL@KC",
+      "Rushing": {
+        "rushAvg": "3.5",
+        "rushYds": "46",
+        "carries": "13",
+        "longRush": "9",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "2",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Derrick Henry 5 Yd Run (Justin Tucker Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "0",
+          "awayScore": "7",
+          "teamID": "3",
+          "scoreDetails": "11 plays, 70 yards, 6:46",
+          "scoreType": "TD",
+          "scoreTime": "8:14",
+          "team": "BAL",
+          "playerIDs": [
+            "3043078",
+            "15683"
+          ]
+        }
+      ],
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.46",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "37",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "3043078",
+      "longName": "Derrick Henry"
+    },
+    "3044859": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "57",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.71"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "1",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "3044859",
+      "longName": "Chris Jones"
+    },
+    "3054847": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "22",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.41"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3054847",
+      "longName": "Eddie Jackson"
+    },
+    "3055899": {
+      "gameID": "20240905_BAL@KC",
+      "scoringPlays": [
+        {
+          "score": "Xavier Worthy 21 Yd Run (Harrison Butker Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "7",
+          "teamID": "16",
+          "scoreDetails": "5 plays, 67 yards, 2:19",
+          "scoreType": "TD",
+          "scoreTime": "5:55",
+          "team": "KC",
+          "playerIDs": [
+            "4683062",
+            "3055899"
+          ]
+        },
+        {
+          "score": "Harrison Butker 32 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "10",
+          "awayScore": "7",
+          "teamID": "16",
+          "scoreDetails": "4 plays, 1 yard, 1:07",
+          "scoreType": "FG",
+          "scoreTime": "13:37",
+          "team": "KC",
+          "playerIDs": [
+            "3055899"
+          ]
+        },
+        {
+          "score": "Harrison Butker 31 Yd Field Goal  ",
+          "scorePeriod": "Q2",
+          "homeScore": "13",
+          "awayScore": "7",
+          "teamID": "16",
+          "scoreDetails": "8 plays, 38 yards, 3:55",
+          "scoreType": "FG",
+          "scoreTime": "5:44",
+          "team": "KC",
+          "playerIDs": [
+            "3055899"
+          ]
+        },
+        {
+          "score": "Isiah Pacheco 1 Yd Run (Harrison Butker Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "20",
+          "awayScore": "10",
+          "teamID": "16",
+          "scoreDetails": "6 plays, 81 yards, 3:32",
+          "scoreType": "TD",
+          "scoreTime": "11:28",
+          "team": "KC",
+          "playerIDs": [
+            "4361529",
+            "3055899"
+          ]
+        },
+        {
+          "score": "Xavier Worthy 35 Yd pass from Patrick Mahomes (Harrison Butker Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "17",
+          "teamID": "16",
+          "scoreDetails": "8 plays, 70 yards, 4:22",
+          "scoreType": "TD",
+          "scoreTime": "10:25",
+          "team": "KC",
+          "playerIDs": [
+            "3139477",
+            "4683062",
+            "3055899"
+          ]
+        }
+      ],
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "11",
+        "stSnapPct": "0.42",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "fgLong": "32",
+        "fgMade": "2",
+        "fgAttempts": "2",
+        "xpMade": "3",
+        "fgPct": "100.0",
+        "kickingPts": "9",
+        "xpAttempts": "3",
+        "fgMissed": "0",
+        "xpMissed": "0"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "3055899",
+      "longName": "Harrison Butker"
+    },
+    "3060403": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.81",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3060403",
+      "longName": "Chris Board"
+    },
+    "3116365": {
+      "gameID": "20240905_BAL@KC",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "11",
+        "targets": "2",
+        "recYds": "14",
+        "recAvg": "7.0"
+      },
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.74",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "59",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "3116365",
+      "longName": "Mark Andrews"
+    },
+    "3116389": {
+      "gameID": "20240905_BAL@KC",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "10",
+        "targets": "2",
+        "recYds": "10",
+        "recAvg": "10.0"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.15",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "3116389",
+      "longName": "Samaje Perine"
+    },
+    "3118892": {
+      "gameID": "20240905_BAL@KC",
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "25",
+        "targets": "1",
+        "recYds": "25",
+        "recAvg": "25.0"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.52",
+        "defSnap": "0",
+        "stSnap": "2",
+        "stSnapPct": "0.08",
+        "offSnap": "28",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "3118892",
+      "longName": "Justin Watson"
+    },
+    "3120348": {
+      "gameID": "20240905_BAL@KC",
+      "Receiving": {
+        "receptions": "0",
+        "recTD": "0",
+        "longRec": "0",
+        "targets": "1",
+        "recYds": "0",
+        "recAvg": "0.0"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.22",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "12",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "3120348",
+      "longName": "JuJu Smith-Schuster"
+    },
+    "3122882": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3122882",
+      "longName": "Marcus Williams"
+    },
+    "3122930": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "13",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.16"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "3122930",
+      "longName": "Derrick Nnadi"
+    },
+    "3126356": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3126356",
+      "longName": "Marlon Humphrey"
+    },
+    "3129310": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "67",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.84"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3129310",
+      "longName": "Drue Tranquill"
+    },
+    "3139477": {
+      "gameID": "20240905_BAL@KC",
+      "Rushing": {
+        "rushAvg": "1.5",
+        "rushYds": "3",
+        "carries": "2",
+        "longRush": "4",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "65.7",
+        "rtg": "101.9",
+        "sacked": "2-10",
+        "passAttempts": "28",
+        "passAvg": "10.4",
+        "passTD": "1",
+        "passYds": "291",
+        "int": "1",
+        "passCompletions": "20"
+      },
+      "Receiving": {
+        "receptions": "1",
+        "recTD": "0",
+        "longRec": "2",
+        "targets": "1",
+        "recYds": "2",
+        "recAvg": "2.0"
+      },
+      "scoringPlays": [
+        {
+          "score": "Xavier Worthy 35 Yd pass from Patrick Mahomes (Harrison Butker Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "17",
+          "teamID": "16",
+          "scoreDetails": "8 plays, 70 yards, 4:22",
+          "scoreType": "TD",
+          "scoreTime": "10:25",
+          "team": "KC",
+          "playerIDs": [
+            "3139477",
+            "4683062",
+            "3055899"
+          ]
+        }
+      ],
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "3139477",
+      "longName": "Patrick Mahomes"
+    },
+    "3863820": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.75",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "60",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "3863820",
+      "longName": "Patrick Mekari"
+    },
+    "3915184": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "3915184",
+      "longName": "Nick Moore"
+    },
+    "3915189": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "1",
+        "defensiveInterceptionsYards": "0",
+        "interceptionTDs": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "3915189",
+      "longName": "Roquan Smith"
+    },
+    "3915381": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "6",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "3915381",
+      "longName": "John Kelly Jr."
+    },
+    "3915487": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "45",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.56"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915487",
+      "longName": "Mike Danna"
+    },
+    "3915837": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "6",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.33"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3915837",
+      "longName": "Broderick Washington"
+    },
+    "3916387": {
+      "gameID": "20240905_BAL@KC",
+      "Rushing": {
+        "rushAvg": "7.6",
+        "rushYds": "122",
+        "carries": "16",
+        "longRush": "16",
+        "rushTD": "0"
+      },
+      "Passing": {
+        "qbr": "67.3",
+        "rtg": "90.8",
+        "sacked": "1-6",
+        "passAttempts": "41",
+        "passAvg": "6.7",
+        "passTD": "1",
+        "passYds": "273",
+        "int": "0",
+        "passCompletions": "26"
+      },
+      "scoringPlays": [
+        {
+          "score": "Isaiah Likely 49 Yd pass from Lamar Jackson (Justin Tucker Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "17",
+          "teamID": "3",
+          "scoreDetails": "7 plays, 80 yards, 3:50",
+          "scoreType": "TD",
+          "scoreTime": "14:47",
+          "team": "BAL",
+          "playerIDs": [
+            "3916387",
+            "4361050",
+            "15683"
+          ]
+        }
+      ],
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "80",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "fumblesLost": "1",
+        "defensiveInterceptions": "0",
+        "forcedFumbles": "0",
+        "fumbles": "1",
+        "fumblesRecovered": "0"
+      },
+      "playerID": "3916387",
+      "longName": "Lamar Jackson"
+    },
+    "3916676": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.81",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3916676",
+      "longName": "Ka'dar Hollman"
+    },
+    "3931399": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "80",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "9",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "8",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "3931399",
+      "longName": "Justin Reid"
+    },
+    "4034961": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4034961",
+      "longName": "Jawaan Taylor"
+    },
+    "4035002": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4035002",
+      "longName": "Ben Cleveland"
+    },
+    "4035004": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "29",
+        "kickReturnAvg": "29.0",
+        "kickReturnLong": "29"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4035004",
+      "longName": "Mecole Hardman"
+    },
+    "4035245": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "40",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.74"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "0"
+      },
+      "playerID": "4035245",
+      "longName": "Nnamdi Madubuike"
+    },
+    "4035824": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "54",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "4",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4035824",
+      "longName": "Brandon Stephens"
+    },
+    "4038441": {
+      "gameID": "20240905_BAL@KC",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "3",
+        "carries": "1",
+        "longRush": "3",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "18",
+        "targets": "8",
+        "recYds": "52",
+        "recAvg": "8.7"
+      },
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.54",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4038441",
+      "longName": "Justice Hill"
+    },
+    "4040615": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "15",
+        "stSnap": "21",
+        "stSnapPct": "0.81",
+        "offSnap": "0",
+        "defSnapPct": "0.28"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4040615",
+      "longName": "Malik Harrison"
+    },
+    "4043039": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4043039",
+      "longName": "Mike Caliendo"
+    },
+    "4043625": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "12",
+        "stSnapPct": "0.46",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4043625",
+      "longName": "Nazeeh Johnson"
+    },
+    "4058925": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "61",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.76"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4058925",
+      "longName": "Tershawn Wharton"
+    },
+    "4240472": {
+      "gameID": "20240905_BAL@KC",
+      "Receiving": {
+        "receptions": "3",
+        "recTD": "0",
+        "longRec": "13",
+        "targets": "3",
+        "recYds": "37",
+        "recAvg": "12.3"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.54",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.58",
+        "offSnap": "29",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4240472",
+      "longName": "Noah Gray"
+    },
+    "4241263": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.10",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.77",
+        "offSnap": "8",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4241263",
+      "longName": "Charlie Kolar"
+    },
+    "4241385": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4241385",
+      "longName": "Creed Humphrey"
+    },
+    "4241424": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.11",
+        "defSnap": "0",
+        "stSnap": "14",
+        "stSnapPct": "0.54",
+        "offSnap": "9",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4241424",
+      "longName": "Tylan Wallace"
+    },
+    "4242459": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4242459",
+      "longName": "Trey Smith"
+    },
+    "4243220": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "80",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4243220",
+      "longName": "Andrew Vorhees"
+    },
+    "4247726": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "80",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "5",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4247726",
+      "longName": "Bryan Cook"
+    },
+    "4249766": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.81",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4249766",
+      "longName": "Jack Cochrane"
+    },
+    "4258198": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "15",
+        "stSnapPct": "0.58",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4258198",
+      "longName": "Josh Ross"
+    },
+    "4259547": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "9",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.11"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4259547",
+      "longName": "Malik Herring"
+    },
+    "4260224": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "7",
+        "stSnapPct": "0.27",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "75",
+        "punts": "2",
+        "puntAvg": "37.5",
+        "puntsin20": "2",
+        "puntTouchBacks": "0",
+        "puntLong": "40"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4260224",
+      "longName": "Jordan Stout"
+    },
+    "4360499": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "80",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4360499",
+      "longName": "Tyler Linderbaum"
+    },
+    "4360939": {
+      "gameID": "20240905_BAL@KC",
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "38",
+        "targets": "5",
+        "recYds": "53",
+        "recAvg": "26.5"
+      },
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.84",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "67",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4360939",
+      "longName": "Rashod Bateman"
+    },
+    "4360964": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "80",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4360964",
+      "longName": "Daniel Faalele"
+    },
+    "4361050": {
+      "gameID": "20240905_BAL@KC",
+      "Receiving": {
+        "receptions": "9",
+        "recTD": "1",
+        "longRec": "49",
+        "targets": "12",
+        "recYds": "111",
+        "recAvg": "12.3"
+      },
+      "scoringPlays": [
+        {
+          "score": "Isaiah Likely 49 Yd pass from Lamar Jackson (Justin Tucker Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "20",
+          "awayScore": "17",
+          "teamID": "3",
+          "scoreDetails": "7 plays, 80 yards, 3:50",
+          "scoreType": "TD",
+          "scoreTime": "14:47",
+          "team": "BAL",
+          "playerIDs": [
+            "3916387",
+            "4361050",
+            "15683"
+          ]
+        }
+      ],
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.66",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "53",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4361050",
+      "longName": "Isaiah Likely"
+    },
+    "4361422": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.85"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361422",
+      "longName": "Odafe Oweh"
+    },
+    "4361496": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "8",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntYds": "144",
+        "punts": "3",
+        "puntAvg": "48.0",
+        "puntsin20": "1",
+        "puntTouchBacks": "2",
+        "puntLong": "56"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4361496",
+      "longName": "Matt Araiza"
+    },
+    "4361529": {
+      "gameID": "20240905_BAL@KC",
+      "Rushing": {
+        "rushAvg": "3.0",
+        "rushYds": "45",
+        "carries": "15",
+        "longRush": "5",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "0",
+        "longRec": "23",
+        "targets": "3",
+        "recYds": "33",
+        "recAvg": "16.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Isiah Pacheco 1 Yd Run (Harrison Butker Kick)",
+          "scorePeriod": "Q3",
+          "homeScore": "20",
+          "awayScore": "10",
+          "teamID": "16",
+          "scoreDetails": "6 plays, 81 yards, 3:32",
+          "scoreType": "TD",
+          "scoreTime": "11:28",
+          "team": "KC",
+          "playerIDs": [
+            "4361529",
+            "3055899"
+          ]
+        }
+      ],
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.80",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "43",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4361529",
+      "longName": "Isiah Pacheco"
+    },
+    "4361964": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "46",
+        "stSnap": "21",
+        "stSnapPct": "0.81",
+        "offSnap": "0",
+        "defSnapPct": "0.58"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "6",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "6",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4361964",
+      "longName": "Chamarri Conner"
+    },
+    "4362139": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "33",
+        "stSnap": "11",
+        "stSnapPct": "0.42",
+        "offSnap": "0",
+        "defSnapPct": "0.61"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4362139",
+      "longName": "Travis Jones"
+    },
+    "4362492": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "5",
+        "stSnap": "8",
+        "stSnapPct": "0.31",
+        "offSnap": "0",
+        "defSnapPct": "0.09"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "0",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4362492",
+      "longName": "Ar'Darius Washington"
+    },
+    "4362759": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "80",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4362759",
+      "longName": "Nick Bolton"
+    },
+    "4367645": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4367645",
+      "longName": "Hunter Nourzad"
+    },
+    "4371959": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.62",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4371959",
+      "longName": "Cam Jones"
+    },
+    "4372017": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "14",
+        "stSnap": "14",
+        "stSnapPct": "0.54",
+        "offSnap": "0",
+        "defSnapPct": "0.26"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4372017",
+      "longName": "Jalyn Armour-Davis"
+    },
+    "4411193": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.05",
+        "defSnap": "0",
+        "stSnap": "9",
+        "stSnapPct": "0.35",
+        "offSnap": "4",
+        "defSnapPct": "0.00"
+      },
+      "Punting": {
+        "puntReturns": "1",
+        "puntReturnYds": "3",
+        "puntReturnAvg": "3.0",
+        "puntReturnLong": "3",
+        "puntReturnTD": "0"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4411193",
+      "longName": "Deonte Harty"
+    },
+    "4426405": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "80",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "1.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "4",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426405",
+      "longName": "Trent McDuffie"
+    },
+    "4426507": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "25",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.46"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "1",
+        "passDeflections": "0"
+      },
+      "playerID": "4426507",
+      "longName": "David Ojabo"
+    },
+    "4426659": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "64",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.80"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "1",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4426659",
+      "longName": "George Karlaftis"
+    },
+    "4426901": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "48",
+        "stSnap": "21",
+        "stSnapPct": "0.81",
+        "offSnap": "0",
+        "defSnapPct": "0.60"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "7",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "3",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "2"
+      },
+      "playerID": "4426901",
+      "longName": "Leo Chenal"
+    },
+    "4428331": {
+      "gameID": "20240905_BAL@KC",
+      "Receiving": {
+        "receptions": "7",
+        "recTD": "0",
+        "longRec": "33",
+        "targets": "9",
+        "recYds": "103",
+        "recAvg": "14.7"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.78",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "42",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4428331",
+      "longName": "Rashee Rice"
+    },
+    "4428383": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.62",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4428383",
+      "longName": "Christian Roland-Wallace"
+    },
+    "4429615": {
+      "gameID": "20240905_BAL@KC",
+      "Rushing": {
+        "rushAvg": "7.0",
+        "rushYds": "14",
+        "carries": "2",
+        "longRush": "8",
+        "rushTD": "0"
+      },
+      "Receiving": {
+        "receptions": "6",
+        "recTD": "0",
+        "longRec": "19",
+        "targets": "10",
+        "recYds": "37",
+        "recAvg": "6.2"
+      },
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.89",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "71",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4429615",
+      "longName": "Zay Flowers"
+    },
+    "4430118": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "20",
+        "stSnapPct": "0.77",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4430118",
+      "longName": "Sanoussi Kane"
+    },
+    "4430191": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.19",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "10",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4430191",
+      "longName": "Skyy Moore"
+    },
+    "4430723": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.20",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "11",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4430723",
+      "longName": "Jared Wiley"
+    },
+    "4430831": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "38",
+        "stSnap": "13",
+        "stSnapPct": "0.50",
+        "offSnap": "0",
+        "defSnapPct": "0.70"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "5",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "2",
+        "tfl": "0",
+        "qbHits": "2",
+        "defensiveInterceptions": "0",
+        "sacks": "0.5",
+        "passDeflections": "1"
+      },
+      "playerID": "4430831",
+      "longName": "Trenton Simpson"
+    },
+    "4430876": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.25",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "20",
+        "defSnapPct": "0.00"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4430876",
+      "longName": "Roger Rosengarten"
+    },
+    "4431595": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "1.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "54",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4431595",
+      "longName": "Kingsley Suamataia"
+    },
+    "4570577": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "5",
+        "stSnapPct": "0.19",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4570577",
+      "longName": "Wanya Morris"
+    },
+    "4575517": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "51",
+        "stSnap": "1",
+        "stSnapPct": "0.04",
+        "offSnap": "0",
+        "defSnapPct": "0.94"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "3",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4575517",
+      "longName": "Kyle Hamilton"
+    },
+    "4601278": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "17",
+        "stSnap": "11",
+        "stSnapPct": "0.42",
+        "offSnap": "0",
+        "defSnapPct": "0.31"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "Defense": {
+        "totalTackles": "2",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4601278",
+      "longName": "Nate Wiggins"
+    },
+    "4612387": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "18",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "0",
+        "defSnapPct": "0.23"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "1",
+        "fumblesLost": "0",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "fumbles": "0",
+        "fumblesRecovered": "1",
+        "soloTackles": "1",
+        "tfl": "1",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4612387",
+      "longName": "Felix Anudike-Uzomah"
+    },
+    "4683062": {
+      "gameID": "20240905_BAL@KC",
+      "Rushing": {
+        "rushAvg": "21.0",
+        "rushYds": "21",
+        "carries": "1",
+        "longRush": "21",
+        "rushTD": "1"
+      },
+      "Receiving": {
+        "receptions": "2",
+        "recTD": "1",
+        "longRec": "35",
+        "targets": "3",
+        "recYds": "47",
+        "recAvg": "23.5"
+      },
+      "scoringPlays": [
+        {
+          "score": "Xavier Worthy 21 Yd Run (Harrison Butker Kick)",
+          "scorePeriod": "Q1",
+          "homeScore": "7",
+          "awayScore": "7",
+          "teamID": "16",
+          "scoreDetails": "5 plays, 67 yards, 2:19",
+          "scoreType": "TD",
+          "scoreTime": "5:55",
+          "team": "KC",
+          "playerIDs": [
+            "4683062",
+            "3055899"
+          ]
+        },
+        {
+          "score": "Xavier Worthy 35 Yd pass from Patrick Mahomes (Harrison Butker Kick)",
+          "scorePeriod": "Q4",
+          "homeScore": "27",
+          "awayScore": "17",
+          "teamID": "16",
+          "scoreDetails": "8 plays, 70 yards, 4:22",
+          "scoreType": "TD",
+          "scoreTime": "10:25",
+          "team": "KC",
+          "playerIDs": [
+            "3139477",
+            "4683062",
+            "3055899"
+          ]
+        }
+      ],
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.63",
+        "defSnap": "0",
+        "stSnap": "0",
+        "stSnapPct": "0.00",
+        "offSnap": "34",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4683062",
+      "longName": "Xavier Worthy"
+    },
+    "4685232": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "0",
+        "stSnap": "21",
+        "stSnapPct": "0.81",
+        "offSnap": "0",
+        "defSnapPct": "0.00"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4685232",
+      "longName": "Jaden Hicks"
+    },
+    "4690179": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "3",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "14",
+        "stSnap": "18",
+        "stSnapPct": "0.69",
+        "offSnap": "0",
+        "defSnapPct": "0.26"
+      },
+      "team": "BAL",
+      "teamAbv": "BAL",
+      "playerID": "4690179",
+      "longName": "Tavius Robinson"
+    },
+    "4697639": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "77",
+        "stSnap": "6",
+        "stSnapPct": "0.23",
+        "offSnap": "0",
+        "defSnapPct": "0.96"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "11",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "7",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "1"
+      },
+      "playerID": "4697639",
+      "longName": "Jaylen Watson"
+    },
+    "4714365": {
+      "gameID": "20240905_BAL@KC",
+      "Rushing": {
+        "rushAvg": "1.5",
+        "rushYds": "3",
+        "carries": "2",
+        "longRush": "5",
+        "rushTD": "0"
+      },
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.09",
+        "defSnap": "0",
+        "stSnap": "16",
+        "stSnapPct": "0.62",
+        "offSnap": "5",
+        "defSnapPct": "0.00"
+      },
+      "Kicking": {
+        "kickReturns": "1",
+        "kickReturnTD": "0",
+        "kickReturnYds": "28",
+        "kickReturnAvg": "28.0",
+        "kickReturnLong": "28"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "playerID": "4714365",
+      "longName": "Carson Steele"
+    },
+    "4917635": {
+      "gameID": "20240905_BAL@KC",
+      "teamID": "16",
+      "snapCounts": {
+        "offSnapPct": "0.00",
+        "defSnap": "32",
+        "stSnap": "20",
+        "stSnapPct": "0.77",
+        "offSnap": "0",
+        "defSnapPct": "0.40"
+      },
+      "team": "KC",
+      "teamAbv": "KC",
+      "Defense": {
+        "totalTackles": "1",
+        "defTD": "0",
+        "forcedFumbles": "0",
+        "soloTackles": "1",
+        "tfl": "0",
+        "qbHits": "0",
+        "defensiveInterceptions": "0",
+        "sacks": "0",
+        "passDeflections": "0"
+      },
+      "playerID": "4917635",
+      "longName": "Joshua Williams"
+    }
+  },
+  "arenaCapacity": "73,426",
+  "arena": "GEHA Field at Arrowhead Stadium",
+  "homePts": "27",
+  "awayResult": "L",
+  "teamIDAway": "3",
+  "Referees": "Tim Podraza, Jim Quirk, Shawn Hochuli, Jimmy Russell, Terry Killens Jr., Patrick Holt, Jason Ledet",
+  "gameClock": "",
+  "awayPts": "20",
+  "gameID": "20240905_BAL@KC",
+  "seasonType": "Regular Season",
+  "gameStatusCode": "2"
+}
